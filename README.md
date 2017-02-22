@@ -1,2 +1,2 @@
 # mars-sim.github.io
-Web pages for MSP
+This repo contains the web pages for Mars Simulation Project.
