@@ -10,5 +10,5 @@ https://github.com/mars-sim/mars-sim/wiki
 https://github.com/mars-sim/mars-sim-git
 
 ## Webpage :
-https://github.com/mars-sim/mars-sim.github.io
+https://github.com/mars-sim/website
 
