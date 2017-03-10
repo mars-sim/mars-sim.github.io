@@ -9,6 +9,6 @@ https://github.com/mars-sim/mars-sim/wiki
 ## Codebase :
 https://github.com/mars-sim/mars-sim-git
 
-## Webpage :
-https://github.com/mars-sim/mars-sim.github.io
+## Project Website :
+https://mars-sim.github.io
 
