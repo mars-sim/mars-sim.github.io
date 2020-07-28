@@ -26,8 +26,16 @@
 		line-height: 1;
 	}
 
-	ol, ul {
+	ol {
 		list-style: none;
+		padding: 0;
+		margin: 30px;
+	}
+
+	ul {
+		list-style: none; /* Remove list bullets */
+		padding: 0;
+		margin: 30px;
 	}
 
 	blockquote, q {
