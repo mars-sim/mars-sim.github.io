@@ -1,8 +1,10 @@
 @import 'libs/vars';
 @import 'libs/functions';
 @import 'libs/mixins';
-@charset "UTF-8";
-@import url("font-awesome.min.css");
+@import 'libs/vendor';
+@import 'libs/breakpoints';
+@import 'libs/html-grid';
+@import url("fontawesome-all.min.css");
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300italic,400,600");
 
 /*
@@ -11,54 +13,98 @@
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
 
-	@import "libs/skel";
+// Breakpoints.
 
-	@include skel-breakpoints((
-		wide: '(min-width: 961px) and (max-width: 1880px)',
-		normal: '(min-width: 961px) and (max-width: 1620px)',
-		narrow: '(min-width: 961px) and (max-width: 1320px)',
-		narrower: '(max-width: 960px)',
-		mobile: '(max-width: 736px)'
+	@include breakpoints((
+		wide:      ( 961px,  1880px ),
+		normal:    ( 961px,  1620px ),
+		narrow:    ( 961px,  1320px ),
+		narrower:  ( 737px,  960px  ),
+		mobile:    ( null,   736px  ),
 	));
 
-	@include skel-layout((
-		reset: 'full',
-		boxModel: 'border',
-		grid: ( gutters: (40px, 40px) ),
-		conditionals: true,
-		containers: 1400px,
-		breakpoints: (
-			wide: (
-				containers: 1200px,
-				grid: (
-					gutters: (40px, 40px)
-				),
-			),
-			normal: (
-				containers: 960px,
-				grid: (
-					gutters: (40px, 40px)
-				),
-			),
-			narrow: (
-				containers: 100%,
-				grid: (
-					gutters: (20px, 20px)
-				),
-			),
-			narrower: (
-				containers: 100%,
-				grid: (
-					gutters: (20px, 20px)
-				),
-			),
-			mobile: (
-				containers: (100%, true),
-			)
-		)
-	));
+// Reset.
+// Based on meyerweb.com/eric/tools/css/reset (v2.0 | 20110126 | License: public domain)
+
+	html, body, div, span, applet, object,
+	iframe, h1, h2, h3, h4, h5, h6, p, blockquote,
+	pre, a, abbr, acronym, address, big, cite,
+	code, del, dfn, em, img, ins, kbd, q, s, samp,
+	small, strike, strong, sub, sup, tt, var, b,
+	u, i, center, dl, dt, dd, ol, ul, li, fieldset,
+	form, label, legend, table, caption, tbody,
+	tfoot, thead, tr, th, td, article, aside,
+	canvas, details, embed, figure, figcaption,
+	footer, header, hgroup, menu, nav, output, ruby,
+	section, summary, time, mark, audio, video {
+		margin: 0;
+		padding: 0;
+		border: 0;
+		font-size: 100%;
+		font: inherit;
+		vertical-align: baseline;
+	}
+
+	article, aside, details, figcaption, figure,
+	footer, header, hgroup, menu, nav, section {
+		display: block;
+	}
+
+	body {
+		line-height: 1;
+	}
+
+	ol, ul {
+		list-style:none;
+	}
+
+	blockquote,	q {
+		quotes: none;
+
+		&:before,
+		&:after {
+			content: '';
+			content: none;
+		}
+	}
+
+	table {
+		border-collapse: collapse;
+		border-spacing: 0;
+	}
+
+	body {
+		-webkit-text-size-adjust: none;
+	}
+
+	mark {
+		background-color: transparent;
+		color: inherit;
+	}
+
+	input::-moz-focus-inner {
+		border: 0;
+		padding: 0;
+	}
+
+	input, select, textarea {
+		-moz-appearance: none;
+		-webkit-appearance: none;
+		-ms-appearance: none;
+		appearance: none;
+	}
 
 /* Basic */
+
+	// Set box model to border-box.
+	// Based on css-tricks.com/inheriting-box-sizing-probably-slightly-better-best-practice
+		html {
+			box-sizing: border-box;
+		}
+
+		*, *:before, *:after {
+			box-sizing: inherit;
+		}
 
 	body {
 		background: #fff;
@@ -68,10 +114,14 @@
 		line-height: 1.75em;
 		color: #888;
 
-		&.is-loading * {
-			@include vendor('transition', 'none !important');
-			@include vendor('animation', 'none !important');
-		}
+		// Stops initial animations until page loads.
+			&.is-preload {
+				*, *:before, *:after {
+					@include vendor('animation', 'none !important');
+					@include vendor('transition', 'none !important');
+				}
+			}
+
 	}
 
 	input, textarea, select {
@@ -179,6 +229,60 @@
 		clear: both;
 	}
 
+/* Container */
+
+	.container {
+		margin: 0 auto;
+		max-width: 100%;
+		width: 1400px;
+
+		@include breakpoint('wide') {
+			width: 1200px;
+		}
+
+		@include breakpoint('normal') {
+			width: 960px;
+		}
+
+		@include breakpoint('narrow') {
+			width: 100%;
+		}
+
+		@include breakpoint('<=narrower') {
+			width: 100%;
+		}
+
+		@include breakpoint('<=mobile') {
+			width: 100%;
+		}
+	}
+
+/* Row */
+
+	.row {
+		@include html-grid((40px, 40px));
+
+		@include breakpoint('wide') {
+			@include html-grid((40px, 40px), 'wide');
+		}
+
+		@include breakpoint('normal') {
+			@include html-grid((40px, 40px), 'normal');
+		}
+
+		@include breakpoint('narrow') {
+			@include html-grid((20px, 20px), 'narrow');
+		}
+
+		@include breakpoint('<=narrower') {
+			@include html-grid((20px, 20px), 'narrower');
+		}
+
+		@include breakpoint('<=mobile') {
+			@include html-grid((20px, 20px), 'mobile');
+		}
+	}
+
 /* Sections/Article */
 
 	section, article {
@@ -247,41 +351,42 @@
 /* List */
 
 	ul {
-		&.default {
-			list-style: disc;
-			padding-left: 1em;
+		list-style: disc;
+		padding-left: 1em;
 
-			li {
-				padding-left: 0.5em;
-			}
-		}
-
-		&.icons {
-			cursor: default;
-
-			li {
-				display: inline-block;
-			}
-
-			a {
-				display: inline-block;
-				width: 2em;
-				height: 2em;
-				line-height: 2em;
-				text-align: center;
-				border: 0;
-			}
+		li {
+			padding-left: 0.5em;
 		}
 	}
 
 	ol {
-		&.default {
-			list-style: decimal;
-			padding-left: 1.25em;
+		list-style: decimal;
+		padding-left: 1.25em;
 
-			li {
-				padding-left: 0.25em;
-			}
+		li {
+			padding-left: 0.25em;
+		}
+	}
+
+/* Icons */
+
+	ul.icons {
+		cursor: default;
+		list-style: none;
+		padding-left: 0;
+
+		li {
+			display: inline-block;
+			padding-left: 0;
+		}
+
+		a {
+			display: inline-block;
+			width: 2em;
+			height: 2em;
+			line-height: 2em;
+			text-align: center;
+			border: 0;
 		}
 	}
 
@@ -330,10 +435,6 @@
 			min-height: 14em;
 		}
 
-		.formerize-placeholder {
-			color: #555 !important;
-		}
-
 		::-webkit-input-placeholder {
 			color: #555 !important;
 		}
@@ -359,38 +460,34 @@
 
 	table {
 		width: 100%;
+		text-align: left;
 
-		&.default {
-			width: 100%;
-			text-align: left;
-
-			tbody {
-				tr {
-					&:nth-child(2n+2) {
-						background: #f4f4f4;
-					}
+		tbody {
+			tr {
+				&:nth-child(2n+2) {
+					background: #f4f4f4;
 				}
 			}
+		}
 
-			td {
-				padding: 0.5em 1em 0.5em 1em;
-			}
+		td {
+			padding: 0.5em 1em 0.5em 1em;
+		}
 
-			th {
-				text-align: left;
-				padding: 0.5em 1em 0.5em 1em;
-				color: #fff;
-				background: #222729 url('images/overlay.png');
-			}
+		th {
+			text-align: left;
+			padding: 0.5em 1em 0.5em 1em;
+			color: #fff;
+			background: #222729 url('images/overlay.png');
+		}
 
-			thead {
-				background: #444;
-				color: #fff;
-			}
+		thead {
+			background: #444;
+			color: #fff;
+		}
 
-			tfoot {
-				background: #eee;
-			}
+		tfoot {
+			background: #eee;
 		}
 	}
 
@@ -443,22 +540,27 @@
 /* Icons */
 
 	.icon {
+		@include icon;
 		text-decoration: none;
 
 		&:before {
-			display: inline-block;
-			font-family: FontAwesome;
-			font-size: 1.25em;
-			text-decoration: none;
-			font-style: normal;
-			font-weight: normal;
-			line-height: 1;
-			-webkit-font-smoothing: antialiased;
-			-moz-osx-font-smoothing: grayscale;
+			line-height: inherit;
 		}
 
 		> .label {
 			display: none;
+		}
+
+		&.solid {
+			&:before {
+				font-weight: 900;
+			}
+		}
+
+		&.brands {
+			&:before {
+				font-family: 'Font Awesome 5 Brands';
+			}
 		}
 	}
 
@@ -539,9 +641,13 @@
 
 	#nav {
 		ul {
+			list-style: none;
+			padding-left: 0;
 			margin-bottom: 0;
 
 			li {
+				padding-left: 0;
+
 				a {
 					display: block;
 					padding: 0.5em 1.5em 0.5em 1.5em;
@@ -647,7 +753,7 @@
 			}
 
 			&.cover {
-				padding: 6em 0;
+				padding: 10em 0;
 				background-size: cover;
 				background-position: center center;
 			}
@@ -673,7 +779,7 @@
 
 /* Wide */
 
-	@include breakpoint(wide) {
+	@include breakpoint('wide') {
 
 		/* Basic */
 
@@ -703,7 +809,7 @@
 
 /* Normal */
 
-	@include breakpoint(normal) {
+	@include breakpoint('normal') {
 
 		/* Main */
 
@@ -723,7 +829,7 @@
 
 /* Narrow */
 
-	@include breakpoint(narrow) {
+	@include breakpoint('narrow') {
 
 		/* Basic */
 
@@ -735,14 +841,12 @@
 				padding: 0 2em 0 2em;
 			}
 
-		/* List */
+		/* Icons */
 
-			ul {
-				&.icons {
-					li {
-						a {
-							width: 1.75em;
-						}
+			ul.icons {
+				li {
+					a {
+						width: 1.75em;
 					}
 				}
 			}
@@ -808,7 +912,7 @@
 		display: none;
 	}
 
-	@include breakpoint(narrower) {
+	@include breakpoint('<=narrower') {
 
 		/* Basic */
 
@@ -836,14 +940,12 @@
 				margin-bottom: 15px;
 			}
 
-		/* List */
+		/* Icons */
 
-			ul {
-				&.icons {
-					a {
-						width: 1.75em;
-						font-size: 1.25em;
-					}
+			ul.icons {
+				a {
+					width: 1.75em;
+					font-size: 1.25em;
 				}
 			}
 
@@ -905,6 +1007,7 @@
 				z-index: _misc(z-index-base) + 1;
 
 				.toggle {
+					@include icon(false, solid);
 					position: absolute;
 					left: 0;
 					top: 0;
@@ -914,16 +1017,10 @@
 					border: 0;
 
 					&:before {
-						font-family: FontAwesome;
 						text-decoration: none;
-						font-style: normal;
-						font-weight: normal;
-						-webkit-font-smoothing: antialiased;
-						-moz-osx-font-smoothing: grayscale;
 						content: '\f0c9';
 						color: #fff;
 						font-size: 18px;
-						line-height: 2.25em;
 						background: rgba(128, 136, 144, 0.5);
 						border-radius: 0.35em;
 						text-align: center;
@@ -982,7 +1079,7 @@
 
 /* Mobile */
 
-	@include breakpoint(mobile) {
+	@include breakpoint('<=mobile') {
 
 		/* Basic */
 
@@ -1002,12 +1099,10 @@
 
 		/* List */
 
-			ul {
-				&.icons {
-					a {
-						width: 2em;
-						font-size: 1.25em;
-					}
+			ul.icons {
+				a {
+					width: 2em;
+					font-size: 1.25em;
 				}
 			}
 
