@@ -1,18 +1,18 @@
-# Mars Simulation Project (mars-sim) GitHub Repositories
+## Mars Simulation Project (mars-sim) 
 
-## Project Website's repo :
+### Project Website's Repo :
 https://github.com/mars-sim/mars-sim.github.io
 
-## Project Website :
+### Project Website :
 https://mars-sim.github.io
 
-## mars-sim Issue Tracker :
+### Issue Tracker :
 https://github.com/mars-sim/mars-sim/issues
 
-## mars-sim Wikis :
+### Wikis :
 https://github.com/mars-sim/mars-sim/wiki
 
-## mars-sim Codebase :
+### Codebase :
 https://github.com/mars-sim/mars-sim-git
 
 
