@@ -1,0 +1,35 @@
+---
+title: Manufacturing Process - Manufacture large air duct
+linkTitle: Manufacture large air duct
+toc_hide: true
+hide_summary: true
+---
+
+
+## Characteristics
+
+| Attribute      | Value |
+|--------:|:------|
+|Skill Level:|0|
+|Tech Level:|1|
+|Process Time:|50.0 millisols|
+|Work Level:|50.0 millisols|
+|Power Required:|0.3 kW/hr|
+
+## Inputs
+
+| Input      | Amount |
+|--------:|:------|
+|[aluminum sheet](/docs/definitions/part/aluminum-sheet)|Part|1|
+
+## Products
+
+
+| Produce      | Amount |
+|--------:|:------|
+|[air duct](/docs/definitions/part/air-duct)|2|
+
+
+Version: pre-3.9.0 Generated on: 2024-12-28T22:56:23.2942481
+{.small }
+
