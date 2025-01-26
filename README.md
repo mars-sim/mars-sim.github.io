@@ -1,7 +1,6 @@
 # MarsSim Example
 
-This is a PoC of an web site for the MarsSim project based on Docsy.
-
+This is a web site for the MarsSim project using [Hugo](https://gohugo.io). with the [Docsy](https://www.docsy.dev/) theme.
 
 ## Running the website locally
 
