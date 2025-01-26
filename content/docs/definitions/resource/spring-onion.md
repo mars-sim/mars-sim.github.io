@@ -15,6 +15,7 @@ No Description
 |Edible:|true|
 |Type:|Crop|
 |Form:|Solid|
+|Crop Spec:|[Spring Onion](/docs/definitions/crop/spring-onion)|
  
 
 
@@ -25,5 +26,5 @@ No Description
 - [Make Veggie Patty from Quinoa Tempeh and Spice](/docs/definitions/food/make-veggie-patty-from-quinoa-tempeh-and-spice)
 
 
-Version: pre-3.9.0 Generated on: 2024-12-28T22:56:23.2942481
+Version: pre-3.9.0 Generated on: 2025-01-26T20:28:31.5426357
 {.small }

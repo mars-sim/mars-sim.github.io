@@ -23,16 +23,16 @@ Honey extracted from bee hives
 ## Used by Food Process
 
 - [Make Granola Bar](/docs/definitions/food/make-granola-bar)
-- [Make Granola Bar Recipe #2](/docs/definitions/food/make-granola-bar-recipe--2)
-- [Make Granola Bar Recipe #3](/docs/definitions/food/make-granola-bar-recipe--3)
-- [Make Granola Bar Recipe #4](/docs/definitions/food/make-granola-bar-recipe--4)
+- [Make Granola Bar with Blueberry](/docs/definitions/food/make-granola-bar-with-blueberry)
+- [Make Granola Bar with Wheat](/docs/definitions/food/make-granola-bar-with-wheat)
+- [Make Granola Bar with Rice](/docs/definitions/food/make-granola-bar-with-rice)
 - [Make Okara Protein Bar](/docs/definitions/food/make-okara-protein-bar)
-- [Make Okara Protein Bar Recipe #2](/docs/definitions/food/make-okara-protein-bar-recipe--2)
-- [Make Okara Protein Bar Recipe #3](/docs/definitions/food/make-okara-protein-bar-recipe--3)
-- [Make Okara Protein Bar Recipe #4](/docs/definitions/food/make-okara-protein-bar-recipe--4)
+- [Make Okara Protein Bar with Blueberry](/docs/definitions/food/make-okara-protein-bar-with-blueberry)
+- [Make Okara Protein Bar with Wheat](/docs/definitions/food/make-okara-protein-bar-with-wheat)
+- [Make Okara Protein Bar with Rice](/docs/definitions/food/make-okara-protein-bar-with-rice)
 - [Make Blueberry Muffin](/docs/definitions/food/make-blueberry-muffin)
 - [Make Okara Blueberry Muffin](/docs/definitions/food/make-okara-blueberry-muffin)
 
 
-Version: pre-3.9.0 Generated on: 2024-12-28T22:56:23.2942481
+Version: pre-3.9.0 Generated on: 2025-01-26T20:28:31.5426357
 {.small }

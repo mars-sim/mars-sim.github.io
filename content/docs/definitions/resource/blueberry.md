@@ -15,6 +15,7 @@ No Description
 |Edible:|true|
 |Type:|Crop|
 |Form:|Solid|
+|Crop Spec:|[Blueberry](/docs/definitions/crop/blueberry)|
  
 
 
@@ -22,12 +23,12 @@ No Description
     
 ## Used by Food Process
 
-- [Make Granola Bar Recipe #2](/docs/definitions/food/make-granola-bar-recipe--2)
-- [Make Okara Protein Bar Recipe #2](/docs/definitions/food/make-okara-protein-bar-recipe--2)
+- [Make Granola Bar with Blueberry](/docs/definitions/food/make-granola-bar-with-blueberry)
+- [Make Okara Protein Bar with Blueberry](/docs/definitions/food/make-okara-protein-bar-with-blueberry)
 - [Make Blueberry Muffin](/docs/definitions/food/make-blueberry-muffin)
 - [Make Okara Blueberry Muffin](/docs/definitions/food/make-okara-blueberry-muffin)
 - [Make Immune Booster](/docs/definitions/food/make-immune-booster)
 
 
-Version: pre-3.9.0 Generated on: 2024-12-28T22:56:23.2942481
+Version: pre-3.9.0 Generated on: 2025-01-26T20:28:31.5426357
 {.small }

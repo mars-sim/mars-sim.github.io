@@ -22,11 +22,11 @@ hide_summary: true
 
 ## Used by Manufacturing Process
 
-- [Make plastic bottle Alt #2](/docs/definitions/process/make-plastic-bottle-alt--2)
+- [Make plastic bottle with bisphenol-a](/docs/definitions/process/make-plastic-bottle-with-bisphenol-a)
 - [Produce polycarbonate resin](/docs/definitions/process/produce-polycarbonate-resin)
 
 
     
 
-Version: pre-3.9.0 Generated on: 2024-12-28T22:56:23.2942481
+Version: pre-3.9.0 Generated on: 2025-01-26T20:28:31.5426357
 {.small }

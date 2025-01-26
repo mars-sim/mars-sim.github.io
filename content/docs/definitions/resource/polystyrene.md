@@ -21,13 +21,13 @@ hide_summary: true
 
 - [Produce petri dish](/docs/definitions/process/produce-petri-dish)
 - [Manufacture vehicle chassis panel](/docs/definitions/process/manufacture-vehicle-chassis-panel)
-- [Manufacture vehicle chassis panel Alt #1](/docs/definitions/process/manufacture-vehicle-chassis-panel-alt--1)
+- [Manufacture vehicle chassis panel with Polycarbonate Resin](/docs/definitions/process/manufacture-vehicle-chassis-panel-with-polycarbonate-resin)
 - [Manufacture rover control panel](/docs/definitions/process/manufacture-rover-control-panel)
-- [Manufacture rover control panel Alt #1](/docs/definitions/process/manufacture-rover-control-panel-alt--1)
-- [Manufacture rover control panel Alt #2](/docs/definitions/process/manufacture-rover-control-panel-alt--2)
+- [Manufacture rover control panel with Polycarbonate Resin](/docs/definitions/process/manufacture-rover-control-panel-with-polycarbonate-resin)
+- [Manufacture rover control panel with Polypropylene](/docs/definitions/process/manufacture-rover-control-panel-with-polypropylene)
 - [Manufacture utility vehicle control panel](/docs/definitions/process/manufacture-utility-vehicle-control-panel)
-- [Manufacture utility vehicle control panel Alt #1](/docs/definitions/process/manufacture-utility-vehicle-control-panel-alt--1)
-- [Manufacture utility vehicle control panel Alt #2](/docs/definitions/process/manufacture-utility-vehicle-control-panel-alt--2)
+- [Manufacture utility vehicle control panel with Polycarbonate Resin](/docs/definitions/process/manufacture-utility-vehicle-control-panel-with-polycarbonate-resin)
+- [Manufacture utility vehicle control panel with Polypropylene](/docs/definitions/process/manufacture-utility-vehicle-control-panel-with-polypropylene)
 - [Assemble LUV](/docs/definitions/process/assemble-luv)
 - [Assemble explorer rover](/docs/definitions/process/assemble-explorer-rover)
 - [Assemble transport rover](/docs/definitions/process/assemble-transport-rover)
@@ -38,5 +38,5 @@ hide_summary: true
 
     
 
-Version: pre-3.9.0 Generated on: 2024-12-28T22:56:23.2942481
+Version: pre-3.9.0 Generated on: 2025-01-26T20:28:31.5426357
 {.small }

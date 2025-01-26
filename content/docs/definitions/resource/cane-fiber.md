@@ -23,19 +23,19 @@ Fiber processed from Sugarcane.
 - [Make pulp from cane fiber and crop waste (large batch)](/docs/definitions/process/make-pulp-from-cane-fiber-and-crop-waste--large-batch-)
 - [Make Garment](/docs/definitions/process/make-garment)
 - [Make Liquid Cooling Garment](/docs/definitions/process/make-liquid-cooling-garment)
-- [Make Liquid Cooling Garment Alt #1](/docs/definitions/process/make-liquid-cooling-garment-alt--1)
-- [Make Liquid Cooling Garment Alt #2](/docs/definitions/process/make-liquid-cooling-garment-alt--2)
+- [Make Liquid Cooling Garment with Kevlar](/docs/definitions/process/make-liquid-cooling-garment-with-kevlar)
+- [Make Liquid Cooling Garment with Fiber Cloth](/docs/definitions/process/make-liquid-cooling-garment-with-fiber-cloth)
 - [Make EVA helmet](/docs/definitions/process/make-eva-helmet)
-- [Make EVA helmet Alt #2](/docs/definitions/process/make-eva-helmet-alt--2)
+- [Make EVA helmet with Polypropylene](/docs/definitions/process/make-eva-helmet-with-polypropylene)
 - [Make pressure suit](/docs/definitions/process/make-pressure-suit)
-- [Make pressure suit Alt #2](/docs/definitions/process/make-pressure-suit-alt--2)
-- [Make pressure suit Alt #3](/docs/definitions/process/make-pressure-suit-alt--3)
+- [Make pressure suit with Polycarbonate Resin](/docs/definitions/process/make-pressure-suit-with-polycarbonate-resin)
+- [Make pressure suit with Polypropylene](/docs/definitions/process/make-pressure-suit-with-polypropylene)
 - [Make coveralls](/docs/definitions/process/make-coveralls)
 - [Make EVA gloves](/docs/definitions/process/make-eva-gloves)
 - [Make EVA boots](/docs/definitions/process/make-eva-boots)
 - [Make EVA pads](/docs/definitions/process/make-eva-pads)
 - [Make EVA backpack](/docs/definitions/process/make-eva-backpack)
-- [Make EVA backpack Alt #2](/docs/definitions/process/make-eva-backpack-alt--2)
+- [Make EVA backpack with Polypropylene](/docs/definitions/process/make-eva-backpack-with-polypropylene)
 - [Make work gloves](/docs/definitions/process/make-work-gloves)
 - [Make biosensor](/docs/definitions/process/make-biosensor)
 
@@ -51,5 +51,5 @@ Fiber processed from Sugarcane.
 - [Make Immune Booster](/docs/definitions/food/make-immune-booster)
 
 
-Version: pre-3.9.0 Generated on: 2024-12-28T22:56:23.2942481
+Version: pre-3.9.0 Generated on: 2025-01-26T20:28:31.5426357
 {.small }

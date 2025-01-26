@@ -28,7 +28,7 @@ An element.
 
 ## Used by Manufacturing Process
 
-- [Make crop fertilizers Alt #5](/docs/definitions/process/make-crop-fertilizers-alt--5)
+- [Make crop fertilizers with iron powder](/docs/definitions/process/make-crop-fertilizers-with-iron-powder)
 - [Cast iron ingot](/docs/definitions/process/cast-iron-ingot)
 - [Make iron sheet](/docs/definitions/process/make-iron-sheet)
 - [Do steel ingot alloying](/docs/definitions/process/do-steel-ingot-alloying)
@@ -49,5 +49,5 @@ An element.
 
     
 
-Version: pre-3.9.0 Generated on: 2024-12-28T22:56:23.2942481
+Version: pre-3.9.0 Generated on: 2025-01-26T20:28:31.5426357
 {.small }

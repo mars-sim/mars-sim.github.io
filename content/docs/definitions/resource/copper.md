@@ -22,7 +22,7 @@ An element.
 
 ## Used by Manufacturing Process
 
-- [Make crop fertilizers Alt #6](/docs/definitions/process/make-crop-fertilizers-alt--6)
+- [Make crop fertilizers with copper](/docs/definitions/process/make-crop-fertilizers-with-copper)
 - [Make spark plug](/docs/definitions/process/make-spark-plug)
 - [Make copper sheet](/docs/definitions/process/make-copper-sheet)
 - [Manufacture logic board](/docs/definitions/process/manufacture-logic-board)
@@ -31,5 +31,5 @@ An element.
 
     
 
-Version: pre-3.9.0 Generated on: 2024-12-28T22:56:23.2942481
+Version: pre-3.9.0 Generated on: 2025-01-26T20:28:31.5426357
 {.small }

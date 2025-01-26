@@ -39,5 +39,5 @@ Tofu made of Coagulant and Soymilk from Soybean.
 - [Make Veggie Patty from Veg, Tofu and Spice](/docs/definitions/food/make-veggie-patty-from-veg--tofu-and-spice)
 
 
-Version: pre-3.9.0 Generated on: 2024-12-28T22:56:23.2942481
+Version: pre-3.9.0 Generated on: 2025-01-26T20:28:31.5426357
 {.small }

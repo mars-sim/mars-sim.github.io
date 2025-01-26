@@ -19,32 +19,32 @@ hide_summary: true
 
 ## Used by Manufacturing Process
 
-- [Make plastic barrel Alt #1](/docs/definitions/process/make-plastic-barrel-alt--1)
+- [Make plastic barrel with Polypropylene](/docs/definitions/process/make-plastic-barrel-with-polypropylene)
 - [Make Polypropylene rope](/docs/definitions/process/make-polypropylene-rope)
-- [Make pot Alt #1](/docs/definitions/process/make-pot-alt--1)
-- [Make basket Alt #1](/docs/definitions/process/make-basket-alt--1)
-- [Make crate Alt #1](/docs/definitions/process/make-crate-alt--1)
-- [Make plastic specimen box Alt #1](/docs/definitions/process/make-plastic-specimen-box-alt--1)
-- [Make plastic pipe Alt #1](/docs/definitions/process/make-plastic-pipe-alt--1)
-- [Roll mylar film Alt #1](/docs/definitions/process/roll-mylar-film-alt--1)
-- [Make plastic bottle Alt #1](/docs/definitions/process/make-plastic-bottle-alt--1)
+- [Make pot with Polypropylene](/docs/definitions/process/make-pot-with-polypropylene)
+- [Make basket with Polypropylene](/docs/definitions/process/make-basket-with-polypropylene)
+- [Make crate with Polypropylene](/docs/definitions/process/make-crate-with-polypropylene)
+- [Make plastic specimen box with Polypropylene](/docs/definitions/process/make-plastic-specimen-box-with-polypropylene)
+- [Make plastic pipe with Polypropylene](/docs/definitions/process/make-plastic-pipe-with-polypropylene)
+- [Roll mylar film with Polypropylene](/docs/definitions/process/roll-mylar-film-with-polypropylene)
+- [Make plastic bottle with Polypropylene](/docs/definitions/process/make-plastic-bottle-with-polypropylene)
 - [Make coolant bottle](/docs/definitions/process/make-coolant-bottle)
 - [Make Liquid Cooling Garment](/docs/definitions/process/make-liquid-cooling-garment)
-- [Make Liquid Cooling Garment Alt #1](/docs/definitions/process/make-liquid-cooling-garment-alt--1)
-- [Make Liquid Cooling Garment Alt #2](/docs/definitions/process/make-liquid-cooling-garment-alt--2)
-- [Make Liquid Cooling Garment Alt #3](/docs/definitions/process/make-liquid-cooling-garment-alt--3)
-- [Make EVA helmet Alt #2](/docs/definitions/process/make-eva-helmet-alt--2)
-- [Make pressure suit Alt #3](/docs/definitions/process/make-pressure-suit-alt--3)
-- [Make EVA backpack Alt #2](/docs/definitions/process/make-eva-backpack-alt--2)
-- [Manufacture rover control panel Alt #2](/docs/definitions/process/manufacture-rover-control-panel-alt--2)
-- [Manufacture utility vehicle control panel Alt #2](/docs/definitions/process/manufacture-utility-vehicle-control-panel-alt--2)
-- [Manufacture battery module Alt #1](/docs/definitions/process/manufacture-battery-module-alt--1)
-- [Manufacture EVA battery Alt #1](/docs/definitions/process/manufacture-eva-battery-alt--1)
+- [Make Liquid Cooling Garment with Kevlar](/docs/definitions/process/make-liquid-cooling-garment-with-kevlar)
+- [Make Liquid Cooling Garment with Fiber Cloth](/docs/definitions/process/make-liquid-cooling-garment-with-fiber-cloth)
+- [Make Liquid Cooling Garment with Polyester Fiber](/docs/definitions/process/make-liquid-cooling-garment-with-polyester-fiber)
+- [Make EVA helmet with Polypropylene](/docs/definitions/process/make-eva-helmet-with-polypropylene)
+- [Make pressure suit with Polypropylene](/docs/definitions/process/make-pressure-suit-with-polypropylene)
+- [Make EVA backpack with Polypropylene](/docs/definitions/process/make-eva-backpack-with-polypropylene)
+- [Manufacture rover control panel with Polypropylene](/docs/definitions/process/manufacture-rover-control-panel-with-polypropylene)
+- [Manufacture utility vehicle control panel with Polypropylene](/docs/definitions/process/manufacture-utility-vehicle-control-panel-with-polypropylene)
+- [Manufacture battery module with Polypropylene](/docs/definitions/process/manufacture-battery-module-with-polypropylene)
+- [Manufacture EVA battery with Polypropylene](/docs/definitions/process/manufacture-eva-battery-with-polypropylene)
 - [Manufacture flexible hose](/docs/definitions/process/manufacture-flexible-hose)
-- [Make Paraffin Composites Alt #1](/docs/definitions/process/make-paraffin-composites-alt--1)
+- [Make Paraffin Composites with Polypropylene](/docs/definitions/process/make-paraffin-composites-with-polypropylene)
 
 
     
 
-Version: pre-3.9.0 Generated on: 2024-12-28T22:56:23.2942481
+Version: pre-3.9.0 Generated on: 2025-01-26T20:28:31.5426357
 {.small }

@@ -22,20 +22,20 @@ hide_summary: true
 
 ## Used by Manufacturing Process
 
-- [Make Garment Alt #1](/docs/definitions/process/make-garment-alt--1)
-- [Make Liquid Cooling Garment Alt #3](/docs/definitions/process/make-liquid-cooling-garment-alt--3)
-- [Make EVA helmet Alt #1](/docs/definitions/process/make-eva-helmet-alt--1)
-- [Make pressure suit Alt #1](/docs/definitions/process/make-pressure-suit-alt--1)
-- [Make coveralls Alt #1](/docs/definitions/process/make-coveralls-alt--1)
-- [Make EVA gloves Alt #1](/docs/definitions/process/make-eva-gloves-alt--1)
-- [Make EVA boots Alt #1](/docs/definitions/process/make-eva-boots-alt--1)
-- [Make EVA pads Alt #1](/docs/definitions/process/make-eva-pads-alt--1)
-- [Make EVA backpack Alt #1](/docs/definitions/process/make-eva-backpack-alt--1)
-- [Make work gloves Alt #1](/docs/definitions/process/make-work-gloves-alt--1)
-- [Make biosensor Alt #1](/docs/definitions/process/make-biosensor-alt--1)
+- [Make Garment with Polyester Fiber](/docs/definitions/process/make-garment-with-polyester-fiber)
+- [Make Liquid Cooling Garment with Polyester Fiber](/docs/definitions/process/make-liquid-cooling-garment-with-polyester-fiber)
+- [Make EVA helmet with Polyester Fiber](/docs/definitions/process/make-eva-helmet-with-polyester-fiber)
+- [Make pressure suit with Polyester Fiber](/docs/definitions/process/make-pressure-suit-with-polyester-fiber)
+- [Make coveralls with Polyester Fiber](/docs/definitions/process/make-coveralls-with-polyester-fiber)
+- [Make EVA gloves with Polyester Fiber](/docs/definitions/process/make-eva-gloves-with-polyester-fiber)
+- [Make EVA boots with Polyester Fiber](/docs/definitions/process/make-eva-boots-with-polyester-fiber)
+- [Make EVA pads with Polyester Fiber](/docs/definitions/process/make-eva-pads-with-polyester-fiber)
+- [Make EVA backpack with Polyester Fiber](/docs/definitions/process/make-eva-backpack-with-polyester-fiber)
+- [Make work gloves with Polyester Fiber](/docs/definitions/process/make-work-gloves-with-polyester-fiber)
+- [Make biosensor with Polyester Fiber](/docs/definitions/process/make-biosensor-with-polyester-fiber)
 
 
     
 
-Version: pre-3.9.0 Generated on: 2024-12-28T22:56:23.2942481
+Version: pre-3.9.0 Generated on: 2025-01-26T20:28:31.5426357
 {.small }

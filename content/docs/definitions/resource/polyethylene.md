@@ -28,16 +28,16 @@ hide_summary: true
 - [Roll mylar film](/docs/definitions/process/roll-mylar-film)
 - [Make plastic bottle](/docs/definitions/process/make-plastic-bottle)
 - [Make EVA helmet](/docs/definitions/process/make-eva-helmet)
-- [Make EVA helmet Alt #1](/docs/definitions/process/make-eva-helmet-alt--1)
+- [Make EVA helmet with Polyester Fiber](/docs/definitions/process/make-eva-helmet-with-polyester-fiber)
 - [Make pressure suit](/docs/definitions/process/make-pressure-suit)
-- [Make pressure suit Alt #1](/docs/definitions/process/make-pressure-suit-alt--1)
-- [Make pressure suit Alt #2](/docs/definitions/process/make-pressure-suit-alt--2)
+- [Make pressure suit with Polyester Fiber](/docs/definitions/process/make-pressure-suit-with-polyester-fiber)
+- [Make pressure suit with Polycarbonate Resin](/docs/definitions/process/make-pressure-suit-with-polycarbonate-resin)
 - [Make EVA backpack](/docs/definitions/process/make-eva-backpack)
-- [Make EVA backpack Alt #1](/docs/definitions/process/make-eva-backpack-alt--1)
+- [Make EVA backpack with Polyester Fiber](/docs/definitions/process/make-eva-backpack-with-polyester-fiber)
 - [Manufacture rover control panel](/docs/definitions/process/manufacture-rover-control-panel)
-- [Manufacture rover control panel Alt #1](/docs/definitions/process/manufacture-rover-control-panel-alt--1)
+- [Manufacture rover control panel with Polycarbonate Resin](/docs/definitions/process/manufacture-rover-control-panel-with-polycarbonate-resin)
 - [Manufacture utility vehicle control panel](/docs/definitions/process/manufacture-utility-vehicle-control-panel)
-- [Manufacture utility vehicle control panel Alt #1](/docs/definitions/process/manufacture-utility-vehicle-control-panel-alt--1)
+- [Manufacture utility vehicle control panel with Polycarbonate Resin](/docs/definitions/process/manufacture-utility-vehicle-control-panel-with-polycarbonate-resin)
 - [Manufacture battery module](/docs/definitions/process/manufacture-battery-module)
 - [Manufacture EVA battery](/docs/definitions/process/manufacture-eva-battery)
 - [Make Paraffin Composites](/docs/definitions/process/make-paraffin-composites)
@@ -45,5 +45,5 @@ hide_summary: true
 
     
 
-Version: pre-3.9.0 Generated on: 2024-12-28T22:56:23.2942481
+Version: pre-3.9.0 Generated on: 2025-01-26T20:28:31.5426357
 {.small }

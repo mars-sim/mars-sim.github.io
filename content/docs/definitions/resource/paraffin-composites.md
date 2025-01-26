@@ -19,17 +19,17 @@ hide_summary: true
 ## Made by Manufacturing Process
 
 - [Make Paraffin Composites](/docs/definitions/process/make-paraffin-composites)
-- [Make Paraffin Composites Alt #1](/docs/definitions/process/make-paraffin-composites-alt--1)
+- [Make Paraffin Composites with Polypropylene](/docs/definitions/process/make-paraffin-composites-with-polypropylene)
 
 ## Used by Manufacturing Process
 
 - [Make Liquid Cooling Garment](/docs/definitions/process/make-liquid-cooling-garment)
-- [Make Liquid Cooling Garment Alt #1](/docs/definitions/process/make-liquid-cooling-garment-alt--1)
-- [Make Liquid Cooling Garment Alt #2](/docs/definitions/process/make-liquid-cooling-garment-alt--2)
-- [Make Liquid Cooling Garment Alt #3](/docs/definitions/process/make-liquid-cooling-garment-alt--3)
+- [Make Liquid Cooling Garment with Kevlar](/docs/definitions/process/make-liquid-cooling-garment-with-kevlar)
+- [Make Liquid Cooling Garment with Fiber Cloth](/docs/definitions/process/make-liquid-cooling-garment-with-fiber-cloth)
+- [Make Liquid Cooling Garment with Polyester Fiber](/docs/definitions/process/make-liquid-cooling-garment-with-polyester-fiber)
 
 
     
 
-Version: pre-3.9.0 Generated on: 2024-12-28T22:56:23.2942481
+Version: pre-3.9.0 Generated on: 2025-01-26T20:28:31.5426357
 {.small }

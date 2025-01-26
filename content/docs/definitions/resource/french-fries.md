@@ -22,9 +22,9 @@ French fries made from potatoes.
 ## Made by Food Process
 
 - [Make French Fries from Potatoes](/docs/definitions/food/make-french-fries-from-potatoes)
-- [Make French Fries from Potatoes Recipe #1](/docs/definitions/food/make-french-fries-from-potatoes-recipe--1)
+- [Make French Fries from Potatoes with Soybean Oil](/docs/definitions/food/make-french-fries-from-potatoes-with-soybean-oil)
 
     
 
-Version: pre-3.9.0 Generated on: 2024-12-28T22:56:23.2942481
+Version: pre-3.9.0 Generated on: 2025-01-26T20:28:31.5426357
 {.small }

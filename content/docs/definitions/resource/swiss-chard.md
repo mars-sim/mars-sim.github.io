@@ -15,6 +15,7 @@ No Description
 |Edible:|true|
 |Type:|Crop|
 |Form:|Solid|
+|Crop Spec:|[Swiss Chard](/docs/definitions/crop/swiss-chard)|
  
 
 
@@ -22,8 +23,8 @@ No Description
     
 ## Used by Food Process
 
-- [Package Preserved Food Recipe #4](/docs/definitions/food/package-preserved-food-recipe--4)
+- [Package Preserved Food with Swiss Chard](/docs/definitions/food/package-preserved-food-with-swiss-chard)
 
 
-Version: pre-3.9.0 Generated on: 2024-12-28T22:56:23.2942481
+Version: pre-3.9.0 Generated on: 2025-01-26T20:28:31.5426357
 {.small }

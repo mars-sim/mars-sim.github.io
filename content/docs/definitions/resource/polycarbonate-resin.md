@@ -22,19 +22,19 @@ hide_summary: true
 
 ## Used by Manufacturing Process
 
-- [Make satellite dish Alt #1](/docs/definitions/process/make-satellite-dish-alt--1)
-- [Make radio antenna Alt #1](/docs/definitions/process/make-radio-antenna-alt--1)
+- [Make satellite dish with polycarbonate resin](/docs/definitions/process/make-satellite-dish-with-polycarbonate-resin)
+- [Make radio antenna with Polycarbonate Resin](/docs/definitions/process/make-radio-antenna-with-polycarbonate-resin)
 - [Make EVA helmet](/docs/definitions/process/make-eva-helmet)
-- [Make EVA helmet Alt #1](/docs/definitions/process/make-eva-helmet-alt--1)
-- [Make EVA helmet Alt #2](/docs/definitions/process/make-eva-helmet-alt--2)
+- [Make EVA helmet with Polyester Fiber](/docs/definitions/process/make-eva-helmet-with-polyester-fiber)
+- [Make EVA helmet with Polypropylene](/docs/definitions/process/make-eva-helmet-with-polypropylene)
 - [Make helmet visor](/docs/definitions/process/make-helmet-visor)
-- [Make pressure suit Alt #2](/docs/definitions/process/make-pressure-suit-alt--2)
-- [Make EVA antenna Alt #1](/docs/definitions/process/make-eva-antenna-alt--1)
-- [Manufacture vehicle chassis panel Alt #1](/docs/definitions/process/manufacture-vehicle-chassis-panel-alt--1)
+- [Make pressure suit with Polycarbonate Resin](/docs/definitions/process/make-pressure-suit-with-polycarbonate-resin)
+- [Make EVA antenna with Polycarbonate Resin](/docs/definitions/process/make-eva-antenna-with-polycarbonate-resin)
+- [Manufacture vehicle chassis panel with Polycarbonate Resin](/docs/definitions/process/manufacture-vehicle-chassis-panel-with-polycarbonate-resin)
 - [Manufacture propeller](/docs/definitions/process/manufacture-propeller)
-- [Manufacture rover control panel Alt #1](/docs/definitions/process/manufacture-rover-control-panel-alt--1)
-- [Manufacture utility vehicle control panel Alt #1](/docs/definitions/process/manufacture-utility-vehicle-control-panel-alt--1)
-- [Fabricate turbine blade Alt #1](/docs/definitions/process/fabricate-turbine-blade-alt--1)
+- [Manufacture rover control panel with Polycarbonate Resin](/docs/definitions/process/manufacture-rover-control-panel-with-polycarbonate-resin)
+- [Manufacture utility vehicle control panel with Polycarbonate Resin](/docs/definitions/process/manufacture-utility-vehicle-control-panel-with-polycarbonate-resin)
+- [Fabricate turbine blade with Polycarbonate Resin](/docs/definitions/process/fabricate-turbine-blade-with-polycarbonate-resin)
 - [Manufacture polycarbonate roofing](/docs/definitions/process/manufacture-polycarbonate-roofing)
 - [Make Power Panel](/docs/definitions/process/make-power-panel)
 - [Make Surge Protector](/docs/definitions/process/make-surge-protector)
@@ -43,5 +43,5 @@ hide_summary: true
 
     
 
-Version: pre-3.9.0 Generated on: 2024-12-28T22:56:23.2942481
+Version: pre-3.9.0 Generated on: 2025-01-26T20:28:31.5426357
 {.small }

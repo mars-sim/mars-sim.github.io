@@ -22,8 +22,8 @@ Light yellow, silky protein Soybean fiber .
     
 ## Used by Food Process
 
-- [Produce Fiber Cloth from Cane or Soy Fiber Recipe #1](/docs/definitions/food/produce-fiber-cloth-from-cane-or-soy-fiber-recipe--1)
+- [Produce Fiber Cloth from Cane or Soy Fiber with Soy Fiber](/docs/definitions/food/produce-fiber-cloth-from-cane-or-soy-fiber-with-soy-fiber)
 
 
-Version: pre-3.9.0 Generated on: 2024-12-28T22:56:23.2942481
+Version: pre-3.9.0 Generated on: 2025-01-26T20:28:31.5426357
 {.small }

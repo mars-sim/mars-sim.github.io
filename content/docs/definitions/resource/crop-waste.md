@@ -21,7 +21,7 @@ Organic waste from a dead crop or inedible biomass after harvest.
 
 - [Make pulp from cane fiber and crop waste](/docs/definitions/process/make-pulp-from-cane-fiber-and-crop-waste)
 - [Make pulp from cane fiber and crop waste (large batch)](/docs/definitions/process/make-pulp-from-cane-fiber-and-crop-waste--large-batch-)
-- [Make crop fertilizers Alt #7](/docs/definitions/process/make-crop-fertilizers-alt--7)
+- [Make crop fertilizers with Crop Waste](/docs/definitions/process/make-crop-fertilizers-with-crop-waste)
 - [Produce polyurethane](/docs/definitions/process/produce-polyurethane)
 - [gasify sugarcane and biomass into methanol](/docs/definitions/process/gasify-sugarcane-and-biomass-into-methanol)
 
@@ -35,5 +35,5 @@ Organic waste from a dead crop or inedible biomass after harvest.
 
     
 
-Version: pre-3.9.0 Generated on: 2024-12-28T22:56:23.2942481
+Version: pre-3.9.0 Generated on: 2025-01-26T20:28:31.5426357
 {.small }

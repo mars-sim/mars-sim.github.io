@@ -23,13 +23,13 @@ hide_summary: true
 ## Used by Manufacturing Process
 
 - [Make EVA helmet](/docs/definitions/process/make-eva-helmet)
-- [Make EVA helmet Alt #1](/docs/definitions/process/make-eva-helmet-alt--1)
-- [Make EVA helmet Alt #2](/docs/definitions/process/make-eva-helmet-alt--2)
+- [Make EVA helmet with Polyester Fiber](/docs/definitions/process/make-eva-helmet-with-polyester-fiber)
+- [Make EVA helmet with Polypropylene](/docs/definitions/process/make-eva-helmet-with-polypropylene)
 - [Make coveralls](/docs/definitions/process/make-coveralls)
-- [Make coveralls Alt #1](/docs/definitions/process/make-coveralls-alt--1)
+- [Make coveralls with Polyester Fiber](/docs/definitions/process/make-coveralls-with-polyester-fiber)
 
 
     
 
-Version: pre-3.9.0 Generated on: 2024-12-28T22:56:23.2942481
+Version: pre-3.9.0 Generated on: 2025-01-26T20:28:31.5426357
 {.small }

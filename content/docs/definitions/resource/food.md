@@ -22,13 +22,13 @@ Represents thermo-stabilized food that can afford long-term storage.
 ## Made by Food Process
 
 - [Package Preserved Food](/docs/definitions/food/package-preserved-food)
-- [Package Preserved Food Recipe #1](/docs/definitions/food/package-preserved-food-recipe--1)
-- [Package Preserved Food Recipe #2](/docs/definitions/food/package-preserved-food-recipe--2)
-- [Package Preserved Food Recipe #3](/docs/definitions/food/package-preserved-food-recipe--3)
-- [Package Preserved Food Recipe #4](/docs/definitions/food/package-preserved-food-recipe--4)
+- [Package Preserved Food with Leaves](/docs/definitions/food/package-preserved-food-with-leaves)
+- [Package Preserved Food with Potato](/docs/definitions/food/package-preserved-food-with-potato)
+- [Package Preserved Food with Carrot](/docs/definitions/food/package-preserved-food-with-carrot)
+- [Package Preserved Food with Swiss Chard](/docs/definitions/food/package-preserved-food-with-swiss-chard)
 - [Package Roast Peanuts into Dry Food](/docs/definitions/food/package-roast-peanuts-into-dry-food)
 
     
 
-Version: pre-3.9.0 Generated on: 2024-12-28T22:56:23.2942481
+Version: pre-3.9.0 Generated on: 2025-01-26T20:28:31.5426357
 {.small }

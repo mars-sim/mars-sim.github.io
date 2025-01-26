@@ -24,7 +24,7 @@ No Description
 
 ## Used by Manufacturing Process
 
-- [Make crop fertilizers Alt #9](/docs/definitions/process/make-crop-fertilizers-alt--9)
+- [Make crop fertilizers with hydrogen](/docs/definitions/process/make-crop-fertilizers-with-hydrogen)
 - [Do hydrogen iron reduction](/docs/definitions/process/do-hydrogen-iron-reduction)
 - [Produce Terephthalic Acid](/docs/definitions/process/produce-terephthalic-acid)
 - [Produce bisphenol-a](/docs/definitions/process/produce-bisphenol-a)
@@ -33,5 +33,5 @@ No Description
 
     
 
-Version: pre-3.9.0 Generated on: 2024-12-28T22:56:23.2942481
+Version: pre-3.9.0 Generated on: 2025-01-26T20:28:31.5426357
 {.small }

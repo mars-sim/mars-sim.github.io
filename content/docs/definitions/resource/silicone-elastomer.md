@@ -23,12 +23,12 @@ hide_summary: true
 ## Used by Manufacturing Process
 
 - [Make pressure suit](/docs/definitions/process/make-pressure-suit)
-- [Make pressure suit Alt #1](/docs/definitions/process/make-pressure-suit-alt--1)
-- [Make pressure suit Alt #2](/docs/definitions/process/make-pressure-suit-alt--2)
-- [Make pressure suit Alt #3](/docs/definitions/process/make-pressure-suit-alt--3)
+- [Make pressure suit with Polyester Fiber](/docs/definitions/process/make-pressure-suit-with-polyester-fiber)
+- [Make pressure suit with Polycarbonate Resin](/docs/definitions/process/make-pressure-suit-with-polycarbonate-resin)
+- [Make pressure suit with Polypropylene](/docs/definitions/process/make-pressure-suit-with-polypropylene)
 
 
     
 
-Version: pre-3.9.0 Generated on: 2024-12-28T22:56:23.2942481
+Version: pre-3.9.0 Generated on: 2025-01-26T20:28:31.5426357
 {.small }

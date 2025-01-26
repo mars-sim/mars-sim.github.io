@@ -23,18 +23,18 @@ hide_summary: true
 ## Used by Manufacturing Process
 
 - [Make Garment](/docs/definitions/process/make-garment)
-- [Make Garment Alt #1](/docs/definitions/process/make-garment-alt--1)
+- [Make Garment with Polyester Fiber](/docs/definitions/process/make-garment-with-polyester-fiber)
 - [Make coveralls](/docs/definitions/process/make-coveralls)
-- [Make coveralls Alt #1](/docs/definitions/process/make-coveralls-alt--1)
+- [Make coveralls with Polyester Fiber](/docs/definitions/process/make-coveralls-with-polyester-fiber)
 - [Make EVA gloves](/docs/definitions/process/make-eva-gloves)
-- [Make EVA gloves Alt #1](/docs/definitions/process/make-eva-gloves-alt--1)
+- [Make EVA gloves with Polyester Fiber](/docs/definitions/process/make-eva-gloves-with-polyester-fiber)
 - [Make EVA boots](/docs/definitions/process/make-eva-boots)
-- [Make EVA boots Alt #1](/docs/definitions/process/make-eva-boots-alt--1)
+- [Make EVA boots with Polyester Fiber](/docs/definitions/process/make-eva-boots-with-polyester-fiber)
 - [Make EVA pads](/docs/definitions/process/make-eva-pads)
-- [Make EVA pads Alt #1](/docs/definitions/process/make-eva-pads-alt--1)
+- [Make EVA pads with Polyester Fiber](/docs/definitions/process/make-eva-pads-with-polyester-fiber)
 
 
     
 
-Version: pre-3.9.0 Generated on: 2024-12-28T22:56:23.2942481
+Version: pre-3.9.0 Generated on: 2025-01-26T20:28:31.5426357
 {.small }
