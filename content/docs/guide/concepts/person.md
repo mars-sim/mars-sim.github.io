@@ -1,6 +1,6 @@
 ---
 title: Person
-description: Vehicles travel outside a Settlement
+description: Humand Settlers on Mars
 weight: 60
 ---
 {{% pageinfo color="info" %}}
@@ -9,6 +9,7 @@ This is placeholder content.
 
 ## Overview
 
+A Person can participant towards the [Management]({{% ref "management" %}}) of the Settlement. 
 A Person is also a [Worker]({{% ref "worker" %}}) to complete Tasks.
 
 ## Physical Charactertics
@@ -17,10 +18,4 @@ A Person is also a [Worker]({{% ref "worker" %}}) to complete Tasks.
 ## Health
 
 [Complaint]({{% ref "/docs/definitions/complaint" %}}).
-
-## Settlement Position
-
-### Job
-
-### Shift
 
