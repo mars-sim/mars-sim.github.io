@@ -7,9 +7,9 @@ weight: 90
 ## Overview
 The management of a Settlement relies on the Settlers having various Jobs and Roles assigned. The Roles influence the decision a Settlement takes in terms of Missions or Tasks.
 
-While the Job of a person narrows the type of tasks one may perform, the Role of a person is a hierarchical position inherited with duties and responsibilities as well as special privileges.
+While the Job of a person narrows the type of Tasks one may perform, the Role of a Person is a hierarchical position inherited with duties and responsibilities as well as special privileges.
 
-A Person can only have a single Roles and a single Job.
+A Person can only have a single Role and a single Job.
 
 ## Roles
 Roles give Persons the ability to create and control the direction of a Settlement in terms of Missions or Job/Role allocations.
@@ -44,7 +44,7 @@ Only large Settlements with a population of 17+ can have Chiefs.
 - CHIEF_OF_SUPPLY_N_RESOURCES					
 	
 ## Jobs
-In addition to Roles, Persons have a full time Job. Job selection is influenced by the [[Skills]({{% relref "docs/guide/concepts/worker/#skill-types" %}}) they have, e.g. someone with high Cooking skill is more likely to be a Chef. Jobs can be changed as the demands and populatino of the Settlement changes over time.
+In addition to Roles, Persons have a full time Job. Job selection is influenced by the [Skills]({{% relref "docs/guide/concepts/worker/#skill-types" %}}) they have, e.g. someone with high Cooking skill is more likely to be a Chef. Jobs can be changed as the demands and populatino of the Settlement changes over time.
 - Architect
 - Areologist
 - Astronomer
