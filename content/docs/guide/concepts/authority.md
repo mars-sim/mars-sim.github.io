@@ -10,7 +10,7 @@ There is also a list of Countries that contribute Settlers; each Nation has a se
 
 An Authority defines the objective/agenda of that Authority with their space missions.
 
-There are a number of preconfigured Reporting Authories provided, [Authories]({{% ref "/docs/definitions/authority" %}})
+There are a number of preconfigured Reporting Authories provided, [Authories]({{% relref "/docs/definitions/authority" %}})
 
 ## Agenda
 An agenda provides an objective for the Authority doing space exploration.

@@ -9,11 +9,11 @@ This is placeholder content.
 
 ## Overview
 
-Vehicles needs [maintenance]({{% ref "maintenance" %}}) to prevent Faults occurring.
+Vehicles needs [maintenance]({{% relref "maintenance" %}}) to prevent Faults occurring.
 
 ## Vehicle Types
 Section on different Vehicle Types
 
-[Vehicle Specifications]({{% ref "/docs/definitions/vehicle" %}}).
+[Vehicle Specifications]({{% relref "/docs/definitions/vehicle" %}}).
 
 ## LUV Attachments

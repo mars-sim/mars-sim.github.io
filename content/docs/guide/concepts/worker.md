@@ -5,7 +5,7 @@ weight: 85
 ---
 
 ## Overview
-Persons and Robots are classified as Workers. Workers are responsible for working on [Tasks]({{% ref "task" %}}) and [Missions]({{% ref "mission" %}}).
+Persons and Robots are classified as Workers. Workers are responsible for working on [Tasks]({{% relref "task" %}}) and [Missions]({{% relref "mission" %}}).
 A Worker can move around a Settlement to do Task, in addition a Person can be EVA Tasks.
 All Workers are not equal as they have individual Skills and Attributes that contribute to their effecient and performance.
 
@@ -40,7 +40,7 @@ The skill level affect the outcome of the task a person perform in terms of *spe
 
 ### Multiple Skills 
 
-Although each one of these skills corresponds to a specific [Job](https://github.com/mars-sim/mars-sim/wiki/Jobs), a Worker is not limited to have one and only skill. e.g. A person may be a `Biologist` and he may have a level 2 `Biology` skill, level 1 `Mechanics` skill, and level 3 `Botany` skill.
+Although each one of these skills corresponds to a specific [Job]({{% relref "management#jobs" %}}), a Worker is not limited to have one and only skill. e.g. A person may be a `Biologist` and he may have a level 2 `Biology` skill, level 1 `Mechanics` skill, and level 3 `Botany` skill.
 
 ### Experience Points
 
@@ -56,10 +56,10 @@ Most of the time, a Worker will be less likely to chose a certain task that they
 ### Initial Skill
 The set of Skills assigned to a Worker uses an algorithm to ensure not all skills set at zero.
 
-Robot skills are defined by their associated [Robot Spec]({{% ref "/docs/definitions/robot" %}}).
+Robot skills are defined by their associated [Robot Spec]({{% relref "/docs/definitions/robot" %}}).
 
-Person skills are created randomly but heavily influenced by their assigned [Job]({{% ref "management#jobs" %}}).
+Person skills are created randomly but heavily influenced by their assigned [Job]({{% relref "management#jobs" %}}).
 
 ## Attributes
-In addition to Skills Workers also have `National Attributes` which reflect their personality.
+In addition to Skills, Workers also have `National Attributes` which reflect their personality.
 

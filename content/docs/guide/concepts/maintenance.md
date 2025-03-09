@@ -11,9 +11,9 @@ This is placeholder content.
 
 ## Maintenance
 
-[Parts]({{% ref "/docs/definitions/part" %}})
+[Parts]({{% relref "/docs/definitions/part" %}})
 
 ## Faults
 
-[Malfunctions]({{% ref "/docs/definitions/malfunction" %}})
+[Malfunctions]({{% relref "/docs/definitions/malfunction" %}})
 

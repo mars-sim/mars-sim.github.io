@@ -10,7 +10,7 @@ This is placeholder content.
 ## Overview
 
 ## EVA Suit
-EVA Suit needs [maintenance]({{% ref "maintenance" %}}) to prevent Faults occurring.
+EVA Suit needs [maintenance]({{% relref "maintenance" %}}) to prevent Faults occurring.
 
 ## Containers
 

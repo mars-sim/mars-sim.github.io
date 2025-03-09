@@ -9,13 +9,13 @@ This is placeholder content.
 
 ## Overview
 
-A Person can participant towards the [Management]({{% ref "management" %}}) of the Settlement. 
-A Person is also a [Worker]({{% ref "worker" %}}) to complete Tasks.
+A Person can participant towards the [Management]({{% relref "management" %}}) of the Settlement. 
+A Person is also a [Worker]({{% relref "worker" %}}) to complete Tasks.
 
 ## Physical Charactertics
 
 
 ## Health
 
-[Complaint]({{% ref "/docs/definitions/complaint" %}}).
+[Complaint]({{% relref "/docs/definitions/complaint" %}}).
 
