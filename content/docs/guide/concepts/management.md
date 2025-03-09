@@ -3,54 +3,48 @@ title: Management
 description: Management of a Settlement
 weight: 90
 ---
-{{% pageinfo color="info" %}}
-This is placeholder content.
-{{% /pageinfo %}}
 
 ## Overview
-The management of a Settlement relies on the Settlers having various Job and Roles assigned. The Roles influence the decision a Settlement takes in terms of Missions or Tasks.
+The management of a Settlement relies on the Settlers having various Jobs and Roles assigned. The Roles influence the decision a Settlement takes in terms of Missions or Tasks.
 
-The Job provides a finer control over who can start or contribute towards a Task.
+While the Job of a person narrows the type of tasks one may perform, the Role of a person is a hierarchical position inherited with duties and responsibilities as well as special privileges.
 
 A Person can only have a single Roles and a single Job.
 
 ## Roles
+Roles give Persons the ability to create and control the direction of a Settlement in terms of Missions or Job/Role allocations.
+
+### Council
+Allocation of Roles in the Council space are limited by the size of the Settlement. Smaller Settlement wiil just have a Commander. These roles have wide powers to create new Missions.
+- PRESIDENT	
+- MAYOR - Settlement population over 50.
+- COMMANDER - All Settlements have at least a Commander
+- SUB_COMMANDER	- Settlment with a population of at least 9
 
 ### Specialist
-	AGRICULTURE_SPECIALIST				|
-	ENGINEERING_SPECIALIST				|
-	MISSION_SPECIALIST					|
-	LOGISTIC_SPECIALIST					|
-	RESOURCE_SPECIALIST					|
-	SAFETY_SPECIALIST					|
-	SCIENCE_SPECIALIST					|
-	COMPUTING_SPECIALIST				|
+Specialists represent someone who has deep knowledge in a field and may more influence over certain Missions.
+- AGRICULTURE_SPECIALIST
+- ENGINEERING_SPECIALIST
+- MISSION_SPECIALIST
+- LOGISTIC_SPECIALIST
+- RESOURCE_SPECIALIST
+- SAFETY_SPECIALIST
+- SCIENCE_SPECIALIST
+- COMPUTING_SPECIALIST
 	
 ### Chiefs
-Only large Settlements have Chiefs.
-	CHIEF_OF_AGRICULTURE				|
-	CHIEF_OF_COMPUTING					|
-	CHIEF_OF_ENGINEERING				|
-	CHIEF_OF_MISSION_PLANNING			|
-	CHIEF_OF_LOGISTICS_N_OPERATIONS		|
-	CHIEF_OF_SAFETY_N_HEALTH			|
-	CHIEF_OF_SCIENCE					|
-	CHIEF_OF_SUPPLY_N_RESOURCES			|
-	
-### Crew
-	CREW_ENGINEER						|
-	CREW_HEALTH_N_SAFETY_OFFICER		|
-	CREW_OPERATION_OFFICER				|
-	CREW_SCIENTIST						|
-	
-### Council
-Allocation of Roles in the Council space are limited by the size of the Settlement. Smaller Settlement swuldjust have a Commander.
-	PRESIDENT							|
-	MAYOR								|
-	COMMANDER							|
-	SUB_COMMANDER						
+Only large Settlements with a population of 17+ can have Chiefs.
+- CHIEF_OF_AGRICULTURE
+- CHIEF_OF_COMPUTING
+- CHIEF_OF_ENGINEERING
+- CHIEF_OF_MISSION_PLANNING
+- CHIEF_OF_LOGISTICS_N_OPERATIONS
+- CHIEF_OF_SAFETY_N_HEALTH
+- CHIEF_OF_SCIENCE
+- CHIEF_OF_SUPPLY_N_RESOURCES					
 	
 ## Jobs
+In addition to Roles, Persons have a full time Job. Job selection is influenced by the [[Skills]({{% relref "docs/guide/concepts/worker/#skill-types" %}}) they have, e.g. someone with high Cooking skill is more likely to be a Chef. Jobs can be changed as the demands and populatino of the Settlement changes over time.
 - Architect
 - Areologist
 - Astronomer
