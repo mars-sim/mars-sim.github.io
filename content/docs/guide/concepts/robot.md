@@ -1,7 +1,6 @@
 ---
 title: Robot
 description: Robots can work on Tasks.
-weight: 55
 ---
 
 ## Overview

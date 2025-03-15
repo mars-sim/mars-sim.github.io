@@ -1,7 +1,6 @@
 ---
 title: Building
 description: Buildings within a Settlement
-weight: 40
 ---
 
 ## Overview

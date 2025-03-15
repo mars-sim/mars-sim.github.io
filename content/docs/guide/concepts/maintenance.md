@@ -1,7 +1,6 @@
 ---
 title: Maintenance
 description: Maintenance and Fault Simulation
-weight: 90
 ---
 
 ## Overview

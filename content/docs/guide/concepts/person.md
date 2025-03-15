@@ -1,7 +1,6 @@
 ---
 title: Person
 description: Human Settlers on Mars
-weight: 60
 ---
 
 ## Overview

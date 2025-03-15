@@ -1,7 +1,6 @@
 ---
 title: Research
 description: Details of Scientific Research
-weight: 70
 ---
 
 ## Overview

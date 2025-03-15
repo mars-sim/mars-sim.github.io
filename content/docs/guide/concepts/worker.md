@@ -1,7 +1,6 @@
 ---
 title: Worker
 description: Workers complete Tasks
-weight: 85
 ---
 
 ## Overview

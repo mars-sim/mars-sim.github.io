@@ -1,7 +1,6 @@
 ---
 title: Reporting Authority
 description: Provide the Governance control over Settlements
-weight: 25
 ---
 ## Overview
 The Repority Authority (or Authority) is the governing body that controls one or more Settlements as well as the People & Vehicles contained within.

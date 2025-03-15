@@ -1,7 +1,6 @@
 ---
 title: Equipment
 description: Used by Workers to complete Tasks
-weight: 80
 ---
 
 ## Overview

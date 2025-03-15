@@ -1,7 +1,6 @@
 ---
 title: Settlements
 description: Overview of the Settlements
-weight: 5
 ---
 
 ## Overview

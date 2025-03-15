@@ -1,7 +1,6 @@
 ---
 title: Management
 description: Management of a Settlement
-weight: 90
 ---
 
 ## Overview
