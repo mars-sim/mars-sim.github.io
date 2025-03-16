@@ -70,7 +70,7 @@ params:
     taxonomyCloud: [tags, categories]
 
     # If used, must have same length as taxonomyCloud
-    taxonomyCloudTitle: [Tag Cloud, Categories]
+    taxonomyCloudTitle: [Tag, Categories]
 
     # set taxonomyPageHeader = [] to hide taxonomies on the page headers
     taxonomyPageHeader: [tags, categories]
@@ -109,10 +109,8 @@ params:
 
   # Uncomment this if your GitHub repo does not have "main" as the default branch,
   # or specify a new value if you want to reference another branch in your GitHub links
-  github_branch: main
+  #github_branch: main
 
-  # Google Custom Search Engine ID. Remove or comment out to disable search.
-  #gcs_engine_id: d72aa9b2712488cc3
 
   # Enable Lunr.js offline search
   offlineSearch: true
@@ -121,7 +119,7 @@ params:
   prism_syntax_highlighting: false
 
   copyright:
-    authors: Mars Sim Project | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) |
+    authors: MarsSim Project | Design [Docsy Theme](https://www.docsy.dev/)
     from_year: 2018
 
   # User interface configuration
@@ -172,6 +170,13 @@ params:
         url: https://github.com/mars-sim/mars-sim/wiki
         icon: fa-solid fa-book-open
         desc: Development takes place here!
+
+services:
+  googleAnalytics:
+    # This is for the staging site
+    #id: G-33MQSQWWK6
+    # Production
+    id: G-236K6WXS1N
 
 module:
   # Uncomment the next line to build and serve using local docsy clone declared in the named Hugo workspace:

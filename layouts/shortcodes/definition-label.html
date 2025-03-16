@@ -1,0 +1,9 @@
+<div style="margin-bottom: 2rem;">
+    {{ if .Get "xmlFile"}}
+    <small>Configured by:</small>
+    <span class="badge text-bg-primary">XML File: <em>{{.Get "xmlFile"}}.xml</em></span>
+        {{ if .Get "configEditor" | eq "true"}}
+        <span class="badge text-bg-secondary">UI Config Editor</span>
+        {{ end }}
+    {{ end }}
+</div>
