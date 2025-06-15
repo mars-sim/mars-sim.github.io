@@ -5,25 +5,30 @@ date: 2017-01-05
 weight: 50
 ---
 
-{{% alert color="warning" %}}
-This page does not use the latest release.
-{{% /alert %}}
+<span class="badge text-bg-primary">Version: 3.9.0</span>
+Screenshots from Mars Simulation Project.
 
-Screenshots from Mars Simulation Project Version 3.1.0
+Overview of the application showing the Resupply Tool, a Person, Monitor Tool and Settlement Map.
+{{< figure src="/images/screenshots/overview.png" caption="Main Application" >}}
 
-{{< figure src="/images/maps.png" caption="Settlement Map and Mars Navigator Mini-map" >}}
+The Settlement Map shows the Buildings, Persons, Robots & Vehicles within a Settlement.
+{{< figure src="/images/screenshots/settlement-map.png" caption="Settlement Map" >}}
 
-{{< figure src="/images/MiningOutpost.png" caption="Mining Outpost" >}}
+The monitor tool shows a tablular display of various entities within a sellected settlement.
+{{< figure src="/images/screenshots/monitor-tool.png" caption="Monitor Tool" >}}
 
-{{< figure src="/images/monitortool.png" caption="Monitor Tool" >}}
+Settlement can start Missions to go explore the Mars Surface.
+{{< figure src="/images/screenshots/mission-tool.png" caption="Mission Tool" >}}
 
-{{< figure src="/images/helpbrowser.png" caption="Help Browser" >}}
+Persons collaborate to advance science knowledge.
+{{< figure src="/images/screenshots/science-study.png" caption="Science Tool" >}}
 
-{{< figure src="/images/infowindows.png" caption="Info Windows: Vehicle/Settlement/Bots" >}}
+The various attributes of the simulated entities are shown in targeted tab panels.
+{{< figure src="/images/screenshoits/info-windows.png" caption="Info Windows: Vehicle/Settlement/Building" >}}
 
-{{< figure src="/images/personwindow.png" caption="Info Window: Person" >}}
+There is also a command line interface to directly control simulated entities and parameters.
+{{< figure src="/images/screenshoits/console.png" caption="Console" >}}
 
-{{< figure src="/images/creweditor.png" caption="Crew Editor" >}}
 
 
 
