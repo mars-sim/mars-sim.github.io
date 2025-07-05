@@ -7,5 +7,5 @@ menu:
     weight: 40
 ---
 
-The simulation uses Java Swing as a command line application. The app provides inline help on detailed functions. This guide provides higher level information.
+Besides using Java Swing as the default graphical UI for players to interact with the simulation, the simulation is also accompanied by a Java Swing-based console as its command line query tool that provides inline help on entities with high level of detail.
 
