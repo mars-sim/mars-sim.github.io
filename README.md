@@ -1,4 +1,4 @@
-# MarsSim Example
+# Mars-Sim Example
 
 This is a web site for the MarsSim project using [Hugo](https://gohugo.io). with the [Docsy](https://www.docsy.dev/) theme.
 
