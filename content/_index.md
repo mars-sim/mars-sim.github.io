@@ -3,13 +3,14 @@ title: Mars Simulation Project
 ---
 
 {{< blocks/cover title="Welcome to Mars-Sim Project!" image_anchor="top" height="full" >}}
-<p class="lead mt-5">Simulation of life on Mars</p>
+<p class="lead mt-5">Simulating the permanent settlement of human beings on the planet Mars</p>
 {{< blocks/link-down color="info" >}}
 {{< /blocks/cover >}}
 
-
 {{% blocks/lead color="primary" %}}
-The Mars-Sim is an open-source, Java-based project that simulates the first generation of human beings setting foot on Mars and starting settlements on the planet.
+Mars-Sim is a Java-based open-source project that simulates the first generation 
+
+of human beings setting foot on Mars and starting settlements on the planet.
 
 This project features the following 3 major elements of simulations :
 {{% /blocks/lead %}}
@@ -30,7 +31,7 @@ Settlements comprised habitable buildings and utility infrastructures.
 Greenhouses, algae farms, fish ponds are maintained to produce food. 
 Manufacturing and resource processing are made to further expand the settlement. 
 Trading and commerce occur between settlements. 
-Settlements initially follow mission agenda set by their reporting authorities (such as **NASA**) in order to receive supports from Earth resupply missions. 
+Settlements initially follow mission agenda set by their reporting authorities (such as **NASA**) in exchange for resource and manpower supports from Earth resupply missions. 
 
 {{% /blocks/feature %}}
 
