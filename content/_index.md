@@ -20,7 +20,9 @@ This project features the following 3 major elements of simulations :
 {{% blocks/feature icon="fa-solid fa-people-group" title="Settlers" %}}
 
 Settlers utilize their prior trainings, job experience, and skills to select tasks to complete the overarching objectives of the settlement. 
+
 Their attributes and personality traits affect how they relate to one another. 
+
 In order to survive, they must harness in-situ resources for life support needs, and produce and maintain parts, robots, equipment and vehicles. 
 
 {{% /blocks/feature %}}
@@ -28,23 +30,29 @@ In order to survive, they must harness in-situ resources for life support needs,
 {{% blocks/feature icon="fa-solid fa-city" title="Settlements"%}}
 
 Settlements comprised habitable buildings and utility infrastructures. 
+
 Greenhouses, algae farms, fish ponds are maintained to produce food. 
+
 Manufacturing and resource processing are made to further expand the settlement. 
-Trading and commerce occur between settlements. 
-Settlements initially follow mission agenda set by their reporting authorities (such as **NASA**) in exchange for resource and manpower supports from Earth resupply missions. 
+
+Trading of goods occur between settlements to facilitate the economic viability of commerce 
+
+Settlements initially follow the roadmaps and mission agendas established by their reporting authorities (such as **NASA**) in exchange for resource and manpower supports from Earth resupply missions. 
 
 {{% /blocks/feature %}}
 
 {{% blocks/feature icon="fa-solid fa-briefcase" title="Missions" %}}
 Surface missions are proposed by experienced mission planners for conducting explorations outside settlement's premise. 
+
 Settlers are to identify regions of Resource of Interest (ROI) for mining exploration. 
-Future construction missions would set up weather stations and communication towers on major corridors of transportation and commerce. 
+
+Future construction missions include setting up weather stations and communication towers as strategies to unlock transportation corridors that would vastly improve commerce and tourism. 
 
 {{% /blocks/feature %}}
 
 {{% /blocks/section %}}
 
 {{% blocks/section color="secondary" %}}
-Please read on for more [information](/docs/about/).
+For further details, please read on what the project [model and simulate](/docs/about/).
 
 {{% /blocks/section %}}
