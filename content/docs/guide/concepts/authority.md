@@ -1,19 +1,24 @@
 ---
 title: Reporting Authority
-description: Provide the Governance control over Settlements
+description: Provide the governance over settlements
 ---
 ## Overview
-The Repority Authority (or Authority) is the governing body that controls one or more Settlements as well as the People & Vehicles contained within.
-Each one can define a set of Settlement and Vehicle names to be used as well as a gender ratio of settlers.
-There is also a list of Countries that contribute Settlers; each Nation has a set of person name generating native names for Settlers.
 
-An Authority defines the objective/agenda of that Authority with their space missions.
+The Reporting Authority (or Authority) is the governing body that sponsors the establishment of settlements and provides settlers with equipment, robots, vehicles, and resources.
 
-There are a number of preconfigured Reporting Authories provided, [Authories]({{% relref "/docs/definitions/authority" %}})
+This relationship or sponsorship influences the choice of name for settlements, vehicles and even people. It also dictates the gender ratio of  settlers of a settlement.
+
+An Authority is usually tied to a specific country of origin (but with some exceptions). 
+
+Each Authority also has a default agenda as follows : 
 
 ## Agenda
-An agenda provides an objective for the Authority doing space exploration.
-For the simulation the agenda influence the types of Missions started by a Settlement.
-* Objective - Description of the high level objective.
-* Findings - Evidence or information that can help achieve the objective.
-* Targets/Capabilities - These are a list of targets that will provide the evidence required. The individual target influence the type of Missions created.
+Each Authority has an overarching agenda that comprises a mission objective, reports and findings, data right, and capability demonstrations for an Authority. They influence the types of Missions, the types of scientific studies and manufacturing processes to be carried out by a settlement.
+
+* Mission Objective - Description of the high level goal.
+* Reports and Findings - Evidence or information that can help achieve the objective.
+* Data Right - The type of data to be gather.
+* Capability Demonstrations - A list of action targets to be pursued. They influence the type of Missions to be created.
+
+See a number of preconfigured [Reporting Authorities]({{% relref "/docs/definitions/authority" %}}) in mars-sim.
+
