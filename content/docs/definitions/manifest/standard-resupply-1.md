@@ -19,15 +19,16 @@ hide_summary: true
 |:-----|:-----|-----:|
 |[Acetic acid bacteria](/docs/definitions/resource/acetic-acid-bacteria)|Resource|20.0 kg|
 |[Argon](/docs/definitions/resource/argon)|Resource|60.0 kg|
-|[Baking powder](/docs/definitions/resource/baking-powder)|Resource|100.0 kg|
+|[Baking soda](/docs/definitions/resource/baking-soda)|Resource|100.0 kg|
 |[Bisphenol-a](/docs/definitions/resource/bisphenol-a)|Resource|100.0 kg|
-|[Bleaching chemical](/docs/definitions/resource/bleaching-chemical)|Resource|50.0 kg|
+|[Bleaching chemical](/docs/definitions/resource/bleaching-chemical)|Resource|5.0 kg|
 |[Blueberry Tissue](/docs/definitions/resource/blueberry-tissue)|Resource|1.0 kg|
 |[Cabbage Tissue](/docs/definitions/resource/cabbage-tissue)|Resource|1.0 kg|
 |[Cane fiber](/docs/definitions/resource/cane-fiber)|Resource|100.0 kg|
 |[Carrot Tissue](/docs/definitions/resource/carrot-tissue)|Resource|1.0 kg|
 |[Celery Tissue](/docs/definitions/resource/celery-tissue)|Resource|1.0 kg|
 |[Chlorine](/docs/definitions/resource/chlorine)|Resource|50.0 kg|
+|[Cleaning agent](/docs/definitions/resource/cleaning-agent)|Resource|10.0 kg|
 |[Corn Tissue](/docs/definitions/resource/corn-tissue)|Resource|1.0 kg|
 |[Cranberry Tissue](/docs/definitions/resource/cranberry-tissue)|Resource|1.0 kg|
 |[Cucumber Tissue](/docs/definitions/resource/cucumber-tissue)|Resource|1.0 kg|
@@ -115,5 +116,5 @@ hide_summary: true
 
     
 
-{{< definition-tail version="3.9.0" generatedOn="2025-03-08T21:34:45.1684317" >}}
+{{< definition-tail version="3.10.0" generatedOn="2025-10-09T21:45:01.8754429" >}}
 

@@ -26,22 +26,22 @@ hide_summary: true
 ### Parts
 |Part|Number|Default Probability|
 |---|---|---|
-|[Aluminum Wire](/docs/definitions/part/aluminum-wire)|2|5.0|
-|[Carbon Dioxide laser](/docs/definitions/part/carbon-dioxide-laser)|1|5.0|
-|[Electrical Wire](/docs/definitions/part/electrical-wire)|2|25.0|
+|[Aluminum wire](/docs/definitions/part/aluminum-wire)|2|5.0|
+|[Carbon dioxide laser](/docs/definitions/part/carbon-dioxide-laser)|1|5.0|
+|[Electrical wire](/docs/definitions/part/electrical-wire)|2|25.0|
 |[Heat pipe](/docs/definitions/part/heat-pipe)|1|5.0|
-|[Heating Element](/docs/definitions/part/heating-element)|1|5.0|
+|[Heating element](/docs/definitions/part/heating-element)|1|5.0|
 |[Logic board](/docs/definitions/part/logic-board)|1|5.0|
 |[Microcontroller](/docs/definitions/part/microcontroller)|1|1.0|
-|[Optical Lens](/docs/definitions/part/optical-lens)|1|2.0|
-|[Optical Prism](/docs/definitions/part/optical-prism)|1|5.0|
 |[Optical cable](/docs/definitions/part/optical-cable)|1|3.0|
+|[Optical lens](/docs/definitions/part/optical-lens)|1|2.0|
+|[Optical prism](/docs/definitions/part/optical-prism)|1|5.0|
 |[SLS 3D Printer](/docs/definitions/part/sls-3d-printer)|1|1.0|
-|[Stepper Motor](/docs/definitions/part/stepper-motor)|1|5.0|
-|[Timing Belt](/docs/definitions/part/timing-belt)|1|5.0|
+|[Stepper motor](/docs/definitions/part/stepper-motor)|1|5.0|
+|[Timing belt](/docs/definitions/part/timing-belt)|1|5.0|
 |[Ventilation fan](/docs/definitions/part/ventilation-fan)|1|5.0|
-|[Water Pump small](/docs/definitions/part/water-pump-small)|1|5.0|
-|[Wire Connector](/docs/definitions/part/wire-connector)|2|20.0|
+|[Water pump small](/docs/definitions/part/water-pump-small)|1|5.0|
+|[Wire connector](/docs/definitions/part/wire-connector)|2|20.0|
 
 ## Impacts
 
@@ -54,5 +54,5 @@ hide_summary: true
 |---|---|
 
 
-{{< definition-tail version="3.9.0" generatedOn="2025-03-08T21:34:45.1684317" >}}
+{{< definition-tail version="3.10.0" generatedOn="2025-10-09T21:45:01.8754429" >}}
 

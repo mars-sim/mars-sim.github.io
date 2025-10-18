@@ -1,6 +1,6 @@
 ---
-title: Part - Vehicle Chassis Panel
-linkTitle: Vehicle Chassis Panel
+title: Part - Vehicle chassis panel
+linkTitle: Vehicle chassis panel
 toc_hide: true
 hide_summary: true
 ---
@@ -19,7 +19,7 @@ Reinforced fiberglass panels.
 ## Made by Manufacturing Process
 
 - [Manufacture vehicle chassis panel](/docs/definitions/process/manufacture-vehicle-chassis-panel)
-- [Manufacture vehicle chassis panel with Polycarbonate Resin](/docs/definitions/process/manufacture-vehicle-chassis-panel-with-polycarbonate-resin)
+- [Manufacture vehicle chassis panel with Polycarbonate resin](/docs/definitions/process/manufacture-vehicle-chassis-panel-with-polycarbonate-resin)
 
 ## Used by Manufacturing Process
 
@@ -30,7 +30,7 @@ Reinforced fiberglass panels.
 
 
 
-{{< definition-tail version="3.9.0" generatedOn="2025-03-08T21:34:45.1684317" >}}
+{{< definition-tail version="3.10.0" generatedOn="2025-10-09T21:45:01.8754429" >}}
 
 
 

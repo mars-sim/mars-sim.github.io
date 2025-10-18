@@ -15,9 +15,9 @@ Saudi Space Agency
 |--------:|:------|
 |Purpose:|Space Sustainability|
 |Objective:|Incentivize private and corporate ownership of properties and resources in space|
-|Findings:|Supports statutes to meet the growing demand for sustainable transporation and logistic needs|
+|Findings:|Support statutes to meet the growing demand for sustainable transporation and logistic needs|
 
-## Targets
+## Goals
 
 Analyze and rank policies for enhancing mass resource utilization
 
@@ -31,5 +31,5 @@ Analyze and rank policies for enhancing mass resource utilization
 * Saudi Arabia
 
 
-{{< definition-tail version="3.9.0" generatedOn="2025-03-08T21:34:45.1684317" >}}
+{{< definition-tail version="3.10.0" generatedOn="2025-10-09T21:45:01.8754429" >}}
 

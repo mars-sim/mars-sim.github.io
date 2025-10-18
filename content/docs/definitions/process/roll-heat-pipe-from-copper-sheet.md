@@ -14,14 +14,16 @@ hide_summary: true
 |Type:|Manufacture|
 |Skill Level:|1|
 |Tech Level:|2|
-|Process Time:|100.0 millisols|
-|Work Level:|100.0 millisols|
+|Process Time:|20.0 millisols|
+|Tooling:|Metalwork|
+|Work Level:|10.0 millisols|
 |Power Required:|1.0 kW/hr|
 
 ## Inputs
 
 | Input      | Amount |
 |--------:|:------|
+|[calcium](/docs/definitions/resource/calcium)|Resource|0.8 kg|
 |[copper sheet](/docs/definitions/part/copper-sheet)|Part|1|
 
 ## Products
@@ -33,7 +35,7 @@ hide_summary: true
 
 
 
-{{< definition-tail version="3.9.0" generatedOn="2025-03-08T21:34:45.1684317" >}}
+{{< definition-tail version="3.10.0" generatedOn="2025-10-09T21:45:01.8754429" >}}
 
 
 

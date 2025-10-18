@@ -17,17 +17,21 @@ An element.
 |Type:|Element|
 |Form:|Solid|
  
+## Made by Manufacturing Process
+
+- [Break down meteorite](/docs/definitions/process/break-down-meteorite)
 
 ## Used by Manufacturing Process
 
 - [Make steel sheet](/docs/definitions/process/make-steel-sheet)
 - [Roll steel sheet](/docs/definitions/process/roll-steel-sheet)
 - [Make ceramic electrolyte](/docs/definitions/process/make-ceramic-electrolyte)
+- [Make ceramic electrolyte with Aluminum oxide](/docs/definitions/process/make-ceramic-electrolyte-with-aluminum-oxide)
 
 
     
 
 
-{{< definition-tail version="3.9.0" generatedOn="2025-03-08T21:34:45.1684317" >}}
+{{< definition-tail version="3.10.0" generatedOn="2025-10-09T21:45:01.8754429" >}}
 
 

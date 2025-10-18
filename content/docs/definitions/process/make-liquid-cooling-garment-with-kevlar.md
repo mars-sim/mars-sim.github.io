@@ -17,6 +17,7 @@ hide_summary: true
 |Skill Level:|2|
 |Tech Level:|2|
 |Process Time:|100.0 millisols|
+|Tooling:|3D Printer|
 |Work Level:|100.0 millisols|
 |Power Required:|0.2 kW/hr|
 
@@ -24,23 +25,23 @@ hide_summary: true
 
 | Input      | Amount |
 |--------:|:------|
-|[Cane Fiber](/docs/definitions/resource/cane-fiber)|Resource|0.5 kg|
+|[Cane Fiber](/docs/definitions/resource/cane-fiber)|Resource|0.2 kg|
 |[Kevlar](/docs/definitions/resource/kevlar)|Resource|0.2 kg|
-|[Paraffin Composites](/docs/definitions/resource/paraffin-composites)|Resource|0.15 kg|
+|[Paraffin composites](/docs/definitions/resource/paraffin-composites)|Resource|0.15 kg|
+|[Plastic tubing](/docs/definitions/part/plastic-tubing)|Part|3|
 |[Polypropylene](/docs/definitions/resource/polypropylene)|Resource|0.1 kg|
-|[Thermoplastic Elastomer](/docs/definitions/resource/thermoplastic-elastomer)|Resource|0.4 kg|
-|[plastic tubing](/docs/definitions/part/plastic-tubing)|Part|3|
+|[Thermoplastic elastomer](/docs/definitions/resource/thermoplastic-elastomer)|Resource|0.4 kg|
 
 ## Products
 
 
 | Produce      | Amount |
 |--------:|:------|
-|[Liquid Cooling Garment](/docs/definitions/part/liquid-cooling-garment)|1|
+|[Liquid cooling garment](/docs/definitions/part/liquid-cooling-garment)|1|
 
 
 
-{{< definition-tail version="3.9.0" generatedOn="2025-03-08T21:34:45.1684317" >}}
+{{< definition-tail version="3.10.0" generatedOn="2025-10-09T21:45:01.8754429" >}}
 
 
 

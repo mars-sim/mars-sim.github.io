@@ -23,36 +23,42 @@ no description available.
 ## Used by Manufacturing Process
 
 - [Make satellite dish](/docs/definitions/process/make-satellite-dish)
-- [Make satellite dish with polycarbonate resin](/docs/definitions/process/make-satellite-dish-with-polycarbonate-resin)
+- [Make satellite dish with Polycarbonate resin](/docs/definitions/process/make-satellite-dish-with-polycarbonate-resin)
 - [Make radio antenna](/docs/definitions/process/make-radio-antenna)
-- [Make radio antenna with Polycarbonate Resin](/docs/definitions/process/make-radio-antenna-with-polycarbonate-resin)
+- [Make radio antenna with Polycarbonate resin](/docs/definitions/process/make-radio-antenna-with-polycarbonate-resin)
 - [Weave fiberglass cloth](/docs/definitions/process/weave-fiberglass-cloth)
 - [Make EVA gloves](/docs/definitions/process/make-eva-gloves)
-- [Make EVA gloves with Polyester Fiber](/docs/definitions/process/make-eva-gloves-with-polyester-fiber)
+- [Make EVA gloves with Soy fiber](/docs/definitions/process/make-eva-gloves-with-soy-fiber)
+- [Make EVA gloves with Polyester fiber](/docs/definitions/process/make-eva-gloves-with-polyester-fiber)
 - [Make EVA boots](/docs/definitions/process/make-eva-boots)
-- [Make EVA boots with Polyester Fiber](/docs/definitions/process/make-eva-boots-with-polyester-fiber)
+- [Make EVA boots with Soy fiber](/docs/definitions/process/make-eva-boots-with-soy-fiber)
+- [Make EVA boots with Polyester fiber](/docs/definitions/process/make-eva-boots-with-polyester-fiber)
 - [Make EVA pads](/docs/definitions/process/make-eva-pads)
-- [Make EVA pads with Polyester Fiber](/docs/definitions/process/make-eva-pads-with-polyester-fiber)
+- [Make EVA pads with Soy fiber](/docs/definitions/process/make-eva-pads-with-soy-fiber)
+- [Make EVA pads with Polyester fiber](/docs/definitions/process/make-eva-pads-with-polyester-fiber)
 - [Make EVA antenna](/docs/definitions/process/make-eva-antenna)
-- [Make EVA antenna with Polycarbonate Resin](/docs/definitions/process/make-eva-antenna-with-polycarbonate-resin)
+- [Make EVA antenna with Polycarbonate resin](/docs/definitions/process/make-eva-antenna-with-polycarbonate-resin)
 - [Make work gloves](/docs/definitions/process/make-work-gloves)
 - [Make work gloves with Polyester Fiber](/docs/definitions/process/make-work-gloves-with-polyester-fiber)
+- [Make work gloves with Soy fiber](/docs/definitions/process/make-work-gloves-with-soy-fiber)
 - [Manufacture vehicle chassis panel](/docs/definitions/process/manufacture-vehicle-chassis-panel)
-- [Manufacture vehicle chassis panel with Polycarbonate Resin](/docs/definitions/process/manufacture-vehicle-chassis-panel-with-polycarbonate-resin)
+- [Manufacture vehicle chassis panel with Polycarbonate resin](/docs/definitions/process/manufacture-vehicle-chassis-panel-with-polycarbonate-resin)
+- [Manufacture drone chassis panel](/docs/definitions/process/manufacture-drone-chassis-panel)
+- [Manufacture drone chassis panel with Polycarbonate resin](/docs/definitions/process/manufacture-drone-chassis-panel-with-polycarbonate-resin)
 - [Manufacture rover control panel](/docs/definitions/process/manufacture-rover-control-panel)
-- [Manufacture rover control panel with Polycarbonate Resin](/docs/definitions/process/manufacture-rover-control-panel-with-polycarbonate-resin)
+- [Manufacture rover control panel with Polycarbonate resin](/docs/definitions/process/manufacture-rover-control-panel-with-polycarbonate-resin)
 - [Manufacture rover control panel with Polypropylene](/docs/definitions/process/manufacture-rover-control-panel-with-polypropylene)
 - [Manufacture utility vehicle control panel](/docs/definitions/process/manufacture-utility-vehicle-control-panel)
-- [Manufacture utility vehicle control panel with Polycarbonate Resin](/docs/definitions/process/manufacture-utility-vehicle-control-panel-with-polycarbonate-resin)
+- [Manufacture utility vehicle control panel with Polycarbonate resin](/docs/definitions/process/manufacture-utility-vehicle-control-panel-with-polycarbonate-resin)
 - [Manufacture utility vehicle control panel with Polypropylene](/docs/definitions/process/manufacture-utility-vehicle-control-panel-with-polypropylene)
 - [Fabricate turbine blade](/docs/definitions/process/fabricate-turbine-blade)
-- [Fabricate turbine blade with Polycarbonate Resin](/docs/definitions/process/fabricate-turbine-blade-with-polycarbonate-resin)
+- [Fabricate turbine blade with Polycarbonate resin](/docs/definitions/process/fabricate-turbine-blade-with-polycarbonate-resin)
 - [Fabricate solar panel](/docs/definitions/process/fabricate-solar-panel)
 - [Manufacture SLS 3D Printer](/docs/definitions/process/manufacture-sls-3d-printer)
 
 
 
-{{< definition-tail version="3.9.0" generatedOn="2025-03-08T21:34:45.1684317" >}}
+{{< definition-tail version="3.10.0" generatedOn="2025-10-09T21:45:01.8754429" >}}
 
 
 

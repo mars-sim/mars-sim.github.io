@@ -14,15 +14,16 @@ hide_summary: true
 |Type:|Manufacture|
 |Skill Level:|0|
 |Tech Level:|0|
-|Process Time:|10.0 millisols|
-|Work Level:|10.0 millisols|
+|Process Time:|5.0 millisols|
+|Tooling:|Furnace|
+|Work Level:|2.0 millisols|
 |Power Required:|0.3 kW/hr|
 
 ## Inputs
 
 | Input      | Amount |
 |--------:|:------|
-|[aluminum scrap](/docs/definitions/part/aluminum-scrap)|Part|1|
+|[aluminum scrap](/docs/definitions/part/aluminum-scrap)|Part|5|
 
 ## Products
 
@@ -33,7 +34,7 @@ hide_summary: true
 
 
 
-{{< definition-tail version="3.9.0" generatedOn="2025-03-08T21:34:45.1684317" >}}
+{{< definition-tail version="3.10.0" generatedOn="2025-10-09T21:45:01.8754429" >}}
 
 
 

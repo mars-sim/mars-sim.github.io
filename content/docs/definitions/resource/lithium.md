@@ -17,6 +17,9 @@ An element.
 |Type:|Element|
 |Form:|Solid|
  
+## Made by Manufacturing Process
+
+- [Break down meteorite](/docs/definitions/process/break-down-meteorite)
 
 ## Used by Manufacturing Process
 
@@ -25,12 +28,14 @@ An element.
 - [Manufacture EVA battery](/docs/definitions/process/manufacture-eva-battery)
 - [Manufacture EVA battery with Polypropylene](/docs/definitions/process/manufacture-eva-battery-with-polypropylene)
 - [Make methane solid oxide fuel cells](/docs/definitions/process/make-methane-solid-oxide-fuel-cells)
+- [Make methane solid oxide fuel cells with Aluminum oxide](/docs/definitions/process/make-methane-solid-oxide-fuel-cells-with-aluminum-oxide)
 - [Make methanol fuel cells](/docs/definitions/process/make-methanol-fuel-cells)
+- [Make methanol fuel cells with Aluminum oxide](/docs/definitions/process/make-methanol-fuel-cells-with-aluminum-oxide)
 
 
     
 
 
-{{< definition-tail version="3.9.0" generatedOn="2025-03-08T21:34:45.1684317" >}}
+{{< definition-tail version="3.10.0" generatedOn="2025-10-09T21:45:01.8754429" >}}
 
 

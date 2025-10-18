@@ -1,6 +1,6 @@
 ---
-title: Manufacturing Process - Make biosensor with Polyester Fiber
-linkTitle: Make biosensor with Polyester Fiber
+title: Manufacturing Process - Make biosensor with Polyester fiber
+linkTitle: Make biosensor with Polyester fiber
 toc_hide: true
 hide_summary: true
 ---
@@ -15,6 +15,7 @@ hide_summary: true
 |Skill Level:|3|
 |Tech Level:|3|
 |Process Time:|20.0 millisols|
+|Tooling:|Soldering|
 |Work Level:|80.0 millisols|
 |Power Required:|0.01 kW/hr|
 
@@ -23,7 +24,7 @@ hide_summary: true
 | Input      | Amount |
 |--------:|:------|
 |[CMOS sensor](/docs/definitions/part/cmos-sensor)|Part|1|
-|[Polyester Fiber](/docs/definitions/resource/polyester-fiber)|Resource|0.1 kg|
+|[Polyester fiber](/docs/definitions/resource/polyester-fiber)|Resource|0.05 kg|
 |[electrical wire](/docs/definitions/part/electrical-wire)|Part|3|
 |[logic board](/docs/definitions/part/logic-board)|Part|1|
 
@@ -36,7 +37,7 @@ hide_summary: true
 
 
 
-{{< definition-tail version="3.9.0" generatedOn="2025-03-08T21:34:45.1684317" >}}
+{{< definition-tail version="3.10.0" generatedOn="2025-10-09T21:45:01.8754429" >}}
 
 
 

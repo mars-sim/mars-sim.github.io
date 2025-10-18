@@ -15,6 +15,7 @@ hide_summary: true
 |Skill Level:|2|
 |Tech Level:|2|
 |Process Time:|200.0 millisols|
+|Tooling:|3D Printer|
 |Work Level:|200.0 millisols|
 |Power Required:|0.1 kW/hr|
 
@@ -23,9 +24,9 @@ hide_summary: true
 | Input      | Amount |
 |--------:|:------|
 |[aluminum oxide](/docs/definitions/resource/aluminum-oxide)|Resource|0.5 kg|
-|[copper](/docs/definitions/resource/copper)|Resource|2.0 kg|
-|[iron powder](/docs/definitions/resource/iron-powder)|Resource|2.0 kg|
-|[lime](/docs/definitions/resource/lime)|Resource|2.0 kg|
+|[copper](/docs/definitions/resource/copper)|Resource|1.0 kg|
+|[iron powder](/docs/definitions/resource/iron-powder)|Resource|1.0 kg|
+|[lime](/docs/definitions/resource/lime)|Resource|1.0 kg|
 |[steel ingot](/docs/definitions/part/steel-ingot)|Part|1|
 
 ## Products
@@ -33,11 +34,11 @@ hide_summary: true
 
 | Produce      | Amount |
 |--------:|:------|
-|[spark plug](/docs/definitions/part/spark-plug)|100|
+|[spark plug](/docs/definitions/part/spark-plug)|50|
 
 
 
-{{< definition-tail version="3.9.0" generatedOn="2025-03-08T21:34:45.1684317" >}}
+{{< definition-tail version="3.10.0" generatedOn="2025-10-09T21:45:01.8754429" >}}
 
 
 

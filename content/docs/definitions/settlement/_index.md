@@ -13,81 +13,118 @@ description: Settlement templates that can be used in a Scenario
 Grouped by Sponsor.
 
 ### AEB {#A-aeb}
+Agencia Espacial Brasileira
 
 - [Phase 1-BR](../settlement/phase-1-br)
 
+### ASI {#A-asi}
+Agenzia Spaziale Italiana
+
+- [Phase 1-IT](../settlement/phase-1-it)
+
 ### BO {#A-bo}
+Blue Origin
 
 - [Phase 0-BO](../settlement/phase-0-bo)
 - [Phase 2-BO](../settlement/phase-2-bo)
 
 ### CNSA {#A-cnsa}
+China National Space Administration
 
 - [Phase 1-CN](../settlement/phase-1-cn)
 - [Phase 2-CN](../settlement/phase-2-cn)
 - [Phase 3-CN](../settlement/phase-3-cn)
 
+### DLR {#A-dlr}
+Deutsches Zentrum für Luft- und Raumfahrt
+
+- [Phase 1-DE](../settlement/phase-1-de)
+
 ### ESA {#A-esa}
+European Space Agency
 
 - [Phase 2-EU](../settlement/phase-2-eu)
 
 ### ISRA {#A-isra}
+International Space Research Alliance
 
 - [Phase 0-ISRA](../settlement/phase-0-isra)
 - [Phase 3-ISRA](../settlement/phase-3-isra)
 
 ### ISRO {#A-isro}
+The Indian Space Research Organisation
 
 - [Phase 1-IN](../settlement/phase-1-in)
 - [Phase 2-IN](../settlement/phase-2-in)
 - [Phase 3-IN](../settlement/phase-3-in)
 
 ### JAXA {#A-jaxa}
+Japan Aerospace Exploration Agency
 
 - [Phase 2-JP](../settlement/phase-2-jp)
 
 ### KASA {#A-kasa}
+Korea Aerospace Administration
 
 - [Phase 2-KR](../settlement/phase-2-kr)
 
 ### MS {#A-ms}
+Mars Society
 
-- [Alpha Base](../settlement/alpha-base)
+- [Alpha Base 2](../settlement/alpha-base-2)
 - [Hub Base](../settlement/hub-base)
 - [Mining Outpost](../settlement/mining-outpost)
 - [Phase 0-MS](../settlement/phase-0-ms)
 - [Phase 1-MS](../settlement/phase-1-ms)
 - [Phase 2-MS](../settlement/phase-2-ms)
 - [Phase 3-MS](../settlement/phase-3-ms)
+- [Sector Base 1](../settlement/sector-base-1)
 - [Trading Outpost](../settlement/trading-outpost)
 
 ### NASA {#A-nasa}
+National Aeronautics and Space Administration
 
+- [Phase 0-US](../settlement/phase-0-us)
 - [Phase 1-US](../settlement/phase-1-us)
 - [Phase 2-US](../settlement/phase-2-us)
 - [Phase 3-US](../settlement/phase-3-us)
 
 ### RKA {#A-rka}
+Roscosmos
 
+- [Alpha Base 1](../settlement/alpha-base-1)
 - [Phase 1-RU](../settlement/phase-1-ru)
 - [Phase 2-RU](../settlement/phase-2-ru)
 - [Phase 2-SX](../settlement/phase-2-sx)
 - [Phase 3-RU](../settlement/phase-3-ru)
 
 ### SPACEX {#A-spacex}
+Space Exploration Technologies Corporation
 
 - [Phase 1-SX](../settlement/phase-1-sx)
 - [Phase 3-SX](../settlement/phase-3-sx)
 
 ### SSA {#A-ssa}
+Saudi Space Agency
 
 - [Phase 1-SA](../settlement/phase-1-sa)
 
+### TASA {#A-tasa}
+Taiwan Space Agency
+
+- [Phase 1-TW](../settlement/phase-1-tw)
+
 ### UAESA {#A-uaesa}
+United Arab Emirates Space Agency
 
 - [Phase 0-AE](../settlement/phase-0-ae)
 
+### UKSA {#A-uksa}
+United Kingdom Space Agency
+
+- [Phase 1-UK](../settlement/phase-1-uk)
 
 
-{{< definition-tail version="3.9.0" generatedOn="2025-03-08T21:34:45.1684317" >}}
+
+{{< definition-tail version="3.10.0" generatedOn="2025-10-09T21:45:01.8754429" >}}
 

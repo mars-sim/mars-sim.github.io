@@ -1,6 +1,6 @@
 ---
-title: Part - Semiconductor Wafer
-linkTitle: Semiconductor Wafer
+title: Part - Semiconductor wafer
+linkTitle: Semiconductor wafer
 toc_hide: true
 hide_summary: true
 ---
@@ -29,10 +29,11 @@ no description available.
 - [Manufacture carbon dioxide laser](/docs/definitions/process/manufacture-carbon-dioxide-laser)
 - [Manufacture helium neon laser](/docs/definitions/process/manufacture-helium-neon-laser)
 - [Manufacture logic board](/docs/definitions/process/manufacture-logic-board)
+- [Manufacture logic board with Aluminum oxide](/docs/definitions/process/manufacture-logic-board-with-aluminum-oxide)
 
 
 
-{{< definition-tail version="3.9.0" generatedOn="2025-03-08T21:34:45.1684317" >}}
+{{< definition-tail version="3.10.0" generatedOn="2025-10-09T21:45:01.8754429" >}}
 
 
 

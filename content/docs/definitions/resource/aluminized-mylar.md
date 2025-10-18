@@ -20,19 +20,22 @@ hide_summary: true
 ## Made by Manufacturing Process
 
 - [Roll aluminized mylar foil](/docs/definitions/process/roll-aluminized-mylar-foil)
+- [Roll aluminized mylar foil with Aluminum oxide](/docs/definitions/process/roll-aluminized-mylar-foil-with-aluminum-oxide)
 
 ## Used by Manufacturing Process
 
 - [Make EVA helmet](/docs/definitions/process/make-eva-helmet)
-- [Make EVA helmet with Polyester Fiber](/docs/definitions/process/make-eva-helmet-with-polyester-fiber)
 - [Make EVA helmet with Polypropylene](/docs/definitions/process/make-eva-helmet-with-polypropylene)
+- [Make EVA helmet with Soy fiber](/docs/definitions/process/make-eva-helmet-with-soy-fiber)
+- [Make EVA helmet with Polyester fiber](/docs/definitions/process/make-eva-helmet-with-polyester-fiber)
 - [Make coveralls](/docs/definitions/process/make-coveralls)
 - [Make coveralls with Polyester Fiber](/docs/definitions/process/make-coveralls-with-polyester-fiber)
+- [Make coveralls with Soy fiber](/docs/definitions/process/make-coveralls-with-soy-fiber)
 
 
     
 
 
-{{< definition-tail version="3.9.0" generatedOn="2025-03-08T21:34:45.1684317" >}}
+{{< definition-tail version="3.10.0" generatedOn="2025-10-09T21:45:01.8754429" >}}
 
 

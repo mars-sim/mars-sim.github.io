@@ -12,7 +12,7 @@ hide_summary: true
 |--------:|:------|
 |Process Time:|200 millisols|
 |Work Time:|10 millisols|
-|Power Required:|1.3 kW/hr|
+|Power Required:|0.1 kW/hr|
 |Start On:|false|
 
 ## Inputs
@@ -26,16 +26,17 @@ Ambient inputs are consumed from the environment.
 ## Outputs
 | Name      | Output Rate (kg/sol) | Waste Output |
 |--------:|:------|-----:|:----|
-|[Iron oxide](/docs/definitions/resource/iron-oxide)|20.0|false|
-|[Titanium](/docs/definitions/resource/titanium)|1.0|false|
 |[Iron powder](/docs/definitions/resource/iron-powder)|1.0|false|
+|[Iron oxide](/docs/definitions/resource/iron-oxide)|18.0|false|
+|[Titanium](/docs/definitions/resource/titanium)|2.0|false|
+|[Nickel](/docs/definitions/resource/nickel)|2.0|false|
 |[Oxygen](/docs/definitions/resource/oxygen)|2.0|false|
 |[Carbon dioxide](/docs/definitions/resource/carbon-dioxide)|0.5|false|
 
 Waste outputs are released into the environment and do not need to be stored.
 
 
-{{< definition-tail version="3.9.0" generatedOn="2025-03-08T21:34:45.1684317" >}}
+{{< definition-tail version="3.10.0" generatedOn="2025-10-09T21:45:01.8754429" >}}
 
 
 

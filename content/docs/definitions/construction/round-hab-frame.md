@@ -20,21 +20,21 @@ hide_summary: true
 | Name | Type | Quantity |
 |:-----|:-----|-----:|
 |[Acetylene](/docs/definitions/resource/acetylene)|Resource|2.0 kg|
-|[Aluminum Sheet](/docs/definitions/part/aluminum-sheet)|Part|10|
+|[Aluminum sheet](/docs/definitions/part/aluminum-sheet)|Part|10|
 |[Concrete](/docs/definitions/resource/concrete)|Resource|81.0 kg|
-|[Electrical Wire](/docs/definitions/part/electrical-wire)|Part|200|
+|[Electrical wire](/docs/definitions/part/electrical-wire)|Part|200|
 |[Gasket](/docs/definitions/part/gasket)|Part|40|
 |[Insulation board](/docs/definitions/part/insulation-board)|Part|10|
-|[Plastic Pipe](/docs/definitions/part/plastic-pipe)|Part|50|
-|[Plastic Sheet](/docs/definitions/part/plastic-sheet)|Part|20|
-|[Power Cable](/docs/definitions/part/power-cable)|Part|20|
-|[Solar Panel](/docs/definitions/part/solar-panel)|Part|4|
-|[Steel Pipe](/docs/definitions/part/steel-pipe)|Part|40|
-|[Steel Post](/docs/definitions/part/steel-post)|Part|8|
-|[Steel Sheet](/docs/definitions/part/steel-sheet)|Part|10|
-|[Steel Truss](/docs/definitions/part/steel-truss)|Part|20|
+|[Plastic pipe](/docs/definitions/part/plastic-pipe)|Part|50|
+|[Plastic sheet](/docs/definitions/part/plastic-sheet)|Part|20|
+|[Power cable](/docs/definitions/part/power-cable)|Part|20|
+|[Solar panel](/docs/definitions/part/solar-panel)|Part|4|
+|[Steel pipe](/docs/definitions/part/steel-pipe)|Part|40|
+|[Steel post](/docs/definitions/part/steel-post)|Part|8|
+|[Steel sheet](/docs/definitions/part/steel-sheet)|Part|10|
+|[Steel truss](/docs/definitions/part/steel-truss)|Part|20|
 |[Valve](/docs/definitions/part/valve)|Part|10|
-|[Wire Connector](/docs/definitions/part/wire-connector)|Part|200|
+|[Wire connector](/docs/definitions/part/wire-connector)|Part|200|
 
 ## Later Stages
 - [Residential Hab](/docs/definitions/construction/residential-hab)
@@ -46,5 +46,5 @@ hide_summary: true
 
 
 
-{{< definition-tail version="3.9.0" generatedOn="2025-03-08T21:34:45.1684317" >}}
+{{< definition-tail version="3.10.0" generatedOn="2025-10-09T21:45:01.8754429" >}}
 

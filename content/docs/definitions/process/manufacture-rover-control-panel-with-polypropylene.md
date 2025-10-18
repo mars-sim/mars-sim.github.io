@@ -15,6 +15,7 @@ hide_summary: true
 |Skill Level:|3|
 |Tech Level:|2|
 |Process Time:|200.0 millisols|
+|Tooling:|Soldering|
 |Work Level:|200.0 millisols|
 |Power Required:|1.0 kW/hr|
 
@@ -22,7 +23,7 @@ hide_summary: true
 
 | Input      | Amount |
 |--------:|:------|
-|[Polyester Resin](/docs/definitions/resource/polyester-resin)|Resource|5.0 kg|
+|[Polyester resin](/docs/definitions/resource/polyester-resin)|Resource|5.0 kg|
 |[Polypropylene](/docs/definitions/resource/polypropylene)|Resource|3.0 kg|
 |[communications circuit board](/docs/definitions/part/communications-circuit-board)|Part|1|
 |[electrical wire](/docs/definitions/part/electrical-wire)|Part|4|
@@ -42,7 +43,7 @@ hide_summary: true
 
 
 
-{{< definition-tail version="3.9.0" generatedOn="2025-03-08T21:34:45.1684317" >}}
+{{< definition-tail version="3.10.0" generatedOn="2025-10-09T21:45:01.8754429" >}}
 
 
 

@@ -14,7 +14,8 @@ hide_summary: true
 |Type:|Manufacture|
 |Skill Level:|2|
 |Tech Level:|3|
-|Process Time:|100.0 millisols|
+|Process Time:|50.0 millisols|
+|Tooling:|Soldering|
 |Work Level:|200.0 millisols|
 |Power Required:|1.0 kW/hr|
 
@@ -28,6 +29,7 @@ hide_summary: true
 |[diode](/docs/definitions/part/diode)|Part|10|
 |[heating element](/docs/definitions/part/heating-element)|Part|6|
 |[iron powder](/docs/definitions/resource/iron-powder)|Resource|0.2 kg|
+|[magnesium](/docs/definitions/resource/magnesium)|Resource|0.2 kg|
 |[resistor](/docs/definitions/part/resistor)|Part|10|
 |[steel sheet](/docs/definitions/part/steel-sheet)|Part|1|
 
@@ -40,7 +42,7 @@ hide_summary: true
 
 
 
-{{< definition-tail version="3.9.0" generatedOn="2025-03-08T21:34:45.1684317" >}}
+{{< definition-tail version="3.10.0" generatedOn="2025-10-09T21:45:01.8754429" >}}
 
 
 

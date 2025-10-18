@@ -17,6 +17,15 @@ Organic waste from leftover or expired food.
 |Type:|Waste|
 |Form:|Solid|
  
+## Made by Manufacturing Process
+
+- [Make triglyceride](/docs/definitions/process/make-triglyceride)
+- [Make triglyceride with Garlic oil](/docs/definitions/process/make-triglyceride-with-garlic-oil)
+- [Make triglyceride with Sesame oil](/docs/definitions/process/make-triglyceride-with-sesame-oil)
+- [Make triglyceride with Olive oil](/docs/definitions/process/make-triglyceride-with-olive-oil)
+- [Make triglyceride with Rice bran oil](/docs/definitions/process/make-triglyceride-with-rice-bran-oil)
+- [Make triglyceride with Fish oil](/docs/definitions/process/make-triglyceride-with-fish-oil)
+- [Make triglyceride with Peanut oil](/docs/definitions/process/make-triglyceride-with-peanut-oil)
 
 ## Used by Manufacturing Process
 
@@ -34,6 +43,6 @@ Organic waste from leftover or expired food.
     
 
 
-{{< definition-tail version="3.9.0" generatedOn="2025-03-08T21:34:45.1684317" >}}
+{{< definition-tail version="3.10.0" generatedOn="2025-10-09T21:45:01.8754429" >}}
 
 

@@ -26,11 +26,11 @@ hide_summary: true
 ### Parts
 |Part|Number|Default Probability|
 |---|---|---|
-|[Electrical Wire](/docs/definitions/part/electrical-wire)|2|40.0|
+|[Electrical wire](/docs/definitions/part/electrical-wire)|2|40.0|
 |[Heat pipe](/docs/definitions/part/heat-pipe)|1|10.0|
-|[Plastic Tubing](/docs/definitions/part/plastic-tubing)|2|15.0|
-|[Suit Heating Unit](/docs/definitions/part/suit-heating-unit)|1|5.0|
-|[Wire Connector](/docs/definitions/part/wire-connector)|2|30.0|
+|[Plastic tubing](/docs/definitions/part/plastic-tubing)|2|15.0|
+|[Suit heating unit](/docs/definitions/part/suit-heating-unit)|1|5.0|
+|[Wire connector](/docs/definitions/part/wire-connector)|2|30.0|
 
 ## Impacts
 
@@ -44,5 +44,5 @@ hide_summary: true
 |Temperature|-0.1|
 
 
-{{< definition-tail version="3.9.0" generatedOn="2025-03-08T21:34:45.1684317" >}}
+{{< definition-tail version="3.10.0" generatedOn="2025-10-09T21:45:01.8754429" >}}
 

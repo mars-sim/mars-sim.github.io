@@ -1,6 +1,6 @@
 ---
-title: Part - Wire Connector
-linkTitle: Wire Connector
+title: Part - Wire connector
+linkTitle: Wire connector
 toc_hide: true
 hide_summary: true
 ---
@@ -24,29 +24,35 @@ no description available.
 ## Used by Manufacturing Process
 
 - [Make satellite dish](/docs/definitions/process/make-satellite-dish)
-- [Make satellite dish with polycarbonate resin](/docs/definitions/process/make-satellite-dish-with-polycarbonate-resin)
+- [Make satellite dish with Polycarbonate resin](/docs/definitions/process/make-satellite-dish-with-polycarbonate-resin)
 - [Make radio antenna](/docs/definitions/process/make-radio-antenna)
-- [Make radio antenna with Polycarbonate Resin](/docs/definitions/process/make-radio-antenna-with-polycarbonate-resin)
+- [Make radio antenna with Polycarbonate resin](/docs/definitions/process/make-radio-antenna-with-polycarbonate-resin)
 - [Make suit heating unit](/docs/definitions/process/make-suit-heating-unit)
 - [Make EVA helmet](/docs/definitions/process/make-eva-helmet)
-- [Make EVA helmet with Polyester Fiber](/docs/definitions/process/make-eva-helmet-with-polyester-fiber)
 - [Make EVA helmet with Polypropylene](/docs/definitions/process/make-eva-helmet-with-polypropylene)
+- [Make EVA helmet with Soy fiber](/docs/definitions/process/make-eva-helmet-with-soy-fiber)
+- [Make EVA helmet with Polyester fiber](/docs/definitions/process/make-eva-helmet-with-polyester-fiber)
 - [Make EVA backpack](/docs/definitions/process/make-eva-backpack)
-- [Make EVA backpack with Polyester Fiber](/docs/definitions/process/make-eva-backpack-with-polyester-fiber)
 - [Make EVA backpack with Polypropylene](/docs/definitions/process/make-eva-backpack-with-polypropylene)
+- [Make EVA backpack with Soy fiber](/docs/definitions/process/make-eva-backpack-with-soy-fiber)
+- [Make EVA backpack with Polyester fiber](/docs/definitions/process/make-eva-backpack-with-polyester-fiber)
 - [Make EVA antenna](/docs/definitions/process/make-eva-antenna)
-- [Make EVA antenna with Polycarbonate Resin](/docs/definitions/process/make-eva-antenna-with-polycarbonate-resin)
+- [Make EVA antenna with Polycarbonate resin](/docs/definitions/process/make-eva-antenna-with-polycarbonate-resin)
+- [Assemble a RepairBot](/docs/definitions/process/assemble-a-repairbot)
 - [Assemble EVA suit](/docs/definitions/process/assemble-eva-suit)
 - [Manufacture turbine generator](/docs/definitions/process/manufacture-turbine-generator)
+- [Manufacture Gearbox](/docs/definitions/process/manufacture-gearbox)
+- [Manufacture Actuator](/docs/definitions/process/manufacture-actuator)
+- [Manufacture Servo Motor](/docs/definitions/process/manufacture-servo-motor)
 - [Manufacture Stepper Motor](/docs/definitions/process/manufacture-stepper-motor)
 - [Manufacture 5 kW Motor](/docs/definitions/process/manufacture-5-kw-motor)
 - [Manufacture 10 kW Motor](/docs/definitions/process/manufacture-10-kw-motor)
 - [Manufacture 30 kW Motor](/docs/definitions/process/manufacture-30-kw-motor)
 - [Manufacture rover control panel](/docs/definitions/process/manufacture-rover-control-panel)
-- [Manufacture rover control panel with Polycarbonate Resin](/docs/definitions/process/manufacture-rover-control-panel-with-polycarbonate-resin)
+- [Manufacture rover control panel with Polycarbonate resin](/docs/definitions/process/manufacture-rover-control-panel-with-polycarbonate-resin)
 - [Manufacture rover control panel with Polypropylene](/docs/definitions/process/manufacture-rover-control-panel-with-polypropylene)
 - [Manufacture utility vehicle control panel](/docs/definitions/process/manufacture-utility-vehicle-control-panel)
-- [Manufacture utility vehicle control panel with Polycarbonate Resin](/docs/definitions/process/manufacture-utility-vehicle-control-panel-with-polycarbonate-resin)
+- [Manufacture utility vehicle control panel with Polycarbonate resin](/docs/definitions/process/manufacture-utility-vehicle-control-panel-with-polycarbonate-resin)
 - [Manufacture utility vehicle control panel with Polypropylene](/docs/definitions/process/manufacture-utility-vehicle-control-panel-with-polypropylene)
 - [Make fuel pump](/docs/definitions/process/make-fuel-pump)
 - [Make oxygen pump](/docs/definitions/process/make-oxygen-pump)
@@ -94,7 +100,7 @@ no description available.
 
 
 
-{{< definition-tail version="3.9.0" generatedOn="2025-03-08T21:34:45.1684317" >}}
+{{< definition-tail version="3.10.0" generatedOn="2025-10-09T21:45:01.8754429" >}}
 
 
 

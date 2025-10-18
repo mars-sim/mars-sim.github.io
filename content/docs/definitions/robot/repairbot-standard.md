@@ -19,8 +19,8 @@ A robot that fix and repair parts and equipment.
 |Carry Capacity:|15.0 kg|
 |Mass:|100 kg|
 |Height:|150 cm|
-|Power Consumption:|1.0 kWH|
-|Power Consumption (standby):|0.05 kWH|
+|Power Consumption:|0.45 kWH|
+|Power Consumption (standby):|0.1 kWH|
 |Low Power Threshold:|20.0 %|
 
 ## Skills
@@ -37,8 +37,8 @@ A robot that fix and repair parts and equipment.
 |Endurance|95|
 |Experience Aptitude|95|
 |Strength|95|
-|Teaching|50|
+|Teaching|30|
 
 
-{{< definition-tail version="3.9.0" generatedOn="2025-03-08T21:34:45.1684317" >}}
+{{< definition-tail version="3.10.0" generatedOn="2025-10-09T21:45:01.8754429" >}}
 

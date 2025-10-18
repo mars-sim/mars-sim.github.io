@@ -20,6 +20,7 @@ An element.
 ## Made by Manufacturing Process
 
 - [Purify rock salt into compounds](/docs/definitions/process/purify-rock-salt-into-compounds)
+- [Break down meteorite](/docs/definitions/process/break-down-meteorite)
 
 ## Used by Manufacturing Process
 
@@ -35,7 +36,22 @@ An element.
 - [Make crop fertilizers with Crop Waste](/docs/definitions/process/make-crop-fertilizers-with-crop-waste)
 - [Make crop fertilizers with Nitrite](/docs/definitions/process/make-crop-fertilizers-with-nitrite)
 - [Make crop fertilizers with hydrogen](/docs/definitions/process/make-crop-fertilizers-with-hydrogen)
+- [Make small wheels](/docs/definitions/process/make-small-wheels)
+- [Make rover wheels](/docs/definitions/process/make-rover-wheels)
+- [Make small vehicle frame](/docs/definitions/process/make-small-vehicle-frame)
+- [Make large vehicle frame](/docs/definitions/process/make-large-vehicle-frame)
+- [Make winch](/docs/definitions/process/make-winch)
+- [Make socket wrench](/docs/definitions/process/make-socket-wrench)
+- [Make pipe wrench](/docs/definitions/process/make-pipe-wrench)
+- [Make Gears](/docs/definitions/process/make-gears)
+- [Manufacture Gearbox](/docs/definitions/process/manufacture-gearbox)
+- [Manufacture Actuator](/docs/definitions/process/manufacture-actuator)
 - [Make heating element](/docs/definitions/process/make-heating-element)
+- [Fabricate solar panel](/docs/definitions/process/fabricate-solar-panel)
+- [Manufacture logic board](/docs/definitions/process/manufacture-logic-board)
+- [Manufacture logic board with Aluminum oxide](/docs/definitions/process/manufacture-logic-board-with-aluminum-oxide)
+- [Manufacture plasma cutter](/docs/definitions/process/manufacture-plasma-cutter)
+- [Manufacture plasma cutter with Aluminum oxide](/docs/definitions/process/manufacture-plasma-cutter-with-aluminum-oxide)
 
 
 ## Made by Food Process
@@ -49,6 +65,6 @@ An element.
 
 
 
-{{< definition-tail version="3.9.0" generatedOn="2025-03-08T21:34:45.1684317" >}}
+{{< definition-tail version="3.10.0" generatedOn="2025-10-09T21:45:01.8754429" >}}
 
 

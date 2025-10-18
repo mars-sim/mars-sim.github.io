@@ -10,11 +10,11 @@ hide_summary: true
 
 | Attribute      | Value |
 |--------:|:------|
-|Category:|Flowers|
+|Category:|Seeds|
 |Produce:|[Sesame](/docs/definitions/resource/sesame)|
 |Growing Time:|50 sols|
-|Edible Biomass:|7.2 g per m2|
-|Inedible Biomass:|15.0 g per m2|
+|Edible Biomass:|0.35 g per m2|
+|Inedible Biomass:|6.5 g per m2|
 |Light Demands:|17.28 PAR per sol|
 
 ## Phases
@@ -24,11 +24,15 @@ hide_summary: true
 |Incubation|1.0|0.0|
 |Planting|0.5|1.0|
 |Germination|1.0|5.0|
-|Growing|1.0|79.0|
-|Maturation|1.0|10.0|
+|Seedling Development|1.0|25.0|
+|Vegetative Growth|1.0|45.0|
+|Flowering|1.0|10.0|
+|Seed Head Development|1.0|4.0|
+|Seed Growing|1.0|4.0|
+|Dispersing Seeds|1.0|1.0|
 |Harvesting|0.5|5.0|
 |Finished|0.5|0.0|
 
 
-{{< definition-tail version="3.9.0" generatedOn="2025-03-08T21:34:45.1684317" >}}
+{{< definition-tail version="3.10.0" generatedOn="2025-10-09T21:45:01.8754429" >}}
 

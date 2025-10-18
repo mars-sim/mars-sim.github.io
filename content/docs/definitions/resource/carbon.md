@@ -34,7 +34,9 @@ Carbon powder
 - [Make activated charcoal](/docs/definitions/process/make-activated-charcoal)
 - [Produce bisphenol-a](/docs/definitions/process/produce-bisphenol-a)
 - [Manufacture resistors](/docs/definitions/process/manufacture-resistors)
+- [Manufacture resistors with Aluminum oxide](/docs/definitions/process/manufacture-resistors-with-aluminum-oxide)
 - [Manufacture capacitors](/docs/definitions/process/manufacture-capacitors)
+- [Manufacture capacitors with Aluminum oxide](/docs/definitions/process/manufacture-capacitors-with-aluminum-oxide)
 - [Make wheelbarrow](/docs/definitions/process/make-wheelbarrow)
 - [Make Thermoplastic Elastomer](/docs/definitions/process/make-thermoplastic-elastomer)
 - [Make Silicone Elastomer](/docs/definitions/process/make-silicone-elastomer)
@@ -43,6 +45,6 @@ Carbon powder
     
 
 
-{{< definition-tail version="3.9.0" generatedOn="2025-03-08T21:34:45.1684317" >}}
+{{< definition-tail version="3.10.0" generatedOn="2025-10-09T21:45:01.8754429" >}}
 
 

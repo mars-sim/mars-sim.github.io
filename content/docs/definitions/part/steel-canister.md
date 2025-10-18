@@ -1,6 +1,6 @@
 ---
-title: Part - Steel Canister
-linkTitle: Steel Canister
+title: Part - Steel canister
+linkTitle: Steel canister
 toc_hide: true
 hide_summary: true
 ---
@@ -25,12 +25,13 @@ no description available.
 - [Make fire extinguisher](/docs/definitions/process/make-fire-extinguisher)
 - [Make gas canister](/docs/definitions/process/make-gas-canister)
 - [Make EVA backpack](/docs/definitions/process/make-eva-backpack)
-- [Make EVA backpack with Polyester Fiber](/docs/definitions/process/make-eva-backpack-with-polyester-fiber)
 - [Make EVA backpack with Polypropylene](/docs/definitions/process/make-eva-backpack-with-polypropylene)
+- [Make EVA backpack with Soy fiber](/docs/definitions/process/make-eva-backpack-with-soy-fiber)
+- [Make EVA backpack with Polyester fiber](/docs/definitions/process/make-eva-backpack-with-polyester-fiber)
 
 
 
-{{< definition-tail version="3.9.0" generatedOn="2025-03-08T21:34:45.1684317" >}}
+{{< definition-tail version="3.10.0" generatedOn="2025-10-09T21:45:01.8754429" >}}
 
 
 

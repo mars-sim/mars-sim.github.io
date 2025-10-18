@@ -25,11 +25,10 @@ Fiber processed from Sugarcane.
 - [Make Garment](/docs/definitions/process/make-garment)
 - [Make Liquid Cooling Garment](/docs/definitions/process/make-liquid-cooling-garment)
 - [Make Liquid Cooling Garment with Kevlar](/docs/definitions/process/make-liquid-cooling-garment-with-kevlar)
-- [Make Liquid Cooling Garment with Fiber Cloth](/docs/definitions/process/make-liquid-cooling-garment-with-fiber-cloth)
+- [Make Liquid Cooling Garment with Fiber cloth](/docs/definitions/process/make-liquid-cooling-garment-with-fiber-cloth)
 - [Make EVA helmet](/docs/definitions/process/make-eva-helmet)
 - [Make EVA helmet with Polypropylene](/docs/definitions/process/make-eva-helmet-with-polypropylene)
 - [Make pressure suit](/docs/definitions/process/make-pressure-suit)
-- [Make pressure suit with Polycarbonate Resin](/docs/definitions/process/make-pressure-suit-with-polycarbonate-resin)
 - [Make pressure suit with Polypropylene](/docs/definitions/process/make-pressure-suit-with-polypropylene)
 - [Make coveralls](/docs/definitions/process/make-coveralls)
 - [Make EVA gloves](/docs/definitions/process/make-eva-gloves)
@@ -53,6 +52,6 @@ Fiber processed from Sugarcane.
 
 
 
-{{< definition-tail version="3.9.0" generatedOn="2025-03-08T21:34:45.1684317" >}}
+{{< definition-tail version="3.10.0" generatedOn="2025-10-09T21:45:01.8754429" >}}
 
 

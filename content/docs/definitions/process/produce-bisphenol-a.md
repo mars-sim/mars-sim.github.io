@@ -16,7 +16,8 @@ hide_summary: true
 |Type:|Manufacture|
 |Skill Level:|1|
 |Tech Level:|3|
-|Process Time:|600.0 millisols|
+|Process Time:|200.0 millisols|
+|Tooling:|Chemical|
 |Work Level:|100.0 millisols|
 |Power Required:|0.2 kW/hr|
 
@@ -37,7 +38,7 @@ hide_summary: true
 
 
 
-{{< definition-tail version="3.9.0" generatedOn="2025-03-08T21:34:45.1684317" >}}
+{{< definition-tail version="3.10.0" generatedOn="2025-10-09T21:45:01.8754429" >}}
 
 
 

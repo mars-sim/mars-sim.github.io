@@ -13,7 +13,7 @@ hide_summary: true
 |Category:|Roots|
 |Produce:|[Carrot](/docs/definitions/resource/carrot)|
 |Growing Time:|75 sols|
-|Edible Biomass:|40.0 g per m2|
+|Edible Biomass:|12.0 g per m2|
 |Inedible Biomass:|59.87 g per m2|
 |Light Demands:|32.4 PAR per sol|
 
@@ -31,5 +31,5 @@ hide_summary: true
 |Finished|0.5|0.0|
 
 
-{{< definition-tail version="3.9.0" generatedOn="2025-03-08T21:34:45.1684317" >}}
+{{< definition-tail version="3.10.0" generatedOn="2025-10-09T21:45:01.8754429" >}}
 

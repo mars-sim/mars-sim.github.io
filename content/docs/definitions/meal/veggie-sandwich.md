@@ -11,7 +11,7 @@ hide_summary: true
 
 | Attribute   | Value |
 |--------:|:------|
-|Category:|Main Dish|
+|Category:|MAIN|
 |Oil:|0.05 kg|
 |Salt:|0.01 kg|
 
@@ -22,11 +22,12 @@ hide_summary: true
 |[Veggie patty](/docs/definitions/resource/veggie-patty)|0.4|
 |[Wheat bread](/docs/definitions/resource/wheat-bread)|0.15|
 |[Lettuce](/docs/definitions/resource/lettuce)|0.1|
-|[Tomato](/docs/definitions/resource/tomato)|0.1|
+|[Tomato](/docs/definitions/resource/tomato)|0.05|
+|[Microgreens](/docs/definitions/resource/microgreens)|0.05|
 |[Peanut butter](/docs/definitions/resource/peanut-butter)|0.05|
 
 
 
 
-{{< definition-tail version="3.9.0" generatedOn="2025-03-08T21:34:45.1684317" >}}
+{{< definition-tail version="3.10.0" generatedOn="2025-10-09T21:45:01.8754429" >}}
 

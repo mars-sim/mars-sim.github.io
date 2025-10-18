@@ -26,13 +26,13 @@ hide_summary: true
 ### Parts
 |Part|Number|Default Probability|
 |---|---|---|
-|[Electrical Wire](/docs/definitions/part/electrical-wire)|2|40.0|
-|[Light Emitting Diode kit](/docs/definitions/part/light-emitting-diode-kit)|1|10.0|
+|[Electrical wire](/docs/definitions/part/electrical-wire)|2|40.0|
+|[Light emitting diode kit](/docs/definitions/part/light-emitting-diode-kit)|1|10.0|
 |[Logic board](/docs/definitions/part/logic-board)|1|5.0|
 |[Microcontroller](/docs/definitions/part/microcontroller)|1|1.0|
-|[Navigation Circuit Board](/docs/definitions/part/navigation-circuit-board)|1|5.0|
-|[Rover Control Panel](/docs/definitions/part/rover-control-panel)|1|20.0|
-|[Wire Connector](/docs/definitions/part/wire-connector)|2|30.0|
+|[Navigation circuit board](/docs/definitions/part/navigation-circuit-board)|1|5.0|
+|[Rover control panel](/docs/definitions/part/rover-control-panel)|1|20.0|
+|[Wire connector](/docs/definitions/part/wire-connector)|2|30.0|
 
 ## Impacts
 
@@ -45,5 +45,5 @@ hide_summary: true
 |---|---|
 
 
-{{< definition-tail version="3.9.0" generatedOn="2025-03-08T21:34:45.1684317" >}}
+{{< definition-tail version="3.10.0" generatedOn="2025-10-09T21:45:01.8754429" >}}
 

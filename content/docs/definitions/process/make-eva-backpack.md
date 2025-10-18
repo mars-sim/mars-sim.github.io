@@ -17,6 +17,7 @@ Polyethylene box with steel frame and fiberglass cloth straps.
 |Skill Level:|2|
 |Tech Level:|2|
 |Process Time:|100.0 millisols|
+|Tooling:|Soldering|
 |Work Level:|300.0 millisols|
 |Power Required:|0.5 kW/hr|
 
@@ -24,16 +25,16 @@ Polyethylene box with steel frame and fiberglass cloth straps.
 
 | Input      | Amount |
 |--------:|:------|
-|[Cane Fiber](/docs/definitions/resource/cane-fiber)|Resource|0.5 kg|
+|[Cane fiber](/docs/definitions/resource/cane-fiber)|Resource|0.5 kg|
+|[Electrical wire](/docs/definitions/part/electrical-wire)|Part|2|
+|[Fiberglass cloth](/docs/definitions/part/fiberglass-cloth)|Part|1|
+|[Gasket](/docs/definitions/part/gasket)|Part|3|
+|[Plastic tubing](/docs/definitions/part/plastic-tubing)|Part|3|
 |[Polyethylene](/docs/definitions/resource/polyethylene)|Resource|5.0 kg|
-|[electrical wire](/docs/definitions/part/electrical-wire)|Part|2|
-|[fiberglass cloth](/docs/definitions/part/fiberglass-cloth)|Part|1|
-|[gasket](/docs/definitions/part/gasket)|Part|3|
-|[plastic tubing](/docs/definitions/part/plastic-tubing)|Part|3|
-|[steel canister](/docs/definitions/part/steel-canister)|Part|1|
-|[steel ingot](/docs/definitions/part/steel-ingot)|Part|1|
-|[valve](/docs/definitions/part/valve)|Part|1|
-|[wire connector](/docs/definitions/part/wire-connector)|Part|10|
+|[Steel canister](/docs/definitions/part/steel-canister)|Part|1|
+|[Steel ingot](/docs/definitions/part/steel-ingot)|Part|1|
+|[Valve](/docs/definitions/part/valve)|Part|1|
+|[Wire connector](/docs/definitions/part/wire-connector)|Part|10|
 
 ## Products
 
@@ -44,7 +45,7 @@ Polyethylene box with steel frame and fiberglass cloth straps.
 
 
 
-{{< definition-tail version="3.9.0" generatedOn="2025-03-08T21:34:45.1684317" >}}
+{{< definition-tail version="3.10.0" generatedOn="2025-10-09T21:45:01.8754429" >}}
 
 
 

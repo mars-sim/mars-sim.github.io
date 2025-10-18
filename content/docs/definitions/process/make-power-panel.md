@@ -17,6 +17,7 @@ hide_summary: true
 |Skill Level:|2|
 |Tech Level:|2|
 |Process Time:|50.0 millisols|
+|Tooling:|Soldering|
 |Work Level:|200.0 millisols|
 |Power Required:|0.1 kW/hr|
 
@@ -26,7 +27,7 @@ hide_summary: true
 |--------:|:------|
 |[Electrical Wire](/docs/definitions/part/electrical-wire)|Part|6|
 |[Plastic Tubing](/docs/definitions/part/plastic-tubing)|Part|6|
-|[Polycarbonate Resin](/docs/definitions/resource/polycarbonate-resin)|Resource|1.0 kg|
+|[Polycarbonate resin](/docs/definitions/resource/polycarbonate-resin)|Resource|1.0 kg|
 |[Power Cable](/docs/definitions/part/power-cable)|Part|2|
 |[Steel Sheet](/docs/definitions/part/steel-sheet)|Part|1|
 |[Surge Protector](/docs/definitions/part/surge-protector)|Part|3|
@@ -40,7 +41,7 @@ hide_summary: true
 
 
 
-{{< definition-tail version="3.9.0" generatedOn="2025-03-08T21:34:45.1684317" >}}
+{{< definition-tail version="3.10.0" generatedOn="2025-10-09T21:45:01.8754429" >}}
 
 
 

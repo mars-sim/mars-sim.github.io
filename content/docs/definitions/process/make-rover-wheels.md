@@ -15,6 +15,7 @@ hide_summary: true
 |Skill Level:|2|
 |Tech Level:|2|
 |Process Time:|400.0 millisols|
+|Tooling:|Metalwork|
 |Work Level:|200.0 millisols|
 |Power Required:|0.5 kW/hr|
 
@@ -22,6 +23,7 @@ hide_summary: true
 
 | Input      | Amount |
 |--------:|:------|
+|[magnesium](/docs/definitions/resource/magnesium)|Resource|1.6 kg|
 |[steel sheet](/docs/definitions/part/steel-sheet)|Part|2|
 |[steel wire](/docs/definitions/part/steel-wire)|Part|40|
 
@@ -34,7 +36,7 @@ hide_summary: true
 
 
 
-{{< definition-tail version="3.9.0" generatedOn="2025-03-08T21:34:45.1684317" >}}
+{{< definition-tail version="3.10.0" generatedOn="2025-10-09T21:45:01.8754429" >}}
 
 
 

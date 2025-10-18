@@ -17,18 +17,23 @@ An element.
 |Type:|Element|
 |Form:|Solid|
  
+## Made by Manufacturing Process
+
+- [Draw optical fiber glass](/docs/definitions/process/draw-optical-fiber-glass)
 
 ## Used by Manufacturing Process
 
 - [Fabricate solar panel](/docs/definitions/process/fabricate-solar-panel)
 - [Fabricate semiconductor wafer](/docs/definitions/process/fabricate-semiconductor-wafer)
 - [Manufacture capacitors](/docs/definitions/process/manufacture-capacitors)
+- [Manufacture capacitors with Aluminum oxide](/docs/definitions/process/manufacture-capacitors-with-aluminum-oxide)
 - [Manufacture diodes](/docs/definitions/process/manufacture-diodes)
+- [Manufacture diodes with Aluminum oxide](/docs/definitions/process/manufacture-diodes-with-aluminum-oxide)
 
 
     
 
 
-{{< definition-tail version="3.9.0" generatedOn="2025-03-08T21:34:45.1684317" >}}
+{{< definition-tail version="3.10.0" generatedOn="2025-10-09T21:45:01.8754429" >}}
 
 

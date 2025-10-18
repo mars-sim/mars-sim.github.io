@@ -13,28 +13,28 @@ hide_summary: true
 |Type:|BUILDING|
 |Work Time:|1000.0|
 |Architectural Skill:|4|
-|PreReq:|[Medium Modular Frame](/docs/definitions/construction/medium-modular-frame)|
+|PreReq:|[Modular A Frame](/docs/definitions/construction/modular-a-frame)|
 
 ## Resources
 
 | Name | Type | Quantity |
 |:-----|:-----|-----:|
 |[Aerogel tile](/docs/definitions/part/aerogel-tile)|Part|190|
-|[Air Duct](/docs/definitions/part/air-duct)|Part|7|
-|[Aluminum Sheet](/docs/definitions/part/aluminum-sheet)|Part|10|
-|[Electrical Wire](/docs/definitions/part/electrical-wire)|Part|5|
+|[Air duct](/docs/definitions/part/air-duct)|Part|7|
+|[Aluminum sheet](/docs/definitions/part/aluminum-sheet)|Part|10|
+|[Electrical wire](/docs/definitions/part/electrical-wire)|Part|5|
 |[Fiberglass](/docs/definitions/part/fiberglass)|Part|5|
-|[Plastic Pipe](/docs/definitions/part/plastic-pipe)|Part|7|
-|[Plastic Sheet](/docs/definitions/part/plastic-sheet)|Part|10|
+|[Plastic pipe](/docs/definitions/part/plastic-pipe)|Part|7|
+|[Plastic sheet](/docs/definitions/part/plastic-sheet)|Part|10|
 |[Polyester resin](/docs/definitions/resource/polyester-resin)|Resource|25.0 kg|
 |[Polyethylene](/docs/definitions/resource/polyethylene)|Resource|50.0 kg|
-|[Steel Sheet](/docs/definitions/part/steel-sheet)|Part|10|
+|[Steel sheet](/docs/definitions/part/steel-sheet)|Part|10|
 |[Styrene](/docs/definitions/resource/styrene)|Resource|15.0 kg|
 |[Valve](/docs/definitions/part/valve)|Part|7|
-|[Wire Connector](/docs/definitions/part/wire-connector)|Part|5|
+|[Wire connector](/docs/definitions/part/wire-connector)|Part|5|
 
 
 
 
-{{< definition-tail version="3.9.0" generatedOn="2025-03-08T21:34:45.1684317" >}}
+{{< definition-tail version="3.10.0" generatedOn="2025-10-09T21:45:01.8754429" >}}
 

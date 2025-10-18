@@ -14,10 +14,23 @@ Light yellow, silky protein Soybean fiber .
 | Attribute      | Value |
 |--------:|:------|
 |Edible:|true|
-|Type:|Soy-based|
+|Type:|Soy Based|
 |Form:|Solid|
  
 
+## Used by Manufacturing Process
+
+- [Make Garment with Soy fiber](/docs/definitions/process/make-garment-with-soy-fiber)
+- [Make Liquid Cooling Garment with Soy fiber](/docs/definitions/process/make-liquid-cooling-garment-with-soy-fiber)
+- [Make EVA helmet with Soy fiber](/docs/definitions/process/make-eva-helmet-with-soy-fiber)
+- [Make pressure suit with Soy fiber](/docs/definitions/process/make-pressure-suit-with-soy-fiber)
+- [Make coveralls with Soy fiber](/docs/definitions/process/make-coveralls-with-soy-fiber)
+- [Make EVA gloves with Soy fiber](/docs/definitions/process/make-eva-gloves-with-soy-fiber)
+- [Make EVA boots with Soy fiber](/docs/definitions/process/make-eva-boots-with-soy-fiber)
+- [Make EVA pads with Soy fiber](/docs/definitions/process/make-eva-pads-with-soy-fiber)
+- [Make EVA backpack with Soy fiber](/docs/definitions/process/make-eva-backpack-with-soy-fiber)
+- [Make work gloves with Soy fiber](/docs/definitions/process/make-work-gloves-with-soy-fiber)
+- [Make biosensor with Soy fiber](/docs/definitions/process/make-biosensor-with-soy-fiber)
 
 
     
@@ -27,6 +40,6 @@ Light yellow, silky protein Soybean fiber .
 
 
 
-{{< definition-tail version="3.9.0" generatedOn="2025-03-08T21:34:45.1684317" >}}
+{{< definition-tail version="3.10.0" generatedOn="2025-10-09T21:45:01.8754429" >}}
 
 

@@ -12,14 +12,14 @@ hide_summary: true
 |--------:|:------|
 |Process Time:|200 millisols|
 |Work Time:|10 millisols|
-|Power Required:|1.3 kW/hr|
+|Power Required:|0.1 kW/hr|
 |Start On:|false|
 
 ## Inputs
 | Name      | Input Rate (kg/sol) | Minimum kg | Ambient |
 |--------:|:------|-----:|:----|
-|[Olivine](/docs/definitions/resource/olivine)|50.0|0.003|false|
 |[Carbon monoxide](/docs/definitions/resource/carbon-monoxide)|32.5|0.002|false|
+|[Olivine](/docs/definitions/resource/olivine)|50.0|0.003|false|
 
 Ambient inputs are consumed from the environment.
 
@@ -34,7 +34,7 @@ Ambient inputs are consumed from the environment.
 Waste outputs are released into the environment and do not need to be stored.
 
 
-{{< definition-tail version="3.9.0" generatedOn="2025-03-08T21:34:45.1684317" >}}
+{{< definition-tail version="3.10.0" generatedOn="2025-10-09T21:45:01.8754429" >}}
 
 
 

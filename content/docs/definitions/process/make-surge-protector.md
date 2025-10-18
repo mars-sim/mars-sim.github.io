@@ -17,6 +17,7 @@ hide_summary: true
 |Skill Level:|2|
 |Tech Level:|2|
 |Process Time:|50.0 millisols|
+|Tooling:|Soldering|
 |Work Level:|100.0 millisols|
 |Power Required:|0.1 kW/hr|
 
@@ -26,7 +27,7 @@ hide_summary: true
 |--------:|:------|
 |[Electrical Wire](/docs/definitions/part/electrical-wire)|Part|2|
 |[Metal Oxide Varistor](/docs/definitions/part/metal-oxide-varistor)|Part|4|
-|[Polycarbonate Resin](/docs/definitions/resource/polycarbonate-resin)|Resource|0.2 kg|
+|[Polycarbonate resin](/docs/definitions/resource/polycarbonate-resin)|Resource|0.2 kg|
 
 ## Products
 
@@ -37,7 +38,7 @@ hide_summary: true
 
 
 
-{{< definition-tail version="3.9.0" generatedOn="2025-03-08T21:34:45.1684317" >}}
+{{< definition-tail version="3.10.0" generatedOn="2025-10-09T21:45:01.8754429" >}}
 
 
 

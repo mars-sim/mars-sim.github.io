@@ -19,22 +19,22 @@ hide_summary: true
 | Name      | Input Rate (kg/sol) | Minimum kg | Ambient |
 |--------:|:------|-----:|:----|
 |[Carbon](/docs/definitions/resource/carbon)|32.12|0.002|false|
-|[Lime](/docs/definitions/resource/lime)|2.0|0.0|false|
 |[Ethylene](/docs/definitions/resource/ethylene)|8.34|0.0|false|
 |[Water](/docs/definitions/resource/water)|16.05|0.001|false|
+|[Lime](/docs/definitions/resource/lime)|2.0|0.0|false|
 
 Ambient inputs are consumed from the environment.
 
 ## Outputs
 | Name      | Output Rate (kg/sol) | Waste Output |
 |--------:|:------|-----:|:----|
-|[Carbon monoxide](/docs/definitions/resource/carbon-monoxide)|24.97|false|
 |[Styrene](/docs/definitions/resource/styrene)|30.95|false|
+|[Carbon monoxide](/docs/definitions/resource/carbon-monoxide)|24.97|false|
 
 Waste outputs are released into the environment and do not need to be stored.
 
 
-{{< definition-tail version="3.9.0" generatedOn="2025-03-08T21:34:45.1684317" >}}
+{{< definition-tail version="3.10.0" generatedOn="2025-10-09T21:45:01.8754429" >}}
 
 
 

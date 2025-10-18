@@ -30,7 +30,6 @@ Potable water
 - [Make pulp from cane fiber and crop waste (large batch)](/docs/definitions/process/make-pulp-from-cane-fiber-and-crop-waste--large-batch-)
 - [Make sodium hypochlorite for bleaching and sanitation](/docs/definitions/process/make-sodium-hypochlorite-for-bleaching-and-sanitation)
 - [Make sodium hypochlorite for bleaching and sanitation (large batch)](/docs/definitions/process/make-sodium-hypochlorite-for-bleaching-and-sanitation--large-batch-)
-- [Produce ethylene glycol](/docs/definitions/process/produce-ethylene-glycol)
 - [Produce Polyester Resin](/docs/definitions/process/produce-polyester-resin)
 - [Bake regolith brick](/docs/definitions/process/bake-regolith-brick)
 - [Bake sand brick](/docs/definitions/process/bake-sand-brick)
@@ -82,6 +81,6 @@ Potable water
 
 
 
-{{< definition-tail version="3.9.0" generatedOn="2025-03-08T21:34:45.1684317" >}}
+{{< definition-tail version="3.10.0" generatedOn="2025-10-09T21:45:01.8754429" >}}
 
 

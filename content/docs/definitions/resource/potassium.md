@@ -20,6 +20,7 @@ An element.
 ## Made by Manufacturing Process
 
 - [Purify rock salt into compounds](/docs/definitions/process/purify-rock-salt-into-compounds)
+- [Break down meteorite](/docs/definitions/process/break-down-meteorite)
 - [Dry potash into potassium crystal](/docs/definitions/process/dry-potash-into-potassium-crystal)
 
 ## Used by Manufacturing Process
@@ -46,6 +47,6 @@ An element.
 
 
 
-{{< definition-tail version="3.9.0" generatedOn="2025-03-08T21:34:45.1684317" >}}
+{{< definition-tail version="3.10.0" generatedOn="2025-10-09T21:45:01.8754429" >}}
 
 

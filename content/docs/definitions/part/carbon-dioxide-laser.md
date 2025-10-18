@@ -1,6 +1,6 @@
 ---
-title: Part - Carbon Dioxide laser
-linkTitle: Carbon Dioxide laser
+title: Part - Carbon dioxide laser
+linkTitle: Carbon dioxide laser
 toc_hide: true
 hide_summary: true
 ---
@@ -26,7 +26,7 @@ no description available.
 
 
 
-{{< definition-tail version="3.9.0" generatedOn="2025-03-08T21:34:45.1684317" >}}
+{{< definition-tail version="3.10.0" generatedOn="2025-10-09T21:45:01.8754429" >}}
 
 
 

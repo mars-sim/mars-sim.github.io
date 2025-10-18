@@ -11,7 +11,7 @@ hide_summary: true
 
 | Attribute   | Value |
 |--------:|:------|
-|Category:|Main Dish|
+|Category:|MAIN|
 |Oil:|0.1 kg|
 |Salt:|0.01 kg|
 
@@ -21,7 +21,8 @@ hide_summary: true
 |----|------:|---:|
 |[White rice](/docs/definitions/resource/white-rice)|0.4|
 |[Swiss Chard](/docs/definitions/resource/swiss-chard)|0.2|
-|[White onion](/docs/definitions/resource/white-onion)|0.1|
+|[White onion](/docs/definitions/resource/white-onion)|0.05|
+|[Basil](/docs/definitions/resource/basil)|0.05|
 |[Lettuce](/docs/definitions/resource/lettuce)|0.09|
 |[Garlic](/docs/definitions/resource/garlic)|0.01|
 |[Leaves](/docs/definitions/resource/leaves)|0.1|
@@ -29,5 +30,5 @@ hide_summary: true
 
 
 
-{{< definition-tail version="3.9.0" generatedOn="2025-03-08T21:34:45.1684317" >}}
+{{< definition-tail version="3.10.0" generatedOn="2025-10-09T21:45:01.8754429" >}}
 

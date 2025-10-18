@@ -20,24 +20,24 @@ hide_summary: true
 | Name | Type | Quantity |
 |:-----|:-----|-----:|
 |[Acetylene](/docs/definitions/resource/acetylene)|Resource|0.5 kg|
-|[Aluminum Sheet](/docs/definitions/part/aluminum-sheet)|Part|10|
+|[Aluminum sheet](/docs/definitions/part/aluminum-sheet)|Part|10|
 |[Brick](/docs/definitions/part/brick)|Part|700|
 |[Concrete](/docs/definitions/resource/concrete)|Resource|50.0 kg|
-|[Electrical Wire](/docs/definitions/part/electrical-wire)|Part|6|
+|[Electrical wire](/docs/definitions/part/electrical-wire)|Part|6|
 |[Gasket](/docs/definitions/part/gasket)|Part|5|
-|[Glass Sheet](/docs/definitions/part/glass-sheet)|Part|10|
+|[Glass sheet](/docs/definitions/part/glass-sheet)|Part|10|
 |[Insulation board](/docs/definitions/part/insulation-board)|Part|10|
-|[Plastic Pipe](/docs/definitions/part/plastic-pipe)|Part|7|
-|[Power Cable](/docs/definitions/part/power-cable)|Part|3|
-|[Steel Post](/docs/definitions/part/steel-post)|Part|4|
-|[Steel Truss](/docs/definitions/part/steel-truss)|Part|8|
+|[Plastic pipe](/docs/definitions/part/plastic-pipe)|Part|7|
+|[Power cable](/docs/definitions/part/power-cable)|Part|3|
+|[Steel post](/docs/definitions/part/steel-post)|Part|4|
+|[Steel truss](/docs/definitions/part/steel-truss)|Part|8|
 |[Valve](/docs/definitions/part/valve)|Part|5|
-|[Wire Connector](/docs/definitions/part/wire-connector)|Part|6|
+|[Wire connector](/docs/definitions/part/wire-connector)|Part|6|
 
 ## Later Stages
 - [Inground Greenhouse](/docs/definitions/construction/inground-greenhouse)
 
 
 
-{{< definition-tail version="3.9.0" generatedOn="2025-03-08T21:34:45.1684317" >}}
+{{< definition-tail version="3.10.0" generatedOn="2025-10-09T21:45:01.8754429" >}}
 

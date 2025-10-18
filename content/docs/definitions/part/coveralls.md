@@ -20,6 +20,7 @@ Outer EVA suit with insulative liner.
 
 - [Make coveralls](/docs/definitions/process/make-coveralls)
 - [Make coveralls with Polyester Fiber](/docs/definitions/process/make-coveralls-with-polyester-fiber)
+- [Make coveralls with Soy fiber](/docs/definitions/process/make-coveralls-with-soy-fiber)
 
 ## Used by Manufacturing Process
 
@@ -27,7 +28,7 @@ Outer EVA suit with insulative liner.
 
 
 
-{{< definition-tail version="3.9.0" generatedOn="2025-03-08T21:34:45.1684317" >}}
+{{< definition-tail version="3.10.0" generatedOn="2025-10-09T21:45:01.8754429" >}}
 
 
 

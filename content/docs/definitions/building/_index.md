@@ -12,17 +12,13 @@ description: Building Specifications available for bases
 
 Grouped by Category.
 
-### Airlock {#A-airlock}
-
-- [EVA Airlock](../building/eva-airlock)
-
 ### Astronomy {#A-astronomy}
 
 - [Astronomy Observatory](../building/astronomy-observatory)
 
 ### Command {#A-command}
 
-- [Command and Control](../building/command-and-control)
+- [Command Center](../building/command-center)
 - [Lander Hab](../building/lander-hab)
 - [Outpost Hub](../building/outpost-hub)
 
@@ -31,18 +27,16 @@ Grouped by Category.
 - [Hallway](../building/hallway)
 - [Tunnel](../building/tunnel)
 
-### Earth Return {#A-earth-return}
+### Erv {#A-erv}
 
 - [ERV-A](../building/erv-a)
 - [ERV-B](../building/erv-b)
 - [ERV-C](../building/erv-c)
 - [ERV-I](../building/erv-i)
 
-### Engineering {#A-engineering}
+### Eva {#A-eva}
 
-- [Machinery Hab](../building/machinery-hab)
-- [Manufacturing Shed](../building/manufacturing-shed)
-- [Workshop](../building/workshop)
+- [EVA Airlock](../building/eva-airlock)
 
 ### Farming {#A-farming}
 
@@ -55,14 +49,19 @@ Grouped by Category.
 
 ### Laboratory {#A-laboratory}
 
+- [Bioreactor-E](../building/bioreactor-e)
+- [Bioreactor-F](../building/bioreactor-f)
+- [Bioreactor-G](../building/bioreactor-g)
+- [Bioreactor-M](../building/bioreactor-m)
 - [Laboratory](../building/laboratory)
 - [Mining Lab](../building/mining-lab)
 - [Research Hab](../building/research-hab)
 - [Server Farm](../building/server-farm)
 
-### Living Space {#A-living-space}
+### Living {#A-living}
 
 - [Bunkhouse](../building/bunkhouse)
+- [Compact Quarters](../building/compact-quarters)
 - [Lounge](../building/lounge)
 - [Residential Hab](../building/residential-hab)
 - [Residential Quarters](../building/residential-quarters)
@@ -72,7 +71,7 @@ Grouped by Category.
 - [Infirmary](../building/infirmary)
 - [Medical Hab](../building/medical-hab)
 
-### Power Supply {#A-power-supply}
+### Power {#A-power}
 
 - [Kilopower Reactor](../building/kilopower-reactor)
 - [Large Areothermal Well](../building/large-areothermal-well)
@@ -90,6 +89,8 @@ Grouped by Category.
 ### Processing {#A-processing}
 
 - [Atmospheric Processor](../building/atmospheric-processor)
+- [Brine Water Well](../building/brine-water-well)
+- [Core A](../building/core-a)
 - [Large Sabatier Processor](../building/large-sabatier-processor)
 - [Syngas Plant](../building/syngas-plant)
 
@@ -98,6 +99,10 @@ Grouped by Category.
 - [Cement Storage](../building/cement-storage)
 - [Chemical Storage](../building/chemical-storage)
 - [Concrete Storage](../building/concrete-storage)
+- [Core B](../building/core-b)
+- [Core C](../building/core-c)
+- [Corridor 3x3](../building/corridor-3x3)
+- [Corridor 3x9](../building/corridor-3x9)
 - [Fuel Storage](../building/fuel-storage)
 - [Gas Storage](../building/gas-storage)
 - [Ice Storage](../building/ice-storage)
@@ -114,7 +119,13 @@ Grouped by Category.
 - [Garage](../building/garage)
 - [Loading Dock Garage](../building/loading-dock-garage)
 
+### Workshop {#A-workshop}
+
+- [Machinery Hab](../building/machinery-hab)
+- [Manufacturing Shed](../building/manufacturing-shed)
+- [Workshop](../building/workshop)
 
 
-{{< definition-tail version="3.9.0" generatedOn="2025-03-08T21:34:45.1684317" >}}
+
+{{< definition-tail version="3.10.0" generatedOn="2025-10-09T21:45:01.8754429" >}}
 

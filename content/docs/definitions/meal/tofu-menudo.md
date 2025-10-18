@@ -11,7 +11,7 @@ hide_summary: true
 
 | Attribute   | Value |
 |--------:|:------|
-|Category:|Main Dish|
+|Category:|MAIN|
 |Oil:|0.05 kg|
 |Salt:|0.01 kg|
 
@@ -23,10 +23,11 @@ hide_summary: true
 |[Potato](/docs/definitions/resource/potato)|0.1|
 |[Peas](/docs/definitions/resource/peas)|0.1|
 |[Tomato](/docs/definitions/resource/tomato)|0.1|
-|[Green Bell Pepper](/docs/definitions/resource/green-bell-pepper)|0.15|
+|[Dandelion](/docs/definitions/resource/dandelion)|0.05|
+|[Green Bell Pepper](/docs/definitions/resource/green-bell-pepper)|0.1|
 
 
 
 
-{{< definition-tail version="3.9.0" generatedOn="2025-03-08T21:34:45.1684317" >}}
+{{< definition-tail version="3.10.0" generatedOn="2025-10-09T21:45:01.8754429" >}}
 

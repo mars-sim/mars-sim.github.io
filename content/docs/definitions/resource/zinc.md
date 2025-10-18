@@ -17,6 +17,9 @@ An element.
 |Type:|Element|
 |Form:|Solid|
  
+## Made by Manufacturing Process
+
+- [Break down meteorite](/docs/definitions/process/break-down-meteorite)
 
 ## Used by Manufacturing Process
 
@@ -29,7 +32,9 @@ An element.
 - [Make crop fertilizers with Nitrite](/docs/definitions/process/make-crop-fertilizers-with-nitrite)
 - [Make crop fertilizers with hydrogen](/docs/definitions/process/make-crop-fertilizers-with-hydrogen)
 - [Manufacture resistors](/docs/definitions/process/manufacture-resistors)
+- [Manufacture resistors with Aluminum oxide](/docs/definitions/process/manufacture-resistors-with-aluminum-oxide)
 - [Manufacture capacitors](/docs/definitions/process/manufacture-capacitors)
+- [Manufacture capacitors with Aluminum oxide](/docs/definitions/process/manufacture-capacitors-with-aluminum-oxide)
 
 
     
@@ -39,6 +44,6 @@ An element.
 
 
 
-{{< definition-tail version="3.9.0" generatedOn="2025-03-08T21:34:45.1684317" >}}
+{{< definition-tail version="3.10.0" generatedOn="2025-10-09T21:45:01.8754429" >}}
 
 

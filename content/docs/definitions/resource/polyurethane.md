@@ -24,20 +24,25 @@ hide_summary: true
 ## Used by Manufacturing Process
 
 - [Make Garment](/docs/definitions/process/make-garment)
-- [Make Garment with Polyester Fiber](/docs/definitions/process/make-garment-with-polyester-fiber)
+- [Make Garment with Soy fiber](/docs/definitions/process/make-garment-with-soy-fiber)
+- [Make Garment with Polyester fiber](/docs/definitions/process/make-garment-with-polyester-fiber)
 - [Make coveralls](/docs/definitions/process/make-coveralls)
 - [Make coveralls with Polyester Fiber](/docs/definitions/process/make-coveralls-with-polyester-fiber)
+- [Make coveralls with Soy fiber](/docs/definitions/process/make-coveralls-with-soy-fiber)
 - [Make EVA gloves](/docs/definitions/process/make-eva-gloves)
-- [Make EVA gloves with Polyester Fiber](/docs/definitions/process/make-eva-gloves-with-polyester-fiber)
+- [Make EVA gloves with Soy fiber](/docs/definitions/process/make-eva-gloves-with-soy-fiber)
+- [Make EVA gloves with Polyester fiber](/docs/definitions/process/make-eva-gloves-with-polyester-fiber)
 - [Make EVA boots](/docs/definitions/process/make-eva-boots)
-- [Make EVA boots with Polyester Fiber](/docs/definitions/process/make-eva-boots-with-polyester-fiber)
+- [Make EVA boots with Soy fiber](/docs/definitions/process/make-eva-boots-with-soy-fiber)
+- [Make EVA boots with Polyester fiber](/docs/definitions/process/make-eva-boots-with-polyester-fiber)
 - [Make EVA pads](/docs/definitions/process/make-eva-pads)
-- [Make EVA pads with Polyester Fiber](/docs/definitions/process/make-eva-pads-with-polyester-fiber)
+- [Make EVA pads with Soy fiber](/docs/definitions/process/make-eva-pads-with-soy-fiber)
+- [Make EVA pads with Polyester fiber](/docs/definitions/process/make-eva-pads-with-polyester-fiber)
 
 
     
 
 
-{{< definition-tail version="3.9.0" generatedOn="2025-03-08T21:34:45.1684317" >}}
+{{< definition-tail version="3.10.0" generatedOn="2025-10-09T21:45:01.8754429" >}}
 
 

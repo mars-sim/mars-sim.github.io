@@ -1,6 +1,6 @@
 ---
-title: Part - Satellite Dish
-linkTitle: Satellite Dish
+title: Part - Satellite dish
+linkTitle: Satellite dish
 toc_hide: true
 hide_summary: true
 ---
@@ -19,7 +19,7 @@ no description available.
 ## Made by Manufacturing Process
 
 - [Make satellite dish](/docs/definitions/process/make-satellite-dish)
-- [Make satellite dish with polycarbonate resin](/docs/definitions/process/make-satellite-dish-with-polycarbonate-resin)
+- [Make satellite dish with Polycarbonate resin](/docs/definitions/process/make-satellite-dish-with-polycarbonate-resin)
 
 ## Used by Manufacturing Process
 
@@ -29,7 +29,7 @@ no description available.
 
 
 
-{{< definition-tail version="3.9.0" generatedOn="2025-03-08T21:34:45.1684317" >}}
+{{< definition-tail version="3.10.0" generatedOn="2025-10-09T21:45:01.8754429" >}}
 
 
 

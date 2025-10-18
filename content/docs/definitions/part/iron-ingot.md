@@ -1,6 +1,6 @@
 ---
-title: Part - Iron Ingot
-linkTitle: Iron Ingot
+title: Part - Iron ingot
+linkTitle: Iron ingot
 toc_hide: true
 hide_summary: true
 ---
@@ -19,11 +19,16 @@ no description available.
 ## Made by Manufacturing Process
 
 - [Cast iron ingot](/docs/definitions/process/cast-iron-ingot)
+- [Recycle iron scrap](/docs/definitions/process/recycle-iron-scrap)
 
 ## Used by Manufacturing Process
 
 - [Roll iron sheet](/docs/definitions/process/roll-iron-sheet)
 - [Manufacture turbine generator](/docs/definitions/process/manufacture-turbine-generator)
+- [Make Gears](/docs/definitions/process/make-gears)
+- [Manufacture Gearbox](/docs/definitions/process/manufacture-gearbox)
+- [Manufacture Actuator](/docs/definitions/process/manufacture-actuator)
+- [Manufacture Servo Motor](/docs/definitions/process/manufacture-servo-motor)
 - [Manufacture Stepper Motor](/docs/definitions/process/manufacture-stepper-motor)
 - [Manufacture 5 kW Motor](/docs/definitions/process/manufacture-5-kw-motor)
 - [Manufacture 10 kW Motor](/docs/definitions/process/manufacture-10-kw-motor)
@@ -38,7 +43,7 @@ no description available.
 
 
 
-{{< definition-tail version="3.9.0" generatedOn="2025-03-08T21:34:45.1684317" >}}
+{{< definition-tail version="3.10.0" generatedOn="2025-10-09T21:45:01.8754429" >}}
 
 
 

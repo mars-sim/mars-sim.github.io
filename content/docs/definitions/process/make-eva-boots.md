@@ -15,6 +15,7 @@ hide_summary: true
 |Skill Level:|3|
 |Tech Level:|3|
 |Process Time:|50.0 millisols|
+|Tooling:|3D Printer|
 |Work Level:|200.0 millisols|
 |Power Required:|0.1 kW/hr|
 
@@ -22,11 +23,11 @@ hide_summary: true
 
 | Input      | Amount |
 |--------:|:------|
-|[Cane Fiber](/docs/definitions/resource/cane-fiber)|Resource|0.4 kg|
-|[fiberglass](/docs/definitions/part/fiberglass)|Part|1|
-|[fiberglass cloth](/docs/definitions/part/fiberglass-cloth)|Part|1|
-|[polyurethane](/docs/definitions/resource/polyurethane)|Resource|0.1 kg|
-|[steel ingot](/docs/definitions/part/steel-ingot)|Part|1|
+|[Cane fiber](/docs/definitions/resource/cane-fiber)|Resource|0.4 kg|
+|[Fiberglass](/docs/definitions/part/fiberglass)|Part|1|
+|[Fiberglass cloth](/docs/definitions/part/fiberglass-cloth)|Part|1|
+|[Polyurethane](/docs/definitions/resource/polyurethane)|Resource|0.1 kg|
+|[Steel ingot](/docs/definitions/part/steel-ingot)|Part|1|
 
 ## Products
 
@@ -37,7 +38,7 @@ hide_summary: true
 
 
 
-{{< definition-tail version="3.9.0" generatedOn="2025-03-08T21:34:45.1684317" >}}
+{{< definition-tail version="3.10.0" generatedOn="2025-10-09T21:45:01.8754429" >}}
 
 
 

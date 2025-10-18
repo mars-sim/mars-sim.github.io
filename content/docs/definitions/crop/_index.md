@@ -13,20 +13,25 @@ description: Crops are the plants that can be grown in the Greenhouse
 Grouped by Category.
 
 ### Bulbs {#A-bulbs}
+Bulbs are a short stem with fleshy leaves or leaf bases that function as food storage organs during dormancy.
 
 - [Garlic](../crop/garlic)
 - [Spring Onion](../crop/spring-onion)
 - [White Onion](../crop/white-onion)
 
 ### Corms {#A-corms}
+Corms are a short, vertical, swollen underground plant stem that serves as a storage organ used by some plants to survive winter or other adverse conditions.
 
 - [Taro](../crop/taro)
 
 ### Flowers {#A-flowers}
+For flowers that do NOT have seeds. Flowers can be considered the seed-bearing part of a plant, consisting of reproductive organs that are typically surrounded by brightly colored petals and a green calyx.
 
-- [Sesame](../crop/sesame)
+- [Dandelion](../crop/dandelion)
+- [Parsley](../crop/parsley)
 
 ### Fruits {#A-fruits}
+Fruits are the mature ovary of a flowering plant, usually containing seeds.
 
 - [Blueberry](../crop/blueberry)
 - [Cranberry](../crop/cranberry)
@@ -36,10 +41,12 @@ Grouped by Category.
 - [Tomato](../crop/tomato)
 
 ### Fungi {#A-fungi}
+Fungi are a group of spore-producing organisms that feed on organic matter.
 
 - [Morel Mushroom](../crop/morel-mushroom)
 
 ### Grains {#A-grains}
+Grains are small, hard, dry seeds, with or without attached hulls or fruit layers, harvested for human or animal consumption.
 
 - [Corn](../crop/corn)
 - [Quinoa](../crop/quinoa)
@@ -47,21 +54,26 @@ Grouped by Category.
 - [Wheat](../crop/wheat)
 
 ### Grasses {#A-grasses}
+Grasses are monocotyledonous, usually herbaceous plants with narrow leaves growing from the base.
 
 - [Sugarcane](../crop/sugarcane)
 
 ### Herbs {#A-herbs}
+Herbs are plants with savory or aromatic properties that are used for flavoring and garnishing food, medicinal purposes, or for fragrances.
 
 - [Cilantro](../crop/cilantro)
 
 ### Leaves {#A-leaves}
+Leaves are the main organs of photosynthesis and transpiration in higher plants.
 
+- [Basil](../crop/basil)
 - [Cabbage](../crop/cabbage)
 - [Lettuce](../crop/lettuce)
+- [Microgreens](../crop/microgreens)
 - [Swiss Chard](../crop/swiss-chard)
-- [White Mustard](../crop/white-mustard)
 
 ### Legumes {#A-legumes}
+Legumes are plants that bear fruit in the form of pods enclosing the seeds.
 
 - [Kidney bean](../crop/kidney-bean)
 - [Peanut](../crop/peanut)
@@ -69,17 +81,26 @@ Grouped by Category.
 - [Soybean](../crop/soybean)
 
 ### Roots {#A-roots}
+Roots are the underground part of a plant that absorbs water and minerals from the soil.
 
 - [Carrot](../crop/carrot)
 - [Ginger](../crop/ginger)
 - [Radish](../crop/radish)
 - [Red Beet](../crop/red-beet)
 
+### Seeds {#A-seeds}
+For flowers that DO have seeds. Seeds are the part of a flowering plant that typically contains an embryo and is capable of developing into a new plant.
+
+- [Sesame](../crop/sesame)
+- [White Mustard](../crop/white-mustard)
+
 ### Stems {#A-stems}
+Stems are the main body or stalk of a plant or shrub, typically rising above ground but occasionally subterranean.
 
 - [Celery](../crop/celery)
 
 ### Tubers {#A-tubers}
+Tubers are the thickened part of an underground stem or rhizome that stores nutrients.
 
 - [Potato](../crop/potato)
 - [Sweet Potato](../crop/sweet-potato)
@@ -87,5 +108,5 @@ Grouped by Category.
 
 
 
-{{< definition-tail version="3.9.0" generatedOn="2025-03-08T21:34:45.1684317" >}}
+{{< definition-tail version="3.10.0" generatedOn="2025-10-09T21:45:01.8754429" >}}
 

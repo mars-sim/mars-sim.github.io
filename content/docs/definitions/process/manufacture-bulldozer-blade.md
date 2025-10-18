@@ -14,8 +14,9 @@ hide_summary: true
 |Type:|Manufacture|
 |Skill Level:|3|
 |Tech Level:|2|
-|Process Time:|300.0 millisols|
-|Work Level:|300.0 millisols|
+|Process Time:|100.0 millisols|
+|Tooling:|Lifting|
+|Work Level:|30.0 millisols|
 |Power Required:|1.0 kW/hr|
 
 ## Inputs
@@ -34,7 +35,7 @@ hide_summary: true
 
 
 
-{{< definition-tail version="3.9.0" generatedOn="2025-03-08T21:34:45.1684317" >}}
+{{< definition-tail version="3.10.0" generatedOn="2025-10-09T21:45:01.8754429" >}}
 
 
 

@@ -14,9 +14,10 @@ hide_summary: true
 |Severity:|100|
 
 ## Systems Affected 
+- crew cabin
 - farming
+- habitable
 - life support
-- rover
 
 ## Repair
 
@@ -28,8 +29,8 @@ hide_summary: true
 ### Parts
 |Part|Number|Default Probability|
 |---|---|---|
-|[Airleak Patch](/docs/definitions/part/airleak-patch)|2|75.0|
-|[Fiberglass Cloth](/docs/definitions/part/fiberglass-cloth)|1|10.0|
+|[Airleak patch](/docs/definitions/part/airleak-patch)|2|75.0|
+|[Fiberglass cloth](/docs/definitions/part/fiberglass-cloth)|1|10.0|
 |[Work gloves](/docs/definitions/part/work-gloves)|1|10.0|
 
 ## Impacts
@@ -46,5 +47,5 @@ hide_summary: true
 |Oxygen|-0.01|
 
 
-{{< definition-tail version="3.9.0" generatedOn="2025-03-08T21:34:45.1684317" >}}
+{{< definition-tail version="3.10.0" generatedOn="2025-10-09T21:45:01.8754429" >}}
 

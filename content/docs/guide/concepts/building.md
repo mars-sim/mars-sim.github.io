@@ -40,7 +40,7 @@ Manages communcation channels to Earth. This function provides a specialised ded
 Represents a dedicated computing resource that can be used generally from throughout the Settlement.
 
 ### Cooking
-This provides a location where Workers can Cook to create [Meals]({{% relref "/docs/definitions/meal" %}}). This function capacity is aligned to how many hobs/ovens available.
+This provides a location where Workers can Cook to create [Dishs]({{% relref "/docs/definitions/meal" %}}). This function capacity is aligned to how many hobs/ovens available.
 
 ### Dining
 This provides an area where Persons can collect to eat Meals together.
@@ -64,7 +64,7 @@ The Fishery function results in a Building have a pool to support growing Fish. 
 
 There is also cleaning activities of the facilities.
 
-### Food & Dessert Preparation
+### Food Preparation
 This is complementory to the Cooking function but it is focused on taking raw ingredients and creating food products that can be eaten directly or used in Cooking. There are a number of [Food Recipes]({{% relref "/docs/definitions/food" %}}) that define what produce can be created.
 
 ### Life Support

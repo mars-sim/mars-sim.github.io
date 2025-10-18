@@ -19,9 +19,13 @@ a printed circuit board (PCB) that&#10;&#9;&#9;mechanically supports and electri
 ## Made by Manufacturing Process
 
 - [Manufacture logic board](/docs/definitions/process/manufacture-logic-board)
+- [Manufacture logic board with Aluminum oxide](/docs/definitions/process/manufacture-logic-board-with-aluminum-oxide)
 
 ## Used by Manufacturing Process
 
+- [Manufacture Gearbox](/docs/definitions/process/manufacture-gearbox)
+- [Manufacture Actuator](/docs/definitions/process/manufacture-actuator)
+- [Manufacture Servo Motor](/docs/definitions/process/manufacture-servo-motor)
 - [Manufacture Stepper Motor](/docs/definitions/process/manufacture-stepper-motor)
 - [Fabricate solar panel](/docs/definitions/process/fabricate-solar-panel)
 - [Manufacture battery module](/docs/definitions/process/manufacture-battery-module)
@@ -33,7 +37,8 @@ a printed circuit board (PCB) that&#10;&#9;&#9;mechanically supports and electri
 - [Manufacture navigation circuit board](/docs/definitions/process/manufacture-navigation-circuit-board)
 - [Manufacture communications circuit board](/docs/definitions/process/manufacture-communications-circuit-board)
 - [Make biosensor](/docs/definitions/process/make-biosensor)
-- [Make biosensor with Polyester Fiber](/docs/definitions/process/make-biosensor-with-polyester-fiber)
+- [Make biosensor with Soy fiber](/docs/definitions/process/make-biosensor-with-soy-fiber)
+- [Make biosensor with Polyester fiber](/docs/definitions/process/make-biosensor-with-polyester-fiber)
 - [Make light emitting diode kit](/docs/definitions/process/make-light-emitting-diode-kit)
 - [Manufacture SLS 3D Printer](/docs/definitions/process/manufacture-sls-3d-printer)
 - [Make methane fuel cell stack](/docs/definitions/process/make-methane-fuel-cell-stack)
@@ -41,7 +46,7 @@ a printed circuit board (PCB) that&#10;&#9;&#9;mechanically supports and electri
 
 
 
-{{< definition-tail version="3.9.0" generatedOn="2025-03-08T21:34:45.1684317" >}}
+{{< definition-tail version="3.10.0" generatedOn="2025-10-09T21:45:01.8754429" >}}
 
 
 

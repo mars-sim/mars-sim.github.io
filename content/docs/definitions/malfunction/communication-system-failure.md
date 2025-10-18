@@ -15,7 +15,6 @@ hide_summary: true
 
 ## Systems Affected 
 - communication
-- robot
 - vehicle
 
 ## Repair
@@ -29,15 +28,15 @@ hide_summary: true
 ### Parts
 |Part|Number|Default Probability|
 |---|---|---|
-|[Communications Circuit Board](/docs/definitions/part/communications-circuit-board)|1|10.0|
-|[Electrical Wire](/docs/definitions/part/electrical-wire)|2|15.0|
+|[Communications circuit board](/docs/definitions/part/communications-circuit-board)|1|10.0|
+|[Electrical wire](/docs/definitions/part/electrical-wire)|2|15.0|
 |[Logic board](/docs/definitions/part/logic-board)|1|5.0|
 |[Microcontroller](/docs/definitions/part/microcontroller)|1|1.0|
 |[Optical cable](/docs/definitions/part/optical-cable)|1|3.0|
-|[Power Transistor](/docs/definitions/part/power-transistor)|1|3.0|
-|[Radio Antenna](/docs/definitions/part/radio-antenna)|1|10.0|
-|[Satellite Dish](/docs/definitions/part/satellite-dish)|1|3.0|
-|[Wire Connector](/docs/definitions/part/wire-connector)|2|25.0|
+|[Power transistor](/docs/definitions/part/power-transistor)|1|3.0|
+|[Radio antenna](/docs/definitions/part/radio-antenna)|1|10.0|
+|[Satellite dish](/docs/definitions/part/satellite-dish)|1|3.0|
+|[Wire connector](/docs/definitions/part/wire-connector)|2|25.0|
 
 ## Impacts
 
@@ -50,5 +49,5 @@ hide_summary: true
 |---|---|
 
 
-{{< definition-tail version="3.9.0" generatedOn="2025-03-08T21:34:45.1684317" >}}
+{{< definition-tail version="3.10.0" generatedOn="2025-10-09T21:45:01.8754429" >}}
 

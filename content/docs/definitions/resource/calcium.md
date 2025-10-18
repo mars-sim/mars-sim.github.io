@@ -33,6 +33,14 @@ An element.
 - [Make crop fertilizers with Crop Waste](/docs/definitions/process/make-crop-fertilizers-with-crop-waste)
 - [Make crop fertilizers with Nitrite](/docs/definitions/process/make-crop-fertilizers-with-nitrite)
 - [Make crop fertilizers with hydrogen](/docs/definitions/process/make-crop-fertilizers-with-hydrogen)
+- [Make copper pipe](/docs/definitions/process/make-copper-pipe)
+- [Make heating element](/docs/definitions/process/make-heating-element)
+- [Roll heat pipe from copper sheet](/docs/definitions/process/roll-heat-pipe-from-copper-sheet)
+- [Roll heat pipe from aluminum sheet](/docs/definitions/process/roll-heat-pipe-from-aluminum-sheet)
+- [Manufacture pneumatic drill](/docs/definitions/process/manufacture-pneumatic-drill)
+- [Manufacture bore drill bit](/docs/definitions/process/manufacture-bore-drill-bit)
+- [Manufacture bore drill pipe](/docs/definitions/process/manufacture-bore-drill-pipe)
+- [Assemble drilling rig](/docs/definitions/process/assemble-drilling-rig)
 
 
 ## Made by Food Process
@@ -46,6 +54,6 @@ An element.
 
 
 
-{{< definition-tail version="3.9.0" generatedOn="2025-03-08T21:34:45.1684317" >}}
+{{< definition-tail version="3.10.0" generatedOn="2025-10-09T21:45:01.8754429" >}}
 
 

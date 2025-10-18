@@ -19,21 +19,21 @@ hide_summary: true
 
 | Name | Type | Quantity |
 |:-----|:-----|-----:|
-|[Condenser Coil](/docs/definitions/part/condenser-coil)|Part|1|
-|[Electrical Wire](/docs/definitions/part/electrical-wire)|Part|20|
-|[Fiberglass Cloth](/docs/definitions/part/fiberglass-cloth)|Part|10|
+|[Condenser coil](/docs/definitions/part/condenser-coil)|Part|1|
+|[Electrical wire](/docs/definitions/part/electrical-wire)|Part|20|
+|[Fiberglass cloth](/docs/definitions/part/fiberglass-cloth)|Part|10|
 |[Gasket](/docs/definitions/part/gasket)|Part|5|
-|[Power Cable](/docs/definitions/part/power-cable)|Part|2|
-|[Steel Pipe](/docs/definitions/part/steel-pipe)|Part|10|
-|[Turbine Generator](/docs/definitions/part/turbine-generator)|Part|1|
+|[Power cable](/docs/definitions/part/power-cable)|Part|2|
+|[Steel pipe](/docs/definitions/part/steel-pipe)|Part|10|
+|[Turbine generator](/docs/definitions/part/turbine-generator)|Part|1|
 |[Valve](/docs/definitions/part/valve)|Part|5|
 |[Water](/docs/definitions/resource/water)|Resource|500.0 kg|
-|[Water Pump large](/docs/definitions/part/water-pump-large)|Part|1|
-|[Water Tank](/docs/definitions/part/water-tank)|Part|1|
-|[Wire Connector](/docs/definitions/part/wire-connector)|Part|20|
+|[Water pump large](/docs/definitions/part/water-pump-large)|Part|1|
+|[Water tank](/docs/definitions/part/water-tank)|Part|1|
+|[Wire connector](/docs/definitions/part/wire-connector)|Part|20|
 
 
 
 
-{{< definition-tail version="3.9.0" generatedOn="2025-03-08T21:34:45.1684317" >}}
+{{< definition-tail version="3.10.0" generatedOn="2025-10-09T21:45:01.8754429" >}}
 

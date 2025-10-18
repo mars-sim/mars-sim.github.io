@@ -17,14 +17,18 @@ The Delivery Drone is an unmanned aerial vehicle used for dropping off light car
 |Model:|A|
 |Base Speed:|40.0 kmph|
 |Crew Size:|0|
-|Empty Mass:| kg|
+|Cargo Capacity:|1000.0 kg|
+|Empty Mass:|156.71 kg|
 |Width:|1.75|
 |Length:|1.75|
+|Base Range:|915.18 km|
 |Fuel Efficiency:|0.95|
 |Attachment Slots:|0|
 
 
 ## Storage Capacity
+
+Total storage: 1000.0 kg
 
 | Resource      | Amount |
 |--------:|:------|
@@ -33,5 +37,5 @@ The Delivery Drone is an unmanned aerial vehicle used for dropping off light car
 |[Oxygen](/docs/definitions/resource/oxygen)|225.0|
 
 
-{{< definition-tail version="3.9.0" generatedOn="2025-03-08T21:34:45.1684317" >}}
+{{< definition-tail version="3.10.0" generatedOn="2025-10-09T21:54:51.2053482" >}}
 

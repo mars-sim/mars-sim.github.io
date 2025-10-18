@@ -23,6 +23,7 @@ hide_summary: true
 
 ## Used by Manufacturing Process
 
+- [Make cleaning agent with Potash lye](/docs/definitions/process/make-cleaning-agent-with-potash-lye)
 - [Make crop fertilizers with potash lye](/docs/definitions/process/make-crop-fertilizers-with-potash-lye)
 - [Dry potash into potassium crystal](/docs/definitions/process/dry-potash-into-potassium-crystal)
 - [Manufacture battery module](/docs/definitions/process/manufacture-battery-module)
@@ -34,6 +35,6 @@ hide_summary: true
     
 
 
-{{< definition-tail version="3.9.0" generatedOn="2025-03-08T21:34:45.1684317" >}}
+{{< definition-tail version="3.10.0" generatedOn="2025-10-09T21:45:01.8754429" >}}
 
 

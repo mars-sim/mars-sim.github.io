@@ -13,8 +13,8 @@ hide_summary: true
 |Category:|Grains|
 |Produce:|[Wheat](/docs/definitions/resource/wheat)|
 |Growing Time:|80 sols|
-|Edible Biomass:|13.0 g per m2|
-|Inedible Biomass:|26.0 g per m2|
+|Edible Biomass:|1.6519 g per m2|
+|Inedible Biomass:|2.6 g per m2|
 |Light Demands:|69.12 PAR per sol|
 
 ## Phases
@@ -34,5 +34,5 @@ hide_summary: true
 |Finished|0.5|0.0|
 
 
-{{< definition-tail version="3.9.0" generatedOn="2025-03-08T21:34:45.1684317" >}}
+{{< definition-tail version="3.10.0" generatedOn="2025-10-09T21:45:01.8754429" >}}
 

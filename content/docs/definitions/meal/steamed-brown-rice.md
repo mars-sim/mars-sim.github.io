@@ -11,7 +11,7 @@ hide_summary: true
 
 | Attribute   | Value |
 |--------:|:------|
-|Category:|Main Dish|
+|Category:|MAIN|
 |Oil:|0.05 kg|
 |Salt:|0.01 kg|
 
@@ -20,11 +20,12 @@ hide_summary: true
 |Name|Proportion|
 |----|------:|---:|
 |[Brown rice](/docs/definitions/resource/brown-rice)|0.4|
-|[Spring Onion](/docs/definitions/resource/spring-onion)|0.2|
+|[Spring Onion](/docs/definitions/resource/spring-onion)|0.15|
 |[Celery](/docs/definitions/resource/celery)|0.2|
+|[White mustard](/docs/definitions/resource/white-mustard)|0.05|
 
 
 
 
-{{< definition-tail version="3.9.0" generatedOn="2025-03-08T21:34:45.1684317" >}}
+{{< definition-tail version="3.10.0" generatedOn="2025-10-09T21:45:01.8754429" >}}
 

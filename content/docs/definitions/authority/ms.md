@@ -17,7 +17,7 @@ Mars Society
 |Objective:|Make Mars the second home for humanity|
 |Findings:|Investigate local in-situ resources that one can collect and process for immediate uses|
 
-## Targets
+## Goals
 
 Analyze structural integrity of geological features for building settlements in this region
 
@@ -62,5 +62,5 @@ Analyze structural integrity of geological features for building settlements in 
 * United Arab Emirates
 
 
-{{< definition-tail version="3.9.0" generatedOn="2025-03-08T21:34:45.1684317" >}}
+{{< definition-tail version="3.10.0" generatedOn="2025-10-09T21:45:01.8754429" >}}
 

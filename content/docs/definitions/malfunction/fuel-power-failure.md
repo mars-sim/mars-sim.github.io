@@ -27,15 +27,15 @@ hide_summary: true
 ### Parts
 |Part|Number|Default Probability|
 |---|---|---|
-|[Aluminum Sheet](/docs/definitions/part/aluminum-sheet)|2|10.0|
-|[Electrical Wire](/docs/definitions/part/electrical-wire)|5|20.0|
-|[Fire Extinguisher](/docs/definitions/part/fire-extinguisher)|1|30.0|
-|[Methane Fuel cell](/docs/definitions/part/methane-fuel-cell)|2|4.0|
-|[Methane Fuel cell stack](/docs/definitions/part/methane-fuel-cell-stack)|1|1.0|
+|[Aluminum sheet](/docs/definitions/part/aluminum-sheet)|2|10.0|
+|[Electrical wire](/docs/definitions/part/electrical-wire)|5|20.0|
+|[Fire extinguisher](/docs/definitions/part/fire-extinguisher)|1|30.0|
+|[Methane fuel cell](/docs/definitions/part/methane-fuel-cell)|2|4.0|
+|[Methane fuel cell stack](/docs/definitions/part/methane-fuel-cell-stack)|1|1.0|
 |[Microcontroller](/docs/definitions/part/microcontroller)|1|1.0|
-|[Power Cable](/docs/definitions/part/power-cable)|2|5.0|
-|[Steel Pipe](/docs/definitions/part/steel-pipe)|2|10.0|
-|[Wire Connector](/docs/definitions/part/wire-connector)|5|20.0|
+|[Power cable](/docs/definitions/part/power-cable)|2|5.0|
+|[Steel pipe](/docs/definitions/part/steel-pipe)|2|10.0|
+|[Wire connector](/docs/definitions/part/wire-connector)|5|20.0|
 |[Work gloves](/docs/definitions/part/work-gloves)|1|10.0|
 
 ## Impacts
@@ -51,5 +51,5 @@ hide_summary: true
 |---|---|
 
 
-{{< definition-tail version="3.9.0" generatedOn="2025-03-08T21:34:45.1684317" >}}
+{{< definition-tail version="3.10.0" generatedOn="2025-10-09T21:45:01.8754429" >}}
 

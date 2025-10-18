@@ -1,6 +1,6 @@
 ---
-title: Part - High Pressure Sodium lamp
-linkTitle: High Pressure Sodium lamp
+title: Part - High pressure sodium lamp
+linkTitle: High pressure sodium lamp
 toc_hide: true
 hide_summary: true
 ---
@@ -20,7 +20,7 @@ High Intensity Discharge (HID), and more specifically, High Pressure Sodium (HPS
 
 
 
-{{< definition-tail version="3.9.0" generatedOn="2025-03-08T21:34:45.1684317" >}}
+{{< definition-tail version="3.10.0" generatedOn="2025-10-09T21:45:01.8754429" >}}
 
 
 

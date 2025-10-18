@@ -15,6 +15,7 @@ hide_summary: true
 |Skill Level:|3|
 |Tech Level:|3|
 |Process Time:|750.0 millisols|
+|Tooling:|Lifting|
 |Work Level:|1000.0 millisols|
 |Power Required:|2.5 kW/hr|
 
@@ -33,7 +34,7 @@ hide_summary: true
 |[fuel pump](/docs/definitions/part/fuel-pump)|Part|1|
 |[fuel tank](/docs/definitions/part/fuel-tank)|Part|1|
 |[gas tank](/docs/definitions/part/gas-tank)|Part|1|
-|[methane fuel cell stack](/docs/definitions/part/methane-fuel-cell-stack)|Part|2|
+|[methane fuel cell stack](/docs/definitions/part/methane-fuel-cell-stack)|Part|1|
 |[navigation circuit board](/docs/definitions/part/navigation-circuit-board)|Part|1|
 |[optical cable](/docs/definitions/part/optical-cable)|Part|2|
 |[optical lens](/docs/definitions/part/optical-lens)|Part|2|
@@ -54,7 +55,7 @@ hide_summary: true
 
 
 
-{{< definition-tail version="3.9.0" generatedOn="2025-03-08T21:34:45.1684317" >}}
+{{< definition-tail version="3.10.0" generatedOn="2025-10-09T21:45:01.8754429" >}}
 
 
 

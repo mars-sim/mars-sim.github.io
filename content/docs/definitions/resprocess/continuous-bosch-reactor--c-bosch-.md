@@ -12,13 +12,13 @@ hide_summary: true
 |--------:|:------|
 |Process Time:|200 millisols|
 |Work Time:|10 millisols|
-|Power Required:|0.05 kW/hr|
+|Power Required:|0.01 kW/hr|
 |Start On:|false|
 
 ## Inputs
 | Name      | Input Rate (kg/sol) | Minimum kg | Ambient |
 |--------:|:------|-----:|:----|
-|[Carbon dioxide](/docs/definitions/resource/carbon-dioxide)|44.0|0.002|false|
+|[Carbon dioxide](/docs/definitions/resource/carbon-dioxide)|44.0|0.0|true|
 |[Hydrogen](/docs/definitions/resource/hydrogen)|4.0|0.0|false|
 
 Ambient inputs are consumed from the environment.
@@ -32,7 +32,7 @@ Ambient inputs are consumed from the environment.
 Waste outputs are released into the environment and do not need to be stored.
 
 
-{{< definition-tail version="3.9.0" generatedOn="2025-03-08T21:34:45.1684317" >}}
+{{< definition-tail version="3.10.0" generatedOn="2025-10-09T21:45:01.8754429" >}}
 
 
 

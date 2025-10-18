@@ -19,23 +19,23 @@ hide_summary: true
 
 | Name | Type | Quantity |
 |:-----|:-----|-----:|
-|[Air Duct](/docs/definitions/part/air-duct)|Part|5|
+|[Air duct](/docs/definitions/part/air-duct)|Part|5|
 |[Brick](/docs/definitions/part/brick)|Part|100|
 |[Cement](/docs/definitions/resource/cement)|Resource|50.0 kg|
 |[Concrete](/docs/definitions/resource/concrete)|Resource|50.0 kg|
-|[Electrical Wire](/docs/definitions/part/electrical-wire)|Part|50|
+|[Electrical wire](/docs/definitions/part/electrical-wire)|Part|50|
 |[Gasket](/docs/definitions/part/gasket)|Part|10|
 |[Motor 10 kW](/docs/definitions/part/motor-10-kw)|Part|1|
-|[Plastic Bottle](/docs/definitions/part/plastic-bottle)|Part|25|
-|[Plastic Pipe](/docs/definitions/part/plastic-pipe)|Part|10|
-|[Plastic Tubing](/docs/definitions/part/plastic-tubing)|Part|10|
-|[Power Cable](/docs/definitions/part/power-cable)|Part|10|
-|[Steel Pipe](/docs/definitions/part/steel-pipe)|Part|3|
+|[Plastic bottle](/docs/definitions/part/plastic-bottle)|Part|25|
+|[Plastic pipe](/docs/definitions/part/plastic-pipe)|Part|10|
+|[Plastic tubing](/docs/definitions/part/plastic-tubing)|Part|10|
+|[Power cable](/docs/definitions/part/power-cable)|Part|10|
+|[Steel pipe](/docs/definitions/part/steel-pipe)|Part|3|
 |[Valve](/docs/definitions/part/valve)|Part|10|
-|[Wire Connector](/docs/definitions/part/wire-connector)|Part|50|
+|[Wire connector](/docs/definitions/part/wire-connector)|Part|50|
 
 
 
 
-{{< definition-tail version="3.9.0" generatedOn="2025-03-08T21:34:45.1684317" >}}
+{{< definition-tail version="3.10.0" generatedOn="2025-10-09T21:45:01.8754429" >}}
 

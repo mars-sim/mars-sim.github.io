@@ -13,12 +13,12 @@ Single Settlement
 
 |Name|Sponsor|Template|Persons|Robots|Location|Crew|
 |---|---|---|---|---|---|---|
-|Schiaparelli Point|MS|[Alpha Base](/docs/definitions/settlement/alpha-base)|24|12|10.0000 N 10.0000 W|[Founders](/docs/definitions/crew/founders)|
+|Schiaparelli Point|[MS](/docs/definitions/authority/ms)|[Alpha Base 1](/docs/definitions/settlement/alpha-base-1)|24|12|10.0000 N 10.0000 W|[Founders](/docs/definitions/crew/founders)|
 
 
 
 
 
 
-{{< definition-tail version="3.9.0" generatedOn="2025-03-08T21:34:45.1684317" >}}
+{{< definition-tail version="3.10.0" generatedOn="2025-10-09T21:45:01.8754429" >}}
 

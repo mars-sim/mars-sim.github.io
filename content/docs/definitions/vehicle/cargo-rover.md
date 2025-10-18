@@ -17,31 +17,35 @@ The Cargo Rover is for transporting cargo from one settlement to another.&#10;&#
 |Model:|A|
 |Base Speed:|30.0 kmph|
 |Crew Size:|2|
-|Empty Mass:| kg|
+|Cargo Capacity:|6000.0 kg|
+|Empty Mass:|1366.46 kg|
 |Width:|4.0|
 |Length:|8.0|
+|Base Range:|1050.97 km|
 |Fuel Efficiency:|0.9|
-|Sickbay Tech Level:||
+|Sickbay Tech Level:|1|
 |Sickbay Beds:|1|
 |Attachment Slots:|0|
 
 
 ## Storage Capacity
 
+Total storage: 6000.0 kg
+
 | Resource      | Amount |
 |--------:|:------|
+|[Food waste](/docs/definitions/resource/food-waste)|16.0|
 |[Methanol](/docs/definitions/resource/methanol)|400.0|
-|[Grey water](/docs/definitions/resource/grey-water)|200.0|
-|[Nitrogen](/docs/definitions/resource/nitrogen)|16.0|
+|[Toxic waste](/docs/definitions/resource/toxic-waste)|16.0|
+|[Solid waste](/docs/definitions/resource/solid-waste)|80.0|
+|[Water](/docs/definitions/resource/water)|800.0|
 |[Black water](/docs/definitions/resource/black-water)|50.0|
 |[Food](/docs/definitions/resource/food)|250.0|
-|[Water](/docs/definitions/resource/water)|800.0|
+|[Grey water](/docs/definitions/resource/grey-water)|200.0|
 |[Oxygen](/docs/definitions/resource/oxygen)|650.0|
-|[Carbon dioxide](/docs/definitions/resource/carbon-dioxide)|8.0|
-|[Food waste](/docs/definitions/resource/food-waste)|16.0|
-|[Solid waste](/docs/definitions/resource/solid-waste)|80.0|
-|[Toxic waste](/docs/definitions/resource/toxic-waste)|16.0|
+|[Carbon dioxide](/docs/definitions/resource/carbon-dioxide)|20.0|
+|[Nitrogen](/docs/definitions/resource/nitrogen)|16.0|
 
 
-{{< definition-tail version="3.9.0" generatedOn="2025-03-08T21:34:45.1684317" >}}
+{{< definition-tail version="3.10.0" generatedOn="2025-10-09T21:54:51.2053482" >}}
 

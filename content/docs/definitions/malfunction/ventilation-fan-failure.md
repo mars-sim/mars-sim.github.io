@@ -29,10 +29,10 @@ hide_summary: true
 ### Parts
 |Part|Number|Default Probability|
 |---|---|---|
-|[Electrical Wire](/docs/definitions/part/electrical-wire)|2|25.0|
-|[Stepper Motor](/docs/definitions/part/stepper-motor)|1|10.0|
+|[Electrical wire](/docs/definitions/part/electrical-wire)|2|25.0|
+|[Stepper motor](/docs/definitions/part/stepper-motor)|1|10.0|
 |[Ventilation fan](/docs/definitions/part/ventilation-fan)|1|30.0|
-|[Wire Connector](/docs/definitions/part/wire-connector)|2|25.0|
+|[Wire connector](/docs/definitions/part/wire-connector)|2|25.0|
 
 ## Impacts
 
@@ -45,5 +45,5 @@ hide_summary: true
 |---|---|
 
 
-{{< definition-tail version="3.9.0" generatedOn="2025-03-08T21:34:45.1684317" >}}
+{{< definition-tail version="3.10.0" generatedOn="2025-10-09T21:45:01.8754429" >}}
 

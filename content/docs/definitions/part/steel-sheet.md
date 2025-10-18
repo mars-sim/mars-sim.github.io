@@ -1,6 +1,6 @@
 ---
-title: Part - Steel Sheet
-linkTitle: Steel Sheet
+title: Part - Steel sheet
+linkTitle: Steel sheet
 toc_hide: true
 hide_summary: true
 ---
@@ -29,7 +29,7 @@ A density of 7.8 g/cm3. 1m x 1m x 1mm sheet of steel
 - [Make rover wheels](/docs/definitions/process/make-rover-wheels)
 - [Make winch](/docs/definitions/process/make-winch)
 - [Manufacture turbine generator](/docs/definitions/process/manufacture-turbine-generator)
-- [Manufacture Stepper Motor](/docs/definitions/process/manufacture-stepper-motor)
+- [Manufacture Actuator](/docs/definitions/process/manufacture-actuator)
 - [Manufacture 5 kW Motor](/docs/definitions/process/manufacture-5-kw-motor)
 - [Manufacture 10 kW Motor](/docs/definitions/process/manufacture-10-kw-motor)
 - [Manufacture 30 kW Motor](/docs/definitions/process/manufacture-30-kw-motor)
@@ -66,12 +66,13 @@ A density of 7.8 g/cm3. 1m x 1m x 1mm sheet of steel
 - [Make methanol fuel cell stack](/docs/definitions/process/make-methanol-fuel-cell-stack)
 - [Manufacture turbopump](/docs/definitions/process/manufacture-turbopump)
 - [Manufacture plasma cutter](/docs/definitions/process/manufacture-plasma-cutter)
+- [Manufacture plasma cutter with Aluminum oxide](/docs/definitions/process/manufacture-plasma-cutter-with-aluminum-oxide)
 - [Make Power Panel](/docs/definitions/process/make-power-panel)
 - [Make Power Panel with Styrene](/docs/definitions/process/make-power-panel-with-styrene)
 
 
 
-{{< definition-tail version="3.9.0" generatedOn="2025-03-08T21:34:45.1684317" >}}
+{{< definition-tail version="3.10.0" generatedOn="2025-10-09T21:45:01.8754429" >}}
 
 
 

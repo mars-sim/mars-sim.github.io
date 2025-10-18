@@ -11,19 +11,19 @@ hide_summary: true
 | Attribute      | Value |
 |--------:|:------|
 |Type:|FOUNDATION|
-|Work Time:|15000.0|
+|Work Time:|10000.0|
 |Architectural Skill:|1|
 
 ## Resources
 
 | Name | Type | Quantity |
 |:-----|:-----|-----:|
-|[Concrete](/docs/definitions/resource/concrete)|Resource|140.0 kg|
+|[Concrete](/docs/definitions/resource/concrete)|Resource|150.0 kg|
 
 ## Later Stages
 - [Round Vaulted Brick Frame](/docs/definitions/construction/round-vaulted-brick-frame)
 
 
 
-{{< definition-tail version="3.9.0" generatedOn="2025-03-08T21:34:45.1684317" >}}
+{{< definition-tail version="3.10.0" generatedOn="2025-10-09T21:45:01.8754429" >}}
 

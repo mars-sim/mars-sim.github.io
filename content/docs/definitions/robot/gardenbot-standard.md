@@ -19,14 +19,14 @@ A gardening robot that tends greenhouses, algae ponds, and fish farms.
 |Carry Capacity:|15.0 kg|
 |Mass:|60 kg|
 |Height:|100 cm|
-|Power Consumption:|1.0 kWH|
-|Power Consumption (standby):|0.05 kWH|
+|Power Consumption:|0.4 kWH|
+|Power Consumption (standby):|0.1 kWH|
 |Low Power Threshold:|20.0 %|
 
 ## Skills
 |Skill:|Rating|
 |-------|-------|
-|Biology|1|
+|Astrobiology|1|
 |Botany|1|
 
 ## Attributes
@@ -40,5 +40,5 @@ A gardening robot that tends greenhouses, algae ponds, and fish farms.
 |Teaching|10|
 
 
-{{< definition-tail version="3.9.0" generatedOn="2025-03-08T21:34:45.1684317" >}}
+{{< definition-tail version="3.10.0" generatedOn="2025-10-09T21:45:01.8754429" >}}
 

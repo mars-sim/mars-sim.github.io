@@ -13,32 +13,32 @@ hide_summary: true
 |Type:|FRAME|
 |Work Time:|1000.0|
 |Architectural Skill:|2|
-|PreReq:|[Surface Foundation 7x9](/docs/definitions/construction/surface-foundation-7x9)|
+|PreReq:|[Surface Foundation 6x9](/docs/definitions/construction/surface-foundation-6x9)|
 
 ## Resources
 
 | Name | Type | Quantity |
 |:-----|:-----|-----:|
 |[Acetylene](/docs/definitions/resource/acetylene)|Resource|1.25 kg|
-|[Aluminum Sheet](/docs/definitions/part/aluminum-sheet)|Part|10|
+|[Aluminum sheet](/docs/definitions/part/aluminum-sheet)|Part|10|
 |[Concrete](/docs/definitions/resource/concrete)|Resource|54.0 kg|
-|[Electrical Wire](/docs/definitions/part/electrical-wire)|Part|80|
+|[Electrical wire](/docs/definitions/part/electrical-wire)|Part|80|
 |[Gasket](/docs/definitions/part/gasket)|Part|30|
 |[Insulation board](/docs/definitions/part/insulation-board)|Part|10|
-|[Plastic Pipe](/docs/definitions/part/plastic-pipe)|Part|50|
-|[Plastic Sheet](/docs/definitions/part/plastic-sheet)|Part|20|
-|[Power Cable](/docs/definitions/part/power-cable)|Part|12|
-|[Steel Pipe](/docs/definitions/part/steel-pipe)|Part|40|
-|[Steel Post](/docs/definitions/part/steel-post)|Part|5|
-|[Steel Sheet](/docs/definitions/part/steel-sheet)|Part|10|
-|[Steel Truss](/docs/definitions/part/steel-truss)|Part|20|
+|[Plastic pipe](/docs/definitions/part/plastic-pipe)|Part|50|
+|[Plastic sheet](/docs/definitions/part/plastic-sheet)|Part|20|
+|[Power cable](/docs/definitions/part/power-cable)|Part|12|
+|[Steel pipe](/docs/definitions/part/steel-pipe)|Part|40|
+|[Steel post](/docs/definitions/part/steel-post)|Part|5|
+|[Steel sheet](/docs/definitions/part/steel-sheet)|Part|10|
+|[Steel truss](/docs/definitions/part/steel-truss)|Part|20|
 |[Valve](/docs/definitions/part/valve)|Part|30|
-|[Wire Connector](/docs/definitions/part/wire-connector)|Part|80|
+|[Wire connector](/docs/definitions/part/wire-connector)|Part|80|
 
 ## Later Stages
 - [Inflatable Greenhouse](/docs/definitions/construction/inflatable-greenhouse)
 
 
 
-{{< definition-tail version="3.9.0" generatedOn="2025-03-08T21:34:45.1684317" >}}
+{{< definition-tail version="3.10.0" generatedOn="2025-10-09T21:45:01.8754429" >}}
 

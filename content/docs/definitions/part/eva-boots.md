@@ -1,6 +1,6 @@
 ---
-title: Part - EVA Boots
-linkTitle: EVA Boots
+title: Part - EVA boots
+linkTitle: EVA boots
 toc_hide: true
 hide_summary: true
 ---
@@ -19,7 +19,8 @@ steel soled and tipped.  Fiberglass insulated.
 ## Made by Manufacturing Process
 
 - [Make EVA boots](/docs/definitions/process/make-eva-boots)
-- [Make EVA boots with Polyester Fiber](/docs/definitions/process/make-eva-boots-with-polyester-fiber)
+- [Make EVA boots with Soy fiber](/docs/definitions/process/make-eva-boots-with-soy-fiber)
+- [Make EVA boots with Polyester fiber](/docs/definitions/process/make-eva-boots-with-polyester-fiber)
 
 ## Used by Manufacturing Process
 
@@ -27,7 +28,7 @@ steel soled and tipped.  Fiberglass insulated.
 
 
 
-{{< definition-tail version="3.9.0" generatedOn="2025-03-08T21:34:45.1684317" >}}
+{{< definition-tail version="3.10.0" generatedOn="2025-10-09T21:45:01.8754429" >}}
 
 
 

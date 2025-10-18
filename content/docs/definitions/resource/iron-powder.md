@@ -37,20 +37,29 @@ An element.
 - [Make spark plug](/docs/definitions/process/make-spark-plug)
 - [Make pipe wrench](/docs/definitions/process/make-pipe-wrench)
 - [Manufacture propeller](/docs/definitions/process/manufacture-propeller)
+- [Manufacture propeller with Polyester resin](/docs/definitions/process/manufacture-propeller-with-polyester-resin)
 - [Do steel ingot nickel alloying](/docs/definitions/process/do-steel-ingot-nickel-alloying)
 - [Make ceramic electrolyte](/docs/definitions/process/make-ceramic-electrolyte)
+- [Make ceramic electrolyte with Aluminum oxide](/docs/definitions/process/make-ceramic-electrolyte-with-aluminum-oxide)
 - [Make methane solid oxide fuel cells](/docs/definitions/process/make-methane-solid-oxide-fuel-cells)
+- [Make methane solid oxide fuel cells with Aluminum oxide](/docs/definitions/process/make-methane-solid-oxide-fuel-cells-with-aluminum-oxide)
 - [Make methanol fuel cells](/docs/definitions/process/make-methanol-fuel-cells)
+- [Make methanol fuel cells with Aluminum oxide](/docs/definitions/process/make-methanol-fuel-cells-with-aluminum-oxide)
 - [Manufacture resistors](/docs/definitions/process/manufacture-resistors)
+- [Manufacture resistors with Aluminum oxide](/docs/definitions/process/manufacture-resistors-with-aluminum-oxide)
 - [Manufacture capacitors](/docs/definitions/process/manufacture-capacitors)
+- [Manufacture capacitors with Aluminum oxide](/docs/definitions/process/manufacture-capacitors-with-aluminum-oxide)
 - [Manufacture diodes](/docs/definitions/process/manufacture-diodes)
+- [Manufacture diodes with Aluminum oxide](/docs/definitions/process/manufacture-diodes-with-aluminum-oxide)
 - [Manufacture logic board](/docs/definitions/process/manufacture-logic-board)
+- [Manufacture logic board with Aluminum oxide](/docs/definitions/process/manufacture-logic-board-with-aluminum-oxide)
 - [Manufacture plasma cutter](/docs/definitions/process/manufacture-plasma-cutter)
+- [Manufacture plasma cutter with Aluminum oxide](/docs/definitions/process/manufacture-plasma-cutter-with-aluminum-oxide)
 
 
     
 
 
-{{< definition-tail version="3.9.0" generatedOn="2025-03-08T21:34:45.1684317" >}}
+{{< definition-tail version="3.10.0" generatedOn="2025-10-09T21:45:01.8754429" >}}
 
 

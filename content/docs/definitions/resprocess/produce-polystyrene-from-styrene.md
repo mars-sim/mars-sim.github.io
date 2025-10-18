@@ -18,19 +18,19 @@ hide_summary: true
 ## Inputs
 | Name      | Input Rate (kg/sol) | Minimum kg | Ambient |
 |--------:|:------|-----:|:----|
-|[Styrene](/docs/definitions/resource/styrene)|5.0|0.0|false|
+|[Styrene](/docs/definitions/resource/styrene)|50.0|0.003|false|
 
 Ambient inputs are consumed from the environment.
 
 ## Outputs
 | Name      | Output Rate (kg/sol) | Waste Output |
 |--------:|:------|-----:|:----|
-|[Polystyrene](/docs/definitions/resource/polystyrene)|4.5|false|
+|[Polystyrene](/docs/definitions/resource/polystyrene)|45.0|false|
 
 Waste outputs are released into the environment and do not need to be stored.
 
 
-{{< definition-tail version="3.9.0" generatedOn="2025-03-08T21:34:45.1684317" >}}
+{{< definition-tail version="3.10.0" generatedOn="2025-10-09T21:45:01.8754429" >}}
 
 
 

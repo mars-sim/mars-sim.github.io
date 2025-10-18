@@ -14,10 +14,10 @@ Phase 2 base for KASA
 | Attribute      | Value |
 |--------:|:------|
 |Objective:|Crop Farm|
-|Shift Pattern:||
-|Default People #:|9|
+|Shift Pattern:|Long 3 Shift|
+|Default People #:|16|
 |Default Robot #:|5|
-|Sponsor:|[](/docs/definitions/settlement/)|
+|Sponsor:|[KASA](/docs/definitions/authority/kasa)|
 
 ## Buildings
 
@@ -25,6 +25,7 @@ Phase 2 base for KASA
 |:------|:------|
 |Atmospheric Processor 1|[Atmospheric Processor](/docs/definitions/building/atmospheric-processor)|
 |Atmospheric Processor 2|[Atmospheric Processor](/docs/definitions/building/atmospheric-processor)|
+|Brine Water Well 1|[Brine Water Well](/docs/definitions/building/brine-water-well)|
 |Cement Storage 1|[Cement Storage](/docs/definitions/building/cement-storage)|
 |Chemical Storage 1|[Chemical Storage](/docs/definitions/building/chemical-storage)|
 |Concrete Storage 1|[Concrete Storage](/docs/definitions/building/concrete-storage)|
@@ -53,6 +54,7 @@ Phase 2 base for KASA
 |Kilopower Reactor 1|[Kilopower Reactor](/docs/definitions/building/kilopower-reactor)|
 |Kilopower Reactor 2|[Kilopower Reactor](/docs/definitions/building/kilopower-reactor)|
 |Kilopower Reactor 3|[Kilopower Reactor](/docs/definitions/building/kilopower-reactor)|
+|Kilopower Reactor 4|[Kilopower Reactor](/docs/definitions/building/kilopower-reactor)|
 |Laboratory 1|[Laboratory](/docs/definitions/building/laboratory)|
 |Lander Hab 1|[Lander Hab](/docs/definitions/building/lander-hab)|
 |Large Sabatier Processor 1|[Large Sabatier Processor](/docs/definitions/building/large-sabatier-processor)|
@@ -61,6 +63,7 @@ Phase 2 base for KASA
 |Lime Storage 1|[Lime Storage](/docs/definitions/building/lime-storage)|
 |Lounge 1|[Lounge](/docs/definitions/building/lounge)|
 |MD1 Nuclear Reactor 1|[MD1 Nuclear Reactor](/docs/definitions/building/md1-nuclear-reactor)|
+|MD1 Nuclear Reactor 2|[MD1 Nuclear Reactor](/docs/definitions/building/md1-nuclear-reactor)|
 |Medium Battery Array 1|[Medium Battery Array](/docs/definitions/building/medium-battery-array)|
 |Medium Battery Array 2|[Medium Battery Array](/docs/definitions/building/medium-battery-array)|
 |Metal Storage 1|[Metal Storage](/docs/definitions/building/metal-storage)|
@@ -82,116 +85,115 @@ Phase 2 base for KASA
 
 | Name | Type | Quantity |
 |:-----|:-----|-----:|
-|[Air Compressor](/docs/definitions/part/air-compressor)|Part|10|
-|[Air Duct](/docs/definitions/part/air-duct)|Part|20|
-|[Airleak Patch](/docs/definitions/part/airleak-patch)|Part|306|
-|[Autoclave](/docs/definitions/part/autoclave)|Part|10|
-|[Backhoe](/docs/definitions/part/backhoe)|Part|2|
-|[Battery Module](/docs/definitions/part/battery-module)|Part|4|
-|[Blender](/docs/definitions/part/blender)|Part|10|
-|[Bore Drill Bit](/docs/definitions/part/bore-drill-bit)|Part|2|
-|[Bore Drill Pipe](/docs/definitions/part/bore-drill-pipe)|Part|30|
-|[Bulldozer Blade](/docs/definitions/part/bulldozer-blade)|Part|2|
-|[Carbon Dioxide laser](/docs/definitions/part/carbon-dioxide-laser)|Part|10|
-|[Carbon Dioxide pump](/docs/definitions/part/carbon-dioxide-pump)|Part|10|
+|[Air compressor](/docs/definitions/part/air-compressor)|Part|6|
+|[Air duct](/docs/definitions/part/air-duct)|Part|20|
+|[Airleak patch](/docs/definitions/part/airleak-patch)|Part|320|
+|[Autoclave](/docs/definitions/part/autoclave)|Part|6|
+|[Backhoe](/docs/definitions/part/backhoe)|Part|4|
+|[Battery module](/docs/definitions/part/battery-module)|Part|8|
+|[Biosensor](/docs/definitions/part/biosensor)|Part|8|
+|[Blender](/docs/definitions/part/blender)|Part|6|
+|[Bore drill bit](/docs/definitions/part/bore-drill-bit)|Part|12|
+|[Bore drill pipe](/docs/definitions/part/bore-drill-pipe)|Part|40|
+|[Bulldozer blade](/docs/definitions/part/bulldozer-blade)|Part|4|
+|[Carbon dioxide laser](/docs/definitions/part/carbon-dioxide-laser)|Part|10|
+|[Carbon dioxide pump](/docs/definitions/part/carbon-dioxide-pump)|Part|6|
 |[Charcoal filter](/docs/definitions/part/charcoal-filter)|Part|10|
-|[Communications Circuit Board](/docs/definitions/part/communications-circuit-board)|Part|4|
-|[Condenser Coil](/docs/definitions/part/condenser-coil)|Part|2|
-|[Coolant Bottle](/docs/definitions/part/coolant-bottle)|Part|18|
-|[Copper Pipe](/docs/definitions/part/copper-pipe)|Part|22|
+|[Communications circuit board](/docs/definitions/part/communications-circuit-board)|Part|12|
+|[Condenser coil](/docs/definitions/part/condenser-coil)|Part|2|
+|[Coolant bottle](/docs/definitions/part/coolant-bottle)|Part|36|
+|[Copper pipe](/docs/definitions/part/copper-pipe)|Part|24|
 |[Coveralls](/docs/definitions/part/coveralls)|Part|32|
-|[Crane Boom](/docs/definitions/part/crane-boom)|Part|2|
+|[Crane boom](/docs/definitions/part/crane-boom)|Part|4|
 |[Decontamination kit](/docs/definitions/part/decontamination-kit)|Part|4|
-|[Drilling Rig](/docs/definitions/part/drilling-rig)|Part|2|
-|[EVA Antenna](/docs/definitions/part/eva-antenna)|Part|64|
-|[EVA Battery](/docs/definitions/part/eva-battery)|Part|32|
-|[EVA Boots](/docs/definitions/part/eva-boots)|Part|32|
-|[EVA Gloves](/docs/definitions/part/eva-gloves)|Part|32|
-|[EVA Helmet](/docs/definitions/part/eva-helmet)|Part|32|
-|[EVA Pads](/docs/definitions/part/eva-pads)|Part|32|
-|[EVA Radio](/docs/definitions/part/eva-radio)|Part|38|
+|[Drilling rig](/docs/definitions/part/drilling-rig)|Part|2|
+|[EVA antenna](/docs/definitions/part/eva-antenna)|Part|64|
 |[EVA backpack](/docs/definitions/part/eva-backpack)|Part|16|
-|[Electrical Wire](/docs/definitions/part/electrical-wire)|Part|521|
-|[Electrostatic Precipitator](/docs/definitions/part/electrostatic-precipitator)|Part|10|
+|[EVA battery](/docs/definitions/part/eva-battery)|Part|32|
+|[EVA boots](/docs/definitions/part/eva-boots)|Part|32|
+|[EVA gloves](/docs/definitions/part/eva-gloves)|Part|32|
+|[EVA helmet](/docs/definitions/part/eva-helmet)|Part|32|
+|[EVA pads](/docs/definitions/part/eva-pads)|Part|32|
+|[EVA radio](/docs/definitions/part/eva-radio)|Part|40|
+|[Electrical wire](/docs/definitions/part/electrical-wire)|Part|660|
+|[Electrostatic precipitator](/docs/definitions/part/electrostatic-precipitator)|Part|10|
 |[Fiberglass](/docs/definitions/part/fiberglass)|Part|6|
-|[Fiberglass Cloth](/docs/definitions/part/fiberglass-cloth)|Part|20|
-|[Fire Extinguisher](/docs/definitions/part/fire-extinguisher)|Part|46|
+|[Fiberglass cloth](/docs/definitions/part/fiberglass-cloth)|Part|20|
+|[Fire extinguisher](/docs/definitions/part/fire-extinguisher)|Part|52|
 |[Flexible hose](/docs/definitions/part/flexible-hose)|Part|20|
 |[Food](/docs/definitions/resource/food)|Resource|1440.0 kg|
-|[Fuel Tank](/docs/definitions/part/fuel-tank)|Part|20|
-|[Fuel pump](/docs/definitions/part/fuel-pump)|Part|2|
+|[Fuel pump](/docs/definitions/part/fuel-pump)|Part|4|
+|[Fuel tank](/docs/definitions/part/fuel-tank)|Part|40|
 |[Garment](/docs/definitions/part/garment)|Part|16|
-|[Gas Tank](/docs/definitions/part/gas-tank)|Part|20|
-|[Gasket](/docs/definitions/part/gasket)|Part|168|
-|[Heat pipe](/docs/definitions/part/heat-pipe)|Part|46|
-|[Heat pump](/docs/definitions/part/heat-pump)|Part|5|
-|[Heating Element](/docs/definitions/part/heating-element)|Part|46|
-|[Helium Neon laser](/docs/definitions/part/helium-neon-laser)|Part|10|
-|[Helmet Visor](/docs/definitions/part/helmet-visor)|Part|16|
-|[Iron Pipe](/docs/definitions/part/iron-pipe)|Part|18|
-|[Light Emitting Diode bulb](/docs/definitions/part/light-emitting-diode-bulb)|Part|100|
-|[Light Emitting Diode kit](/docs/definitions/part/light-emitting-diode-kit)|Part|40|
+|[Gas tank](/docs/definitions/part/gas-tank)|Part|40|
+|[Gasket](/docs/definitions/part/gasket)|Part|188|
+|[Heat pipe](/docs/definitions/part/heat-pipe)|Part|52|
+|[Heat pump](/docs/definitions/part/heat-pump)|Part|4|
+|[Heating element](/docs/definitions/part/heating-element)|Part|52|
+|[Helium neon laser](/docs/definitions/part/helium-neon-laser)|Part|10|
+|[Helmet visor](/docs/definitions/part/helmet-visor)|Part|16|
+|[Iron pipe](/docs/definitions/part/iron-pipe)|Part|24|
+|[Light emitting diode bulb](/docs/definitions/part/light-emitting-diode-bulb)|Part|100|
+|[Light emitting diode kit](/docs/definitions/part/light-emitting-diode-kit)|Part|40|
 |[Logic board](/docs/definitions/part/logic-board)|Part|50|
-|[Lubricant Bottle](/docs/definitions/part/lubricant-bottle)|Part|24|
-|[Methane Fuel cell](/docs/definitions/part/methane-fuel-cell)|Part|400|
-|[Methane Fuel cell stack](/docs/definitions/part/methane-fuel-cell-stack)|Part|6|
-|[Methanol Fuel cell](/docs/definitions/part/methanol-fuel-cell)|Part|400|
-|[Methanol Fuel cell stack](/docs/definitions/part/methanol-fuel-cell-stack)|Part|6|
+|[Lubricant bottle](/docs/definitions/part/lubricant-bottle)|Part|44|
+|[Methane fuel cell](/docs/definitions/part/methane-fuel-cell)|Part|400|
+|[Methane fuel cell stack](/docs/definitions/part/methane-fuel-cell-stack)|Part|8|
+|[Methanol fuel cell](/docs/definitions/part/methanol-fuel-cell)|Part|400|
+|[Methanol fuel cell stack](/docs/definitions/part/methanol-fuel-cell-stack)|Part|8|
 |[Microcontroller](/docs/definitions/part/microcontroller)|Part|120|
-|[Microwave](/docs/definitions/part/microwave)|Part|10|
-|[Motor 10 kW](/docs/definitions/part/motor-10-kw)|Part|5|
-|[Motor 30 kW](/docs/definitions/part/motor-30-kw)|Part|3|
-|[Motor 5 kW](/docs/definitions/part/motor-5-kw)|Part|8|
-|[Mushroom Containment kit](/docs/definitions/part/mushroom-containment-kit)|Part|10|
-|[Navigation Circuit Board](/docs/definitions/part/navigation-circuit-board)|Part|2|
-|[Optical Lens](/docs/definitions/part/optical-lens)|Part|40|
-|[Optical Prism](/docs/definitions/part/optical-prism)|Part|40|
+|[Microwave](/docs/definitions/part/microwave)|Part|6|
+|[Motor 10 kW](/docs/definitions/part/motor-10-kw)|Part|8|
+|[Motor 30 kW](/docs/definitions/part/motor-30-kw)|Part|4|
+|[Motor 5 kW](/docs/definitions/part/motor-5-kw)|Part|12|
+|[Mushroom containment kit](/docs/definitions/part/mushroom-containment-kit)|Part|10|
+|[Navigation circuit board](/docs/definitions/part/navigation-circuit-board)|Part|8|
+|[Optical lens](/docs/definitions/part/optical-lens)|Part|40|
+|[Optical prism](/docs/definitions/part/optical-prism)|Part|40|
 |[Oven](/docs/definitions/part/oven)|Part|10|
 |[Oxygen](/docs/definitions/resource/oxygen)|Resource|2880.0 kg|
-|[Oxygen pump](/docs/definitions/part/oxygen-pump)|Part|2|
+|[Oxygen pump](/docs/definitions/part/oxygen-pump)|Part|4|
 |[Pathogen filter](/docs/definitions/part/pathogen-filter)|Part|6|
 |[Petri dish](/docs/definitions/part/petri-dish)|Part|200|
-|[Plasma cutter](/docs/definitions/part/plasma-cutter)|Part|3|
-|[Plastic Bottle](/docs/definitions/part/plastic-bottle)|Part|286|
-|[Plastic Pipe](/docs/definitions/part/plastic-pipe)|Part|39|
-|[Plastic Sheet](/docs/definitions/part/plastic-sheet)|Part|6|
-|[Plastic Tubing](/docs/definitions/part/plastic-tubing)|Part|104|
-|[Pneumatic Drill](/docs/definitions/part/pneumatic-drill)|Part|2|
+|[Plasma cutter](/docs/definitions/part/plasma-cutter)|Part|4|
+|[Plastic bottle](/docs/definitions/part/plastic-bottle)|Part|360|
+|[Plastic pipe](/docs/definitions/part/plastic-pipe)|Part|36|
+|[Plastic tubing](/docs/definitions/part/plastic-tubing)|Part|120|
+|[Pneumatic drill](/docs/definitions/part/pneumatic-drill)|Part|4|
 |[Polycarbonate roofing](/docs/definitions/part/polycarbonate-roofing)|Part|20|
-|[Power Cable](/docs/definitions/part/power-cable)|Part|24|
-|[Power Transistor](/docs/definitions/part/power-transistor)|Part|120|
-|[Pressure Suit](/docs/definitions/part/pressure-suit)|Part|32|
-|[Propeller](/docs/definitions/part/propeller)|Part|4|
-|[Radio Antenna](/docs/definitions/part/radio-antenna)|Part|10|
-|[Refrigerator](/docs/definitions/part/refrigerator)|Part|10|
-|[Rover Control Panel](/docs/definitions/part/rover-control-panel)|Part|2|
-|[Rover Wheel](/docs/definitions/part/rover-wheel)|Part|12|
-|[Rover Windshield](/docs/definitions/part/rover-windshield)|Part|2|
-|[SLS 3D Printer](/docs/definitions/part/sls-3d-printer)|Part|6|
-|[Satellite Dish](/docs/definitions/part/satellite-dish)|Part|6|
-|[Semiconductor Wafer](/docs/definitions/part/semiconductor-wafer)|Part|10|
-|[Soil Compactor](/docs/definitions/part/soil-compactor)|Part|2|
-|[Solar Panel](/docs/definitions/part/solar-panel)|Part|6|
-|[Spark Plug](/docs/definitions/part/spark-plug)|Part|18|
-|[Steel Pipe](/docs/definitions/part/steel-pipe)|Part|18|
-|[Steel Post](/docs/definitions/part/steel-post)|Part|15|
-|[Stepper Motor](/docs/definitions/part/stepper-motor)|Part|10|
-|[Stove](/docs/definitions/part/stove)|Part|10|
-|[Suit Heating Unit](/docs/definitions/part/suit-heating-unit)|Part|18|
-|[Timing Belt](/docs/definitions/part/timing-belt)|Part|16|
+|[Power cable](/docs/definitions/part/power-cable)|Part|32|
+|[Power transistor](/docs/definitions/part/power-transistor)|Part|120|
+|[Pressure suit](/docs/definitions/part/pressure-suit)|Part|32|
+|[Propeller](/docs/definitions/part/propeller)|Part|8|
+|[Radio antenna](/docs/definitions/part/radio-antenna)|Part|16|
+|[Refrigerator](/docs/definitions/part/refrigerator)|Part|6|
+|[Rover control panel](/docs/definitions/part/rover-control-panel)|Part|4|
+|[Rover wheel](/docs/definitions/part/rover-wheel)|Part|24|
+|[Rover windshield](/docs/definitions/part/rover-windshield)|Part|4|
+|[SLS 3D Printer](/docs/definitions/part/sls-3d-printer)|Part|8|
+|[Satellite dish](/docs/definitions/part/satellite-dish)|Part|8|
+|[Semiconductor wafer](/docs/definitions/part/semiconductor-wafer)|Part|10|
+|[Soil compactor](/docs/definitions/part/soil-compactor)|Part|4|
+|[Solar panel](/docs/definitions/part/solar-panel)|Part|4|
+|[Spark plug](/docs/definitions/part/spark-plug)|Part|36|
+|[Steel pipe](/docs/definitions/part/steel-pipe)|Part|24|
+|[Stepper motor](/docs/definitions/part/stepper-motor)|Part|16|
+|[Stove](/docs/definitions/part/stove)|Part|6|
+|[Suit heating unit](/docs/definitions/part/suit-heating-unit)|Part|16|
+|[Timing belt](/docs/definitions/part/timing-belt)|Part|32|
 |[Transformer](/docs/definitions/part/transformer)|Part|10|
-|[Utility Vehicle Control Panel](/docs/definitions/part/utility-vehicle-control-panel)|Part|2|
-|[Valve](/docs/definitions/part/valve)|Part|92|
-|[Vehicle Chassis Panel](/docs/definitions/part/vehicle-chassis-panel)|Part|4|
-|[Ventilation fan](/docs/definitions/part/ventilation-fan)|Part|10|
+|[Utility vehicle control panel](/docs/definitions/part/utility-vehicle-control-panel)|Part|4|
+|[Valve](/docs/definitions/part/valve)|Part|96|
+|[Vehicle chassis panel](/docs/definitions/part/vehicle-chassis-panel)|Part|8|
+|[Ventilation fan](/docs/definitions/part/ventilation-fan)|Part|6|
 |[Water](/docs/definitions/resource/water)|Resource|4800.0 kg|
-|[Water Pump large](/docs/definitions/part/water-pump-large)|Part|2|
-|[Water Pump small](/docs/definitions/part/water-pump-small)|Part|6|
-|[Water Tank](/docs/definitions/part/water-tank)|Part|20|
-|[Wheel small](/docs/definitions/part/wheel-small)|Part|2|
-|[Winch](/docs/definitions/part/winch)|Part|2|
-|[Window](/docs/definitions/part/window)|Part|4|
-|[Wire Connector](/docs/definitions/part/wire-connector)|Part|331|
+|[Water pump large](/docs/definitions/part/water-pump-large)|Part|2|
+|[Water pump small](/docs/definitions/part/water-pump-small)|Part|6|
+|[Water tank](/docs/definitions/part/water-tank)|Part|40|
+|[Wheel small](/docs/definitions/part/wheel-small)|Part|4|
+|[Winch](/docs/definitions/part/winch)|Part|4|
+|[Window](/docs/definitions/part/window)|Part|8|
+|[Wire connector](/docs/definitions/part/wire-connector)|Part|432|
 |[Work gloves](/docs/definitions/part/work-gloves)|Part|32|
 
 ## Equipment
@@ -225,5 +227,5 @@ Phase 2 base for KASA
 |Annual Delivery|668|[Resupply for Phase 2](/docs/definitions/manifest/resupply-for-phase-2)|-1|
     
 
-{{< definition-tail version="3.9.0" generatedOn="2025-03-08T21:34:45.1684317" >}}
+{{< definition-tail version="3.10.0" generatedOn="2025-10-09T21:45:01.8754429" >}}
 

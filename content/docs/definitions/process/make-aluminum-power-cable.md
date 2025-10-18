@@ -14,8 +14,9 @@ hide_summary: true
 |Type:|Manufacture|
 |Skill Level:|1|
 |Tech Level:|2|
-|Process Time:|400.0 millisols|
-|Work Level:|200.0 millisols|
+|Process Time:|40.0 millisols|
+|Tooling:|3D Printer|
+|Work Level:|20.0 millisols|
 |Power Required:|0.1 kW/hr|
 
 ## Inputs
@@ -34,7 +35,7 @@ hide_summary: true
 
 
 
-{{< definition-tail version="3.9.0" generatedOn="2025-03-08T21:34:45.1684317" >}}
+{{< definition-tail version="3.10.0" generatedOn="2025-10-09T21:45:01.8754429" >}}
 
 
 

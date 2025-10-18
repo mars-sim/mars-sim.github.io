@@ -20,9 +20,9 @@ Grouped by Severity.
 ### 100 {#A-100}
 
 - [Air Leak](../malfunction/air-leak)
-- [Class C Fire](../malfunction/class-c-fire)
-- [Class D Fire](../malfunction/class-d-fire)
-- [Class K Fire](../malfunction/class-k-fire)
+- [Class C Electrical Fire](../malfunction/class-c-electrical-fire)
+- [Class D Metal Fire](../malfunction/class-d-metal-fire)
+- [Class K Oil Fire](../malfunction/class-k-oil-fire)
 
 ### 15 {#A-15}
 
@@ -50,7 +50,7 @@ Grouped by Severity.
 - [Kitchen Microwave Failure](../malfunction/kitchen-microwave-failure)
 - [Kitchen Stove Failure](../malfunction/kitchen-stove-failure)
 - [Power System Failure](../malfunction/power-system-failure)
-- [Vehicle Power Failure](../malfunction/vehicle-power-failure)
+- [Vehicle Power System Failure](../malfunction/vehicle-power-system-failure)
 - [Ventilation Fan Failure](../malfunction/ventilation-fan-failure)
 
 ### 45 {#A-45}
@@ -63,6 +63,7 @@ Grouped by Severity.
 
 ### 50 {#A-50}
 
+- [Bot Failure](../malfunction/bot-failure)
 - [Chemical Spill](../malfunction/chemical-spill)
 - [Fuel Leak](../malfunction/fuel-leak)
 - [Fuel Pump Failure](../malfunction/fuel-pump-failure)
@@ -75,9 +76,9 @@ Grouped by Severity.
 
 ### 60 {#A-60}
 
-- [Class A Fire](../malfunction/class-a-fire)
+- [Battery Failure](../malfunction/battery-failure)
+- [Class A Combustible Fire](../malfunction/class-a-combustible-fire)
 - [Food Contamination](../malfunction/food-contamination)
-- [Vehicle Fire](../malfunction/vehicle-fire)
 - [Water Contamination](../malfunction/water-contamination)
 
 ### 65 {#A-65}
@@ -95,13 +96,16 @@ Grouped by Severity.
 
 ### 80 {#A-80}
 
-- [Class B Fire](../malfunction/class-b-fire)
+- [Class B-1 Fuel Fire](../malfunction/class-b-1-fuel-fire)
+- [Class B-2 Fuel Fire](../malfunction/class-b-2-fuel-fire)
+- [Methane Fuel Cell Failure](../malfunction/methane-fuel-cell-failure)
+- [Methanol Fuel Cell Failure](../malfunction/methanol-fuel-cell-failure)
 
 ### 90 {#A-90}
 
-- [Wall Air Leak](../malfunction/wall-air-leak)
+- [Roof Leak](../malfunction/roof-leak)
 
 
 
-{{< definition-tail version="3.9.0" generatedOn="2025-03-08T21:34:45.1684317" >}}
+{{< definition-tail version="3.10.0" generatedOn="2025-10-09T21:45:01.8754429" >}}
 

@@ -10,14 +10,25 @@ description: Meal that are prepared
 {{< definition-label xmlFile="meals" configEditor="" >}}
 
 
-Grouped by Meal Type.
+Grouped by Dish Type.
 
-### Main Dish {#A-main-dish}
+### Dessert {#A-dessert}
+
+- [Basil Pesto](../meal/basil-pesto)
+- [Blueberry muffin](../meal/blueberry-muffin)
+- [Fruit Salad](../meal/fruit-salad)
+- [Granola](../meal/granola)
+- [Peanut butter sandwich](../meal/peanut-butter-sandwich)
+- [Strawberries](../meal/strawberries)
+- [Yogurt Parfait](../meal/yogurt-parfait)
+
+### Main {#A-main}
 
 - [Bean Sprout Garlic Stir Fry](../meal/bean-sprout-garlic-stir-fry)
 - [Braised Celery Peanut Butter Dip](../meal/braised-celery-peanut-butter-dip)
 - [Cabbage Carrot Slaw Plate](../meal/cabbage-carrot-slaw-plate)
 - [Filet Sandwich](../meal/filet-sandwich)
+- [Fresh Microgreens Salad](../meal/fresh-microgreens-salad)
 - [Garlic Tempeh and Potatoes](../meal/garlic-tempeh-and-potatoes)
 - [Garlic Tofu and Potatoes](../meal/garlic-tofu-and-potatoes)
 - [Hearty Quinoa Sprouts](../meal/hearty-quinoa-sprouts)
@@ -35,7 +46,7 @@ Grouped by Meal Type.
 - [Veggie Burger](../meal/veggie-burger)
 - [Veggie Sandwich](../meal/veggie-sandwich)
 
-### Side Dish {#A-side-dish}
+### Side {#A-side}
 
 - [Baked Potatoes](../meal/baked-potatoes)
 - [Corn Mashed Potatoes](../meal/corn-mashed-potatoes)
@@ -53,9 +64,10 @@ Grouped by Meal Type.
 - [Taro Chips](../meal/taro-chips)
 - [Taro Soup](../meal/taro-soup)
 - [Tomato Soup](../meal/tomato-soup)
+- [Veggie Bowls with Microgreens](../meal/veggie-bowls-with-microgreens)
 - [Yam Chips](../meal/yam-chips)
 
 
 
-{{< definition-tail version="3.9.0" generatedOn="2025-03-08T21:34:45.1684317" >}}
+{{< definition-tail version="3.10.0" generatedOn="2025-10-09T21:45:01.8754429" >}}
 

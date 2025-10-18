@@ -25,16 +25,18 @@ No Description
 
 - [Make bleaching chemical for paper making](/docs/definitions/process/make-bleaching-chemical-for-paper-making)
 - [Make bleaching chemical for paper making (large batch)](/docs/definitions/process/make-bleaching-chemical-for-paper-making--large-batch-)
+- [Make hydrogen peroxide](/docs/definitions/process/make-hydrogen-peroxide)
 - [Make Nitrites](/docs/definitions/process/make-nitrites)
 - [Make Nitrates](/docs/definitions/process/make-nitrates)
 - [Produce Terephthalic Acid](/docs/definitions/process/produce-terephthalic-acid)
 - [Produce bisphenol-a](/docs/definitions/process/produce-bisphenol-a)
 - [Make ceramic electrolyte](/docs/definitions/process/make-ceramic-electrolyte)
+- [Make ceramic electrolyte with Aluminum oxide](/docs/definitions/process/make-ceramic-electrolyte-with-aluminum-oxide)
 
 
     
 
 
-{{< definition-tail version="3.9.0" generatedOn="2025-03-08T21:34:45.1684317" >}}
+{{< definition-tail version="3.10.0" generatedOn="2025-10-09T21:45:01.8754429" >}}
 
 

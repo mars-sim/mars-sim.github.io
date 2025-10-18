@@ -1,6 +1,6 @@
 ---
-title: Part - EVA Pads
-linkTitle: EVA Pads
+title: Part - EVA pads
+linkTitle: EVA pads
 toc_hide: true
 hide_summary: true
 ---
@@ -19,7 +19,8 @@ steel plate with fiberglass insulation.
 ## Made by Manufacturing Process
 
 - [Make EVA pads](/docs/definitions/process/make-eva-pads)
-- [Make EVA pads with Polyester Fiber](/docs/definitions/process/make-eva-pads-with-polyester-fiber)
+- [Make EVA pads with Soy fiber](/docs/definitions/process/make-eva-pads-with-soy-fiber)
+- [Make EVA pads with Polyester fiber](/docs/definitions/process/make-eva-pads-with-polyester-fiber)
 
 ## Used by Manufacturing Process
 
@@ -27,7 +28,7 @@ steel plate with fiberglass insulation.
 
 
 
-{{< definition-tail version="3.9.0" generatedOn="2025-03-08T21:34:45.1684317" >}}
+{{< definition-tail version="3.10.0" generatedOn="2025-10-09T21:45:01.8754429" >}}
 
 
 

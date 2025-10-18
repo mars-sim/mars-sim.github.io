@@ -11,7 +11,7 @@ hide_summary: true
 
 | Attribute   | Value |
 |--------:|:------|
-|Category:|Side Dish|
+|Category:|SIDE|
 |Oil:|0.15 kg|
 |Salt:|0.01 kg|
 
@@ -21,9 +21,10 @@ hide_summary: true
 |----|------:|---:|
 |[White bread](/docs/definitions/resource/white-bread)|0.45|
 |[Garlic](/docs/definitions/resource/garlic)|0.05|
+|[Parsley](/docs/definitions/resource/parsley)|0.05|
 
 
 
 
-{{< definition-tail version="3.9.0" generatedOn="2025-03-08T21:34:45.1684317" >}}
+{{< definition-tail version="3.10.0" generatedOn="2025-10-09T21:45:01.8754429" >}}
 

@@ -25,19 +25,19 @@ Ambient inputs are consumed from the environment.
 ## Outputs
 | Name      | Output Rate (kg/sol) | Waste Output |
 |--------:|:------|-----:|:----|
-|[Basaltic](/docs/definitions/resource/basaltic)|11.75|false|
+|[Bassanite](/docs/definitions/resource/bassanite)|1.5|false|
+|[Baking soda](/docs/definitions/resource/baking-soda)|4.0|false|
 |[Sand](/docs/definitions/resource/sand)|25.0|false|
+|[Basaltic](/docs/definitions/resource/basaltic)|11.75|false|
+|[Table salt](/docs/definitions/resource/table-salt)|0.4|false|
 |[Smectite](/docs/definitions/resource/smectite)|1.5|false|
 |[Allophane](/docs/definitions/resource/allophane)|1.5|false|
 |[Akaganeite](/docs/definitions/resource/akaganeite)|1.5|false|
-|[Bassanite](/docs/definitions/resource/bassanite)|1.5|false|
-|[Baking powder](/docs/definitions/resource/baking-powder)|4.0|false|
-|[Table salt](/docs/definitions/resource/table-salt)|0.4|false|
 
 Waste outputs are released into the environment and do not need to be stored.
 
 
-{{< definition-tail version="3.9.0" generatedOn="2025-03-08T21:34:45.1684317" >}}
+{{< definition-tail version="3.10.0" generatedOn="2025-10-09T21:45:01.8754429" >}}
 
 
 

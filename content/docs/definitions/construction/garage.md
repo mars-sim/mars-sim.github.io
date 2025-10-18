@@ -20,21 +20,21 @@ hide_summary: true
 | Name | Type | Quantity |
 |:-----|:-----|-----:|
 |[Aerogel tile](/docs/definitions/part/aerogel-tile)|Part|486|
-|[Air Duct](/docs/definitions/part/air-duct)|Part|10|
-|[Aluminum Sheet](/docs/definitions/part/aluminum-sheet)|Part|10|
-|[Electrical Wire](/docs/definitions/part/electrical-wire)|Part|5|
+|[Air duct](/docs/definitions/part/air-duct)|Part|10|
+|[Aluminum sheet](/docs/definitions/part/aluminum-sheet)|Part|10|
+|[Electrical wire](/docs/definitions/part/electrical-wire)|Part|5|
 |[Fiberglass](/docs/definitions/part/fiberglass)|Part|5|
 |[Motor 30 kW](/docs/definitions/part/motor-30-kw)|Part|1|
-|[Plastic Pipe](/docs/definitions/part/plastic-pipe)|Part|7|
+|[Plastic pipe](/docs/definitions/part/plastic-pipe)|Part|7|
 |[Polyester resin](/docs/definitions/resource/polyester-resin)|Resource|25.0 kg|
 |[Polyethylene](/docs/definitions/resource/polyethylene)|Resource|50.0 kg|
-|[Steel Sheet](/docs/definitions/part/steel-sheet)|Part|10|
+|[Steel sheet](/docs/definitions/part/steel-sheet)|Part|10|
 |[Styrene](/docs/definitions/resource/styrene)|Resource|15.0 kg|
 |[Valve](/docs/definitions/part/valve)|Part|7|
-|[Wire Connector](/docs/definitions/part/wire-connector)|Part|5|
+|[Wire connector](/docs/definitions/part/wire-connector)|Part|5|
 
 
 
 
-{{< definition-tail version="3.9.0" generatedOn="2025-03-08T21:34:45.1684317" >}}
+{{< definition-tail version="3.10.0" generatedOn="2025-10-09T21:45:01.8754429" >}}
 

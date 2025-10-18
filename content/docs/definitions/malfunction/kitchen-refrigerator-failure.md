@@ -26,13 +26,13 @@ hide_summary: true
 ### Parts
 |Part|Number|Default Probability|
 |---|---|---|
-|[Air Compressor](/docs/definitions/part/air-compressor)|1|10.0|
-|[Electrical Wire](/docs/definitions/part/electrical-wire)|2|20.0|
+|[Air compressor](/docs/definitions/part/air-compressor)|1|10.0|
+|[Electrical wire](/docs/definitions/part/electrical-wire)|2|20.0|
 |[Logic board](/docs/definitions/part/logic-board)|1|5.0|
-|[Lubricant Bottle](/docs/definitions/part/lubricant-bottle)|1|10.0|
+|[Lubricant bottle](/docs/definitions/part/lubricant-bottle)|1|10.0|
 |[Refrigerator](/docs/definitions/part/refrigerator)|1|5.0|
 |[Valve](/docs/definitions/part/valve)|3|20.0|
-|[Wire Connector](/docs/definitions/part/wire-connector)|2|20.0|
+|[Wire connector](/docs/definitions/part/wire-connector)|2|20.0|
 |[Work gloves](/docs/definitions/part/work-gloves)|1|10.0|
 
 ## Impacts
@@ -46,5 +46,5 @@ hide_summary: true
 |---|---|
 
 
-{{< definition-tail version="3.9.0" generatedOn="2025-03-08T21:34:45.1684317" >}}
+{{< definition-tail version="3.10.0" generatedOn="2025-10-09T21:45:01.8754429" >}}
 

@@ -15,6 +15,7 @@ hide_summary: true
 |Skill Level:|3|
 |Tech Level:|3|
 |Process Time:|200.0 millisols|
+|Tooling:|Soldering|
 |Work Level:|400.0 millisols|
 |Power Required:|0.2 kW/hr|
 
@@ -25,9 +26,8 @@ hide_summary: true
 |[copper wire](/docs/definitions/part/copper-wire)|Part|8|
 |[electrical wire](/docs/definitions/part/electrical-wire)|Part|8|
 |[iron ingot](/docs/definitions/part/iron-ingot)|Part|1|
-|[iron sheet](/docs/definitions/part/iron-sheet)|Part|1|
 |[logic board](/docs/definitions/part/logic-board)|Part|1|
-|[steel sheet](/docs/definitions/part/steel-sheet)|Part|1|
+|[plastic sheet](/docs/definitions/part/plastic-sheet)|Part|1|
 |[wire connector](/docs/definitions/part/wire-connector)|Part|8|
 
 ## Products
@@ -39,7 +39,7 @@ hide_summary: true
 
 
 
-{{< definition-tail version="3.9.0" generatedOn="2025-03-08T21:34:45.1684317" >}}
+{{< definition-tail version="3.10.0" generatedOn="2025-10-09T21:45:01.8754429" >}}
 
 
 

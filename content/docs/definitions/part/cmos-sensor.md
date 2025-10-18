@@ -22,6 +22,7 @@ Complementary Metal–Oxide–Semiconductor(CMOS) consists&#10;&#9;&#9;of millio
 
 ## Used by Manufacturing Process
 
+- [Make Bot Head](/docs/definitions/process/make-bot-head)
 - [Assemble Cargo Drone](/docs/definitions/process/assemble-cargo-drone)
 - [Assemble Delivery Drone](/docs/definitions/process/assemble-delivery-drone)
 - [Assemble LUV](/docs/definitions/process/assemble-luv)
@@ -29,11 +30,12 @@ Complementary Metal–Oxide–Semiconductor(CMOS) consists&#10;&#9;&#9;of millio
 - [Assemble transport rover](/docs/definitions/process/assemble-transport-rover)
 - [Assemble cargo rover](/docs/definitions/process/assemble-cargo-rover)
 - [Make biosensor](/docs/definitions/process/make-biosensor)
-- [Make biosensor with Polyester Fiber](/docs/definitions/process/make-biosensor-with-polyester-fiber)
+- [Make biosensor with Soy fiber](/docs/definitions/process/make-biosensor-with-soy-fiber)
+- [Make biosensor with Polyester fiber](/docs/definitions/process/make-biosensor-with-polyester-fiber)
 
 
 
-{{< definition-tail version="3.9.0" generatedOn="2025-03-08T21:34:45.1684317" >}}
+{{< definition-tail version="3.10.0" generatedOn="2025-10-09T21:45:01.8754429" >}}
 
 
 

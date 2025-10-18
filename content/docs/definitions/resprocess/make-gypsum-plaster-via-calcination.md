@@ -18,20 +18,21 @@ hide_summary: true
 ## Inputs
 | Name      | Input Rate (kg/sol) | Minimum kg | Ambient |
 |--------:|:------|-----:|:----|
-|[Gypsum](/docs/definitions/resource/gypsum)|5.0|0.0|false|
+|[Gypsum](/docs/definitions/resource/gypsum)|6.0|0.0|false|
 
 Ambient inputs are consumed from the environment.
 
 ## Outputs
 | Name      | Output Rate (kg/sol) | Waste Output |
 |--------:|:------|-----:|:----|
-|[Gypsum plaster](/docs/definitions/resource/gypsum-plaster)|4.0|false|
+|[Gypsum plaster](/docs/definitions/resource/gypsum-plaster)|3.0|false|
 |[Brine Water](/docs/definitions/resource/brine-water)|1.0|false|
+|[Lime](/docs/definitions/resource/lime)|2.0|false|
 
 Waste outputs are released into the environment and do not need to be stored.
 
 
-{{< definition-tail version="3.9.0" generatedOn="2025-03-08T21:34:45.1684317" >}}
+{{< definition-tail version="3.10.0" generatedOn="2025-10-09T21:45:01.8754429" >}}
 
 
 

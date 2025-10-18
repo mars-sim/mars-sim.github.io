@@ -22,12 +22,12 @@ hide_summary: true
 |[Acetylene](/docs/definitions/resource/acetylene)|Resource|0.25 kg|
 |[Concrete](/docs/definitions/resource/concrete)|Resource|2.0 kg|
 |[Insulation board](/docs/definitions/part/insulation-board)|Part|4|
-|[Steel Post](/docs/definitions/part/steel-post)|Part|3|
+|[Steel post](/docs/definitions/part/steel-post)|Part|3|
 
 ## Later Stages
 - [Hallway](/docs/definitions/construction/hallway)
 
 
 
-{{< definition-tail version="3.9.0" generatedOn="2025-03-08T21:34:45.1684317" >}}
+{{< definition-tail version="3.10.0" generatedOn="2025-10-09T21:45:01.8754429" >}}
 

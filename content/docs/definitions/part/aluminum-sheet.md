@@ -1,6 +1,6 @@
 ---
-title: Part - Aluminum Sheet
-linkTitle: Aluminum Sheet
+title: Part - Aluminum sheet
+linkTitle: Aluminum sheet
 toc_hide: true
 hide_summary: true
 ---
@@ -24,12 +24,12 @@ A density of 2.72 g/cm3. 1m x 1m x 1mm sheet of aluminum
 ## Used by Manufacturing Process
 
 - [Make satellite dish](/docs/definitions/process/make-satellite-dish)
-- [Make satellite dish with polycarbonate resin](/docs/definitions/process/make-satellite-dish-with-polycarbonate-resin)
+- [Make satellite dish with Polycarbonate resin](/docs/definitions/process/make-satellite-dish-with-polycarbonate-resin)
 - [Make radio antenna](/docs/definitions/process/make-radio-antenna)
-- [Make radio antenna with Polycarbonate Resin](/docs/definitions/process/make-radio-antenna-with-polycarbonate-resin)
+- [Make radio antenna with Polycarbonate resin](/docs/definitions/process/make-radio-antenna-with-polycarbonate-resin)
 - [Make suit heating unit](/docs/definitions/process/make-suit-heating-unit)
 - [Make EVA antenna](/docs/definitions/process/make-eva-antenna)
-- [Make EVA antenna with Polycarbonate Resin](/docs/definitions/process/make-eva-antenna-with-polycarbonate-resin)
+- [Make EVA antenna with Polycarbonate resin](/docs/definitions/process/make-eva-antenna-with-polycarbonate-resin)
 - [Assemble Cargo Drone](/docs/definitions/process/assemble-cargo-drone)
 - [Assemble Delivery Drone](/docs/definitions/process/assemble-delivery-drone)
 - [Assemble LUV](/docs/definitions/process/assemble-luv)
@@ -43,7 +43,7 @@ A density of 2.72 g/cm3. 1m x 1m x 1mm sheet of aluminum
 
 
 
-{{< definition-tail version="3.9.0" generatedOn="2025-03-08T21:34:45.1684317" >}}
+{{< definition-tail version="3.10.0" generatedOn="2025-10-09T21:45:01.8754429" >}}
 
 
 

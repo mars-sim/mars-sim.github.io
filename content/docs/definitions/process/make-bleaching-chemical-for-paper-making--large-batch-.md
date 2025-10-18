@@ -15,6 +15,7 @@ hide_summary: true
 |Skill Level:|1|
 |Tech Level:|2|
 |Process Time:|200.0 millisols|
+|Tooling:|Chemical|
 |Work Level:|50.0 millisols|
 |Power Required:|0.3 kW/hr|
 
@@ -22,23 +23,23 @@ hide_summary: true
 
 | Input      | Amount |
 |--------:|:------|
-|[ammonia](/docs/definitions/resource/ammonia)|Resource|0.5 kg|
-|[calcium carbonate](/docs/definitions/resource/calcium-carbonate)|Resource|1.0 kg|
-|[magnesium](/docs/definitions/resource/magnesium)|Resource|0.5 kg|
-|[oxygen](/docs/definitions/resource/oxygen)|Resource|2.0 kg|
-|[sodium hypochlorite](/docs/definitions/resource/sodium-hypochlorite)|Resource|0.5 kg|
-|[sulfur](/docs/definitions/resource/sulfur)|Resource|0.5 kg|
+|[ammonia](/docs/definitions/resource/ammonia)|Resource|5.0 kg|
+|[calcium carbonate](/docs/definitions/resource/calcium-carbonate)|Resource|10.0 kg|
+|[magnesium](/docs/definitions/resource/magnesium)|Resource|5.0 kg|
+|[oxygen](/docs/definitions/resource/oxygen)|Resource|20.0 kg|
+|[sodium hypochlorite](/docs/definitions/resource/sodium-hypochlorite)|Resource|5.0 kg|
+|[sulfur](/docs/definitions/resource/sulfur)|Resource|5.0 kg|
 
 ## Products
 
 
 | Produce      | Amount |
 |--------:|:------|
-|[bleaching chemical](/docs/definitions/resource/bleaching-chemical)|5.0 kg|
+|[bleaching chemical](/docs/definitions/resource/bleaching-chemical)|50.0 kg|
 
 
 
-{{< definition-tail version="3.9.0" generatedOn="2025-03-08T21:34:45.1684317" >}}
+{{< definition-tail version="3.10.0" generatedOn="2025-10-09T21:45:01.8754429" >}}
 
 
 

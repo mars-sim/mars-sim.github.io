@@ -20,25 +20,25 @@ hide_summary: true
 | Name | Type | Quantity |
 |:-----|:-----|-----:|
 |[Acetylene](/docs/definitions/resource/acetylene)|Resource|2.5 kg|
-|[Aluminum Sheet](/docs/definitions/part/aluminum-sheet)|Part|50|
+|[Aluminum sheet](/docs/definitions/part/aluminum-sheet)|Part|50|
 |[Brick](/docs/definitions/part/brick)|Part|3600|
 |[Concrete](/docs/definitions/resource/concrete)|Resource|270.0 kg|
-|[Electrical Wire](/docs/definitions/part/electrical-wire)|Part|50|
+|[Electrical wire](/docs/definitions/part/electrical-wire)|Part|50|
 |[Gasket](/docs/definitions/part/gasket)|Part|40|
 |[Insulation board](/docs/definitions/part/insulation-board)|Part|50|
-|[Plastic Pipe](/docs/definitions/part/plastic-pipe)|Part|100|
-|[Plastic Sheet](/docs/definitions/part/plastic-sheet)|Part|20|
-|[Power Cable](/docs/definitions/part/power-cable)|Part|20|
-|[Steel Post](/docs/definitions/part/steel-post)|Part|12|
-|[Steel Sheet](/docs/definitions/part/steel-sheet)|Part|50|
-|[Steel Truss](/docs/definitions/part/steel-truss)|Part|30|
+|[Plastic pipe](/docs/definitions/part/plastic-pipe)|Part|100|
+|[Plastic sheet](/docs/definitions/part/plastic-sheet)|Part|20|
+|[Power cable](/docs/definitions/part/power-cable)|Part|20|
+|[Steel post](/docs/definitions/part/steel-post)|Part|12|
+|[Steel sheet](/docs/definitions/part/steel-sheet)|Part|50|
+|[Steel truss](/docs/definitions/part/steel-truss)|Part|30|
 |[Valve](/docs/definitions/part/valve)|Part|50|
-|[Wire Connector](/docs/definitions/part/wire-connector)|Part|50|
+|[Wire connector](/docs/definitions/part/wire-connector)|Part|50|
 
 ## Later Stages
 - [Loading Dock Garage](/docs/definitions/construction/loading-dock-garage)
 
 
 
-{{< definition-tail version="3.9.0" generatedOn="2025-03-08T21:34:45.1684317" >}}
+{{< definition-tail version="3.10.0" generatedOn="2025-10-09T21:45:01.8754429" >}}
 

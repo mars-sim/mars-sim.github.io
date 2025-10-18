@@ -17,22 +17,26 @@ The Light Utility Vehicle (LUV) is a small, unpressurized, one crew utility vehi
 |Model:|A|
 |Base Speed:|30.0 kmph|
 |Crew Size:|1|
-|Empty Mass:| kg|
+|Cargo Capacity:|300.0 kg|
+|Empty Mass:|245.73999999999998 kg|
 |Width:|1.7|
 |Length:|2.55|
+|Base Range:|743.51 km|
 |Fuel Efficiency:|0.9|
 |Attachment Slots:|3|
 
 ## Attachments
 
-- [Bulldozer Blade](/docs/definitions/part/bulldozer-blade)
-- [Pneumatic Drill](/docs/definitions/part/pneumatic-drill)
+- [Bulldozer blade](/docs/definitions/part/bulldozer-blade)
+- [Pneumatic drill](/docs/definitions/part/pneumatic-drill)
 - [Backhoe](/docs/definitions/part/backhoe)
-- [Soil Compactor](/docs/definitions/part/soil-compactor)
-- [Drilling Rig](/docs/definitions/part/drilling-rig)
-- [Crane Boom](/docs/definitions/part/crane-boom)
+- [Soil compactor](/docs/definitions/part/soil-compactor)
+- [Drilling rig](/docs/definitions/part/drilling-rig)
+- [Crane boom](/docs/definitions/part/crane-boom)
 
 ## Storage Capacity
+
+Total storage: 300.0 kg
 
 | Resource      | Amount |
 |--------:|:------|
@@ -40,5 +44,5 @@ The Light Utility Vehicle (LUV) is a small, unpressurized, one crew utility vehi
 |[Oxygen](/docs/definitions/resource/oxygen)|15.0|
 
 
-{{< definition-tail version="3.9.0" generatedOn="2025-03-08T21:34:45.1684317" >}}
+{{< definition-tail version="3.10.0" generatedOn="2025-10-09T21:54:51.2053482" >}}
 

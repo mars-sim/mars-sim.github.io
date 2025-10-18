@@ -16,7 +16,7 @@ hide_summary: true
 ## Systems Affected 
 - fuel heating source
 - fuel power source
-- rover
+- methane fuel
 
 ## Repair
 
@@ -29,10 +29,10 @@ hide_summary: true
 |Part|Number|Default Probability|
 |---|---|---|
 |[Decontamination kit](/docs/definitions/part/decontamination-kit)|1|30.0|
-|[Fuel Tank](/docs/definitions/part/fuel-tank)|1|10.0|
+|[Fuel tank](/docs/definitions/part/fuel-tank)|1|10.0|
 |[Gasket](/docs/definitions/part/gasket)|1|15.0|
-|[Plastic Bottle](/docs/definitions/part/plastic-bottle)|1|15.0|
-|[Plastic Tubing](/docs/definitions/part/plastic-tubing)|1|15.0|
+|[Plastic bottle](/docs/definitions/part/plastic-bottle)|1|15.0|
+|[Plastic tubing](/docs/definitions/part/plastic-tubing)|1|15.0|
 |[Valve](/docs/definitions/part/valve)|1|15.0|
 |[Work gloves](/docs/definitions/part/work-gloves)|1|10.0|
 
@@ -47,5 +47,5 @@ hide_summary: true
 |---|---|
 
 
-{{< definition-tail version="3.9.0" generatedOn="2025-03-08T21:34:45.1684317" >}}
+{{< definition-tail version="3.10.0" generatedOn="2025-10-09T21:45:01.8754429" >}}
 

@@ -12,30 +12,32 @@ hide_summary: true
 |--------:|:------|
 |Process Time:|200 millisols|
 |Work Time:|10 millisols|
-|Power Required:|0.01 kW/hr|
+|Power Required:|0.005 kW/hr|
 |Start On:|false|
 
 ## Inputs
 | Name      | Input Rate (kg/sol) | Minimum kg | Ambient |
 |--------:|:------|-----:|:----|
-|[Regolith](/docs/definitions/resource/regolith)|100.0|0.005|false|
+|[Regolith](/docs/definitions/resource/regolith)|25.0|0.001|false|
 
 Ambient inputs are consumed from the environment.
 
 ## Outputs
 | Name      | Output Rate (kg/sol) | Waste Output |
 |--------:|:------|-----:|:----|
-|[Nitrogen](/docs/definitions/resource/nitrogen)|0.1|false|
-|[Argon](/docs/definitions/resource/argon)|0.1|false|
-|[Nitrate](/docs/definitions/resource/nitrate)|0.1|false|
-|[Nitrite](/docs/definitions/resource/nitrite)|0.1|false|
-|[Regolith](/docs/definitions/resource/regolith)|99.5|false|
-|[Ammonia](/docs/definitions/resource/ammonia)|0.1|false|
+|[Iron powder](/docs/definitions/resource/iron-powder)|1.0|false|
+|[Nitrate](/docs/definitions/resource/nitrate)|0.5|false|
+|[Iron oxide](/docs/definitions/resource/iron-oxide)|1.5|false|
+|[Nitrite](/docs/definitions/resource/nitrite)|0.5|false|
+|[Sand](/docs/definitions/resource/sand)|20.0|false|
+|[Argon](/docs/definitions/resource/argon)|0.5|false|
+|[Nitrogen](/docs/definitions/resource/nitrogen)|0.5|false|
+|[Ammonia](/docs/definitions/resource/ammonia)|0.5|false|
 
 Waste outputs are released into the environment and do not need to be stored.
 
 
-{{< definition-tail version="3.9.0" generatedOn="2025-03-08T21:34:45.1684317" >}}
+{{< definition-tail version="3.10.0" generatedOn="2025-10-09T21:45:01.8754429" >}}
 
 
 
