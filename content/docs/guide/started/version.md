@@ -4,6 +4,107 @@ linktitle: Version
 description: History of the MarsSim releases
 weight: 50
 ---
+## Version 3.10.0 (Oct 2025)
+
+### A. CORE ENGINE IMPROVEMENTS:
+
+- Meal time schedules are flexible and follow the sunrise.
+- Different toolsets requirements can be defined for Manufacturing Processes.
+- Manufacture function can provide multiple toolings for processes.
+- Simplify the start up for the Simulation configuration.
+- Default configuration directory can be changed by a commandline argument.
+- File logging is controlled from a commandline argument.
+- Dessert creation merged into normal Dish/Meal configurations.
+- Mission outcome/objectives are held seperate from the Mission class. This support future of mixed purpose Missions.
+- Remodel and display a person's blood type.
+- Remodel a person's eating appetite.
+- Rebalance biomass yield on food crop.
+- Add Sector Base Template with population of 120.
+- Replace with efficient pathfinding algorithm for settlement interior walk.
+- Rework Loading Dock Garage to support 3 bays for rovers.
+- Add 2 LUV bays in both garages.
+- Add to garage when a vehicle returns to a settlement.
+- Add Alpha Base template variants.
+- Optimize getting a set of buildings.
+- Moderate food resource and food production.
+- Lower structural heat loss due to proximity of adjacent building.
+- Add bunk beds in some buildings for accommodating more settlers.
+- Add Parameter Categories for customizing preferences in each settlement.
+- Add Brine Water Well building to lessen the need for digging local ice and ice collection mission.
+- Implement construction queue
+- Improve inspection and maintenance. Allow auditing outside buildings remotely.
+- Create MarsZone, StorageSpec, Research Spec, GenerationSpec and SourceSpec.
+- Unify access to walking methods for persons and robots.
+- Rework how local construction tasks are executed during a construction mission
+- Rework various settlement templates and experiment with new building placements.
+- Create and rework coordinate format to be non-locale based in support of internationalization.
+- Add more German and UK person, settlement and vehicle names.
+- Add Agenzia Spaziale Italiana, German Space Agency (DLR) and UK Space Agency (UKSA).
+- Add part fatigues to vehicles, robots and buildings and they may be lowered by inspection and maintenance.
+- Limit resource demand with a ceiling imposed by the sum of projected, trade and repair demand.
+- Rebalance resources demand and supply chain.
+- Add new bio-based and chemical-based resource processes.
+- Allow hallways to have sufficient heat capacity by generating heat per square meter of area.
+- Add Sociology and Architecture as a science subject.
+- Switch to supporting JUnit 5 and 6.
+- Rework mission log entries.
+- Add the initial model of generating tourists for large settlements.
+- Add new background music ogg files.
+- Implement new area collision algorithm for walking outside.
+
+### B. UI IMPROVEMENT:
+
+- Person Favorite displays the list of dish names
+- Navigator Window provides filters for the Exploration, Unit & Landmark layers
+- Redesign of the Navigator Window controls so layers are managed via a Tree control
+- Navigator window is no longer a fixed size and can be resized
+- Mission details panel redesigned
+- New standard way to display Entities with details and location button provided
+- Display the average age and gender ratio of a settlement.
+- Add 3 dark themes and a light theme.
+- Enable top menu bar in macOS.
+- Enable mars-sim dock icon in macOS.
+- Relocate speed buttons to top left of the main window.
+- Add 'Life Core A' and 'Half Core A/B' buildings.
+- Add Preferences tab in SettlementUnitWindow.
+- Add buildings svg images for new Bio-reactor labs and various Core connectors.
+- Improve construction tab with queue table.
+- Add deep borehole small drilling site.
+- Show spot locations within building in Settlement Map's status bar.
+- Fast track building maintenance if repair parts are posted and ready.
+- Remove memory leak when scrolling up and down Settlement map's zoom slider.
+- Update mass/quantity properly in Monitor Tool's Good tab.
+- Add settlement wide construction and manufacturing queue.
+- Convert various missions to Objective pattern.
+- Reduce heap memory when zooming in the Settlement local Map
+- Replace console main menu with a swing-based startup chooser menu
+- Allow each tab in Monitor Tool to choose from All, a sponsor or a settlement in authority combobox.
+- Add a floating toolbar to host sound control and speed control.
+
+### C. FIXES:
+
+- GoodsManager could use the wrong Good properties when updating the value.
+- Correct missing main window title.
+- Correct male and female gender ratio.
+- Correct the use of Alive/Deceased/Buried checkboxes in Monitor Tool's Citizens tab.
+- Correct the use of stock capacity.
+- Correct mouse button detection for macOS in Settlement Map.
+- Proper artificial lighting for growing crops in greenhouses.
+- Correct hatch-facing attribute interpretation for building locations.
+- Correct getting a computational node.
+- Fix getting a random settlement name.
+- Fix calculating local vs. market demand and value points.
+- Fix area calculation for hab and hub.
+- Fix repairbots getting stuck in EVA airlocks.
+- Correct the use of population factor for computing demand and good value.
+- Return zero rating for emergency mission.
+- Clean up astroart code.
+- Update mass/quantity properly in Monitor Tool's Good tab.
+- Correct the way the ChainOfCommand elect leaders and chiefs and release old roles.
+- Identify and correct teleportation of mission members during mission back to their home settlement.
+- Correct the way the power grid would selectively shut down various types of buildings that may generate power to have net position power.
+- Correct inability to automatically starting Field Study missions.
+- Correct collecting rocks in Exploration and various field missions.
 
 ## Version 3.9.0 (March 2025)
 
@@ -57,7 +158,7 @@ weight: 50
 
 
 
-## Version 3.8.0 (Tue 27 Aug 2024)
+## Version 3.8.0 (Aug 2024)
 
 ### A. CORE ENGINE IMPROVEMENTS :
 
@@ -113,7 +214,7 @@ weight: 50
 - Salvage Process: Correct problem when scoring the salvage of a vehicle. 
 
 
-## Version 3.7.2  (Sun 18 Feb 2024)
+## Version 3.7.2  (Feb 2024)
 
 ### A. CORE ENGINE IMPROVEMENTS :
 
@@ -140,7 +241,7 @@ weight: 50
 
 
 
-## Version 3.7.1 (Wed 17 Jan 2024) 
+## Version 3.7.1 (Jan 2024) 
 
 ### A. CORE ENGINE IMPROVEMENTS :
 
@@ -174,7 +275,7 @@ weight: 50
 
 
 
-## Version 3.7.0 (Thu 28 Dec 2023) 
+## Version 3.7.0 (Dec 2023) 
 
 ### A. CORE ENGINE IMPROVEMENTS :
 
@@ -210,7 +311,8 @@ weight: 50
 - Mission Table: fix problem with invalid column. 
 - Sleep: ensure correct building when assigning a bed.
 
-## Version 3.6.2 (Mon, 18 Sep 2023) 
+## Version 3.6.2 (Sep 2023)
+ 
 ###  A. CORE ENGINE IMPROVEMENTS :
 
 - Crop: allow changing growing area per crop in Farming.
@@ -237,14 +339,14 @@ weight: 50
 - Settlement: select correctly whether settlers and vehicles are in settlement or its vicinity in Settlement Map.
 - Weather: Correct weather param concurrency during reload.
 
-## Version 3.6.1 build 0ac7103 (25 Aug 2023) 
+## Version 3.6.1 (Aug 2023) 
 ### A. FIXES :
 
 - Mineral Map: Avoid NPE after a reload by serializing a list of mineral types 
 - <a href="https://github.com/mars-sim/mars-sim/issues/1005">#1005</a>
 
   
-## 3.6.0 Build 8557 (24 Aug 2023) 
+## Version 3.6.0 (Aug 2023) 
 
 ### A. CORE ENGINE IMPROVEMENTS :
 
@@ -294,7 +396,7 @@ weight: 50
 - Social     : Avoid concurrency issue by making relationship score updating in one direction.
 - Resources  : Correct displaying amount resources stored in Inventory Tab.
 
-## 3.5.0 (build 7907) - 5 Apr 2023 
+## 3.5.0 (Apr 2023) 
 
 ###  CORE ENGINE IMPROVEMENTS :
 
@@ -381,7 +483,7 @@ weight: 50
 -     Vehicle : Correct vehicle fuel calculation.
 
 
-## Version 3.3.0 (09/25/2021)
+## Version 3.3.0 (Sept 2021)
 
 - Crew Editor : Create and load user-defined crew.
 - Equipment : Reduce memory usage - no longer uses Inventory class.
@@ -389,7 +491,7 @@ weight: 50
 - Scenario : Add basic ability to define scenarios. 
 
 
-## Version 3.2.0 (07/06/2021)
+## Version 3.2.0 (June 2021)
 
 - Sleep : Enforce one continuous sleep session as much as possible.
 - EVA : Remove the duplicated EVA function in garages. 
@@ -415,14 +517,14 @@ weight: 50
 - Mission : Add delivery drones for carrying cargo between settlements. 
 
 
-## Version 3.1.1 (07/22/2020)
+## Version 3.1.1 (July 2020)
 
 - Console: Correct startup issues. Provide a basic way of using CLI to start a single settlement. 
 - Goods : refine the conversion between the level of effort of an operation and its modifiers. 
 - Commander Dashboard : Correct dashboard's level of effort alignment.
 
 
-## Version 3.1.0 (01/28/2020)
+## Version 3.1.0 (Jan 2020)
 
 - Role : assigns each person a role to function.
 - Leadership Hierarchy : establishes a chain of command in each settlement.
@@ -463,289 +565,43 @@ weight: 50
 - Commander Dashboard : Adds interactive features and controls in Command Mode. 
 
 
-## Version 3.07 (01/17/2015)
+## Version 3.07 (Jan 2015)
 - includes new activity spots in buildings and vehicles, improved agriculture and new food production,
 new event notification popups, and overall improvements to the UI look & feel.
 
-## Version 3.06 (05/12/2014)
+## Version 3.06 (May 2014)
 
 - adds hallways and hatch connectors between buildings, people walking connected interior paths between buildings and avoiding exterior obstacles
  when walking outside. Internationalization work has started, added German and Danish language text based on the user's locale.
 
 
-## Version 3.05 (09/14/2013)
+## Version 3.05 (Sept 2013)
 
 - includes a new emergency supply mission, dig local ice task, and a new Debian installation package.
 
 
-## Version 3.04 (05/13/2013)
+## Version 3.04 (May 2013)
 
 - adds local X,Y locations for people and vehicles in the simulation, vehicles displayed on the settlement map tool, new arriving
 settlements can be created/edited with the resupply tool, and a new tutorial window that displays when a new simulation is created (Lars).
 
 
-## Version 3.03 (10/29/2012)
+## Version 3.03 (Oct 2012)
 
 -  is a maintenance release that focuses on performance improvement, tweaks, and fixing bugs. Includes a new UI start up sound (Lars).
 
 
-## Version 3.02 (06/10/2012)
+## Version 3.02 (Oct 2012)
 
 -  includes a new resupply tool and adds person labels to the settlement map tool. A large number of bug fixes were made in this release.
 
 
-## Version 3.01 (09/26/2011)
+## Version 3.01 (Sept 2011)
 
 -  includes improvements on the settlement map tool, two new settlement templates, and seven new buildings.
 
 
-## Version 3.00 (04/07/2011)
+## Version 3.00 (Jan 2011)
 
 -  has a new simulation configuration dialog that lets the user configure a new simulation, and a settlement map tool that displays a graphical 2D map of each settlement.
 Lots of bug fixes and performance improvements.
-
-
-## Version 2.90 (07/01/2010)
-
--  includes salvage of equipment, vehicles, and buildings as well as using the Nimbus look & feel (Lars).
-
-
-## Version 2.88 (01/11/2010)
-
--  has a new webstart release (Christian), we converted the build environment to a Maven project (Christian), and fixed some bugs.
-
-
-## Version 2.87 (11/24/2009)
-
--  includes new science skills, new scientist jobs, a new scientific study
-system with related tasks and missions, a new astronomy observatory building (Sebastien), settler
-age (Lars), and a new preferences tool (Lars).
-
-
-## Version 2.86 (05/27/2009)
-
--  includes XML DTDs, switch to JDom library (Sebastien), rover obstacle
-avoidance improvements, trading improvements, fixes for settlement overpopulation, and lots of
-bug/performance fixes.
-
-
-## Version 2.85 (01/26/2009)
-
--  adds settlement building construction, fuel power generation (Sebastien),
-power storage buildings, and a new splash screen sound (Lars).
-
-
-## Version 2.84 (06/25/2008)
-
--  includes a mining mission, mineral concentrations, a light utility vehicle
-(Sebastien) and an inline user guide (Lars).
-
-
-## Version 2.83 (03/02/2008)
-
--  includes manufacturing processes, compressed sound support (Sebastien) and
-logging (Sebastien).
-
-
-## Version 2.82 (11/30/2007)
-
--  includes repair/maintenance parts, automatic UI settings loading/saving,
-and bug/performances fixes.
-
-
-## Version 2.81 (09/16/2007)
-
--  includes a new trade mission, credit system and goods valuing system.
-
-
-## Version 2.80 (03/30/2007)
-
--  includes a new mission tool for creating, editing and viewing missions.
-
-
-## Version 2.79 (07/23/2006)
-
--  includes rover rescue/salvage missions, resources containers, and lots
-of bug fixes, refactoring and performance improvements.
-
-
-## Version 2.78 (10/22/2005)
-
--  add UI sounds (w/ Dima Stephanchuk), individual person configuration,
-cooking task, chef profession, mission and task refactoring, and lots of bug fixes and small
-improvements.
-
-
-## Version 2.77 (10/03/2004)
-
--  adds EVA suit tear malfunction (Rik Declercq), frost bite/nip illnesses
-(Rik Declercq), anxiety attack illness (Rik Declercq), teaching skills, settlement EVA maintenance,
-settler gender, settler social relationships (w/ Paul Speed), settler MBTI personalities (w/ Paula
-Jenkins), sound support (Dima Stephanchuk), Alpha Base settlement template, lots of bug fixes and
-small improvements.
-
-
-## Version 2.76 (08/04/2004)
-
--  adds settler stress level, settlement and building crowding, landmark display
-(Dalen Kruse), settler job specialities, medical and botany science research, and settlement resupply
-missions.
-
-
-## Version 2.75 (04/15/2004)
-
--  adds configurable settlement buildings, settlement power grid, resource processes,
-ice prospecting mission, historical events in the monitor tool (Barry Evans), vehicle trails and improved
-configuration files.
-
-
-## Version 2.74 (05/21/2002)
-
--  adds a medical system (Barry Evans) and a malfunction/maintenance/repair system
-that allows settlers to die as a result of an illness or accident.  A general inventory system has been
-added along with EVA operations as a part of missions or repair.  The Monitor tool has been updated to
-allow custom tabs and real-time charts and graphs.
-
-
-## Version 2.73 (12/27/2001)
-
--  adds the ability to save and load simulations (Barry Evans).  XML configuration
-files allow the user to set simulation properties.  A new Monitor Tool shows a table of units and their
-information (Barry Evans).  Many bugs have been fixed (Dalen Kruse).
-
-
-## Version 2.72 (08/18/2001)
-
--  includes a Martian timekeeping system (clock/calendar), orbital tracking and
-day/night tracking.  The settler AI is completely refactored and includes support for missions.  Two
-missions are included: Travel to Settlement mission and Collect Rock Samples Mission.  Sleeping and
-eating meal tasks have also been added.
-
-
-## Version 2.71 (01/31/2001)
-
--  is primarily focused on refactoring the code and reorganizing the directory
-structure.  The simulation and the user interface are now cleanly broken apart into two packages.
-Greg Whelan added a new USGS mode that allows 8x zoom on the Mars Navigator surface map with an Internet
-connection.  Resources are produced and consumed a great deal more in the simulation.  INSITU resource
-processors have been added to the settlements to generate oxygen, fuel and water.
-##The problematic Installer application has been removed, but the download for the project is much larger now.
-
-
-## Version 2.7 (09/08/2000)
-
--  includes random mechanical failures for vehicles, periodic vehicle maintenance in
-settlement garages, and a mechanic task and skill.  The crew of a rover that gets stuck will now slowly
-winch it along until it's free again.  Fuel is tracked in vehicles.  Configuration text files are included
-so that the user can modify the names of people, settlements and rovers.  The Martian globe in the Mars
-Navigator tool renders much faster now.
-
-
-##05/25/2000 - Version 2.65
-
--  concentrates on fleshing out settlements and improving the look and feel of the
-application.  Facilities were added to settlements, including working greenhouses.  The project now has
-a centered logo and a tiled background on its desktop, along with a splash screen at startup.  The toolbar
-has been broken up into tool and unit toolbars.  A new tool, the "Search Tool", has been added to improve
-searching for units.  A "Tend Greenhouse" task has been added.
-
-
-##03/04/2000 - Version 2.6
-
--  provides more functionality for people in the simulation and displays the new
-information in a larger person detail window.  People now have natural attributes, skills and tasks.
-The basic infrastructure for tasks are in place, but only two tasks, relaxing and driving, are currently
-implemented.  Skills are fully implemented, but only one skill, "Driving", is currently used in conjunction
-with the driving task.  Natural attributes are fully implemented with many attributes, but only one,
-"Experience Aptitude", has current practical use in conjunction with the driving task.
-There have been some significant structure changes in the program and all classes have some additional
-documentation.
-
-
-##09/06/1999 - Version 2.5
-
--  adds obstacle avoidance for rovers so they can go around rough terrain to avoid
-getting stuck.  They can still get stuck in really bad terrain, but they generally do better than they used
-to.  People also tend to drive to closer settlements now.  Many bugs are fixed and there are a lot of
-internal changes that are transparent to the user but should make adding new features later easier.  Rovers
-also have designated drivers, rather than just a list of passengers.  Link buttons have been added to unit
-dialogs that will open up new unit windows.  A "center map" button has also been added to each unit dialog
-to center the navigational window on the unit.  The install application has been modified to use less memory.
-More people have been added, some with made up names.
-
-
-##07/19/1999 - Version 2.4
-
-- replaces the old topographical map with a new one based on recently released
-Mars Global Surveyor data.  It is a lot more accurate as the previous one was based on Viking orbiter data,
-but doesn't compress as well.  I ended up with a download of 2.05Mb up from 1.6Mb in the last version.
-It has a new color legend and the rovers have been calibrated to the new scheme.  I came up with some sample
-names for settlements and some of my friends and family have agreed to let me use their names for sample
-people.  The code has been cleaned up some as well.  The undistorted original large data files are available
-on the site if anyone cares to download them.  They have a slightly better image quality than the install data
-files.
-
-
-##06/30/1999 - Version 2.3
-
--  has the entire interface redone in Swing.  There's now a desktop to contain
-the simulation with a flexible toolbar.  All interface windows have been heavily redone.  The source
-code has been cleaned up quite a bit as well.  I've copyrighted the project under the GNU Public License
-to assure it remains free and cannot be used as a part of a proprietary project.  The sample people and
-settlements from Kim Stanley Robinson's novel, 'Red Mars', have been removed to avoid copyright problems,
-and has been replaced by random settlements and all units have simple names for now.
-
-
-##05/11/1999 - Version 2.2
-
--  includes an installation application and compressed data files, resulting
-in a much smaller download (1.6Mb compared to 6.5Mb).  Both a new Swing and an older command line
-version of the installer are included.  You have to run one of the installers to decompress the data
-files, but I think the download time saved is worth it.  The data files are slightly degraded due to
-the compression, but still acceptable.  I also improved the vehicle terrain grade effect on ground vehicles.
-The source code is freely available in a separate download.  I've included a README file with
-instructions for installing and running the program.
-
-
-## Version 2.1 (02/15/1999)
-
--  includes terrain elevation and average grade effect on vehicles, as
-well as some major changes in the vehicle info dialog window.  I have also included the source
-code with the full installation.
-
-
-## Version 2.0 (11/23/1998)
-
--  includes a sample group of people, (based on some of the First One
-Hundred in Kim Stanley Robinson's novel, 'Red Mars') randomly distributed among the settlements,
-as well as 15 vehicles.  People, vehicles, and settlements have behaviors and can take action,
-and the navigation interface updates every couple of seconds to reflect positioning changes.
-Only the most basic actions are currently built in, but the foundation is layed for more
-advanced behaviors later.  Settlements, vehicles, and people each have a pop-up dialog window
-that displays their information and updates itself.
-
-
-## Version 1.3 (10/20/1998)
-
--  includes a sample group of settlements (based on Kim Stanley Robinson's
-novel, 'Green Mars'.)  Also added distance legend.
-
-
-## Version 1.2 (10/06/1998)
-
--  incorporates a topographical mode to show elevation.
-
-
-## Version 1.1 (09/28/1998)
-
--  allows the user to recenter on any point on the map by clicking on it.
-I also used double buffering to reduce flash on both the map and the globe.
-
-
-## Version 1.0 (09/21/1998)
-
--  is the basic navigation interface.  The interface produces a 300x300
-pixel map centered anywhere on the surface of Mars with a resolution of approximately 7.4Km
-per pixel edge.
-
-
