@@ -1,6 +1,6 @@
 ---
-title: Part - Steel Ingot
-linkTitle: Steel Ingot
+title: Part - Steel ingot
+linkTitle: Steel ingot
 toc_hide: true
 hide_summary: true
 ---
@@ -30,12 +30,15 @@ no description available.
 - [Make steel valve](/docs/definitions/process/make-steel-valve)
 - [Make spark plug](/docs/definitions/process/make-spark-plug)
 - [Make EVA boots](/docs/definitions/process/make-eva-boots)
-- [Make EVA boots with Polyester Fiber](/docs/definitions/process/make-eva-boots-with-polyester-fiber)
+- [Make EVA boots with Soy fiber](/docs/definitions/process/make-eva-boots-with-soy-fiber)
+- [Make EVA boots with Polyester fiber](/docs/definitions/process/make-eva-boots-with-polyester-fiber)
 - [Make EVA pads](/docs/definitions/process/make-eva-pads)
-- [Make EVA pads with Polyester Fiber](/docs/definitions/process/make-eva-pads-with-polyester-fiber)
+- [Make EVA pads with Soy fiber](/docs/definitions/process/make-eva-pads-with-soy-fiber)
+- [Make EVA pads with Polyester fiber](/docs/definitions/process/make-eva-pads-with-polyester-fiber)
 - [Make EVA backpack](/docs/definitions/process/make-eva-backpack)
-- [Make EVA backpack with Polyester Fiber](/docs/definitions/process/make-eva-backpack-with-polyester-fiber)
 - [Make EVA backpack with Polypropylene](/docs/definitions/process/make-eva-backpack-with-polypropylene)
+- [Make EVA backpack with Soy fiber](/docs/definitions/process/make-eva-backpack-with-soy-fiber)
+- [Make EVA backpack with Polyester fiber](/docs/definitions/process/make-eva-backpack-with-polyester-fiber)
 - [Make small vehicle frame](/docs/definitions/process/make-small-vehicle-frame)
 - [Make large vehicle frame](/docs/definitions/process/make-large-vehicle-frame)
 - [Manufacture rover windshield](/docs/definitions/process/manufacture-rover-windshield)
@@ -52,7 +55,7 @@ no description available.
 
 
 
-{{< definition-tail version="3.9.0" generatedOn="2025-03-08T21:34:45.1684317" >}}
+{{< definition-tail version="3.10.0" generatedOn="2025-10-09T21:45:01.8754429" >}}
 
 
 

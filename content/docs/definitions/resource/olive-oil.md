@@ -18,6 +18,10 @@ hide_summary: true
 |Form:|Liquid|
  
 
+## Used by Manufacturing Process
+
+- [Make triglyceride with Olive oil](/docs/definitions/process/make-triglyceride-with-olive-oil)
+- [Convert bio-based oil into hydraulic fluid with Olive Oil](/docs/definitions/process/convert-bio-based-oil-into-hydraulic-fluid-with-olive-oil)
 
 
 ## Made by Food Process
@@ -27,6 +31,6 @@ hide_summary: true
     
 
 
-{{< definition-tail version="3.9.0" generatedOn="2025-03-08T21:34:45.1684317" >}}
+{{< definition-tail version="3.10.0" generatedOn="2025-10-09T21:45:01.8754429" >}}
 
 

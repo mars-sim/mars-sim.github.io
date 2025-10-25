@@ -18,9 +18,9 @@ hide_summary: true
 ## Inputs
 | Name      | Input Rate (kg/sol) | Minimum kg | Ambient |
 |--------:|:------|-----:|:----|
+|[Sodium oxide](/docs/definitions/resource/sodium-oxide)|11.688|0.001|false|
 |[Water](/docs/definitions/resource/water)|1.8|0.0|false|
 |[Carbon dioxide](/docs/definitions/resource/carbon-dioxide)|4.4|0.0|true|
-|[Table salt](/docs/definitions/resource/table-salt)|11.688|0.001|false|
 
 Ambient inputs are consumed from the environment.
 
@@ -32,7 +32,7 @@ Ambient inputs are consumed from the environment.
 Waste outputs are released into the environment and do not need to be stored.
 
 
-{{< definition-tail version="3.9.0" generatedOn="2025-03-08T21:34:45.1684317" >}}
+{{< definition-tail version="3.10.0" generatedOn="2025-10-09T21:45:01.8754429" >}}
 
 
 

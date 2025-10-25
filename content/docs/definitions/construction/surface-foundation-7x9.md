@@ -11,7 +11,7 @@ hide_summary: true
 | Attribute      | Value |
 |--------:|:------|
 |Type:|FOUNDATION|
-|Work Time:|1200.0|
+|Work Time:|1300.0|
 |Architectural Skill:|1|
 
 ## Resources
@@ -21,10 +21,9 @@ hide_summary: true
 |[Concrete](/docs/definitions/resource/concrete)|Resource|63.0 kg|
 
 ## Later Stages
-- [Inflatable Frame](/docs/definitions/construction/inflatable-frame)
-- [Medium Modular Frame](/docs/definitions/construction/medium-modular-frame)
+- [Modular A Frame](/docs/definitions/construction/modular-a-frame)
 
 
 
-{{< definition-tail version="3.9.0" generatedOn="2025-03-08T21:34:45.1684317" >}}
+{{< definition-tail version="3.10.0" generatedOn="2025-10-09T21:45:01.8754429" >}}
 

@@ -1,6 +1,6 @@
 ---
-title: Part - Radio Antenna
-linkTitle: Radio Antenna
+title: Part - Radio antenna
+linkTitle: Radio antenna
 toc_hide: true
 hide_summary: true
 ---
@@ -19,7 +19,7 @@ no description available.
 ## Made by Manufacturing Process
 
 - [Make radio antenna](/docs/definitions/process/make-radio-antenna)
-- [Make radio antenna with Polycarbonate Resin](/docs/definitions/process/make-radio-antenna-with-polycarbonate-resin)
+- [Make radio antenna with Polycarbonate resin](/docs/definitions/process/make-radio-antenna-with-polycarbonate-resin)
 
 ## Used by Manufacturing Process
 
@@ -32,7 +32,7 @@ no description available.
 
 
 
-{{< definition-tail version="3.9.0" generatedOn="2025-03-08T21:34:45.1684317" >}}
+{{< definition-tail version="3.10.0" generatedOn="2025-10-09T21:45:01.8754429" >}}
 
 
 

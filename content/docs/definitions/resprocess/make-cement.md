@@ -12,7 +12,7 @@ hide_summary: true
 |--------:|:------|
 |Process Time:|200 millisols|
 |Work Time:|10 millisols|
-|Power Required:|0.1 kW/hr|
+|Power Required:|0.05 kW/hr|
 |Start On:|false|
 
 ## Inputs
@@ -20,8 +20,8 @@ hide_summary: true
 |--------:|:------|-----:|:----|
 |[Iron oxide](/docs/definitions/resource/iron-oxide)|2.5|0.0|false|
 |[Regolith](/docs/definitions/resource/regolith)|30.0|0.002|false|
-|[Gypsum](/docs/definitions/resource/gypsum)|5.0|0.0|false|
 |[Silica](/docs/definitions/resource/silica)|5.0|0.0|false|
+|[Gypsum](/docs/definitions/resource/gypsum)|5.0|0.0|false|
 |[Aluminum oxide](/docs/definitions/resource/aluminum-oxide)|2.5|0.0|false|
 |[Calcium carbonate](/docs/definitions/resource/calcium-carbonate)|5.0|0.0|false|
 
@@ -35,7 +35,7 @@ Ambient inputs are consumed from the environment.
 Waste outputs are released into the environment and do not need to be stored.
 
 
-{{< definition-tail version="3.9.0" generatedOn="2025-03-08T21:34:45.1684317" >}}
+{{< definition-tail version="3.10.0" generatedOn="2025-10-09T21:45:01.8754429" >}}
 
 
 

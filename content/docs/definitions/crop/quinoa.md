@@ -13,8 +13,8 @@ hide_summary: true
 |Category:|Grains|
 |Produce:|[Quinoa](/docs/definitions/resource/quinoa)|
 |Growing Time:|90 sols|
-|Edible Biomass:|5.0 g per m2|
-|Inedible Biomass:|38.0 g per m2|
+|Edible Biomass:|0.55 g per m2|
+|Inedible Biomass:|7.0 g per m2|
 |Light Demands:|69.12 PAR per sol|
 
 ## Phases
@@ -34,5 +34,5 @@ hide_summary: true
 |Finished|0.5|0.0|
 
 
-{{< definition-tail version="3.9.0" generatedOn="2025-03-08T21:34:45.1684317" >}}
+{{< definition-tail version="3.10.0" generatedOn="2025-10-09T21:45:01.8754429" >}}
 

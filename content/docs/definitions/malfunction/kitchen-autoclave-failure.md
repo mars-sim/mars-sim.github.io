@@ -27,14 +27,14 @@ hide_summary: true
 |Part|Number|Default Probability|
 |---|---|---|
 |[Autoclave](/docs/definitions/part/autoclave)|2|5.0|
-|[Electrical Wire](/docs/definitions/part/electrical-wire)|2|25.0|
+|[Electrical wire](/docs/definitions/part/electrical-wire)|2|25.0|
 |[Heat pipe](/docs/definitions/part/heat-pipe)|2|5.0|
-|[Heating Element](/docs/definitions/part/heating-element)|1|5.0|
+|[Heating element](/docs/definitions/part/heating-element)|1|5.0|
 |[Logic board](/docs/definitions/part/logic-board)|1|5.0|
 |[Microcontroller](/docs/definitions/part/microcontroller)|1|1.0|
 |[Ventilation fan](/docs/definitions/part/ventilation-fan)|1|15.0|
-|[Water Pump small](/docs/definitions/part/water-pump-small)|1|5.0|
-|[Wire Connector](/docs/definitions/part/wire-connector)|2|25.0|
+|[Water pump small](/docs/definitions/part/water-pump-small)|1|5.0|
+|[Wire connector](/docs/definitions/part/wire-connector)|2|25.0|
 |[Work gloves](/docs/definitions/part/work-gloves)|1|10.0|
 
 ## Impacts
@@ -48,5 +48,5 @@ hide_summary: true
 |---|---|
 
 
-{{< definition-tail version="3.9.0" generatedOn="2025-03-08T21:34:45.1684317" >}}
+{{< definition-tail version="3.10.0" generatedOn="2025-10-09T21:45:01.8754429" >}}
 

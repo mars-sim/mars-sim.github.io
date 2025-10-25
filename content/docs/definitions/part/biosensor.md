@@ -1,6 +1,6 @@
 ---
-title: Part - biosensor
-linkTitle: biosensor
+title: Part - Biosensor
+linkTitle: Biosensor
 toc_hide: true
 hide_summary: true
 ---
@@ -19,15 +19,17 @@ A biopolymer sensor that can be printed on a wide range of materials &#10;&#9;&#
 ## Made by Manufacturing Process
 
 - [Make biosensor](/docs/definitions/process/make-biosensor)
-- [Make biosensor with Polyester Fiber](/docs/definitions/process/make-biosensor-with-polyester-fiber)
+- [Make biosensor with Soy fiber](/docs/definitions/process/make-biosensor-with-soy-fiber)
+- [Make biosensor with Polyester fiber](/docs/definitions/process/make-biosensor-with-polyester-fiber)
 
 ## Used by Manufacturing Process
 
+- [Assemble a RepairBot](/docs/definitions/process/assemble-a-repairbot)
 - [Assemble EVA suit](/docs/definitions/process/assemble-eva-suit)
 
 
 
-{{< definition-tail version="3.9.0" generatedOn="2025-03-08T21:34:45.1684317" >}}
+{{< definition-tail version="3.10.0" generatedOn="2025-10-09T21:45:01.8754429" >}}
 
 
 

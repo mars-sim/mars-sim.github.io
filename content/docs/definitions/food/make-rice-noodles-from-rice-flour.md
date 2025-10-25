@@ -23,7 +23,7 @@ hide_summary: true
 
 | Input      | Amount |
 |--------:|:------|
-|[Baking Powder](/docs/definitions/resource/baking-powder)|Resource|0.02 kg|
+|[Baking soda](/docs/definitions/resource/baking-soda)|Resource|0.02 kg|
 |[Rice Flour](/docs/definitions/resource/rice-flour)|Resource|1.0 kg|
 |[Soy Protein](/docs/definitions/resource/soy-protein)|Resource|0.08 kg|
 |[Water](/docs/definitions/resource/water)|Resource|1.0 kg|
@@ -37,7 +37,7 @@ hide_summary: true
 
 
 
-{{< definition-tail version="3.9.0" generatedOn="2025-03-08T21:34:45.1684317" >}}
+{{< definition-tail version="3.10.0" generatedOn="2025-10-09T21:45:01.8754429" >}}
 
 
 

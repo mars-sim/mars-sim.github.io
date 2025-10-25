@@ -1,6 +1,6 @@
 ---
-title: Part - Liquid Cooling Garment
-linkTitle: Liquid Cooling Garment
+title: Part - Liquid cooling garment
+linkTitle: Liquid cooling garment
 toc_hide: true
 hide_summary: true
 ---
@@ -14,14 +14,15 @@ The innermost layer of the EVA suit. Provides thermal control&#10;&#9;&#9;&#9;by
 | Attribute      | Value |
 |--------:|:------|
 |Mass:|1.5 kg|
-|Type:|Utility|
+|Type:|EVA|
 
 ## Made by Manufacturing Process
 
 - [Make Liquid Cooling Garment](/docs/definitions/process/make-liquid-cooling-garment)
 - [Make Liquid Cooling Garment with Kevlar](/docs/definitions/process/make-liquid-cooling-garment-with-kevlar)
-- [Make Liquid Cooling Garment with Fiber Cloth](/docs/definitions/process/make-liquid-cooling-garment-with-fiber-cloth)
-- [Make Liquid Cooling Garment with Polyester Fiber](/docs/definitions/process/make-liquid-cooling-garment-with-polyester-fiber)
+- [Make Liquid Cooling Garment with Soy fiber](/docs/definitions/process/make-liquid-cooling-garment-with-soy-fiber)
+- [Make Liquid Cooling Garment with Polyester fiber](/docs/definitions/process/make-liquid-cooling-garment-with-polyester-fiber)
+- [Make Liquid Cooling Garment with Fiber cloth](/docs/definitions/process/make-liquid-cooling-garment-with-fiber-cloth)
 
 ## Used by Manufacturing Process
 
@@ -29,7 +30,7 @@ The innermost layer of the EVA suit. Provides thermal control&#10;&#9;&#9;&#9;by
 
 
 
-{{< definition-tail version="3.9.0" generatedOn="2025-03-08T21:34:45.1684317" >}}
+{{< definition-tail version="3.10.0" generatedOn="2025-10-09T21:45:01.8754429" >}}
 
 
 

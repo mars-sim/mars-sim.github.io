@@ -1,6 +1,6 @@
 ---
-title: Part - Light Emitting Diode bulb
-linkTitle: Light Emitting Diode bulb
+title: Part - Light emitting diode bulb
+linkTitle: Light emitting diode bulb
 toc_hide: true
 hide_summary: true
 ---
@@ -28,7 +28,7 @@ Solid State Light bulb
 
 
 
-{{< definition-tail version="3.9.0" generatedOn="2025-03-08T21:34:45.1684317" >}}
+{{< definition-tail version="3.10.0" generatedOn="2025-10-09T21:45:01.8754429" >}}
 
 
 

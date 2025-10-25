@@ -22,7 +22,7 @@ hide_summary: true
 |[Acetylene](/docs/definitions/resource/acetylene)|Resource|1.5 kg|
 |[Concrete](/docs/definitions/resource/concrete)|Resource|50.0 kg|
 |[Insulation board](/docs/definitions/part/insulation-board)|Part|6|
-|[Steel Truss](/docs/definitions/part/steel-truss)|Part|20|
+|[Steel truss](/docs/definitions/part/steel-truss)|Part|20|
 
 ## Later Stages
 - [Solar Thermal Collector](/docs/definitions/construction/solar-thermal-collector)
@@ -31,5 +31,5 @@ hide_summary: true
 
 
 
-{{< definition-tail version="3.9.0" generatedOn="2025-03-08T21:34:45.1684317" >}}
+{{< definition-tail version="3.10.0" generatedOn="2025-10-09T21:45:01.8754429" >}}
 

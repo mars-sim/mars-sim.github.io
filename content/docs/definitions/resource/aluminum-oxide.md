@@ -26,15 +26,23 @@ No Description
 - [Cast aluminum ingot](/docs/definitions/process/cast-aluminum-ingot)
 - [Cast aluminum ingot (large batch)](/docs/definitions/process/cast-aluminum-ingot--large-batch-)
 - [Make aluminum sheet](/docs/definitions/process/make-aluminum-sheet)
+- [Roll aluminized mylar foil with Aluminum oxide](/docs/definitions/process/roll-aluminized-mylar-foil-with-aluminum-oxide)
 - [Make spark plug](/docs/definitions/process/make-spark-plug)
-- [Manufacture resistors](/docs/definitions/process/manufacture-resistors)
-- [Manufacture capacitors](/docs/definitions/process/manufacture-capacitors)
-- [Manufacture diodes](/docs/definitions/process/manufacture-diodes)
+- [Manufacture thermal bottle with Aluminum oxide](/docs/definitions/process/manufacture-thermal-bottle-with-aluminum-oxide)
+- [Make ceramic electrolyte with Aluminum oxide](/docs/definitions/process/make-ceramic-electrolyte-with-aluminum-oxide)
+- [Make methane solid oxide fuel cells with Aluminum oxide](/docs/definitions/process/make-methane-solid-oxide-fuel-cells-with-aluminum-oxide)
+- [Make methanol fuel cells with Aluminum oxide](/docs/definitions/process/make-methanol-fuel-cells-with-aluminum-oxide)
+- [Manufacture resistors with Aluminum oxide](/docs/definitions/process/manufacture-resistors-with-aluminum-oxide)
+- [Manufacture capacitors with Aluminum oxide](/docs/definitions/process/manufacture-capacitors-with-aluminum-oxide)
+- [Manufacture diodes with Aluminum oxide](/docs/definitions/process/manufacture-diodes-with-aluminum-oxide)
+- [Manufacture logic board with Aluminum oxide](/docs/definitions/process/manufacture-logic-board-with-aluminum-oxide)
+- [Manufacture plasma cutter with Aluminum oxide](/docs/definitions/process/manufacture-plasma-cutter-with-aluminum-oxide)
+- [Manufacture insulation board with Aluminum oxide](/docs/definitions/process/manufacture-insulation-board-with-aluminum-oxide)
 
 
     
 
 
-{{< definition-tail version="3.9.0" generatedOn="2025-03-08T21:34:45.1684317" >}}
+{{< definition-tail version="3.10.0" generatedOn="2025-10-09T21:45:01.8754429" >}}
 
 

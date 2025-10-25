@@ -26,6 +26,7 @@ hide_summary: true
 
 - [Make bleaching chemical for paper making](/docs/definitions/process/make-bleaching-chemical-for-paper-making)
 - [Make bleaching chemical for paper making (large batch)](/docs/definitions/process/make-bleaching-chemical-for-paper-making--large-batch-)
+- [Make cleaning agent with Sodium hypochlorite](/docs/definitions/process/make-cleaning-agent-with-sodium-hypochlorite)
 - [Make activated charcoal](/docs/definitions/process/make-activated-charcoal)
 
 
@@ -39,6 +40,6 @@ hide_summary: true
 
 
 
-{{< definition-tail version="3.9.0" generatedOn="2025-03-08T21:34:45.1684317" >}}
+{{< definition-tail version="3.10.0" generatedOn="2025-10-09T21:45:01.8754429" >}}
 
 

@@ -15,6 +15,7 @@ hide_summary: true
 |Skill Level:|1|
 |Tech Level:|1|
 |Process Time:|60.0 millisols|
+|Tooling:|3D Printer|
 |Work Level:|20.0 millisols|
 |Power Required:|0.1 kW/hr|
 
@@ -22,20 +23,21 @@ hide_summary: true
 
 | Input      | Amount |
 |--------:|:------|
-|[acetylene](/docs/definitions/resource/acetylene)|Resource|0.1 kg|
-|[iron powder](/docs/definitions/resource/iron-powder)|Resource|1.0 kg|
-|[steel ingot](/docs/definitions/part/steel-ingot)|Part|2|
+|[Acetylene](/docs/definitions/resource/acetylene)|Resource|0.1 kg|
+|[Iron powder](/docs/definitions/resource/iron-powder)|Resource|1.0 kg|
+|[Magnesium](/docs/definitions/resource/magnesium)|Resource|0.3 kg|
+|[Steel ingot](/docs/definitions/part/steel-ingot)|Part|2|
 
 ## Products
 
 
 | Produce      | Amount |
 |--------:|:------|
-|[pipe wrench](/docs/definitions/part/pipe-wrench)|6|
+|[Pipe wrench](/docs/definitions/part/pipe-wrench)|6|
 
 
 
-{{< definition-tail version="3.9.0" generatedOn="2025-03-08T21:34:45.1684317" >}}
+{{< definition-tail version="3.10.0" generatedOn="2025-10-09T21:45:01.8754429" >}}
 
 
 

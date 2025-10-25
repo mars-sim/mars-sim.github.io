@@ -20,18 +20,18 @@ hide_summary: true
 | Name | Type | Quantity |
 |:-----|:-----|-----:|
 |[Aerogel tile](/docs/definitions/part/aerogel-tile)|Part|252|
-|[Aluminum Sheet](/docs/definitions/part/aluminum-sheet)|Part|20|
-|[Copper Pipe](/docs/definitions/part/copper-pipe)|Part|15|
-|[Electrical Wire](/docs/definitions/part/electrical-wire)|Part|50|
+|[Aluminum sheet](/docs/definitions/part/aluminum-sheet)|Part|20|
+|[Copper pipe](/docs/definitions/part/copper-pipe)|Part|15|
+|[Electrical wire](/docs/definitions/part/electrical-wire)|Part|50|
 |[Fiberglass](/docs/definitions/part/fiberglass)|Part|20|
-|[Plastic Pipe](/docs/definitions/part/plastic-pipe)|Part|15|
-|[Steel Pipe](/docs/definitions/part/steel-pipe)|Part|30|
-|[Steel Sheet](/docs/definitions/part/steel-sheet)|Part|40|
+|[Plastic pipe](/docs/definitions/part/plastic-pipe)|Part|15|
+|[Steel pipe](/docs/definitions/part/steel-pipe)|Part|30|
+|[Steel sheet](/docs/definitions/part/steel-sheet)|Part|40|
 |[Valve](/docs/definitions/part/valve)|Part|50|
-|[Wire Connector](/docs/definitions/part/wire-connector)|Part|50|
+|[Wire connector](/docs/definitions/part/wire-connector)|Part|50|
 
 
 
 
-{{< definition-tail version="3.9.0" generatedOn="2025-03-08T21:34:45.1684317" >}}
+{{< definition-tail version="3.10.0" generatedOn="2025-10-09T21:45:01.8754429" >}}
 

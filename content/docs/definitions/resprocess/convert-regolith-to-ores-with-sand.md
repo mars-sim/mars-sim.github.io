@@ -12,7 +12,7 @@ hide_summary: true
 |--------:|:------|
 |Process Time:|200 millisols|
 |Work Time:|10 millisols|
-|Power Required:|0.2 kW/hr|
+|Power Required:|0.02 kW/hr|
 |Start On:|false|
 
 ## Inputs
@@ -25,19 +25,19 @@ Ambient inputs are consumed from the environment.
 ## Outputs
 | Name      | Output Rate (kg/sol) | Waste Output |
 |--------:|:------|-----:|:----|
-|[Nitrogen](/docs/definitions/resource/nitrogen)|0.1|false|
-|[Gypsum](/docs/definitions/resource/gypsum)|25.0|false|
-|[Basaltic](/docs/definitions/resource/basaltic)|5.0|false|
-|[Sand](/docs/definitions/resource/sand)|61.9|false|
-|[Smectite](/docs/definitions/resource/smectite)|2.0|false|
-|[Allophane](/docs/definitions/resource/allophane)|2.0|false|
-|[Akaganeite](/docs/definitions/resource/akaganeite)|2.0|false|
-|[Bassanite](/docs/definitions/resource/bassanite)|2.0|false|
+|[Bassanite](/docs/definitions/resource/bassanite)|10.0|false|
+|[Sand](/docs/definitions/resource/sand)|15.0|false|
+|[Gypsum](/docs/definitions/resource/gypsum)|30.0|false|
+|[Basaltic](/docs/definitions/resource/basaltic)|10.0|false|
+|[Rock samples](/docs/definitions/resource/rock-samples)|5.0|false|
+|[Smectite](/docs/definitions/resource/smectite)|10.0|false|
+|[Allophane](/docs/definitions/resource/allophane)|10.0|false|
+|[Akaganeite](/docs/definitions/resource/akaganeite)|10.0|false|
 
 Waste outputs are released into the environment and do not need to be stored.
 
 
-{{< definition-tail version="3.9.0" generatedOn="2025-03-08T21:34:45.1684317" >}}
+{{< definition-tail version="3.10.0" generatedOn="2025-10-09T21:45:01.8754429" >}}
 
 
 

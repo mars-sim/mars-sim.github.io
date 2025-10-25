@@ -11,20 +11,20 @@ hide_summary: true
 | Attribute      | Value |
 |--------:|:------|
 |Type:|FOUNDATION|
-|Work Time:|10000.0|
-|Architectural Skill:|3|
+|Work Time:|5000.0|
+|Architectural Skill:|2|
 
 ## Resources
 
 | Name | Type | Quantity |
 |:-----|:-----|-----:|
-|[Bore Drill Bit](/docs/definitions/part/bore-drill-bit)|Part|1|
-|[Bore Drill Pipe](/docs/definitions/part/bore-drill-pipe)|Part|20|
+|[Bore drill bit](/docs/definitions/part/bore-drill-bit)|Part|1|
+|[Bore drill pipe](/docs/definitions/part/bore-drill-pipe)|Part|20|
 
 ## Later Stages
 - [Small Areothermal Well Frame](/docs/definitions/construction/small-areothermal-well-frame)
 
 
 
-{{< definition-tail version="3.9.0" generatedOn="2025-03-08T21:34:45.1684317" >}}
+{{< definition-tail version="3.10.0" generatedOn="2025-10-09T21:45:01.8754429" >}}
 

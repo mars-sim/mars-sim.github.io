@@ -29,16 +29,18 @@ hide_summary: true
 - [Roll mylar film](/docs/definitions/process/roll-mylar-film)
 - [Make plastic bottle](/docs/definitions/process/make-plastic-bottle)
 - [Make EVA helmet](/docs/definitions/process/make-eva-helmet)
-- [Make EVA helmet with Polyester Fiber](/docs/definitions/process/make-eva-helmet-with-polyester-fiber)
+- [Make EVA helmet with Soy fiber](/docs/definitions/process/make-eva-helmet-with-soy-fiber)
+- [Make EVA helmet with Polyester fiber](/docs/definitions/process/make-eva-helmet-with-polyester-fiber)
 - [Make pressure suit](/docs/definitions/process/make-pressure-suit)
-- [Make pressure suit with Polyester Fiber](/docs/definitions/process/make-pressure-suit-with-polyester-fiber)
-- [Make pressure suit with Polycarbonate Resin](/docs/definitions/process/make-pressure-suit-with-polycarbonate-resin)
+- [Make pressure suit with Soy fiber](/docs/definitions/process/make-pressure-suit-with-soy-fiber)
+- [Make pressure suit with Polyester fiber](/docs/definitions/process/make-pressure-suit-with-polyester-fiber)
 - [Make EVA backpack](/docs/definitions/process/make-eva-backpack)
-- [Make EVA backpack with Polyester Fiber](/docs/definitions/process/make-eva-backpack-with-polyester-fiber)
+- [Make EVA backpack with Soy fiber](/docs/definitions/process/make-eva-backpack-with-soy-fiber)
+- [Make EVA backpack with Polyester fiber](/docs/definitions/process/make-eva-backpack-with-polyester-fiber)
 - [Manufacture rover control panel](/docs/definitions/process/manufacture-rover-control-panel)
-- [Manufacture rover control panel with Polycarbonate Resin](/docs/definitions/process/manufacture-rover-control-panel-with-polycarbonate-resin)
+- [Manufacture rover control panel with Polycarbonate resin](/docs/definitions/process/manufacture-rover-control-panel-with-polycarbonate-resin)
 - [Manufacture utility vehicle control panel](/docs/definitions/process/manufacture-utility-vehicle-control-panel)
-- [Manufacture utility vehicle control panel with Polycarbonate Resin](/docs/definitions/process/manufacture-utility-vehicle-control-panel-with-polycarbonate-resin)
+- [Manufacture utility vehicle control panel with Polycarbonate resin](/docs/definitions/process/manufacture-utility-vehicle-control-panel-with-polycarbonate-resin)
 - [Manufacture battery module](/docs/definitions/process/manufacture-battery-module)
 - [Manufacture EVA battery](/docs/definitions/process/manufacture-eva-battery)
 - [Make Paraffin Composites](/docs/definitions/process/make-paraffin-composites)
@@ -47,6 +49,6 @@ hide_summary: true
     
 
 
-{{< definition-tail version="3.9.0" generatedOn="2025-03-08T21:34:45.1684317" >}}
+{{< definition-tail version="3.10.0" generatedOn="2025-10-09T21:45:01.8754429" >}}
 
 

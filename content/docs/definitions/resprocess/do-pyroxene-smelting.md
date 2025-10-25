@@ -12,7 +12,7 @@ hide_summary: true
 |--------:|:------|
 |Process Time:|200 millisols|
 |Work Time:|10 millisols|
-|Power Required:|1.3 kW/hr|
+|Power Required:|0.1 kW/hr|
 |Start On:|false|
 
 ## Inputs
@@ -25,25 +25,25 @@ Ambient inputs are consumed from the environment.
 ## Outputs
 | Name      | Output Rate (kg/sol) | Waste Output |
 |--------:|:------|-----:|:----|
-|[Chromium](/docs/definitions/resource/chromium)|2.0|false|
 |[Iron powder](/docs/definitions/resource/iron-powder)|2.0|false|
-|[Lithium](/docs/definitions/resource/lithium)|2.0|false|
-|[Magnesium](/docs/definitions/resource/magnesium)|2.0|false|
-|[Manganese](/docs/definitions/resource/manganese)|2.0|false|
-|[Oxygen](/docs/definitions/resource/oxygen)|22.0|false|
-|[scandium](/docs/definitions/resource/scandium)|2.0|false|
-|[Silicon](/docs/definitions/resource/silicon)|4.0|false|
 |[Titanium](/docs/definitions/resource/titanium)|2.0|false|
 |[Vanadium](/docs/definitions/resource/vanadium)|2.0|false|
 |[Zinc](/docs/definitions/resource/zinc)|2.0|false|
 |[Sodium oxide](/docs/definitions/resource/sodium-oxide)|2.0|false|
+|[Oxygen](/docs/definitions/resource/oxygen)|22.0|false|
 |[Aluminum](/docs/definitions/resource/aluminum)|2.0|false|
 |[Calcium](/docs/definitions/resource/calcium)|2.0|false|
+|[Chromium](/docs/definitions/resource/chromium)|2.0|false|
+|[Lithium](/docs/definitions/resource/lithium)|2.0|false|
+|[Magnesium](/docs/definitions/resource/magnesium)|2.0|false|
+|[Manganese](/docs/definitions/resource/manganese)|2.0|false|
+|[Scandium](/docs/definitions/resource/scandium)|2.0|false|
+|[Silicon](/docs/definitions/resource/silicon)|4.0|false|
 
 Waste outputs are released into the environment and do not need to be stored.
 
 
-{{< definition-tail version="3.9.0" generatedOn="2025-03-08T21:34:45.1684317" >}}
+{{< definition-tail version="3.10.0" generatedOn="2025-10-09T21:45:01.8754429" >}}
 
 
 

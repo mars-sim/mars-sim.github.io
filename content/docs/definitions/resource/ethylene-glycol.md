@@ -14,21 +14,25 @@ hide_summary: true
 | Attribute      | Value |
 |--------:|:------|
 |Edible:|false|
-|Type:|Compound|
+|Type:|Chemical|
 |Form:|Liquid|
  
-## Made by Manufacturing Process
-
-- [Produce ethylene glycol](/docs/definitions/process/produce-ethylene-glycol)
 
 ## Used by Manufacturing Process
 
 - [Produce polyester fiber](/docs/definitions/process/produce-polyester-fiber)
+- [Convert bio-based oil into hydraulic fluid](/docs/definitions/process/convert-bio-based-oil-into-hydraulic-fluid)
+- [Convert bio-based oil into hydraulic fluid with Garlic Oil](/docs/definitions/process/convert-bio-based-oil-into-hydraulic-fluid-with-garlic-oil)
+- [Convert bio-based oil into hydraulic fluid with Sesame Oil](/docs/definitions/process/convert-bio-based-oil-into-hydraulic-fluid-with-sesame-oil)
+- [Convert bio-based oil into hydraulic fluid with Olive Oil](/docs/definitions/process/convert-bio-based-oil-into-hydraulic-fluid-with-olive-oil)
+- [Convert bio-based oil into hydraulic fluid with Soybean Oil](/docs/definitions/process/convert-bio-based-oil-into-hydraulic-fluid-with-soybean-oil)
+- [Convert bio-based oil into hydraulic fluid with Fish Oil](/docs/definitions/process/convert-bio-based-oil-into-hydraulic-fluid-with-fish-oil)
+- [Convert bio-based oil into hydraulic fluid with Peanut Oil](/docs/definitions/process/convert-bio-based-oil-into-hydraulic-fluid-with-peanut-oil)
 
 
     
 
 
-{{< definition-tail version="3.9.0" generatedOn="2025-03-08T21:34:45.1684317" >}}
+{{< definition-tail version="3.10.0" generatedOn="2025-10-09T21:45:01.8754429" >}}
 
 

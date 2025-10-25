@@ -32,8 +32,9 @@ hide_summary: true
 - [Make coolant bottle](/docs/definitions/process/make-coolant-bottle)
 - [Make Liquid Cooling Garment](/docs/definitions/process/make-liquid-cooling-garment)
 - [Make Liquid Cooling Garment with Kevlar](/docs/definitions/process/make-liquid-cooling-garment-with-kevlar)
-- [Make Liquid Cooling Garment with Fiber Cloth](/docs/definitions/process/make-liquid-cooling-garment-with-fiber-cloth)
-- [Make Liquid Cooling Garment with Polyester Fiber](/docs/definitions/process/make-liquid-cooling-garment-with-polyester-fiber)
+- [Make Liquid Cooling Garment with Soy fiber](/docs/definitions/process/make-liquid-cooling-garment-with-soy-fiber)
+- [Make Liquid Cooling Garment with Polyester fiber](/docs/definitions/process/make-liquid-cooling-garment-with-polyester-fiber)
+- [Make Liquid Cooling Garment with Fiber cloth](/docs/definitions/process/make-liquid-cooling-garment-with-fiber-cloth)
 - [Make EVA helmet with Polypropylene](/docs/definitions/process/make-eva-helmet-with-polypropylene)
 - [Make pressure suit with Polypropylene](/docs/definitions/process/make-pressure-suit-with-polypropylene)
 - [Make EVA backpack with Polypropylene](/docs/definitions/process/make-eva-backpack-with-polypropylene)
@@ -48,6 +49,6 @@ hide_summary: true
     
 
 
-{{< definition-tail version="3.9.0" generatedOn="2025-03-08T21:34:45.1684317" >}}
+{{< definition-tail version="3.10.0" generatedOn="2025-10-09T21:45:01.8754429" >}}
 
 

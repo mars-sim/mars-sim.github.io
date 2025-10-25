@@ -13,25 +13,25 @@ hide_summary: true
 |Type:|BUILDING|
 |Work Time:|1000.0|
 |Architectural Skill:|3|
-|PreReq:|[Medium Modular Frame](/docs/definitions/construction/medium-modular-frame)|
+|PreReq:|[Modular A Frame](/docs/definitions/construction/modular-a-frame)|
 
 ## Resources
 
 | Name | Type | Quantity |
 |:-----|:-----|-----:|
 |[Aerogel tile](/docs/definitions/part/aerogel-tile)|Part|190|
-|[Air Duct](/docs/definitions/part/air-duct)|Part|10|
-|[Aluminum Sheet](/docs/definitions/part/aluminum-sheet)|Part|2|
-|[Electrical Wire](/docs/definitions/part/electrical-wire)|Part|2|
+|[Air duct](/docs/definitions/part/air-duct)|Part|10|
+|[Aluminum sheet](/docs/definitions/part/aluminum-sheet)|Part|2|
+|[Electrical wire](/docs/definitions/part/electrical-wire)|Part|2|
 |[Fiberglass](/docs/definitions/part/fiberglass)|Part|5|
 |[Polyester resin](/docs/definitions/resource/polyester-resin)|Resource|5.0 kg|
 |[Polyethylene](/docs/definitions/resource/polyethylene)|Resource|10.0 kg|
-|[Steel Sheet](/docs/definitions/part/steel-sheet)|Part|2|
+|[Steel sheet](/docs/definitions/part/steel-sheet)|Part|2|
 |[Styrene](/docs/definitions/resource/styrene)|Resource|5.0 kg|
-|[Wire Connector](/docs/definitions/part/wire-connector)|Part|2|
+|[Wire connector](/docs/definitions/part/wire-connector)|Part|2|
 
 
 
 
-{{< definition-tail version="3.9.0" generatedOn="2025-03-08T21:34:45.1684317" >}}
+{{< definition-tail version="3.10.0" generatedOn="2025-10-09T21:45:01.8754429" >}}
 

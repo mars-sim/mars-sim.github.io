@@ -11,7 +11,7 @@ hide_summary: true
 
 | Attribute   | Value |
 |--------:|:------|
-|Category:|Side Dish|
+|Category:|SIDE|
 |Oil:|0.02 kg|
 |Salt:|0.005 kg|
 
@@ -25,10 +25,10 @@ hide_summary: true
 |[Soy sauce](/docs/definitions/resource/soy-sauce)|0.03|
 |[Carrot](/docs/definitions/resource/carrot)|0.1|
 |[Leaves](/docs/definitions/resource/leaves)|0.075|
-|[Garlic oil](/docs/definitions/resource/garlic-oil)|0.025|
+|[Dandelion](/docs/definitions/resource/dandelion)|0.025|
 
 
 
 
-{{< definition-tail version="3.9.0" generatedOn="2025-03-08T21:34:45.1684317" >}}
+{{< definition-tail version="3.10.0" generatedOn="2025-10-09T21:45:01.8754429" >}}
 

@@ -1,6 +1,6 @@
 ---
-title: Part - Fiberglass Cloth
-linkTitle: Fiberglass Cloth
+title: Part - Fiberglass cloth
+linkTitle: Fiberglass cloth
 toc_hide: true
 hide_summary: true
 ---
@@ -27,21 +27,26 @@ no description available.
 - [Manufacture large bag](/docs/definitions/process/manufacture-large-bag)
 - [Make coveralls](/docs/definitions/process/make-coveralls)
 - [Make coveralls with Polyester Fiber](/docs/definitions/process/make-coveralls-with-polyester-fiber)
+- [Make coveralls with Soy fiber](/docs/definitions/process/make-coveralls-with-soy-fiber)
 - [Make EVA gloves](/docs/definitions/process/make-eva-gloves)
-- [Make EVA gloves with Polyester Fiber](/docs/definitions/process/make-eva-gloves-with-polyester-fiber)
+- [Make EVA gloves with Soy fiber](/docs/definitions/process/make-eva-gloves-with-soy-fiber)
+- [Make EVA gloves with Polyester fiber](/docs/definitions/process/make-eva-gloves-with-polyester-fiber)
 - [Make EVA boots](/docs/definitions/process/make-eva-boots)
-- [Make EVA boots with Polyester Fiber](/docs/definitions/process/make-eva-boots-with-polyester-fiber)
+- [Make EVA boots with Soy fiber](/docs/definitions/process/make-eva-boots-with-soy-fiber)
+- [Make EVA boots with Polyester fiber](/docs/definitions/process/make-eva-boots-with-polyester-fiber)
 - [Make EVA backpack](/docs/definitions/process/make-eva-backpack)
-- [Make EVA backpack with Polyester Fiber](/docs/definitions/process/make-eva-backpack-with-polyester-fiber)
 - [Make EVA backpack with Polypropylene](/docs/definitions/process/make-eva-backpack-with-polypropylene)
+- [Make EVA backpack with Soy fiber](/docs/definitions/process/make-eva-backpack-with-soy-fiber)
+- [Make EVA backpack with Polyester fiber](/docs/definitions/process/make-eva-backpack-with-polyester-fiber)
 - [Make work gloves](/docs/definitions/process/make-work-gloves)
 - [Make work gloves with Polyester Fiber](/docs/definitions/process/make-work-gloves-with-polyester-fiber)
+- [Make work gloves with Soy fiber](/docs/definitions/process/make-work-gloves-with-soy-fiber)
 - [Make mushroom containment kit](/docs/definitions/process/make-mushroom-containment-kit)
 - [Make charcoal filter](/docs/definitions/process/make-charcoal-filter)
 
 
 
-{{< definition-tail version="3.9.0" generatedOn="2025-03-08T21:34:45.1684317" >}}
+{{< definition-tail version="3.10.0" generatedOn="2025-10-09T21:45:01.8754429" >}}
 
 
 

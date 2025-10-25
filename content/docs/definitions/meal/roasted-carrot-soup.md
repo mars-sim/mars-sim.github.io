@@ -11,7 +11,7 @@ hide_summary: true
 
 | Attribute   | Value |
 |--------:|:------|
-|Category:|Side Dish|
+|Category:|SIDE|
 |Oil:|0.01 kg|
 |Salt:|0.005 kg|
 
@@ -22,9 +22,10 @@ hide_summary: true
 |[Carrot](/docs/definitions/resource/carrot)|0.125|
 |[Celery](/docs/definitions/resource/celery)|0.125|
 |[Water](/docs/definitions/resource/water)|0.25|
+|[Microgreens](/docs/definitions/resource/microgreens)|0.25|
 
 
 
 
-{{< definition-tail version="3.9.0" generatedOn="2025-03-08T21:34:45.1684317" >}}
+{{< definition-tail version="3.10.0" generatedOn="2025-10-09T21:45:01.8754429" >}}
 

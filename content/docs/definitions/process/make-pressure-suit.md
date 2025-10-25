@@ -15,6 +15,7 @@ hide_summary: true
 |Skill Level:|2|
 |Tech Level:|2|
 |Process Time:|100.0 millisols|
+|Tooling:|3D Printer|
 |Work Level:|100.0 millisols|
 |Power Required:|0.2 kW/hr|
 
@@ -22,22 +23,22 @@ hide_summary: true
 
 | Input      | Amount |
 |--------:|:------|
-|[Cane Fiber](/docs/definitions/resource/cane-fiber)|Resource|0.3 kg|
-|[Polyester Resin](/docs/definitions/resource/polyester-resin)|Resource|0.5 kg|
+|[Cane fiber](/docs/definitions/resource/cane-fiber)|Resource|0.3 kg|
+|[Plastic tubing](/docs/definitions/part/plastic-tubing)|Part|3|
+|[Polyester resin](/docs/definitions/resource/polyester-resin)|Resource|0.5 kg|
 |[Polyethylene](/docs/definitions/resource/polyethylene)|Resource|0.2 kg|
-|[Silicone Elastomer](/docs/definitions/resource/silicone-elastomer)|Resource|1.0 kg|
-|[plastic tubing](/docs/definitions/part/plastic-tubing)|Part|3|
+|[Silicone elastomer](/docs/definitions/resource/silicone-elastomer)|Resource|1.0 kg|
 
 ## Products
 
 
 | Produce      | Amount |
 |--------:|:------|
-|[pressure suit](/docs/definitions/part/pressure-suit)|2|
+|[Pressure suit](/docs/definitions/part/pressure-suit)|2|
 
 
 
-{{< definition-tail version="3.9.0" generatedOn="2025-03-08T21:34:45.1684317" >}}
+{{< definition-tail version="3.10.0" generatedOn="2025-10-09T21:45:01.8754429" >}}
 
 
 

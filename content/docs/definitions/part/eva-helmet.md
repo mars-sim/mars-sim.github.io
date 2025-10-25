@@ -1,6 +1,6 @@
 ---
-title: Part - EVA Helmet
-linkTitle: EVA Helmet
+title: Part - EVA helmet
+linkTitle: EVA helmet
 toc_hide: true
 hide_summary: true
 ---
@@ -19,8 +19,9 @@ no description available.
 ## Made by Manufacturing Process
 
 - [Make EVA helmet](/docs/definitions/process/make-eva-helmet)
-- [Make EVA helmet with Polyester Fiber](/docs/definitions/process/make-eva-helmet-with-polyester-fiber)
 - [Make EVA helmet with Polypropylene](/docs/definitions/process/make-eva-helmet-with-polypropylene)
+- [Make EVA helmet with Soy fiber](/docs/definitions/process/make-eva-helmet-with-soy-fiber)
+- [Make EVA helmet with Polyester fiber](/docs/definitions/process/make-eva-helmet-with-polyester-fiber)
 
 ## Used by Manufacturing Process
 
@@ -28,7 +29,7 @@ no description available.
 
 
 
-{{< definition-tail version="3.9.0" generatedOn="2025-03-08T21:34:45.1684317" >}}
+{{< definition-tail version="3.10.0" generatedOn="2025-10-09T21:45:01.8754429" >}}
 
 
 

@@ -15,6 +15,7 @@ hide_summary: true
 |Skill Level:|2|
 |Tech Level:|4|
 |Process Time:|75.0 millisols|
+|Tooling:|3D Printer|
 |Work Level:|100.0 millisols|
 |Power Required:|0.2 kW/hr|
 
@@ -34,7 +35,7 @@ hide_summary: true
 
 
 
-{{< definition-tail version="3.9.0" generatedOn="2025-03-08T21:34:45.1684317" >}}
+{{< definition-tail version="3.10.0" generatedOn="2025-10-09T21:45:01.8754429" >}}
 
 
 

@@ -1,6 +1,6 @@
 ---
-title: Part - Plastic Tubing
-linkTitle: Plastic Tubing
+title: Part - Plastic tubing
+linkTitle: Plastic tubing
 toc_hide: true
 hide_summary: true
 ---
@@ -25,18 +25,21 @@ no description available.
 - [Make fire extinguisher](/docs/definitions/process/make-fire-extinguisher)
 - [Make Liquid Cooling Garment](/docs/definitions/process/make-liquid-cooling-garment)
 - [Make Liquid Cooling Garment with Kevlar](/docs/definitions/process/make-liquid-cooling-garment-with-kevlar)
-- [Make Liquid Cooling Garment with Fiber Cloth](/docs/definitions/process/make-liquid-cooling-garment-with-fiber-cloth)
-- [Make Liquid Cooling Garment with Polyester Fiber](/docs/definitions/process/make-liquid-cooling-garment-with-polyester-fiber)
+- [Make Liquid Cooling Garment with Soy fiber](/docs/definitions/process/make-liquid-cooling-garment-with-soy-fiber)
+- [Make Liquid Cooling Garment with Polyester fiber](/docs/definitions/process/make-liquid-cooling-garment-with-polyester-fiber)
+- [Make Liquid Cooling Garment with Fiber cloth](/docs/definitions/process/make-liquid-cooling-garment-with-fiber-cloth)
 - [Make EVA helmet](/docs/definitions/process/make-eva-helmet)
-- [Make EVA helmet with Polyester Fiber](/docs/definitions/process/make-eva-helmet-with-polyester-fiber)
 - [Make EVA helmet with Polypropylene](/docs/definitions/process/make-eva-helmet-with-polypropylene)
+- [Make EVA helmet with Soy fiber](/docs/definitions/process/make-eva-helmet-with-soy-fiber)
+- [Make EVA helmet with Polyester fiber](/docs/definitions/process/make-eva-helmet-with-polyester-fiber)
 - [Make pressure suit](/docs/definitions/process/make-pressure-suit)
-- [Make pressure suit with Polyester Fiber](/docs/definitions/process/make-pressure-suit-with-polyester-fiber)
-- [Make pressure suit with Polycarbonate Resin](/docs/definitions/process/make-pressure-suit-with-polycarbonate-resin)
 - [Make pressure suit with Polypropylene](/docs/definitions/process/make-pressure-suit-with-polypropylene)
+- [Make pressure suit with Soy fiber](/docs/definitions/process/make-pressure-suit-with-soy-fiber)
+- [Make pressure suit with Polyester fiber](/docs/definitions/process/make-pressure-suit-with-polyester-fiber)
 - [Make EVA backpack](/docs/definitions/process/make-eva-backpack)
-- [Make EVA backpack with Polyester Fiber](/docs/definitions/process/make-eva-backpack-with-polyester-fiber)
 - [Make EVA backpack with Polypropylene](/docs/definitions/process/make-eva-backpack-with-polypropylene)
+- [Make EVA backpack with Soy fiber](/docs/definitions/process/make-eva-backpack-with-soy-fiber)
+- [Make EVA backpack with Polyester fiber](/docs/definitions/process/make-eva-backpack-with-polyester-fiber)
 - [Manufacture fuel tank](/docs/definitions/process/manufacture-fuel-tank)
 - [Manufacture gas tank](/docs/definitions/process/manufacture-gas-tank)
 - [Manufacture water tank](/docs/definitions/process/manufacture-water-tank)
@@ -53,7 +56,7 @@ no description available.
 
 
 
-{{< definition-tail version="3.9.0" generatedOn="2025-03-08T21:34:45.1684317" >}}
+{{< definition-tail version="3.10.0" generatedOn="2025-10-09T21:45:01.8754429" >}}
 
 
 

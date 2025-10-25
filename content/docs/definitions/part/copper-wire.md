@@ -1,6 +1,6 @@
 ---
-title: Part - Copper Wire
-linkTitle: Copper Wire
+title: Part - Copper wire
+linkTitle: Copper wire
 toc_hide: true
 hide_summary: true
 ---
@@ -22,7 +22,11 @@ no description available.
 
 ## Used by Manufacturing Process
 
+- [Assemble a RepairBot](/docs/definitions/process/assemble-a-repairbot)
 - [Manufacture turbine generator](/docs/definitions/process/manufacture-turbine-generator)
+- [Manufacture Gearbox](/docs/definitions/process/manufacture-gearbox)
+- [Manufacture Actuator](/docs/definitions/process/manufacture-actuator)
+- [Manufacture Servo Motor](/docs/definitions/process/manufacture-servo-motor)
 - [Manufacture Stepper Motor](/docs/definitions/process/manufacture-stepper-motor)
 - [Manufacture 5 kW Motor](/docs/definitions/process/manufacture-5-kw-motor)
 - [Manufacture 10 kW Motor](/docs/definitions/process/manufacture-10-kw-motor)
@@ -36,7 +40,7 @@ no description available.
 
 
 
-{{< definition-tail version="3.9.0" generatedOn="2025-03-08T21:34:45.1684317" >}}
+{{< definition-tail version="3.10.0" generatedOn="2025-10-09T21:45:01.8754429" >}}
 
 
 

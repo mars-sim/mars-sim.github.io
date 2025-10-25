@@ -19,8 +19,9 @@ The backpack is the most crucial part of the Portable Life-Support System (PLSS)
 ## Made by Manufacturing Process
 
 - [Make EVA backpack](/docs/definitions/process/make-eva-backpack)
-- [Make EVA backpack with Polyester Fiber](/docs/definitions/process/make-eva-backpack-with-polyester-fiber)
 - [Make EVA backpack with Polypropylene](/docs/definitions/process/make-eva-backpack-with-polypropylene)
+- [Make EVA backpack with Soy fiber](/docs/definitions/process/make-eva-backpack-with-soy-fiber)
+- [Make EVA backpack with Polyester fiber](/docs/definitions/process/make-eva-backpack-with-polyester-fiber)
 
 ## Used by Manufacturing Process
 
@@ -28,7 +29,7 @@ The backpack is the most crucial part of the Portable Life-Support System (PLSS)
 
 
 
-{{< definition-tail version="3.9.0" generatedOn="2025-03-08T21:34:45.1684317" >}}
+{{< definition-tail version="3.10.0" generatedOn="2025-10-09T21:45:01.8754429" >}}
 
 
 

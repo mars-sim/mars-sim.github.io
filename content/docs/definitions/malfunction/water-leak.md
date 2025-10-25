@@ -30,13 +30,13 @@ hide_summary: true
 ### Parts
 |Part|Number|Default Probability|
 |---|---|---|
-|[Copper Pipe](/docs/definitions/part/copper-pipe)|1|2.0|
+|[Copper pipe](/docs/definitions/part/copper-pipe)|1|2.0|
 |[Gasket](/docs/definitions/part/gasket)|1|15.0|
-|[Plastic Bottle](/docs/definitions/part/plastic-bottle)|1|15.0|
-|[Plastic Tubing](/docs/definitions/part/plastic-tubing)|2|15.0|
+|[Plastic bottle](/docs/definitions/part/plastic-bottle)|1|15.0|
+|[Plastic tubing](/docs/definitions/part/plastic-tubing)|2|15.0|
 |[Valve](/docs/definitions/part/valve)|1|15.0|
-|[Water Pump small](/docs/definitions/part/water-pump-small)|1|15.0|
-|[Water Tank](/docs/definitions/part/water-tank)|1|3.0|
+|[Water pump small](/docs/definitions/part/water-pump-small)|1|15.0|
+|[Water tank](/docs/definitions/part/water-tank)|1|3.0|
 
 ## Impacts
 
@@ -49,5 +49,5 @@ hide_summary: true
 |---|---|
 
 
-{{< definition-tail version="3.9.0" generatedOn="2025-03-08T21:34:45.1684317" >}}
+{{< definition-tail version="3.10.0" generatedOn="2025-10-09T21:45:01.8754429" >}}
 

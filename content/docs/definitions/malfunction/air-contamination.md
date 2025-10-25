@@ -26,12 +26,12 @@ hide_summary: true
 ### Parts
 |Part|Number|Default Probability|
 |---|---|---|
-|[Air Duct](/docs/definitions/part/air-duct)|2|3.0|
+|[Air duct](/docs/definitions/part/air-duct)|2|3.0|
 |[Decontamination kit](/docs/definitions/part/decontamination-kit)|1|10.0|
-|[Electrostatic Precipitator](/docs/definitions/part/electrostatic-precipitator)|1|2.0|
+|[Electrostatic precipitator](/docs/definitions/part/electrostatic-precipitator)|1|2.0|
 |[Gasket](/docs/definitions/part/gasket)|1|5.0|
-|[Plastic Pipe](/docs/definitions/part/plastic-pipe)|2|5.0|
-|[Plastic Tubing](/docs/definitions/part/plastic-tubing)|5|5.0|
+|[Plastic pipe](/docs/definitions/part/plastic-pipe)|2|5.0|
+|[Plastic tubing](/docs/definitions/part/plastic-tubing)|5|5.0|
 |[Valve](/docs/definitions/part/valve)|1|5.0|
 
 ## Impacts
@@ -47,5 +47,5 @@ hide_summary: true
 |---|---|
 
 
-{{< definition-tail version="3.9.0" generatedOn="2025-03-08T21:34:45.1684317" >}}
+{{< definition-tail version="3.10.0" generatedOn="2025-10-09T21:45:01.8754429" >}}
 

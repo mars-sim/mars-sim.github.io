@@ -20,17 +20,17 @@ hide_summary: true
 | Name | Type | Quantity |
 |:-----|:-----|-----:|
 |[Aerogel tile](/docs/definitions/part/aerogel-tile)|Part|90|
-|[Electrical Wire](/docs/definitions/part/electrical-wire)|Part|60|
+|[Electrical wire](/docs/definitions/part/electrical-wire)|Part|60|
 |[Gasket](/docs/definitions/part/gasket)|Part|6|
 |[Motor 10 kW](/docs/definitions/part/motor-10-kw)|Part|6|
 |[Nickel](/docs/definitions/resource/nickel)|Resource|1.0 kg|
-|[Plastic Tubing](/docs/definitions/part/plastic-tubing)|Part|18|
-|[Power Cable](/docs/definitions/part/power-cable)|Part|6|
+|[Plastic tubing](/docs/definitions/part/plastic-tubing)|Part|18|
+|[Power cable](/docs/definitions/part/power-cable)|Part|6|
 |[Valve](/docs/definitions/part/valve)|Part|18|
-|[Wire Connector](/docs/definitions/part/wire-connector)|Part|60|
+|[Wire connector](/docs/definitions/part/wire-connector)|Part|60|
 
 
 
 
-{{< definition-tail version="3.9.0" generatedOn="2025-03-08T21:34:45.1684317" >}}
+{{< definition-tail version="3.10.0" generatedOn="2025-10-09T21:45:01.8754429" >}}
 

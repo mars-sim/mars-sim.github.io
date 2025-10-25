@@ -17,9 +17,9 @@ China National Space Administration
 |Objective:|Prospect mineral deposits and evaluate mineral compositions|
 |Findings:|Document the process and history of climate on Mars|
 
-## Targets
+## Goals
 
-Analyze the wealth of mineral contents from the colleted soil data
+Analyze the wealth of mineral contents from the collected soil data
 
 * Analyze various signatures of minerals
 * Corroborate surface geological data with on-orbit scans
@@ -31,5 +31,5 @@ Analyze the wealth of mineral contents from the colleted soil data
 * China
 
 
-{{< definition-tail version="3.9.0" generatedOn="2025-03-08T21:34:45.1684317" >}}
+{{< definition-tail version="3.10.0" generatedOn="2025-10-09T21:45:01.8754429" >}}
 

@@ -22,12 +22,14 @@ hide_summary: true
 
 - [Produce petri dish](/docs/definitions/process/produce-petri-dish)
 - [Manufacture vehicle chassis panel](/docs/definitions/process/manufacture-vehicle-chassis-panel)
-- [Manufacture vehicle chassis panel with Polycarbonate Resin](/docs/definitions/process/manufacture-vehicle-chassis-panel-with-polycarbonate-resin)
+- [Manufacture vehicle chassis panel with Polycarbonate resin](/docs/definitions/process/manufacture-vehicle-chassis-panel-with-polycarbonate-resin)
+- [Manufacture drone chassis panel](/docs/definitions/process/manufacture-drone-chassis-panel)
+- [Manufacture drone chassis panel with Polycarbonate resin](/docs/definitions/process/manufacture-drone-chassis-panel-with-polycarbonate-resin)
 - [Manufacture rover control panel](/docs/definitions/process/manufacture-rover-control-panel)
-- [Manufacture rover control panel with Polycarbonate Resin](/docs/definitions/process/manufacture-rover-control-panel-with-polycarbonate-resin)
+- [Manufacture rover control panel with Polycarbonate resin](/docs/definitions/process/manufacture-rover-control-panel-with-polycarbonate-resin)
 - [Manufacture rover control panel with Polypropylene](/docs/definitions/process/manufacture-rover-control-panel-with-polypropylene)
 - [Manufacture utility vehicle control panel](/docs/definitions/process/manufacture-utility-vehicle-control-panel)
-- [Manufacture utility vehicle control panel with Polycarbonate Resin](/docs/definitions/process/manufacture-utility-vehicle-control-panel-with-polycarbonate-resin)
+- [Manufacture utility vehicle control panel with Polycarbonate resin](/docs/definitions/process/manufacture-utility-vehicle-control-panel-with-polycarbonate-resin)
 - [Manufacture utility vehicle control panel with Polypropylene](/docs/definitions/process/manufacture-utility-vehicle-control-panel-with-polypropylene)
 - [Assemble LUV](/docs/definitions/process/assemble-luv)
 - [Assemble explorer rover](/docs/definitions/process/assemble-explorer-rover)
@@ -35,11 +37,12 @@ hide_summary: true
 - [Assemble cargo rover](/docs/definitions/process/assemble-cargo-rover)
 - [Make aerogel tile](/docs/definitions/process/make-aerogel-tile)
 - [Manufacture insulation board](/docs/definitions/process/manufacture-insulation-board)
+- [Manufacture insulation board with Aluminum oxide](/docs/definitions/process/manufacture-insulation-board-with-aluminum-oxide)
 
 
     
 
 
-{{< definition-tail version="3.9.0" generatedOn="2025-03-08T21:34:45.1684317" >}}
+{{< definition-tail version="3.10.0" generatedOn="2025-10-09T21:45:01.8754429" >}}
 
 

@@ -1,6 +1,6 @@
 ---
-title: Part - Methanol Fuel cell
-linkTitle: Methanol Fuel cell
+title: Part - Methanol fuel cell
+linkTitle: Methanol fuel cell
 toc_hide: true
 hide_summary: true
 ---
@@ -23,7 +23,7 @@ Assume each methanol fuel cell can generate 200W&#10;&#9;&#9;continuous power.&#
 
 
 
-{{< definition-tail version="3.9.0" generatedOn="2025-03-08T21:34:45.1684317" >}}
+{{< definition-tail version="3.10.0" generatedOn="2025-10-09T21:45:01.8754429" >}}
 
 
 

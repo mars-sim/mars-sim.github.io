@@ -16,29 +16,29 @@ A more advanced gardening robot with higher battery capacity.
 |--------:|:------|
 |Type:|GardenBot|
 |Model:|Advanced|
-|Carry Capacity:|30.0 kg|
+|Carry Capacity:|15.0 kg|
 |Mass:|60 kg|
 |Height:|100 cm|
-|Power Consumption:|1.0 kWH|
-|Power Consumption (standby):|0.05 kWH|
+|Power Consumption:|0.35 kWH|
+|Power Consumption (standby):|0.1 kWH|
 |Low Power Threshold:|15.0 %|
 
 ## Skills
 |Skill:|Rating|
 |-------|-------|
-|Biology|2|
+|Astrobiology|2|
 |Botany|2|
 
 ## Attributes
 |Attribute:|Rating|
 |-------|-------|
-|Agility|40|
+|Agility|60|
 |Conversation|80|
 |Endurance|95|
 |Experience Aptitude|95|
 |Strength|55|
-|Teaching|40|
+|Teaching|30|
 
 
-{{< definition-tail version="3.9.0" generatedOn="2025-03-08T21:34:45.1684317" >}}
+{{< definition-tail version="3.10.0" generatedOn="2025-10-09T21:45:01.8754429" >}}
 

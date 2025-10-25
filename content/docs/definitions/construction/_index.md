@@ -14,6 +14,9 @@ Grouped by Stage.
 
 ### BUILDING {#A-building}
 
+- [Core C](../construction/core-c)
+- [Core A](../construction/core-a)
+- [Core B](../construction/core-b)
 - [Laboratory](../construction/laboratory)
 - [Ice Storage](../construction/ice-storage)
 - [Concrete Storage](../construction/concrete-storage)
@@ -43,6 +46,7 @@ Grouped by Stage.
 - [Bunkhouse](../construction/bunkhouse)
 - [Regolith Storage](../construction/regolith-storage)
 - [Medical Hab](../construction/medical-hab)
+- [Brine Water Well](../construction/brine-water-well)
 - [Solar Photovoltaic Array](../construction/solar-photovoltaic-array)
 - [Astronomy Observatory](../construction/astronomy-observatory)
 - [Server Farm](../construction/server-farm)
@@ -50,7 +54,7 @@ Grouped by Stage.
 - [Lounge](../construction/lounge)
 - [Lander Hab](../construction/lander-hab)
 - [Workshop](../construction/workshop)
-- [Command and Control](../construction/command-and-control)
+- [Command Center](../construction/command-center)
 - [Large Sabatier Processor](../construction/large-sabatier-processor)
 - [Lime Storage](../construction/lime-storage)
 - [Fuel Storage](../construction/fuel-storage)
@@ -67,20 +71,28 @@ Grouped by Stage.
 - [Surface Foundation 5x10](../construction/surface-foundation-5x10)
 - [Ramped Subsurface Foundation 15x18x5](../construction/ramped-subsurface-foundation-15x18x5)
 - [Surface Foundation 2x3](../construction/surface-foundation-2x3)
-- [Deep Borehole Drilling Site](../construction/deep-borehole-drilling-site)
 - [Subsurface Foundation Variable Size](../construction/subsurface-foundation-variable-size)
+- [Surface Foundation 6x6](../construction/surface-foundation-6x6)
+- [Surface Foundation 6x9](../construction/surface-foundation-6x9)
 - [Surface Foundation 8x11](../construction/surface-foundation-8x11)
 - [Subsurface Foundation 5x10x3](../construction/subsurface-foundation-5x10x3)
 - [Surface Foundation Variable Size](../construction/surface-foundation-variable-size)
 - [Surface Foundation 12x18](../construction/surface-foundation-12x18)
+- [Subsurface Foundation 6x6x3](../construction/subsurface-foundation-6x6x3)
 - [Subsurface Foundation 10x10x3](../construction/subsurface-foundation-10x10x3)
 - [Subsurface Foundation 5x5x3](../construction/subsurface-foundation-5x5x3)
 - [Surface Foundation 9x9](../construction/surface-foundation-9x9)
+- [Deep Borehole Large Drilling Site](../construction/deep-borehole-large-drilling-site)
+- [Surface Foundation 3x6](../construction/surface-foundation-3x6)
 - [Surface Foundation 5x5](../construction/surface-foundation-5x5)
+- [Surface Foundation 3x7](../construction/surface-foundation-3x7)
+- [Surface Foundation 7x7](../construction/surface-foundation-7x7)
 - [Surface Foundation 7x9](../construction/surface-foundation-7x9)
+- [Deep Borehole Small Drilling Site](../construction/deep-borehole-small-drilling-site)
 
 ### FRAME {#A-frame}
 
+- [Core B Frame](../construction/core-b-frame)
 - [Atmospheric Processor Frame](../construction/atmospheric-processor-frame)
 - [Vaulted Glass Brick Frame](../construction/vaulted-glass-brick-frame)
 - [Large Garage Brick Frame](../construction/large-garage-brick-frame)
@@ -88,6 +100,7 @@ Grouped by Stage.
 - [Garage Frame](../construction/garage-frame)
 - [Large Greenhouse Frame](../construction/large-greenhouse-frame)
 - [Round Frame](../construction/round-frame)
+- [Core C Frame](../construction/core-c-frame)
 - [Array Frame](../construction/array-frame)
 - [Round Hab Frame](../construction/round-hab-frame)
 - [Small Steel Frame](../construction/small-steel-frame)
@@ -97,11 +110,14 @@ Grouped by Stage.
 - [Brick Tunnel Frame](../construction/brick-tunnel-frame)
 - [Inflatable Frame](../construction/inflatable-frame)
 - [Hallway frame](../construction/hallway-frame)
-- [Medium Modular Frame](../construction/medium-modular-frame)
+- [Brine Water Well Frame](../construction/brine-water-well-frame)
+- [Modular B Frame](../construction/modular-b-frame)
 - [Steel Frame Tower](../construction/steel-frame-tower)
+- [Core A Frame](../construction/core-a-frame)
+- [Modular A Frame](../construction/modular-a-frame)
 - [Small Areothermal Well Frame](../construction/small-areothermal-well-frame)
 
 
 
-{{< definition-tail version="3.9.0" generatedOn="2025-03-08T21:34:45.1684317" >}}
+{{< definition-tail version="3.10.0" generatedOn="2025-10-09T21:45:01.8754429" >}}
 

@@ -20,20 +20,20 @@ hide_summary: true
 | Name | Type | Quantity |
 |:-----|:-----|-----:|
 |[Aerogel tile](/docs/definitions/part/aerogel-tile)|Part|32|
-|[Electrical Wire](/docs/definitions/part/electrical-wire)|Part|20|
-|[Glass Tube](/docs/definitions/part/glass-tube)|Part|6|
+|[Electrical wire](/docs/definitions/part/electrical-wire)|Part|20|
+|[Glass tube](/docs/definitions/part/glass-tube)|Part|6|
 |[Heat pump](/docs/definitions/part/heat-pump)|Part|1|
-|[Power Cable](/docs/definitions/part/power-cable)|Part|2|
-|[Solar Parabolic Mirror](/docs/definitions/part/solar-parabolic-mirror)|Part|3|
-|[Steel Pipe](/docs/definitions/part/steel-pipe)|Part|10|
-|[Stepper Motor](/docs/definitions/part/stepper-motor)|Part|4|
+|[Power cable](/docs/definitions/part/power-cable)|Part|2|
+|[Solar parabolic mirror](/docs/definitions/part/solar-parabolic-mirror)|Part|3|
+|[Steel pipe](/docs/definitions/part/steel-pipe)|Part|10|
+|[Stepper motor](/docs/definitions/part/stepper-motor)|Part|4|
 |[Water](/docs/definitions/resource/water)|Resource|200.0 kg|
-|[Water Pump large](/docs/definitions/part/water-pump-large)|Part|2|
-|[Water Tank](/docs/definitions/part/water-tank)|Part|1|
-|[Wire Connector](/docs/definitions/part/wire-connector)|Part|20|
+|[Water pump large](/docs/definitions/part/water-pump-large)|Part|2|
+|[Water tank](/docs/definitions/part/water-tank)|Part|1|
+|[Wire connector](/docs/definitions/part/wire-connector)|Part|20|
 
 
 
 
-{{< definition-tail version="3.9.0" generatedOn="2025-03-08T21:34:45.1684317" >}}
+{{< definition-tail version="3.10.0" generatedOn="2025-10-09T21:45:01.8754429" >}}
 

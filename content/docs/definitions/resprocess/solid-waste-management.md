@@ -12,7 +12,7 @@ hide_summary: true
 |--------:|:------|
 |Process Time:|200 millisols|
 |Work Time:|10 millisols|
-|Power Required:|0.2 kW/hr|
+|Power Required:|0.02 kW/hr|
 |Start On:|false|
 
 ## Inputs
@@ -25,19 +25,19 @@ Ambient inputs are consumed from the environment.
 ## Outputs
 | Name      | Output Rate (kg/sol) | Waste Output |
 |--------:|:------|-----:|:----|
+|[Toxic waste](/docs/definitions/resource/toxic-waste)|1.0|false|
 |[Carbon](/docs/definitions/resource/carbon)|1.0|false|
-|[Nitrogen](/docs/definitions/resource/nitrogen)|0.5|false|
 |[Nitrate](/docs/definitions/resource/nitrate)|0.5|false|
 |[Nitrite](/docs/definitions/resource/nitrite)|0.5|false|
 |[Phosphorus](/docs/definitions/resource/phosphorus)|0.5|false|
-|[Compost](/docs/definitions/resource/compost)|1.0|false|
+|[Nitrogen](/docs/definitions/resource/nitrogen)|0.5|false|
 |[Potassium](/docs/definitions/resource/potassium)|0.05|false|
-|[Toxic waste](/docs/definitions/resource/toxic-waste)|1.0|false|
+|[Compost](/docs/definitions/resource/compost)|1.0|false|
 
 Waste outputs are released into the environment and do not need to be stored.
 
 
-{{< definition-tail version="3.9.0" generatedOn="2025-03-08T21:34:45.1684317" >}}
+{{< definition-tail version="3.10.0" generatedOn="2025-10-09T21:45:01.8754429" >}}
 
 
 

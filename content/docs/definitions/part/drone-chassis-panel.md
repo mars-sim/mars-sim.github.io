@@ -1,6 +1,6 @@
 ---
-title: Part - Drone Chassis Panel
-linkTitle: Drone Chassis Panel
+title: Part - Drone chassis panel
+linkTitle: Drone chassis panel
 toc_hide: true
 hide_summary: true
 ---
@@ -13,9 +13,13 @@ Reinforced fiberglass panels.
 
 | Attribute      | Value |
 |--------:|:------|
-|Mass:|20.0 kg|
+|Mass:|12.0 kg|
 |Type:|Vehicle|
 
+## Made by Manufacturing Process
+
+- [Manufacture drone chassis panel](/docs/definitions/process/manufacture-drone-chassis-panel)
+- [Manufacture drone chassis panel with Polycarbonate resin](/docs/definitions/process/manufacture-drone-chassis-panel-with-polycarbonate-resin)
 
 ## Used by Manufacturing Process
 
@@ -24,7 +28,7 @@ Reinforced fiberglass panels.
 
 
 
-{{< definition-tail version="3.9.0" generatedOn="2025-03-08T21:34:45.1684317" >}}
+{{< definition-tail version="3.10.0" generatedOn="2025-10-09T21:45:01.8754429" >}}
 
 
 

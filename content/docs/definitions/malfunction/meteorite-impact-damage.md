@@ -27,12 +27,12 @@ hide_summary: true
 ### Parts
 |Part|Number|Default Probability|
 |---|---|---|
-|[Airleak Patch](/docs/definitions/part/airleak-patch)|5|10.0|
+|[Airleak patch](/docs/definitions/part/airleak-patch)|5|10.0|
 |[Fiberglass](/docs/definitions/part/fiberglass)|2|5.0|
-|[Fiberglass Cloth](/docs/definitions/part/fiberglass-cloth)|2|10.0|
-|[Fire Extinguisher](/docs/definitions/part/fire-extinguisher)|1|10.0|
-|[Plastic Pipe](/docs/definitions/part/plastic-pipe)|2|5.0|
-|[Plastic Tubing](/docs/definitions/part/plastic-tubing)|1|10.0|
+|[Fiberglass cloth](/docs/definitions/part/fiberglass-cloth)|2|10.0|
+|[Fire extinguisher](/docs/definitions/part/fire-extinguisher)|1|10.0|
+|[Plastic pipe](/docs/definitions/part/plastic-pipe)|2|5.0|
+|[Plastic tubing](/docs/definitions/part/plastic-tubing)|1|10.0|
 |[Polycarbonate roofing](/docs/definitions/part/polycarbonate-roofing)|1|5.0|
 |[Valve](/docs/definitions/part/valve)|2|5.0|
 |[Work gloves](/docs/definitions/part/work-gloves)|1|10.0|
@@ -55,5 +55,5 @@ hide_summary: true
 |Oxygen|-0.01|
 
 
-{{< definition-tail version="3.9.0" generatedOn="2025-03-08T21:34:45.1684317" >}}
+{{< definition-tail version="3.10.0" generatedOn="2025-10-09T21:45:01.8754429" >}}
 

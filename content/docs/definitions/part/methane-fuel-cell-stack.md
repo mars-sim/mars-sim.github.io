@@ -1,6 +1,6 @@
 ---
-title: Part - Methane Fuel cell stack
-linkTitle: Methane Fuel cell stack
+title: Part - Methane fuel cell stack
+linkTitle: Methane fuel cell stack
 toc_hide: true
 hide_summary: true
 ---
@@ -26,7 +26,7 @@ A 15 kW Solid Oxide Fuel Cell (SOFC) stack comprises &#10;&#9;&#9;    75 fuel ce
 
 
 
-{{< definition-tail version="3.9.0" generatedOn="2025-03-08T21:34:45.1684317" >}}
+{{< definition-tail version="3.10.0" generatedOn="2025-10-09T21:45:01.8754429" >}}
 
 
 

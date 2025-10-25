@@ -1,6 +1,6 @@
 ---
-title: Part - Plastic Bottle
-linkTitle: Plastic Bottle
+title: Part - Plastic bottle
+linkTitle: Plastic bottle
 toc_hide: true
 hide_summary: true
 ---
@@ -25,10 +25,10 @@ no description available.
 ## Used by Manufacturing Process
 
 - [Manufacture rover control panel](/docs/definitions/process/manufacture-rover-control-panel)
-- [Manufacture rover control panel with Polycarbonate Resin](/docs/definitions/process/manufacture-rover-control-panel-with-polycarbonate-resin)
+- [Manufacture rover control panel with Polycarbonate resin](/docs/definitions/process/manufacture-rover-control-panel-with-polycarbonate-resin)
 - [Manufacture rover control panel with Polypropylene](/docs/definitions/process/manufacture-rover-control-panel-with-polypropylene)
 - [Manufacture utility vehicle control panel](/docs/definitions/process/manufacture-utility-vehicle-control-panel)
-- [Manufacture utility vehicle control panel with Polycarbonate Resin](/docs/definitions/process/manufacture-utility-vehicle-control-panel-with-polycarbonate-resin)
+- [Manufacture utility vehicle control panel with Polycarbonate resin](/docs/definitions/process/manufacture-utility-vehicle-control-panel-with-polycarbonate-resin)
 - [Manufacture utility vehicle control panel with Polypropylene](/docs/definitions/process/manufacture-utility-vehicle-control-panel-with-polypropylene)
 - [Manufacture fuel tank](/docs/definitions/process/manufacture-fuel-tank)
 - [Manufacture gas tank](/docs/definitions/process/manufacture-gas-tank)
@@ -40,7 +40,7 @@ no description available.
 
 
 
-{{< definition-tail version="3.9.0" generatedOn="2025-03-08T21:34:45.1684317" >}}
+{{< definition-tail version="3.10.0" generatedOn="2025-10-09T21:45:01.8754429" >}}
 
 
 

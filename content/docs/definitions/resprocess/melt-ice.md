@@ -12,27 +12,27 @@ hide_summary: true
 |--------:|:------|
 |Process Time:|200 millisols|
 |Work Time:|10 millisols|
-|Power Required:|0.3125 kW/hr|
+|Power Required:|0.18 kW/hr|
 |Start On:|false|
 
 ## Inputs
 | Name      | Input Rate (kg/sol) | Minimum kg | Ambient |
 |--------:|:------|-----:|:----|
-|[Ice](/docs/definitions/resource/ice)|100.0|0.005|false|
+|[Ice](/docs/definitions/resource/ice)|400.0|0.02|false|
 
 Ambient inputs are consumed from the environment.
 
 ## Outputs
 | Name      | Output Rate (kg/sol) | Waste Output |
 |--------:|:------|-----:|:----|
-|[Regolith](/docs/definitions/resource/regolith)|10.0|false|
-|[Brine Water](/docs/definitions/resource/brine-water)|85.0|false|
+|[Regolith](/docs/definitions/resource/regolith)|15.0|false|
+|[Brine Water](/docs/definitions/resource/brine-water)|380.0|false|
 |[Rock salt](/docs/definitions/resource/rock-salt)|5.0|false|
 
 Waste outputs are released into the environment and do not need to be stored.
 
 
-{{< definition-tail version="3.9.0" generatedOn="2025-03-08T21:34:45.1684317" >}}
+{{< definition-tail version="3.10.0" generatedOn="2025-10-09T21:45:01.8754429" >}}
 
 
 

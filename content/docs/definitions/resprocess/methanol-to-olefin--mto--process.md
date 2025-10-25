@@ -12,28 +12,28 @@ hide_summary: true
 |--------:|:------|
 |Process Time:|200 millisols|
 |Work Time:|10 millisols|
-|Power Required:|0.5 kW/hr|
+|Power Required:|0.05 kW/hr|
 |Start On:|false|
 
 ## Inputs
 | Name      | Input Rate (kg/sol) | Minimum kg | Ambient |
 |--------:|:------|-----:|:----|
-|[Methanol](/docs/definitions/resource/methanol)|10.0|0.001|false|
+|[Methanol](/docs/definitions/resource/methanol)|100.0|0.005|false|
 
 Ambient inputs are consumed from the environment.
 
 ## Outputs
 | Name      | Output Rate (kg/sol) | Waste Output |
 |--------:|:------|-----:|:----|
-|[Ethane](/docs/definitions/resource/ethane)|1.4|false|
-|[Ethylene](/docs/definitions/resource/ethylene)|4.1|false|
-|[Prophylene](/docs/definitions/resource/prophylene)|3.9|false|
-|[Water](/docs/definitions/resource/water)|0.5|false|
+|[Ethane](/docs/definitions/resource/ethane)|14.0|false|
+|[Ethylene](/docs/definitions/resource/ethylene)|42.0|false|
+|[Water](/docs/definitions/resource/water)|5.0|false|
+|[Propylene](/docs/definitions/resource/propylene)|39.0|false|
 
 Waste outputs are released into the environment and do not need to be stored.
 
 
-{{< definition-tail version="3.9.0" generatedOn="2025-03-08T21:34:45.1684317" >}}
+{{< definition-tail version="3.10.0" generatedOn="2025-10-09T21:45:01.8754429" >}}
 
 
 

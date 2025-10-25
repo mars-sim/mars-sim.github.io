@@ -17,7 +17,7 @@ Japan Aerospace Exploration Agency
 |Objective:|Characterize and determining factors contributing to human habitability|
 |Findings:|Identify engineering challenge in constructing surface, underground and cliff-side dwelling|
 
-## Targets
+## Goals
 
 Analyze atmospheric conditions and geographical factors of human habitability in a local region
 
@@ -30,5 +30,5 @@ Analyze atmospheric conditions and geographical factors of human habitability in
 * Japan
 
 
-{{< definition-tail version="3.9.0" generatedOn="2025-03-08T21:34:45.1684317" >}}
+{{< definition-tail version="3.10.0" generatedOn="2025-10-09T21:45:01.8754429" >}}
 

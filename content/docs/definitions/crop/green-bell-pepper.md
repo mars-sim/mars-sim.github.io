@@ -13,7 +13,7 @@ hide_summary: true
 |Category:|Fruits|
 |Produce:|[Green Bell Pepper](/docs/definitions/resource/green-bell-pepper)|
 |Growing Time:|40 sols|
-|Edible Biomass:|50.0 g per m2|
+|Edible Biomass:|15.0 g per m2|
 |Inedible Biomass:|20.0 g per m2|
 |Light Demands:|25.92 PAR per sol|
 
@@ -32,5 +32,5 @@ hide_summary: true
 |Finished|0.5|0.0|
 
 
-{{< definition-tail version="3.9.0" generatedOn="2025-03-08T21:34:45.1684317" >}}
+{{< definition-tail version="3.10.0" generatedOn="2025-10-09T21:45:01.8754429" >}}
 

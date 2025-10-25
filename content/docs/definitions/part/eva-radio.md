@@ -1,6 +1,6 @@
 ---
-title: Part - EVA Radio
-linkTitle: EVA Radio
+title: Part - EVA radio
+linkTitle: EVA radio
 toc_hide: true
 hide_summary: true
 ---
@@ -19,11 +19,12 @@ no description available.
 
 ## Used by Manufacturing Process
 
+- [Assemble a RepairBot](/docs/definitions/process/assemble-a-repairbot)
 - [Assemble EVA suit](/docs/definitions/process/assemble-eva-suit)
 
 
 
-{{< definition-tail version="3.9.0" generatedOn="2025-03-08T21:34:45.1684317" >}}
+{{< definition-tail version="3.10.0" generatedOn="2025-10-09T21:45:01.8754429" >}}
 
 
 

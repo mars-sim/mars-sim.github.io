@@ -17,15 +17,25 @@ An element.
 |Type:|Element|
 |Form:|Solid|
  
+## Made by Manufacturing Process
+
+- [Break down meteorite](/docs/definitions/process/break-down-meteorite)
 
 ## Used by Manufacturing Process
 
+- [Make small vehicle frame](/docs/definitions/process/make-small-vehicle-frame)
+- [Make large vehicle frame](/docs/definitions/process/make-large-vehicle-frame)
+- [Manufacture vehicle chassis panel](/docs/definitions/process/manufacture-vehicle-chassis-panel)
+- [Manufacture vehicle chassis panel with Polycarbonate resin](/docs/definitions/process/manufacture-vehicle-chassis-panel-with-polycarbonate-resin)
+- [Manufacture drone chassis panel](/docs/definitions/process/manufacture-drone-chassis-panel)
+- [Manufacture drone chassis panel with Polycarbonate resin](/docs/definitions/process/manufacture-drone-chassis-panel-with-polycarbonate-resin)
 - [Manufacture propeller](/docs/definitions/process/manufacture-propeller)
+- [Manufacture propeller with Polyester resin](/docs/definitions/process/manufacture-propeller-with-polyester-resin)
 
 
     
 
 
-{{< definition-tail version="3.9.0" generatedOn="2025-03-08T21:34:45.1684317" >}}
+{{< definition-tail version="3.10.0" generatedOn="2025-10-09T21:45:01.8754429" >}}
 
 

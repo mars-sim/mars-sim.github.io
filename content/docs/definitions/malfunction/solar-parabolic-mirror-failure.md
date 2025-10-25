@@ -26,11 +26,11 @@ hide_summary: true
 ### Parts
 |Part|Number|Default Probability|
 |---|---|---|
-|[Aluminum Sheet](/docs/definitions/part/aluminum-sheet)|1|10.0|
-|[Electrical Wire](/docs/definitions/part/electrical-wire)|2|40.0|
-|[Optical Lens](/docs/definitions/part/optical-lens)|2|2.0|
-|[Solar Parabolic Mirror](/docs/definitions/part/solar-parabolic-mirror)|1|10.0|
-|[Wire Connector](/docs/definitions/part/wire-connector)|2|40.0|
+|[Aluminum sheet](/docs/definitions/part/aluminum-sheet)|1|10.0|
+|[Electrical wire](/docs/definitions/part/electrical-wire)|2|40.0|
+|[Optical lens](/docs/definitions/part/optical-lens)|2|2.0|
+|[Solar parabolic mirror](/docs/definitions/part/solar-parabolic-mirror)|1|10.0|
+|[Wire connector](/docs/definitions/part/wire-connector)|2|40.0|
 
 ## Impacts
 
@@ -43,5 +43,5 @@ hide_summary: true
 |---|---|
 
 
-{{< definition-tail version="3.9.0" generatedOn="2025-03-08T21:34:45.1684317" >}}
+{{< definition-tail version="3.10.0" generatedOn="2025-10-09T21:45:01.8754429" >}}
 

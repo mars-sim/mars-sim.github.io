@@ -14,7 +14,8 @@ hide_summary: true
 |Type:|Manufacture|
 |Skill Level:|2|
 |Tech Level:|1|
-|Process Time:|200.0 millisols|
+|Process Time:|30.0 millisols|
+|Tooling:|3D Printer|
 |Work Level:|50.0 millisols|
 |Power Required:|1.0 kW/hr|
 
@@ -24,7 +25,6 @@ hide_summary: true
 |--------:|:------|
 |[Aluminum](/docs/definitions/resource/aluminum)|Resource|0.1 kg|
 |[Carbon](/docs/definitions/resource/carbon)|Resource|1.0 kg|
-|[aluminum oxide](/docs/definitions/resource/aluminum-oxide)|Resource|0.1 kg|
 |[iron powder](/docs/definitions/resource/iron-powder)|Resource|0.1 kg|
 |[nickel](/docs/definitions/resource/nickel)|Resource|0.1 kg|
 |[zinc](/docs/definitions/resource/zinc)|Resource|0.1 kg|
@@ -38,7 +38,7 @@ hide_summary: true
 
 
 
-{{< definition-tail version="3.9.0" generatedOn="2025-03-08T21:34:45.1684317" >}}
+{{< definition-tail version="3.10.0" generatedOn="2025-10-09T21:45:01.8754429" >}}
 
 
 

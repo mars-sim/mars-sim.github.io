@@ -1,6 +1,6 @@
 ---
-title: Part - Plastic Sheet
-linkTitle: Plastic Sheet
+title: Part - Plastic sheet
+linkTitle: Plastic sheet
 toc_hide: true
 hide_summary: true
 ---
@@ -25,6 +25,10 @@ no description available.
 - [Manufacture bag](/docs/definitions/process/manufacture-bag)
 - [Manufacture large bag](/docs/definitions/process/manufacture-large-bag)
 - [Manufacture thermal bottle](/docs/definitions/process/manufacture-thermal-bottle)
+- [Manufacture thermal bottle with Aluminum oxide](/docs/definitions/process/manufacture-thermal-bottle-with-aluminum-oxide)
+- [Manufacture Gearbox](/docs/definitions/process/manufacture-gearbox)
+- [Manufacture Servo Motor](/docs/definitions/process/manufacture-servo-motor)
+- [Manufacture Stepper Motor](/docs/definitions/process/manufacture-stepper-motor)
 - [Manufacture food blender](/docs/definitions/process/manufacture-food-blender)
 - [Manufacture oven](/docs/definitions/process/manufacture-oven)
 - [Manufacture microwave](/docs/definitions/process/manufacture-microwave)
@@ -43,10 +47,11 @@ no description available.
 - [Manufacture turbopump](/docs/definitions/process/manufacture-turbopump)
 - [Make decontamination kit](/docs/definitions/process/make-decontamination-kit)
 - [Manufacture logic board](/docs/definitions/process/manufacture-logic-board)
+- [Manufacture logic board with Aluminum oxide](/docs/definitions/process/manufacture-logic-board-with-aluminum-oxide)
 
 
 
-{{< definition-tail version="3.9.0" generatedOn="2025-03-08T21:34:45.1684317" >}}
+{{< definition-tail version="3.10.0" generatedOn="2025-10-09T21:45:01.8754429" >}}
 
 
 

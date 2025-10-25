@@ -12,9 +12,9 @@ hide_summary: true
 |--------:|:------|
 |Category:|Fungi|
 |Produce:|[Morel Mushroom](/docs/definitions/resource/morel-mushroom)|
-|Growing Time:|15 sols|
-|Edible Biomass:|35.0 g per m2|
-|Inedible Biomass:|2.0 g per m2|
+|Growing Time:|140 sols|
+|Edible Biomass:|10.0 g per m2|
+|Inedible Biomass:|25.0 g per m2|
 |Light Demands:|5.0 PAR per sol|
 
 ## Phases
@@ -23,12 +23,12 @@ hide_summary: true
 |-----------|------:|--------:|
 |Incubation|1.0|0.0|
 |Planting|0.5|1.0|
-|Germination|1.0|5.0|
-|Growing|1.0|79.0|
-|Maturation|1.0|10.0|
+|Spore Germination|1.0|5.0|
+|Mycelium Formation|1.0|79.0|
+|Fruiting Body Development|1.0|10.0|
 |Harvesting|0.5|5.0|
 |Finished|0.5|0.0|
 
 
-{{< definition-tail version="3.9.0" generatedOn="2025-03-08T21:34:45.1684317" >}}
+{{< definition-tail version="3.10.0" generatedOn="2025-10-09T21:45:01.8754429" >}}
 

@@ -15,6 +15,7 @@ hide_summary: true
 |Skill Level:|3|
 |Tech Level:|2|
 |Process Time:|200.0 millisols|
+|Tooling:|Soldering|
 |Work Level:|200.0 millisols|
 |Power Required:|0.4 kW/hr|
 
@@ -22,7 +23,7 @@ hide_summary: true
 
 | Input      | Amount |
 |--------:|:------|
-|[Polyester Resin](/docs/definitions/resource/polyester-resin)|Resource|0.5 kg|
+|[Polyester resin](/docs/definitions/resource/polyester-resin)|Resource|0.5 kg|
 |[aluminum sheet](/docs/definitions/part/aluminum-sheet)|Part|1|
 |[electrical wire](/docs/definitions/part/electrical-wire)|Part|3|
 |[fiberglass](/docs/definitions/part/fiberglass)|Part|1|
@@ -39,7 +40,7 @@ hide_summary: true
 
 
 
-{{< definition-tail version="3.9.0" generatedOn="2025-03-08T21:34:45.1684317" >}}
+{{< definition-tail version="3.10.0" generatedOn="2025-10-09T21:45:01.8754429" >}}
 
 
 

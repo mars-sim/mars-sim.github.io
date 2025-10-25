@@ -1,6 +1,6 @@
 ---
-title: Part - Wind Turbine Blade
-linkTitle: Wind Turbine Blade
+title: Part - Wind turbine blade
+linkTitle: Wind turbine blade
 toc_hide: true
 hide_summary: true
 ---
@@ -19,12 +19,12 @@ Blade for a wind turbine.
 ## Made by Manufacturing Process
 
 - [Fabricate turbine blade](/docs/definitions/process/fabricate-turbine-blade)
-- [Fabricate turbine blade with Polycarbonate Resin](/docs/definitions/process/fabricate-turbine-blade-with-polycarbonate-resin)
+- [Fabricate turbine blade with Polycarbonate resin](/docs/definitions/process/fabricate-turbine-blade-with-polycarbonate-resin)
 
 
 
 
-{{< definition-tail version="3.9.0" generatedOn="2025-03-08T21:34:45.1684317" >}}
+{{< definition-tail version="3.10.0" generatedOn="2025-10-09T21:45:01.8754429" >}}
 
 
 

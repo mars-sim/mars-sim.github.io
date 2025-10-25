@@ -26,14 +26,14 @@ Ambient inputs are consumed from the environment.
 ## Outputs
 | Name      | Output Rate (kg/sol) | Waste Output |
 |--------:|:------|-----:|:----|
+|[Methane](/docs/definitions/resource/methane)|48.0|false|
 |[Carbon monoxide](/docs/definitions/resource/carbon-monoxide)|168.0|false|
 |[Water](/docs/definitions/resource/water)|216.0|false|
-|[Methane](/docs/definitions/resource/methane)|48.0|false|
 
 Waste outputs are released into the environment and do not need to be stored.
 
 
-{{< definition-tail version="3.9.0" generatedOn="2025-03-08T21:34:45.1684317" >}}
+{{< definition-tail version="3.10.0" generatedOn="2025-10-09T21:45:01.8754429" >}}
 
 
 

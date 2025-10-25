@@ -12,14 +12,14 @@ hide_summary: true
 |--------:|:------|
 |Process Time:|200 millisols|
 |Work Time:|10 millisols|
-|Power Required:|0.315 kW/hr|
+|Power Required:|0.015 kW/hr|
 |Start On:|false|
 
 ## Inputs
 | Name      | Input Rate (kg/sol) | Minimum kg | Ambient |
 |--------:|:------|-----:|:----|
-|[Black water](/docs/definitions/resource/black-water)|10.0|0.001|false|
 |[Chlorine](/docs/definitions/resource/chlorine)|1.0E-5|0.0|false|
+|[Black water](/docs/definitions/resource/black-water)|10.0|0.001|false|
 |[Nitrospira SPP](/docs/definitions/resource/nitrospira-spp)|0.02|0.0|false|
 |[Nitrosomonas SPP](/docs/definitions/resource/nitrosomonas-spp)|0.02|0.0|false|
 
@@ -28,14 +28,14 @@ Ambient inputs are consumed from the environment.
 ## Outputs
 | Name      | Output Rate (kg/sol) | Waste Output |
 |--------:|:------|-----:|:----|
-|[Grey water](/docs/definitions/resource/grey-water)|7.0|false|
-|[Solid waste](/docs/definitions/resource/solid-waste)|2.0|false|
 |[Toxic waste](/docs/definitions/resource/toxic-waste)|1.0|false|
+|[Solid waste](/docs/definitions/resource/solid-waste)|2.0|false|
+|[Grey water](/docs/definitions/resource/grey-water)|7.0|false|
 
 Waste outputs are released into the environment and do not need to be stored.
 
 
-{{< definition-tail version="3.9.0" generatedOn="2025-03-08T21:34:45.1684317" >}}
+{{< definition-tail version="3.10.0" generatedOn="2025-10-09T21:45:01.8754429" >}}
 
 
 

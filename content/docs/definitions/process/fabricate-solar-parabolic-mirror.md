@@ -14,8 +14,9 @@ hide_summary: true
 |Type:|Manufacture|
 |Skill Level:|2|
 |Tech Level:|3|
-|Process Time:|300.0 millisols|
-|Work Level:|300.0 millisols|
+|Process Time:|100.0 millisols|
+|Tooling:|3D Printer|
+|Work Level:|200.0 millisols|
 |Power Required:|1.0 kW/hr|
 
 ## Inputs
@@ -23,6 +24,7 @@ hide_summary: true
 | Input      | Amount |
 |--------:|:------|
 |[aluminum sheet](/docs/definitions/part/aluminum-sheet)|Part|2|
+|[glass](/docs/definitions/resource/glass)|Resource|5.0 kg|
 |[glass sheet](/docs/definitions/part/glass-sheet)|Part|1|
 |[steel sheet](/docs/definitions/part/steel-sheet)|Part|1|
 
@@ -35,7 +37,7 @@ hide_summary: true
 
 
 
-{{< definition-tail version="3.9.0" generatedOn="2025-03-08T21:34:45.1684317" >}}
+{{< definition-tail version="3.10.0" generatedOn="2025-10-09T21:45:01.8754429" >}}
 
 
 

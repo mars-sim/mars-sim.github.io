@@ -25,11 +25,12 @@ hide_summary: true
 ## Used by Manufacturing Process
 
 - [Roll aluminized mylar foil](/docs/definitions/process/roll-aluminized-mylar-foil)
+- [Roll aluminized mylar foil with Aluminum oxide](/docs/definitions/process/roll-aluminized-mylar-foil-with-aluminum-oxide)
 
 
     
 
 
-{{< definition-tail version="3.9.0" generatedOn="2025-03-08T21:34:45.1684317" >}}
+{{< definition-tail version="3.10.0" generatedOn="2025-10-09T21:45:01.8754429" >}}
 
 

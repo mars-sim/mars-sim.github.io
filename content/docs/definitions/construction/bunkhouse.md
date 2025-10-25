@@ -20,22 +20,22 @@ hide_summary: true
 | Name | Type | Quantity |
 |:-----|:-----|-----:|
 |[Aerogel tile](/docs/definitions/part/aerogel-tile)|Part|90|
-|[Air Duct](/docs/definitions/part/air-duct)|Part|3|
+|[Air duct](/docs/definitions/part/air-duct)|Part|3|
 |[Cement](/docs/definitions/resource/cement)|Resource|75.0 kg|
 |[Concrete](/docs/definitions/resource/concrete)|Resource|57.0 kg|
-|[Electrical Wire](/docs/definitions/part/electrical-wire)|Part|10|
+|[Electrical wire](/docs/definitions/part/electrical-wire)|Part|10|
 |[Gasket](/docs/definitions/part/gasket)|Part|5|
-|[Plastic Bottle](/docs/definitions/part/plastic-bottle)|Part|25|
-|[Plastic Pipe](/docs/definitions/part/plastic-pipe)|Part|4|
-|[Plastic Tubing](/docs/definitions/part/plastic-tubing)|Part|3|
-|[Power Cable](/docs/definitions/part/power-cable)|Part|1|
-|[Steel Pipe](/docs/definitions/part/steel-pipe)|Part|3|
+|[Plastic bottle](/docs/definitions/part/plastic-bottle)|Part|25|
+|[Plastic pipe](/docs/definitions/part/plastic-pipe)|Part|4|
+|[Plastic tubing](/docs/definitions/part/plastic-tubing)|Part|3|
+|[Power cable](/docs/definitions/part/power-cable)|Part|1|
+|[Steel pipe](/docs/definitions/part/steel-pipe)|Part|3|
 |[Valve](/docs/definitions/part/valve)|Part|5|
 |[Window](/docs/definitions/part/window)|Part|2|
-|[Wire Connector](/docs/definitions/part/wire-connector)|Part|10|
+|[Wire connector](/docs/definitions/part/wire-connector)|Part|10|
 
 
 
 
-{{< definition-tail version="3.9.0" generatedOn="2025-03-08T21:34:45.1684317" >}}
+{{< definition-tail version="3.10.0" generatedOn="2025-10-09T21:45:01.8754429" >}}
 

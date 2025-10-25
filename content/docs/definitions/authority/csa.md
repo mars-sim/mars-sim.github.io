@@ -17,7 +17,7 @@ Canadian Space Agency
 |Objective:|Develop proven construction methods for erecting terrestrial-based communication stations|
 |Findings:|Identify components and computational tools critical for technological breakthrough|
 
-## Targets
+## Goals
 
 Analyze gravity and atmospheric variability for deploying laser communication array
 
@@ -30,5 +30,5 @@ Analyze gravity and atmospheric variability for deploying laser communication ar
 * Canada
 
 
-{{< definition-tail version="3.9.0" generatedOn="2025-03-08T21:34:45.1684317" >}}
+{{< definition-tail version="3.10.0" generatedOn="2025-10-09T21:45:01.8754429" >}}
 

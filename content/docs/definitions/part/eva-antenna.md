@@ -1,6 +1,6 @@
 ---
-title: Part - EVA Antenna
-linkTitle: EVA Antenna
+title: Part - EVA antenna
+linkTitle: EVA antenna
 toc_hide: true
 hide_summary: true
 ---
@@ -19,15 +19,16 @@ no description available.
 ## Made by Manufacturing Process
 
 - [Make EVA antenna](/docs/definitions/process/make-eva-antenna)
-- [Make EVA antenna with Polycarbonate Resin](/docs/definitions/process/make-eva-antenna-with-polycarbonate-resin)
+- [Make EVA antenna with Polycarbonate resin](/docs/definitions/process/make-eva-antenna-with-polycarbonate-resin)
 
 ## Used by Manufacturing Process
 
+- [Assemble a RepairBot](/docs/definitions/process/assemble-a-repairbot)
 - [Assemble EVA suit](/docs/definitions/process/assemble-eva-suit)
 
 
 
-{{< definition-tail version="3.9.0" generatedOn="2025-03-08T21:34:45.1684317" >}}
+{{< definition-tail version="3.10.0" generatedOn="2025-10-09T21:45:01.8754429" >}}
 
 
 

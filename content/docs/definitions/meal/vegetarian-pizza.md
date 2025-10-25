@@ -11,7 +11,7 @@ hide_summary: true
 
 | Attribute   | Value |
 |--------:|:------|
-|Category:|Main Dish|
+|Category:|MAIN|
 |Oil:|0.1 kg|
 |Salt:|0.01 kg|
 
@@ -23,11 +23,12 @@ hide_summary: true
 |[Green Bell Pepper](/docs/definitions/resource/green-bell-pepper)|0.1|
 |[Tomato](/docs/definitions/resource/tomato)|0.05|
 |[White onion](/docs/definitions/resource/white-onion)|0.1|
+|[Dandelion](/docs/definitions/resource/dandelion)|0.05|
 |[Morel Mushroom](/docs/definitions/resource/morel-mushroom)|0.05|
-|[Leaves](/docs/definitions/resource/leaves)|0.2|
+|[Leaves](/docs/definitions/resource/leaves)|0.15|
 
 
 
 
-{{< definition-tail version="3.9.0" generatedOn="2025-03-08T21:34:45.1684317" >}}
+{{< definition-tail version="3.10.0" generatedOn="2025-10-09T21:45:01.8754429" >}}
 

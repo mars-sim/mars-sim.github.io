@@ -26,17 +26,17 @@ hide_summary: true
 ### Parts
 |Part|Number|Default Probability|
 |---|---|---|
-|[Carbon Dioxide pump](/docs/definitions/part/carbon-dioxide-pump)|3|5.0|
-|[Electrical Wire](/docs/definitions/part/electrical-wire)|3|20.0|
-|[Fiberglass Cloth](/docs/definitions/part/fiberglass-cloth)|3|5.0|
+|[Carbon dioxide pump](/docs/definitions/part/carbon-dioxide-pump)|3|5.0|
+|[Electrical wire](/docs/definitions/part/electrical-wire)|3|20.0|
+|[Fiberglass cloth](/docs/definitions/part/fiberglass-cloth)|3|5.0|
 |[Gasket](/docs/definitions/part/gasket)|10|5.0|
-|[Heating Element](/docs/definitions/part/heating-element)|3|10.0|
-|[Mushroom Containment kit](/docs/definitions/part/mushroom-containment-kit)|1|5.0|
+|[Heating element](/docs/definitions/part/heating-element)|3|10.0|
+|[Mushroom containment kit](/docs/definitions/part/mushroom-containment-kit)|1|5.0|
 |[Oxygen pump](/docs/definitions/part/oxygen-pump)|3|5.0|
-|[Plastic Tubing](/docs/definitions/part/plastic-tubing)|10|10.0|
+|[Plastic tubing](/docs/definitions/part/plastic-tubing)|10|10.0|
 |[Valve](/docs/definitions/part/valve)|10|5.0|
-|[Water Pump small](/docs/definitions/part/water-pump-small)|3|10.0|
-|[Wire Connector](/docs/definitions/part/wire-connector)|6|20.0|
+|[Water pump small](/docs/definitions/part/water-pump-small)|3|10.0|
+|[Wire connector](/docs/definitions/part/wire-connector)|6|20.0|
 |[Work gloves](/docs/definitions/part/work-gloves)|1|10.0|
 
 ## Impacts
@@ -50,5 +50,5 @@ hide_summary: true
 |---|---|
 
 
-{{< definition-tail version="3.9.0" generatedOn="2025-03-08T21:34:45.1684317" >}}
+{{< definition-tail version="3.10.0" generatedOn="2025-10-09T21:45:01.8754429" >}}
 

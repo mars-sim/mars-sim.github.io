@@ -1,6 +1,6 @@
 ---
-title: Part - Steel Pipe
-linkTitle: Steel Pipe
+title: Part - Steel pipe
+linkTitle: Steel pipe
 toc_hide: true
 hide_summary: true
 ---
@@ -34,7 +34,7 @@ A density of 7.8 g/cm3. length of 1m. Thickness of 2mm. Diameter of 20mm
 
 
 
-{{< definition-tail version="3.9.0" generatedOn="2025-03-08T21:34:45.1684317" >}}
+{{< definition-tail version="3.10.0" generatedOn="2025-10-09T21:45:01.8754429" >}}
 
 
 

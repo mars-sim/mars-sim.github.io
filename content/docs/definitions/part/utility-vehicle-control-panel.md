@@ -1,6 +1,6 @@
 ---
-title: Part - Utility Vehicle Control Panel
-linkTitle: Utility Vehicle Control Panel
+title: Part - Utility vehicle control panel
+linkTitle: Utility vehicle control panel
 toc_hide: true
 hide_summary: true
 ---
@@ -19,7 +19,7 @@ no description available.
 ## Made by Manufacturing Process
 
 - [Manufacture utility vehicle control panel](/docs/definitions/process/manufacture-utility-vehicle-control-panel)
-- [Manufacture utility vehicle control panel with Polycarbonate Resin](/docs/definitions/process/manufacture-utility-vehicle-control-panel-with-polycarbonate-resin)
+- [Manufacture utility vehicle control panel with Polycarbonate resin](/docs/definitions/process/manufacture-utility-vehicle-control-panel-with-polycarbonate-resin)
 - [Manufacture utility vehicle control panel with Polypropylene](/docs/definitions/process/manufacture-utility-vehicle-control-panel-with-polypropylene)
 
 ## Used by Manufacturing Process
@@ -28,7 +28,7 @@ no description available.
 
 
 
-{{< definition-tail version="3.9.0" generatedOn="2025-03-08T21:34:45.1684317" >}}
+{{< definition-tail version="3.10.0" generatedOn="2025-10-09T21:45:01.8754429" >}}
 
 
 

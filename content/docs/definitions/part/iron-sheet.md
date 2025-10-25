@@ -1,6 +1,6 @@
 ---
-title: Part - Iron Sheet
-linkTitle: Iron Sheet
+title: Part - Iron sheet
+linkTitle: Iron sheet
 toc_hide: true
 hide_summary: true
 ---
@@ -25,7 +25,10 @@ A density of 7.85 g/cm3. 1m x 1m x 1mm sheet of iron
 
 - [Make iron pipe](/docs/definitions/process/make-iron-pipe)
 - [Manufacture turbine generator](/docs/definitions/process/manufacture-turbine-generator)
-- [Manufacture Stepper Motor](/docs/definitions/process/manufacture-stepper-motor)
+- [Make Bot Head](/docs/definitions/process/make-bot-head)
+- [Make Bot Torso](/docs/definitions/process/make-bot-torso)
+- [Make Bot Arm](/docs/definitions/process/make-bot-arm)
+- [Make Bot Leg](/docs/definitions/process/make-bot-leg)
 - [Manufacture 5 kW Motor](/docs/definitions/process/manufacture-5-kw-motor)
 - [Manufacture 10 kW Motor](/docs/definitions/process/manufacture-10-kw-motor)
 - [Manufacture 30 kW Motor](/docs/definitions/process/manufacture-30-kw-motor)
@@ -35,7 +38,7 @@ A density of 7.85 g/cm3. 1m x 1m x 1mm sheet of iron
 
 
 
-{{< definition-tail version="3.9.0" generatedOn="2025-03-08T21:34:45.1684317" >}}
+{{< definition-tail version="3.10.0" generatedOn="2025-10-09T21:45:01.8754429" >}}
 
 
 

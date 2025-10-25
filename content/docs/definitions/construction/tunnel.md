@@ -19,16 +19,16 @@ hide_summary: true
 
 | Name | Type | Quantity |
 |:-----|:-----|-----:|
-|[Air Duct](/docs/definitions/part/air-duct)|Part|1|
-|[Electrical Wire](/docs/definitions/part/electrical-wire)|Part|3|
+|[Air duct](/docs/definitions/part/air-duct)|Part|1|
+|[Electrical wire](/docs/definitions/part/electrical-wire)|Part|3|
 |[Gasket](/docs/definitions/part/gasket)|Part|4|
-|[Plastic Bottle](/docs/definitions/part/plastic-bottle)|Part|15|
-|[Plastic Pipe](/docs/definitions/part/plastic-pipe)|Part|3|
+|[Plastic bottle](/docs/definitions/part/plastic-bottle)|Part|15|
+|[Plastic pipe](/docs/definitions/part/plastic-pipe)|Part|3|
 |[Valve](/docs/definitions/part/valve)|Part|4|
-|[Wire Connector](/docs/definitions/part/wire-connector)|Part|3|
+|[Wire connector](/docs/definitions/part/wire-connector)|Part|3|
 
 
 
 
-{{< definition-tail version="3.9.0" generatedOn="2025-03-08T21:34:45.1684317" >}}
+{{< definition-tail version="3.10.0" generatedOn="2025-10-09T21:45:01.8754429" >}}
 

@@ -1,6 +1,6 @@
 ---
-title: Manufacturing Process - Fabricate turbine blade with Polycarbonate Resin
-linkTitle: Fabricate turbine blade with Polycarbonate Resin
+title: Manufacturing Process - Fabricate turbine blade with Polycarbonate resin
+linkTitle: Fabricate turbine blade with Polycarbonate resin
 toc_hide: true
 hide_summary: true
 ---
@@ -14,15 +14,16 @@ hide_summary: true
 |Type:|Manufacture|
 |Skill Level:|3|
 |Tech Level:|2|
-|Process Time:|200.0 millisols|
-|Work Level:|200.0 millisols|
+|Process Time:|50.0 millisols|
+|Tooling:|3D Printer|
+|Work Level:|50.0 millisols|
 |Power Required:|1.0 kW/hr|
 
 ## Inputs
 
 | Input      | Amount |
 |--------:|:------|
-|[Polycarbonate Resin](/docs/definitions/resource/polycarbonate-resin)|Resource|0.5 kg|
+|[Polycarbonate resin](/docs/definitions/resource/polycarbonate-resin)|Resource|0.5 kg|
 |[fiberglass](/docs/definitions/part/fiberglass)|Part|1|
 |[styrene](/docs/definitions/resource/styrene)|Resource|0.5 kg|
 
@@ -35,7 +36,7 @@ hide_summary: true
 
 
 
-{{< definition-tail version="3.9.0" generatedOn="2025-03-08T21:34:45.1684317" >}}
+{{< definition-tail version="3.10.0" generatedOn="2025-10-09T21:45:01.8754429" >}}
 
 
 

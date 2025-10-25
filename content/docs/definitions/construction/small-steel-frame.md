@@ -22,8 +22,8 @@ hide_summary: true
 |[Acetylene](/docs/definitions/resource/acetylene)|Resource|1.0 kg|
 |[Concrete](/docs/definitions/resource/concrete)|Resource|25.0 kg|
 |[Insulation board](/docs/definitions/part/insulation-board)|Part|4|
-|[Steel Sheet](/docs/definitions/part/steel-sheet)|Part|5|
-|[Steel Truss](/docs/definitions/part/steel-truss)|Part|10|
+|[Steel sheet](/docs/definitions/part/steel-sheet)|Part|5|
+|[Steel truss](/docs/definitions/part/steel-truss)|Part|10|
 
 ## Later Stages
 - [Methane Power Generator](/docs/definitions/construction/methane-power-generator)
@@ -31,5 +31,5 @@ hide_summary: true
 
 
 
-{{< definition-tail version="3.9.0" generatedOn="2025-03-08T21:34:45.1684317" >}}
+{{< definition-tail version="3.10.0" generatedOn="2025-10-09T21:45:01.8754429" >}}
 

@@ -34,11 +34,11 @@ hide_summary: true
 |[Flexible hose](/docs/definitions/part/flexible-hose)|2|10.0|
 |[Gasket](/docs/definitions/part/gasket)|1|20.0|
 |[Pathogen filter](/docs/definitions/part/pathogen-filter)|1|1.0|
-|[Plastic Bottle](/docs/definitions/part/plastic-bottle)|1|20.0|
-|[Plastic Pipe](/docs/definitions/part/plastic-pipe)|2|15.0|
-|[Plastic Tubing](/docs/definitions/part/plastic-tubing)|5|15.0|
+|[Plastic bottle](/docs/definitions/part/plastic-bottle)|1|20.0|
+|[Plastic pipe](/docs/definitions/part/plastic-pipe)|2|15.0|
+|[Plastic tubing](/docs/definitions/part/plastic-tubing)|5|15.0|
 |[Valve](/docs/definitions/part/valve)|1|20.0|
-|[Water Tank](/docs/definitions/part/water-tank)|2|10.0|
+|[Water tank](/docs/definitions/part/water-tank)|2|10.0|
 
 ## Impacts
 
@@ -52,5 +52,5 @@ hide_summary: true
 |---|---|
 
 
-{{< definition-tail version="3.9.0" generatedOn="2025-03-08T21:34:45.1684317" >}}
+{{< definition-tail version="3.10.0" generatedOn="2025-10-09T21:45:01.8754429" >}}
 

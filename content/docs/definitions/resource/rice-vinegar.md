@@ -18,6 +18,9 @@ Rice vinegar is more popular in the cuisines of East and Southeast Asia. It is
 |Form:|Liquid|
  
 
+## Used by Manufacturing Process
+
+- [Make cleaning agent with Rice vinegar](/docs/definitions/process/make-cleaning-agent-with-rice-vinegar)
 
 
 ## Made by Food Process
@@ -43,6 +46,6 @@ Rice vinegar is more popular in the cuisines of East and Southeast Asia. It is
 
 
 
-{{< definition-tail version="3.9.0" generatedOn="2025-03-08T21:34:45.1684317" >}}
+{{< definition-tail version="3.10.0" generatedOn="2025-10-09T21:45:01.8754429" >}}
 
 

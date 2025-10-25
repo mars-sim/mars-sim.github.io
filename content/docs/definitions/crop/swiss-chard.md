@@ -12,9 +12,9 @@ hide_summary: true
 |--------:|:------|
 |Category:|Leaves|
 |Produce:|[Swiss Chard](/docs/definitions/resource/swiss-chard)|
-|Growing Time:|65 sols|
-|Edible Biomass:|71.06 g per m2|
-|Inedible Biomass:|37.69 g per m2|
+|Growing Time:|17 sols|
+|Edible Biomass:|2.0 g per m2|
+|Inedible Biomass:|1.1 g per m2|
 |Light Demands:|17.28 PAR per sol|
 
 ## Phases
@@ -32,5 +32,5 @@ hide_summary: true
 |Finished|0.5|0.0|
 
 
-{{< definition-tail version="3.9.0" generatedOn="2025-03-08T21:34:45.1684317" >}}
+{{< definition-tail version="3.10.0" generatedOn="2025-10-09T21:45:01.8754429" >}}
 

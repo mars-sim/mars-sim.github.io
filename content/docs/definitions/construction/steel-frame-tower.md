@@ -22,13 +22,13 @@ hide_summary: true
 |[Acetylene](/docs/definitions/resource/acetylene)|Resource|1.0 kg|
 |[Concrete](/docs/definitions/resource/concrete)|Resource|25.0 kg|
 |[Insulation board](/docs/definitions/part/insulation-board)|Part|4|
-|[Steel Cable](/docs/definitions/part/steel-cable)|Part|6|
-|[Steel Truss](/docs/definitions/part/steel-truss)|Part|20|
+|[Steel cable](/docs/definitions/part/steel-cable)|Part|6|
+|[Steel truss](/docs/definitions/part/steel-truss)|Part|20|
 
 ## Later Stages
 - [Wind Turbine](/docs/definitions/construction/wind-turbine)
 
 
 
-{{< definition-tail version="3.9.0" generatedOn="2025-03-08T21:34:45.1684317" >}}
+{{< definition-tail version="3.10.0" generatedOn="2025-10-09T21:45:01.8754429" >}}
 

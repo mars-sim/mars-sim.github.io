@@ -14,7 +14,6 @@ hide_summary: true
 |Severity:|50|
 
 ## Systems Affected 
-- robot
 - rover
 
 ## Repair
@@ -27,12 +26,12 @@ hide_summary: true
 ### Parts
 |Part|Number|Default Probability|
 |---|---|---|
-|[Aluminum Wire](/docs/definitions/part/aluminum-wire)|2|20.0|
-|[Copper Wire](/docs/definitions/part/copper-wire)|2|20.0|
-|[Electrical Wire](/docs/definitions/part/electrical-wire)|2|25.0|
-|[Lubricant Bottle](/docs/definitions/part/lubricant-bottle)|1|20.0|
+|[Aluminum wire](/docs/definitions/part/aluminum-wire)|2|20.0|
+|[Copper wire](/docs/definitions/part/copper-wire)|2|20.0|
+|[Electrical wire](/docs/definitions/part/electrical-wire)|2|25.0|
+|[Lubricant bottle](/docs/definitions/part/lubricant-bottle)|1|20.0|
 |[Motor 30 kW](/docs/definitions/part/motor-30-kw)|1|5.0|
-|[Wire Connector](/docs/definitions/part/wire-connector)|2|25.0|
+|[Wire connector](/docs/definitions/part/wire-connector)|2|25.0|
 |[Work gloves](/docs/definitions/part/work-gloves)|1|10.0|
 
 ## Impacts
@@ -46,5 +45,5 @@ hide_summary: true
 |---|---|
 
 
-{{< definition-tail version="3.9.0" generatedOn="2025-03-08T21:34:45.1684317" >}}
+{{< definition-tail version="3.10.0" generatedOn="2025-10-09T21:45:01.8754429" >}}
 

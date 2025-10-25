@@ -20,14 +20,14 @@ hide_summary: true
 | Name | Type | Quantity |
 |:-----|:-----|-----:|
 |[Aerogel tile](/docs/definitions/part/aerogel-tile)|Part|16|
-|[Electrical Wire](/docs/definitions/part/electrical-wire)|Part|20|
-|[Power Cable](/docs/definitions/part/power-cable)|Part|2|
-|[Solar Panel](/docs/definitions/part/solar-panel)|Part|6|
-|[Stepper Motor](/docs/definitions/part/stepper-motor)|Part|4|
-|[Wire Connector](/docs/definitions/part/wire-connector)|Part|20|
+|[Electrical wire](/docs/definitions/part/electrical-wire)|Part|20|
+|[Power cable](/docs/definitions/part/power-cable)|Part|2|
+|[Solar panel](/docs/definitions/part/solar-panel)|Part|6|
+|[Stepper motor](/docs/definitions/part/stepper-motor)|Part|4|
+|[Wire connector](/docs/definitions/part/wire-connector)|Part|20|
 
 
 
 
-{{< definition-tail version="3.9.0" generatedOn="2025-03-08T21:34:45.1684317" >}}
+{{< definition-tail version="3.10.0" generatedOn="2025-10-09T21:45:01.8754429" >}}
 

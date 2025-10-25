@@ -13,8 +13,8 @@ hide_summary: true
 |Category:|Leaves|
 |Produce:|[Cabbage](/docs/definitions/resource/cabbage)|
 |Growing Time:|85 sols|
-|Edible Biomass:|75.78 g per m2|
-|Inedible Biomass:|6.74 g per m2|
+|Edible Biomass:|5.0 g per m2|
+|Inedible Biomass:|2.5 g per m2|
 |Light Demands:|17.28 PAR per sol|
 
 ## Phases
@@ -32,5 +32,5 @@ hide_summary: true
 |Finished|0.5|0.0|
 
 
-{{< definition-tail version="3.9.0" generatedOn="2025-03-08T21:34:45.1684317" >}}
+{{< definition-tail version="3.10.0" generatedOn="2025-10-09T21:45:01.8754429" >}}
 

@@ -13,7 +13,7 @@ hide_summary: true
 |Type:|FRAME|
 |Work Time:|1300.0|
 |Architectural Skill:|3|
-|PreReq:|[Deep Borehole Drilling Site](/docs/definitions/construction/deep-borehole-drilling-site)|
+|PreReq:|[Deep Borehole Large Drilling Site](/docs/definitions/construction/deep-borehole-large-drilling-site)|
 
 ## Resources
 
@@ -21,13 +21,13 @@ hide_summary: true
 |:-----|:-----|-----:|
 |[Acetylene](/docs/definitions/resource/acetylene)|Resource|1.0 kg|
 |[Concrete](/docs/definitions/resource/concrete)|Resource|150.0 kg|
-|[Steel Sheet](/docs/definitions/part/steel-sheet)|Part|30|
-|[Steel Truss](/docs/definitions/part/steel-truss)|Part|20|
+|[Steel sheet](/docs/definitions/part/steel-sheet)|Part|30|
+|[Steel truss](/docs/definitions/part/steel-truss)|Part|20|
 
 ## Later Stages
 - [Large Areothermal Well](/docs/definitions/construction/large-areothermal-well)
 
 
 
-{{< definition-tail version="3.9.0" generatedOn="2025-03-08T21:34:45.1684317" >}}
+{{< definition-tail version="3.10.0" generatedOn="2025-10-09T21:45:01.8754429" >}}
 

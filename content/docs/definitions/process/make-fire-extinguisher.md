@@ -14,19 +14,20 @@ hide_summary: true
 |Type:|Manufacture|
 |Skill Level:|1|
 |Tech Level:|2|
-|Process Time:|50.0 millisols|
-|Work Level:|100.0 millisols|
+|Process Time:|10.0 millisols|
+|Tooling:|3D Printer|
+|Work Level:|50.0 millisols|
 |Power Required:|0.1 kW/hr|
 
 ## Inputs
 
 | Input      | Amount |
 |--------:|:------|
-|[carbon dioxide](/docs/definitions/resource/carbon-dioxide)|Resource|10.0 kg|
-|[gasket](/docs/definitions/part/gasket)|Part|4|
+|[carbon dioxide](/docs/definitions/resource/carbon-dioxide)|Resource|3.0 kg|
+|[gasket](/docs/definitions/part/gasket)|Part|1|
 |[plastic tubing](/docs/definitions/part/plastic-tubing)|Part|1|
 |[steel canister](/docs/definitions/part/steel-canister)|Part|1|
-|[valve](/docs/definitions/part/valve)|Part|2|
+|[valve](/docs/definitions/part/valve)|Part|1|
 
 ## Products
 
@@ -37,7 +38,7 @@ hide_summary: true
 
 
 
-{{< definition-tail version="3.9.0" generatedOn="2025-03-08T21:34:45.1684317" >}}
+{{< definition-tail version="3.10.0" generatedOn="2025-10-09T21:45:01.8754429" >}}
 
 
 

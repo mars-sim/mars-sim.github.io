@@ -18,10 +18,10 @@ hide_summary: true
 ## Inputs
 | Name      | Input Rate (kg/sol) | Minimum kg | Ambient |
 |--------:|:------|-----:|:----|
-|[Cement](/docs/definitions/resource/cement)|34.0|0.002|false|
 |[Sand](/docs/definitions/resource/sand)|60.0|0.003|false|
 |[Water](/docs/definitions/resource/water)|5.0|0.0|false|
-|[Polyethylene](/docs/definitions/resource/polyethylene)|1.0|0.0|false|
+|[Cement](/docs/definitions/resource/cement)|34.0|0.002|false|
+|[Polyethylene](/docs/definitions/resource/polyethylene)|0.5|0.0|false|
 
 Ambient inputs are consumed from the environment.
 
@@ -33,7 +33,7 @@ Ambient inputs are consumed from the environment.
 Waste outputs are released into the environment and do not need to be stored.
 
 
-{{< definition-tail version="3.9.0" generatedOn="2025-03-08T21:34:45.1684317" >}}
+{{< definition-tail version="3.10.0" generatedOn="2025-10-09T21:45:01.8754429" >}}
 
 
 

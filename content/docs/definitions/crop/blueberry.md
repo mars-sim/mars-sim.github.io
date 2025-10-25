@@ -12,9 +12,9 @@ hide_summary: true
 |--------:|:------|
 |Category:|Fruits|
 |Produce:|[Blueberry](/docs/definitions/resource/blueberry)|
-|Growing Time:|200 sols|
-|Edible Biomass:|14.0 g per m2|
-|Inedible Biomass:|200.0 g per m2|
+|Growing Time:|300 sols|
+|Edible Biomass:|1.5 g per m2|
+|Inedible Biomass:|7.5 g per m2|
 |Light Demands:|25.92 PAR per sol|
 
 ## Phases
@@ -32,5 +32,5 @@ hide_summary: true
 |Finished|0.5|0.0|
 
 
-{{< definition-tail version="3.9.0" generatedOn="2025-03-08T21:34:45.1684317" >}}
+{{< definition-tail version="3.10.0" generatedOn="2025-10-09T21:45:01.8754429" >}}
 

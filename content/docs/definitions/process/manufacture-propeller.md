@@ -15,6 +15,7 @@ hide_summary: true
 |Skill Level:|3|
 |Tech Level:|2|
 |Process Time:|120.0 millisols|
+|Tooling:|3D Printer|
 |Work Level:|80.0 millisols|
 |Power Required:|0.3 kW/hr|
 
@@ -22,7 +23,7 @@ hide_summary: true
 
 | Input      | Amount |
 |--------:|:------|
-|[Polycarbonate Resin](/docs/definitions/resource/polycarbonate-resin)|Resource|1.5 kg|
+|[Polycarbonate resin](/docs/definitions/resource/polycarbonate-resin)|Resource|1.0 kg|
 |[iron powder](/docs/definitions/resource/iron-powder)|Resource|0.25 kg|
 |[titanium](/docs/definitions/resource/titanium)|Resource|0.25 kg|
 
@@ -31,11 +32,11 @@ hide_summary: true
 
 | Produce      | Amount |
 |--------:|:------|
-|[propeller](/docs/definitions/part/propeller)|1|
+|[propeller](/docs/definitions/part/propeller)|2|
 
 
 
-{{< definition-tail version="3.9.0" generatedOn="2025-03-08T21:34:45.1684317" >}}
+{{< definition-tail version="3.10.0" generatedOn="2025-10-09T21:45:01.8754429" >}}
 
 
 

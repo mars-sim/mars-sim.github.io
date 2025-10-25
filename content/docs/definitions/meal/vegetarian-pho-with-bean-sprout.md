@@ -11,7 +11,7 @@ hide_summary: true
 
 | Attribute   | Value |
 |--------:|:------|
-|Category:|Main Dish|
+|Category:|MAIN|
 |Oil:|0.05 kg|
 |Salt:|0.01 kg|
 
@@ -23,11 +23,12 @@ hide_summary: true
 |[Ginger](/docs/definitions/resource/ginger)|0.1|
 |[Rice vinegar](/docs/definitions/resource/rice-vinegar)|0.045|
 |[Soy sprout](/docs/definitions/resource/soy-sprout)|0.2|
-|[Leaves](/docs/definitions/resource/leaves)|0.2|
+|[Dandelion](/docs/definitions/resource/dandelion)|0.05|
+|[Leaves](/docs/definitions/resource/leaves)|0.15|
 |[Miso](/docs/definitions/resource/miso)|0.005|
 
 
 
 
-{{< definition-tail version="3.9.0" generatedOn="2025-03-08T21:34:45.1684317" >}}
+{{< definition-tail version="3.10.0" generatedOn="2025-10-09T21:45:01.8754429" >}}
 

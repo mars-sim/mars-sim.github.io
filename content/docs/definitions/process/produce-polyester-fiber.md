@@ -17,6 +17,7 @@ hide_summary: true
 |Skill Level:|1|
 |Tech Level:|2|
 |Process Time:|40.0 millisols|
+|Tooling:|Chemical|
 |Work Level:|10.0 millisols|
 |Power Required:|0.05 kW/hr|
 
@@ -24,20 +25,20 @@ hide_summary: true
 
 | Input      | Amount |
 |--------:|:------|
-|[Dimethyl Terephthalate](/docs/definitions/resource/dimethyl-terephthalate)|Resource|19.4 kg|
-|[Ethylene Glycol](/docs/definitions/resource/ethylene-glycol)|Resource|6.2 kg|
+|[Dimethyl terephthalate](/docs/definitions/resource/dimethyl-terephthalate)|Resource|19.4 kg|
+|[Ethylene glycol](/docs/definitions/resource/ethylene-glycol)|Resource|6.2 kg|
 
 ## Products
 
 
 | Produce      | Amount |
 |--------:|:------|
-|[Polyester Fiber](/docs/definitions/resource/polyester-fiber)|22.0 kg|
-|[water](/docs/definitions/resource/water)|3.6 kg|
+|[Polyester fiber](/docs/definitions/resource/polyester-fiber)|22.0 kg|
+|[Water](/docs/definitions/resource/water)|3.6 kg|
 
 
 
-{{< definition-tail version="3.9.0" generatedOn="2025-03-08T21:34:45.1684317" >}}
+{{< definition-tail version="3.10.0" generatedOn="2025-10-09T21:45:01.8754429" >}}
 
 
 

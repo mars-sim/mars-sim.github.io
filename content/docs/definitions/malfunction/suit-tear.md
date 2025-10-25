@@ -26,10 +26,10 @@ hide_summary: true
 ### Parts
 |Part|Number|Default Probability|
 |---|---|---|
-|[Airleak Patch](/docs/definitions/part/airleak-patch)|1|100.0|
+|[Airleak patch](/docs/definitions/part/airleak-patch)|1|100.0|
 |[Coveralls](/docs/definitions/part/coveralls)|1|10.0|
-|[EVA Pads](/docs/definitions/part/eva-pads)|1|10.0|
-|[Pressure Suit](/docs/definitions/part/pressure-suit)|1|10.0|
+|[EVA pads](/docs/definitions/part/eva-pads)|1|10.0|
+|[Pressure suit](/docs/definitions/part/pressure-suit)|1|10.0|
 
 ## Impacts
 
@@ -44,5 +44,5 @@ hide_summary: true
 |---|---|
 
 
-{{< definition-tail version="3.9.0" generatedOn="2025-03-08T21:34:45.1684317" >}}
+{{< definition-tail version="3.10.0" generatedOn="2025-10-09T21:45:01.8754429" >}}
 

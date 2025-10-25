@@ -21,16 +21,21 @@ For making vessels
 ## Used by Manufacturing Process
 
 - [Make helmet visor](/docs/definitions/process/make-helmet-visor)
+- [Fabricate solar panel](/docs/definitions/process/fabricate-solar-panel)
+- [Fabricate solar parabolic mirror](/docs/definitions/process/fabricate-solar-parabolic-mirror)
 - [Manufacture optical cable](/docs/definitions/process/manufacture-optical-cable)
 - [Manufacture helium neon laser](/docs/definitions/process/manufacture-helium-neon-laser)
 - [Make ceramic electrolyte](/docs/definitions/process/make-ceramic-electrolyte)
+- [Make ceramic electrolyte with Aluminum oxide](/docs/definitions/process/make-ceramic-electrolyte-with-aluminum-oxide)
 - [Make methane solid oxide fuel cells](/docs/definitions/process/make-methane-solid-oxide-fuel-cells)
+- [Make methane solid oxide fuel cells with Aluminum oxide](/docs/definitions/process/make-methane-solid-oxide-fuel-cells-with-aluminum-oxide)
 - [Make methanol fuel cells](/docs/definitions/process/make-methanol-fuel-cells)
+- [Make methanol fuel cells with Aluminum oxide](/docs/definitions/process/make-methanol-fuel-cells-with-aluminum-oxide)
 
 
     
 
 
-{{< definition-tail version="3.9.0" generatedOn="2025-03-08T21:34:45.1684317" >}}
+{{< definition-tail version="3.10.0" generatedOn="2025-10-09T21:45:01.8754429" >}}
 
 

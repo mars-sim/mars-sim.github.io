@@ -27,9 +27,9 @@ hide_summary: true
 |Part|Number|Default Probability|
 |---|---|---|
 |[Heat pipe](/docs/definitions/part/heat-pipe)|1|5.0|
-|[Plastic Bottle](/docs/definitions/part/plastic-bottle)|1|10.0|
-|[Plastic Tubing](/docs/definitions/part/plastic-tubing)|2|10.0|
-|[Steel Wire](/docs/definitions/part/steel-wire)|1|20.0|
+|[Plastic bottle](/docs/definitions/part/plastic-bottle)|1|10.0|
+|[Plastic tubing](/docs/definitions/part/plastic-tubing)|2|10.0|
+|[Steel wire](/docs/definitions/part/steel-wire)|1|20.0|
 |[Valve](/docs/definitions/part/valve)|1|10.0|
 |[Wheel small](/docs/definitions/part/wheel-small)|1|20.0|
 |[Work gloves](/docs/definitions/part/work-gloves)|1|10.0|
@@ -45,5 +45,5 @@ hide_summary: true
 |---|---|
 
 
-{{< definition-tail version="3.9.0" generatedOn="2025-03-08T21:34:45.1684317" >}}
+{{< definition-tail version="3.10.0" generatedOn="2025-10-09T21:45:01.8754429" >}}
 

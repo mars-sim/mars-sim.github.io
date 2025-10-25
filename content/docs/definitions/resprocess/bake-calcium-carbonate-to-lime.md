@@ -25,13 +25,13 @@ Ambient inputs are consumed from the environment.
 ## Outputs
 | Name      | Output Rate (kg/sol) | Waste Output |
 |--------:|:------|-----:|:----|
-|[Lime](/docs/definitions/resource/lime)|27.8|false|
 |[Carbon dioxide](/docs/definitions/resource/carbon-dioxide)|21.8|false|
+|[Lime](/docs/definitions/resource/lime)|27.8|false|
 
 Waste outputs are released into the environment and do not need to be stored.
 
 
-{{< definition-tail version="3.9.0" generatedOn="2025-03-08T21:34:45.1684317" >}}
+{{< definition-tail version="3.10.0" generatedOn="2025-10-09T21:45:01.8754429" >}}
 
 
 

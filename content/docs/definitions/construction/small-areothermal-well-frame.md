@@ -21,13 +21,13 @@ hide_summary: true
 |:-----|:-----|-----:|
 |[Acetylene](/docs/definitions/resource/acetylene)|Resource|0.5 kg|
 |[Concrete](/docs/definitions/resource/concrete)|Resource|50.0 kg|
-|[Steel Sheet](/docs/definitions/part/steel-sheet)|Part|15|
-|[Steel Truss](/docs/definitions/part/steel-truss)|Part|10|
+|[Steel sheet](/docs/definitions/part/steel-sheet)|Part|15|
+|[Steel truss](/docs/definitions/part/steel-truss)|Part|10|
 
 ## Later Stages
 - [Small Areothermal Well](/docs/definitions/construction/small-areothermal-well)
 
 
 
-{{< definition-tail version="3.9.0" generatedOn="2025-03-08T21:34:45.1684317" >}}
+{{< definition-tail version="3.10.0" generatedOn="2025-10-09T21:45:01.8754429" >}}
 
