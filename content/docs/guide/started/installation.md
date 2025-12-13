@@ -4,20 +4,35 @@ description: Details of installation procedure
 weight: 10
 ---
 
-## Prerequisites
+There are two installation packages available for the Simulation.
+
+- Windows MSI File
+- ZIP file
+
+## Windows MSI
+
+This approach provides a shrink wrapped installation of the UI application. It does not contain the headless server version. This can be downloaded from Assets section in [Releases](https://github.com/mars-sim/mars-sim/releases) as a MSI file that is applicable for a Windows installation.
+
+This has no prerequisites.
+
+## ZIP File
+
+This approach is more complex but provides a wider range of options. Command lines arguments can be used.
+
+### Prerequisites
 
 Currently, mars-sim supports Java 21 which is a LTS (Long Term Support release). Requires only JRE 21 for running mars-sim. See [JDK21](https://jdk.java.net/java-se-ri/21)
 
 The application supports Windows or Linux. MacOS is supported but not via a command script; Java must be called directly.
 
-## Applications
+### Applications
 
 The installation consists of 2 application:
 
 - A UI application based on Java Swing
 - A headless server version that can be accessed remotely via an SSH interface.
 
-## Installation Process
+### Installation Process
 
 The installation process is simple requiring command line access.
 
