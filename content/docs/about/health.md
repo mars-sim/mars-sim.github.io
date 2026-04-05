@@ -8,20 +8,20 @@ mars-sim simulates realistic scenarios in which settler will cope with accidents
 
 A person's overall health status may be reported as being well or being sick (such as Suffocating, Recovering from Anxiety Attack/Flu/Pulled Muscle, and Death, etc..)
 
-In version 3.1.0, a radiation exposure modeling based on NASA's studies has been partially implemented to make it realistic. There are 3 possible type of radiation events: 
-(A) Baseline 
-(B) Galactic Cosmic Radiation (GCR) 
-(C) Solar Energetic Event (SEP) 
+In version 3.1.0, a radiation exposure modeling based on NASA's studies has been partially implemented to make it realistic. There are 3 possible type of radiation events : 
+1. Baseline 
+2. Galactic Cosmic Radiation (GCR) 
+3. Solar Energetic Event (SEP) 
 
-Each with different level of radiation with SEP the highest level of exposure. The 3 body regions where the exposure are to be tracked:  
-(1) Blood Forming Organ (BFO) 
-(2) Ocular 
-(3) Ski 
+Each with different level of radiation with SEP the highest level of exposure. The 3 body regions where the exposure are to be tracked :  
+1. Blood Forming Organ (BFO)
+2. Ocular 
+3. Ski 
 
-In our modeling, there are 3 intervals (or counters) for the exposure: 
-(1) 30 days 
-(2) Annual 
-(3) Career
+In our modeling, there are 3 intervals (or counters) for the exposure : 
+1. 30 days 
+2. Annual 
+3. Career
 
 In case of BFO, the max limits are set to be 250 mSV for 30 days, 500 mSV for Annual and 1000 mSV for Career.
 
