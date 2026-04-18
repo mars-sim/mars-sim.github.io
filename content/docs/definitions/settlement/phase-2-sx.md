@@ -220,6 +220,7 @@ Phase 2 circular base for SpaceX
 |[Light Utility Vehicle](/docs/definitions/vehicle/light-utility-vehicle)|1|
    
 
+
 ## Robots
 
 | Name      | Type | Model |
@@ -236,5 +237,5 @@ Phase 2 circular base for SpaceX
 |Annual Delivery|668|[Resupply for Phase 2](/docs/definitions/manifest/resupply-for-phase-2)|-1|
     
 
-{{< definition-tail version="3.10.0" generatedOn="2025-10-09T21:45:01.8754429" >}}
+{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
 

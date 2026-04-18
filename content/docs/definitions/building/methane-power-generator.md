@@ -35,5 +35,5 @@ This 30 kW Methane Power generator uses methane gas for generating&#10;electrici
 
 
 
-{{< definition-tail version="3.10.0" generatedOn="2025-10-09T21:45:01.8754429" >}}
+{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
 

@@ -37,5 +37,5 @@ Total storage: 1000.0 kg
 |[Oxygen](/docs/definitions/resource/oxygen)|225.0|
 
 
-{{< definition-tail version="3.10.0" generatedOn="2025-10-09T21:54:51.2053482" >}}
+{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
 
