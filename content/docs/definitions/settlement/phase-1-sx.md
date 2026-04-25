@@ -28,6 +28,7 @@ Phase 1 base for Space X
 |Cement Storage 1|[Cement Storage](/docs/definitions/building/cement-storage)|
 |Chemical Storage 1|[Chemical Storage](/docs/definitions/building/chemical-storage)|
 |Concrete Storage 1|[Concrete Storage](/docs/definitions/building/concrete-storage)|
+|Core C 1|[Core C](/docs/definitions/building/core-c)|
 |Corridor 3x9 1|[Corridor 3x9](/docs/definitions/building/corridor-3x9)|
 |ERV-A 1|[ERV-A](/docs/definitions/building/erv-a)|
 |ERV-B 1|[ERV-B](/docs/definitions/building/erv-b)|
@@ -46,7 +47,6 @@ Phase 1 base for Space X
 |Lander Hab 1|[Lander Hab](/docs/definitions/building/lander-hab)|
 |Large Sabatier Processor 1|[Large Sabatier Processor](/docs/definitions/building/large-sabatier-processor)|
 |Lime Storage 1|[Lime Storage](/docs/definitions/building/lime-storage)|
-|Match Core C 1|[Match Core C](/docs/definitions/building/match-core-c)|
 |Medium Battery Array 1|[Medium Battery Array](/docs/definitions/building/medium-battery-array)|
 |Medium Battery Array 2|[Medium Battery Array](/docs/definitions/building/medium-battery-array)|
 |Medium Battery Array 3|[Medium Battery Array](/docs/definitions/building/medium-battery-array)|
@@ -209,6 +209,7 @@ Phase 1 base for Space X
 |[Light Utility Vehicle](/docs/definitions/vehicle/light-utility-vehicle)|1|
    
 
+
 ## Robots
 
 | Name      | Type | Model |
@@ -225,5 +226,5 @@ Phase 1 base for Space X
 |Phase 1 Delivery|668|[Resupply for Phase 1](/docs/definitions/manifest/resupply-for-phase-1)|-1|
     
 
-{{< definition-tail version="3.10.0" generatedOn="2025-10-09T21:45:01.8754429" >}}
+{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
 

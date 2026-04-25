@@ -60,6 +60,7 @@ Large Base
 |Fuel Storage 3|[Fuel Storage](/docs/definitions/building/fuel-storage)|
 |Fuel Storage 4|[Fuel Storage](/docs/definitions/building/fuel-storage)|
 |Garage 1|[Garage](/docs/definitions/building/garage)|
+|Garage 2|[Garage](/docs/definitions/building/garage)|
 |Gas Storage 1|[Gas Storage](/docs/definitions/building/gas-storage)|
 |Gas Storage 2|[Gas Storage](/docs/definitions/building/gas-storage)|
 |Gas Storage 3|[Gas Storage](/docs/definitions/building/gas-storage)|
@@ -69,6 +70,7 @@ Large Base
 |Hallway 11|[Hallway](/docs/definitions/building/hallway)|
 |Hallway 12|[Hallway](/docs/definitions/building/hallway)|
 |Hallway 13|[Hallway](/docs/definitions/building/hallway)|
+|Hallway 14|[Hallway](/docs/definitions/building/hallway)|
 |Hallway 2|[Hallway](/docs/definitions/building/hallway)|
 |Hallway 3|[Hallway](/docs/definitions/building/hallway)|
 |Hallway 4|[Hallway](/docs/definitions/building/hallway)|
@@ -307,6 +309,13 @@ Large Base
 |[Transport Rover](/docs/definitions/vehicle/transport-rover)|2|
    
 
+## Building Plans
+
+| Building Type      | Sols Until Built |
+|--------:|-------:|
+|[Inflatable Greenhouse](/docs/definitions/building/inflatable-greenhouse)|30|
+|[Manufacturing Workshop](/docs/definitions/building/manufacturing-workshop)|60|
+
 ## Robots
 
 | Name      | Type | Model |
@@ -323,5 +332,5 @@ Large Base
 |Scale up Delivery|300|[Resupply for Phase 3](/docs/definitions/manifest/resupply-for-phase-3)|-1|
     
 
-{{< definition-tail version="3.10.0" generatedOn="2025-10-09T21:45:01.8754429" >}}
+{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
 

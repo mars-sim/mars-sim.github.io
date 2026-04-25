@@ -27,36 +27,35 @@ Start commands are:
 * bin/mars-sim-console 		- Linux start script for the Console headless variant
 * bin/mars-sim-console.cmd 	- Window start script for the Console headless variant
 
-
+The command line options available are:
 ```
-Common command line arguments are:
- -baseurl <URL to remote content>    URL to the remote content repository
-                                     (defaults to master in GitHub)
- -configdir <directory>              Directory for configurations files
- -datadir <path to data directory>   Path to the data directory for
-                                     simulation files (defaults to user.home)
- -diags <<module>,<module>.....>     Enable diagnostics modules
- -help                               Display help options
- -load <path to simulation file>     Load the a previously saved sim.
-                                     No argument open file selection dialog.
-                                     'default' will use default
- -location <coordinates>             Set the coordinates of the new template Settlement
- -log <logfile [size K|M|G:count]>   Enable logging to a logfile sequence with an optional size per file
- -new                                Enable quick start
- -scenario <scenario name>           New simulation from a scenario
-
- -sponsor <sponsor>                  Set the sponsor for the settlement template
- -template <template name>           New simulation from a template
- -timeratio <Ratio (power of 2)>     Define the time ratio of the
-                                     simulation
-Swing variant arguments
- -cleanui                            Disable loading stored UI configurations
- -noaudio                            Disable the audio
- -profile                            Set up the Commander Profile
- -site                               Start the Scenario Editor
- 
-Console variant arguments
- -noremote                           Do not start a remote console service
- -remote <port number>               Run the remote console service [default]
- -resetadmin                         Reset the internal admin password
+              Options                               Description
+ -configdir <directory>                 Directory for configurations
+ -log <Log file [size K|M|G:count]>     Enable file logging
+ -timeratio <Ratio (power of 2)>        Define the time ratio of the
+                                         simulation
+ -datadir <path to data directory>      Path to the data directory for
+                                         simulation files (defaults to
+                                         user.home)
+ -baseurl <URL to remote content>       URL to the remote content
+                                         repository (defaults to master in
+                                         GitHub)
+ -new                                   Enable quick start
+ -scenario <scenario name>              New simulation from a scenario
+ -template <template name>              New simulation from a template
+ -sponsor <sponsor>                     Set the sponsor for the settlement
+                                         template
+ -location <coordinates>                Set the coordinates of the new     
+                                         template Settlement
+ -crew <true|false>                     Enable or disable use of the crews
+ -diags <<module>,<module>.....>        Enable diagnositics modules
+ -help                                  Display help options
+ -noaudio                               Disable the audio
+ -cleanui                               Disable loading stored UI
+                                         configurations
+ -dockingui                             Enable the docking UI
+ -debugui                               Enable debug UI
+ -site                                  Start the Scenario Editor
+ -load <path to simulation file>        Load the a previously saved sim. No
+                                         argument default will be used.
 ```

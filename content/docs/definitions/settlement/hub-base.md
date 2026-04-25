@@ -297,6 +297,7 @@ Base With Central Hub
 |[Transport Rover](/docs/definitions/vehicle/transport-rover)|3|
    
 
+
 ## Robots
 
 | Name      | Type | Model |
@@ -312,5 +313,5 @@ Base With Central Hub
 |Food Delivery|30|[Food Resupply 1](/docs/definitions/manifest/food-resupply-1)|62|
     
 
-{{< definition-tail version="3.10.0" generatedOn="2025-10-09T21:45:01.8754429" >}}
+{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
 

@@ -23,7 +23,7 @@ Default Scenario
 |New Seoul|[KASA](/docs/definitions/authority/kasa)|[Phase 2-KR](/docs/definitions/settlement/phase-2-kr)|14|8|40.4244 N 105.8939 W|[](/docs/definitions/crew/)|
 |Tian Cheng|[ISRA](/docs/definitions/authority/isra)|[Phase 3-ISRA](/docs/definitions/settlement/phase-3-isra)|16|8|9.6800 N 24.5700 E|[](/docs/definitions/crew/)|
 |New Pompeii|[ISRO](/docs/definitions/authority/isro)|[Phase 3-IN](/docs/definitions/settlement/phase-3-in)|16|8|26.3650 N 70.9710 W|[](/docs/definitions/crew/)|
-|Star Base|[SPACEX](/docs/definitions/authority/spacex)|[Phase 3-SX](/docs/definitions/settlement/phase-3-sx)|16|8|39.8000 N 157.9000 W|[](/docs/definitions/crew/)|
+|Star Base|[SPACEX](/docs/definitions/authority/spacex)|[Phase 3-SX](/docs/definitions/settlement/phase-3-sx)|16|8|35.2300 N 163.9500 E|[](/docs/definitions/crew/)|
 |Wernher-von-Braun-Station|[DLR](/docs/definitions/authority/dlr)|[Phase 1-DE](/docs/definitions/settlement/phase-1-de)|8|8|17.3983 N 81.9044 E|[](/docs/definitions/crew/)|
 |Korolev|[RKA](/docs/definitions/authority/rka)|[Alpha Base 1](/docs/definitions/settlement/alpha-base-1)|44|24|72.7700 N 164.5800 E|[](/docs/definitions/crew/)|
 |Terminus|[NASA](/docs/definitions/authority/nasa)|[Alpha Base 2](/docs/definitions/settlement/alpha-base-2)|36|18|4.8051 S 0.0000 E|[Alpha](/docs/definitions/crew/alpha)|
@@ -43,5 +43,5 @@ Default Scenario
 
 
 
-{{< definition-tail version="3.10.0" generatedOn="2025-10-09T21:45:01.8754429" >}}
+{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
 
