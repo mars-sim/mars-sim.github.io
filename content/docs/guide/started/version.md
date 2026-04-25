@@ -4,6 +4,37 @@ linktitle: Version
 description: History of the MarsSim releases
 weight: 50
 ---
+
+## Version 4.0 (Apr 2026)
+
+### A. CORE ENGINE IMPROVEMENTS
+
+- Expand the creation of Historical Events.	
+- Create a BuildingPlan in the Settlement Template that defines future Building construction.
+- Lunar Colonies are controlled by the Scenario Template.
+- Create a single framework for Event/Listener pattern for all Entity implementations.
+- Create a Governance class to consolidate governance-related functionalities for Settlements.
+    
+### B. UI IMPROVEMENT
+
+- Major redesign of the UI framework to support better expansion and customization.
+- New entity window to show details of a Mission.
+- New entity window to show details of a Scientific Study.
+- New entity window to show details of a Transportation Mission.
+- New entity window to show details of Tran Authority.
+- New Event Viewer tool to show a feed of recent events.
+- New Entity Browser tool to explore all entities.
+- New Console tool to replace the standalone console terminal.
+- New Mission & Transportation Creation wizard.
+- Removal of the old Mission, Scientific Study, and Transportation tools.
+- New audio control tool to manage music and sound effects.
+- Provide alternative windowing styles based on docking window, i.e. IDE.
+  
+### C. FIXES
+
+- Fix unit tests to be JUnit 5.
+
+
 ## Version 3.10.0 (Oct 2025)
 
 ### A. CORE ENGINE IMPROVEMENTS:
