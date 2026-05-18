@@ -1,6 +1,6 @@
 ---
-title: Mission Scenarios
-description: Introduction to the Missions
+title: Scenarios
+description: Introduction to Simulation Scenarios
 weight: 10
 ---
 
@@ -16,7 +16,7 @@ In the Main Menu, choose 'Customize Scenario' to open the Scenario Editor (also 
 
 By default, you are presented with numerous settlements, each having a predefined phase such as a Mars Direct Base Phase 1, Phase 2, Phase 3, Alpha Base, Hub Base, Sector Base, etc.. You are free to reconfigure this template.
 
-In version 3.1.0, users may designate a space agency (as a sponsor) for each settlement. Note that the names of the settler will be auto-generated to suit his/her national origin.
+Since version 3.1.0, users may designate a space agency (as a sponsor) for each settlement. Note that the names of the settler will be auto-generated to suit his/her national origin.
 
 In terms of resupply mission, for a Mars Direct Base Phase 1, the built-in resupply schedule will send one new mission each Martian year (668 or 669 sols) for the next 3 years to replenish existing settlements. 
 
