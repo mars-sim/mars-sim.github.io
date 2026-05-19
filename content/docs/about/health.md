@@ -4,11 +4,19 @@ description: Health and Radiation Modeling
 weight: 30
 ---
 
-mars-sim simulates realistic scenarios in which settler will cope with accidents of all kinds, illnesses, injuries and even death. Each settler has 4 critical health attributes reflecting the person's current physical conditions: Hunger, Fatigue, Stress and Performance level. 
+## HEALTH
 
-A person's overall health status may be reported as being well or being sick (such as Suffocating, Recovering from Anxiety Attack/Flu/Pulled Muscle, and Death, etc..)
+mars-sim simulates health concerns for each settler.
 
-In version 3.1.0, a radiation exposure modeling based on NASA's studies has been partially implemented to make it realistic. There are 3 possible type of radiation events : 
+Each settler has various health attributes reflecting a person's current physical conditions: Fatigue, Energy, Hunger, Thirst, Appetite, Stress, Performance level, 
+Muscle Health, Muslce Pain Tolerance, Muscle Soreness, Leptin and Ghrelin Level and Threshold.
+
+A settler has to cope with accidents of all kinds, illnesses, injuries and even death. See a list of [medical complaints](https://github.com/mars-sim/mars-sim/blob/master/mars-sim-core/src/main/resources/xml/medical.xml) conditions a settler may develop (such as Suffocating, Recovering from Anxiety Attack/Flu/Pulled Muscle, and Death, etc.).
+
+
+## RADIATION
+
+Beginning version 3.1.0, a radiation exposure modeling based on NASA's studies has been partially implemented to make it realistic. There are 3 possible type of radiation events : 
 1. Baseline 
 2. Galactic Cosmic Radiation (GCR) 
 3. Solar Energetic Event (SEP) 
