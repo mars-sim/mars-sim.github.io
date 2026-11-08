@@ -23,21 +23,17 @@ hide_summary: true
 |[Aluminum sheet](/docs/definitions/part/aluminum-sheet)|Part|10|
 |[Brick](/docs/definitions/part/brick)|Part|700|
 |[Concrete](/docs/definitions/resource/concrete)|Resource|50.0 kg|
-|[Electrical wire](/docs/definitions/part/electrical-wire)|Part|6|
 |[Gasket](/docs/definitions/part/gasket)|Part|5|
 |[Glass sheet](/docs/definitions/part/glass-sheet)|Part|10|
-|[Insulation board](/docs/definitions/part/insulation-board)|Part|10|
 |[Plastic pipe](/docs/definitions/part/plastic-pipe)|Part|7|
-|[Power cable](/docs/definitions/part/power-cable)|Part|3|
 |[Steel post](/docs/definitions/part/steel-post)|Part|4|
 |[Steel truss](/docs/definitions/part/steel-truss)|Part|8|
 |[Valve](/docs/definitions/part/valve)|Part|5|
-|[Wire connector](/docs/definitions/part/wire-connector)|Part|6|
 
 ## Later Stages
 - [Inground Greenhouse](/docs/definitions/construction/inground-greenhouse)
 
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 

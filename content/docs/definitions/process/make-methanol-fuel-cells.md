@@ -16,9 +16,9 @@ hide_summary: true
 |Type:|Manufacture|
 |Skill Level:|4|
 |Tech Level:|3|
-|Process Time:|50.0 millisols|
+|Process Time:|25.0 millisols|
 |Tooling:|Chemical|
-|Work Level:|200.0 millisols|
+|Work Level:|50.0 millisols|
 |Power Required:|1.0 kW/hr|
 
 ## Inputs
@@ -26,8 +26,8 @@ hide_summary: true
 | Input      | Amount |
 |--------:|:------|
 |[Aluminum](/docs/definitions/resource/aluminum)|Resource|0.5 kg|
+|[Glass](/docs/definitions/resource/glass)|Resource|0.1 kg|
 |[ceramic electrolyte](/docs/definitions/resource/ceramic-electrolyte)|Resource|0.6 kg|
-|[glass](/docs/definitions/resource/glass)|Resource|0.1 kg|
 |[iron powder](/docs/definitions/resource/iron-powder)|Resource|0.5 kg|
 |[lithium](/docs/definitions/resource/lithium)|Resource|0.025 kg|
 |[nickel](/docs/definitions/resource/nickel)|Resource|0.025 kg|
@@ -38,11 +38,11 @@ hide_summary: true
 
 | Produce      | Amount |
 |--------:|:------|
-|[methane fuel cell](/docs/definitions/part/methane-fuel-cell)|10|
+|[methanol fuel cell](/docs/definitions/part/methanol-fuel-cell)|5|
 
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 
 

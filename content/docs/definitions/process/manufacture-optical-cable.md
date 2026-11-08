@@ -23,7 +23,7 @@ hide_summary: true
 
 | Input      | Amount |
 |--------:|:------|
-|[glass](/docs/definitions/resource/glass)|Resource|1.0 kg|
+|[Glass](/docs/definitions/resource/glass)|Resource|1.0 kg|
 
 ## Products
 
@@ -34,7 +34,7 @@ hide_summary: true
 
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 
 

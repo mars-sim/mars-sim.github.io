@@ -13,7 +13,7 @@ Mirror for solar thermal power source.
 
 | Attribute      | Value |
 |--------:|:------|
-|Mass:|50.0 kg|
+|Mass:|22.72 kg|
 |Type:|Electrical|
 
 ## Made by Manufacturing Process
@@ -23,7 +23,7 @@ Mirror for solar thermal power source.
 
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 
 

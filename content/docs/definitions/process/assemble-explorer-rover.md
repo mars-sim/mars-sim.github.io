@@ -1,6 +1,6 @@
 ---
-title: Manufacturing Process - Assemble explorer rover
-linkTitle: Assemble explorer rover
+title: Manufacturing Process - Assemble Explorer Rover
+linkTitle: Assemble Explorer Rover
 toc_hide: true
 hide_summary: true
 ---
@@ -13,7 +13,7 @@ hide_summary: true
 |--------:|:------|
 |Type:|Manufacture|
 |Skill Level:|4|
-|Tech Level:|3|
+|Tech Level:|4|
 |Process Time:|1000.0 millisols|
 |Tooling:|Lifting|
 |Work Level:|2000.0 millisols|
@@ -23,22 +23,25 @@ hide_summary: true
 
 | Input      | Amount |
 |--------:|:------|
+|[Aerogel tile](/docs/definitions/part/aerogel-tile)|Part|80|
 |[CMOS sensor](/docs/definitions/part/cmos-sensor)|Part|6|
+|[Fuel pump](/docs/definitions/part/fuel-pump)|Part|2|
+|[Gas tubing](/docs/definitions/part/gas-tubing)|Part|3|
+|[Heat pump](/docs/definitions/part/heat-pump)|Part|1|
 |[Motor 30 kW](/docs/definitions/part/motor-30-kw)|Part|3|
-|[acetylene](/docs/definitions/resource/acetylene)|Resource|2.0 kg|
-|[aerogel tile](/docs/definitions/part/aerogel-tile)|Part|80|
+|[Oxygen pump](/docs/definitions/part/oxygen-pump)|Part|2|
+|[acetylene](/docs/definitions/resource/acetylene)|Resource|2.304 kg|
 |[battery module](/docs/definitions/part/battery-module)|Part|2|
 |[electrical wire](/docs/definitions/part/electrical-wire)|Part|20|
-|[fuel pump](/docs/definitions/part/fuel-pump)|Part|2|
-|[fuel tank](/docs/definitions/part/fuel-tank)|Part|2|
+|[fuel tank large methanol](/docs/definitions/part/fuel-tank-large-methanol)|Part|1|
+|[fuel tank small methanol](/docs/definitions/part/fuel-tank-small-methanol)|Part|1|
 |[gas tank](/docs/definitions/part/gas-tank)|Part|2|
 |[lubricant bottle](/docs/definitions/part/lubricant-bottle)|Part|3|
-|[methanol fuel cell stack](/docs/definitions/part/methanol-fuel-cell-stack)|Part|4|
+|[methanol fuel cell stack large](/docs/definitions/part/methanol-fuel-cell-stack-large)|Part|1|
+|[methanol fuel cell stack medium](/docs/definitions/part/methanol-fuel-cell-stack-medium)|Part|1|
 |[optical cable](/docs/definitions/part/optical-cable)|Part|6|
-|[oxygen pump](/docs/definitions/part/oxygen-pump)|Part|2|
 |[plastic bottle](/docs/definitions/part/plastic-bottle)|Part|3|
 |[plastic pipe](/docs/definitions/part/plastic-pipe)|Part|3|
-|[plastic tubing](/docs/definitions/part/plastic-tubing)|Part|3|
 |[polystyrene](/docs/definitions/resource/polystyrene)|Resource|15.0 kg|
 |[radio antenna](/docs/definitions/part/radio-antenna)|Part|1|
 |[rover control panel](/docs/definitions/part/rover-control-panel)|Part|1|
@@ -58,11 +61,11 @@ hide_summary: true
 
 | Produce      | Amount |
 |--------:|:------|
-|[explorer rover](/docs/definitions/vehicle/explorer-rover)|1|
+|[Explorer Rover](/docs/definitions/vehicle/explorer-rover)|1|
 
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 
 

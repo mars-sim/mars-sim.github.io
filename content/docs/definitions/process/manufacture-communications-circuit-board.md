@@ -15,7 +15,7 @@ hide_summary: true
 |Skill Level:|4|
 |Tech Level:|3|
 |Process Time:|500.0 millisols|
-|Tooling:|Soldering|
+|Tooling:|Fabrication|
 |Work Level:|300.0 millisols|
 |Power Required:|1.0 kW/hr|
 
@@ -23,12 +23,11 @@ hide_summary: true
 
 | Input      | Amount |
 |--------:|:------|
+|[Steel sheet](/docs/definitions/part/steel-sheet)|Part|1|
 |[electrical wire](/docs/definitions/part/electrical-wire)|Part|1|
 |[light emitting diode bulb](/docs/definitions/part/light-emitting-diode-bulb)|Part|10|
 |[logic board](/docs/definitions/part/logic-board)|Part|2|
 |[microcontroller](/docs/definitions/part/microcontroller)|Part|1|
-|[plastic sheet](/docs/definitions/part/plastic-sheet)|Part|1|
-|[steel sheet](/docs/definitions/part/steel-sheet)|Part|1|
 |[wire connector](/docs/definitions/part/wire-connector)|Part|1|
 
 ## Products
@@ -40,7 +39,7 @@ hide_summary: true
 
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 
 

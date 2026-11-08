@@ -13,7 +13,7 @@ no description available.
 
 | Attribute      | Value |
 |--------:|:------|
-|Mass:|0.2 kg|
+|Mass:|0.1 kg|
 |Type:|Utility|
 
 ## Made by Manufacturing Process
@@ -30,17 +30,22 @@ no description available.
 - [Manufacture utility vehicle control panel](/docs/definitions/process/manufacture-utility-vehicle-control-panel)
 - [Manufacture utility vehicle control panel with Polycarbonate resin](/docs/definitions/process/manufacture-utility-vehicle-control-panel-with-polycarbonate-resin)
 - [Manufacture utility vehicle control panel with Polypropylene](/docs/definitions/process/manufacture-utility-vehicle-control-panel-with-polypropylene)
-- [Manufacture fuel tank](/docs/definitions/process/manufacture-fuel-tank)
+- [Manufacture large methane fuel tank](/docs/definitions/process/manufacture-large-methane-fuel-tank)
+- [Manufacture medium methane fuel tank](/docs/definitions/process/manufacture-medium-methane-fuel-tank)
+- [Manufacture small methane fuel tank](/docs/definitions/process/manufacture-small-methane-fuel-tank)
+- [Manufacture large methanol fuel tank](/docs/definitions/process/manufacture-large-methanol-fuel-tank)
+- [Manufacture medium methanol fuel tank](/docs/definitions/process/manufacture-medium-methanol-fuel-tank)
+- [Manufacture small methanol fuel tank](/docs/definitions/process/manufacture-small-methanol-fuel-tank)
 - [Manufacture gas tank](/docs/definitions/process/manufacture-gas-tank)
-- [Manufacture water tank](/docs/definitions/process/manufacture-water-tank)
 - [Assemble LUV](/docs/definitions/process/assemble-luv)
-- [Assemble explorer rover](/docs/definitions/process/assemble-explorer-rover)
-- [Assemble transport rover](/docs/definitions/process/assemble-transport-rover)
-- [Assemble cargo rover](/docs/definitions/process/assemble-cargo-rover)
+- [Assemble Explorer Rover](/docs/definitions/process/assemble-explorer-rover)
+- [Assemble Long Range Explorer](/docs/definitions/process/assemble-long-range-explorer)
+- [Assemble Transport Rover](/docs/definitions/process/assemble-transport-rover)
+- [Assemble Cargo Rover](/docs/definitions/process/assemble-cargo-rover)
 
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 
 

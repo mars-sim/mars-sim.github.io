@@ -43,9 +43,13 @@ Sewage water from washing, bathing, cooking and cleaning and can be converted in
 - [Make Tofu and Tempeh from Soybeans and Epsom Salt (large batch)](/docs/definitions/food/make-tofu-and-tempeh-from-soybeans-and-epsom-salt--large-batch-)
 - [Make Tofu, Soymilk, and Tempeh from Soybeans and Vinegar](/docs/definitions/food/make-tofu--soymilk--and-tempeh-from-soybeans-and-vinegar)
 - [Make Tofu, Soymilk, and Tempeh from Soybeans and Epsom Salt](/docs/definitions/food/make-tofu--soymilk--and-tempeh-from-soybeans-and-epsom-salt)
-- [Process Brown Rice into Rice Flour](/docs/definitions/food/process-brown-rice-into-rice-flour)
-- [Process Wheat into Wheat Flour](/docs/definitions/food/process-wheat-into-wheat-flour)
+- [Process Brown Rice into Rice flour](/docs/definitions/food/process-brown-rice-into-rice-flour)
+- [Process Wheat into Wheat flour](/docs/definitions/food/process-wheat-into-wheat-flour)
 - [Make Veggie Patty from Quinoa Tempeh and Spice](/docs/definitions/food/make-veggie-patty-from-quinoa-tempeh-and-spice)
+- [Make Veggie Patty from Quinoa Tempeh and Spice with white rice](/docs/definitions/food/make-veggie-patty-from-quinoa-tempeh-and-spice-with-white-rice)
+- [Make Veggie Patty from Quinoa Tempeh and Spice with Spirulina](/docs/definitions/food/make-veggie-patty-from-quinoa-tempeh-and-spice-with-spirulina)
+- [Make Veggie Patty from Quinoa Tempeh and Spice with sugarcane juice](/docs/definitions/food/make-veggie-patty-from-quinoa-tempeh-and-spice-with-sugarcane-juice)
+- [Make Veggie Patty from Quinoa Tempeh and Spice with honey](/docs/definitions/food/make-veggie-patty-from-quinoa-tempeh-and-spice-with-honey)
 - [Make Rice Vinegar by Fermentation](/docs/definitions/food/make-rice-vinegar-by-fermentation)
 - [Make Soy Sauce by Fermentation](/docs/definitions/food/make-soy-sauce-by-fermentation)
 - [Make Miso by Fermentation](/docs/definitions/food/make-miso-by-fermentation)
@@ -53,6 +57,6 @@ Sewage water from washing, bathing, cooking and cleaning and can be converted in
     
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 

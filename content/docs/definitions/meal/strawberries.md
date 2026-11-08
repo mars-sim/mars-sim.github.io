@@ -20,10 +20,10 @@ hide_summary: true
 |Name|Proportion|
 |----|------:|---:|
 |[Strawberry](/docs/definitions/resource/strawberry)|0.5|
-|[Sugar](/docs/definitions/resource/sugar)|0.1|
+|[Glucose](/docs/definitions/resource/glucose)|0.1|
 
 
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 

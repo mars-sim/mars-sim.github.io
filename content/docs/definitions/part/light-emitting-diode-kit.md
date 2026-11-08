@@ -22,13 +22,13 @@ no description available.
 
 ## Used by Manufacturing Process
 
-- [Make flood light](/docs/definitions/process/make-flood-light)
+- [Make floodlight](/docs/definitions/process/make-floodlight)
 - [Manufacture carbon dioxide laser](/docs/definitions/process/manufacture-carbon-dioxide-laser)
 - [Manufacture helium neon laser](/docs/definitions/process/manufacture-helium-neon-laser)
 
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 
 

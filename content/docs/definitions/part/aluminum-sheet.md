@@ -30,20 +30,20 @@ A density of 2.72 g/cm3. 1m x 1m x 1mm sheet of aluminum
 - [Make suit heating unit](/docs/definitions/process/make-suit-heating-unit)
 - [Make EVA antenna](/docs/definitions/process/make-eva-antenna)
 - [Make EVA antenna with Polycarbonate resin](/docs/definitions/process/make-eva-antenna-with-polycarbonate-resin)
-- [Assemble Cargo Drone](/docs/definitions/process/assemble-cargo-drone)
-- [Assemble Delivery Drone](/docs/definitions/process/assemble-delivery-drone)
-- [Assemble LUV](/docs/definitions/process/assemble-luv)
 - [Draw aluminum wire](/docs/definitions/process/draw-aluminum-wire)
 - [Roll heat pipe from aluminum sheet](/docs/definitions/process/roll-heat-pipe-from-aluminum-sheet)
 - [Fabricate solar panel](/docs/definitions/process/fabricate-solar-panel)
 - [Fabricate solar parabolic mirror](/docs/definitions/process/fabricate-solar-parabolic-mirror)
 - [Make light emitting diode kit](/docs/definitions/process/make-light-emitting-diode-kit)
-- [Make flood light](/docs/definitions/process/make-flood-light)
 - [Manufacture large air duct](/docs/definitions/process/manufacture-large-air-duct)
+- [Assemble Passenger Drone](/docs/definitions/process/assemble-passenger-drone)
+- [Assemble Cargo Drone](/docs/definitions/process/assemble-cargo-drone)
+- [Assemble Delivery Drone](/docs/definitions/process/assemble-delivery-drone)
+- [Assemble LUV](/docs/definitions/process/assemble-luv)
 
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 
 

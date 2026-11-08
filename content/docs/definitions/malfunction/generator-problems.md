@@ -29,11 +29,11 @@ hide_summary: true
 |---|---|---|
 |[Coolant bottle](/docs/definitions/part/coolant-bottle)|2|10.0|
 |[Electrical wire](/docs/definitions/part/electrical-wire)|2|25.0|
+|[Gas tubing](/docs/definitions/part/gas-tubing)|1|5.0|
 |[Gasket](/docs/definitions/part/gasket)|1|10.0|
 |[Logic board](/docs/definitions/part/logic-board)|1|2.0|
 |[Lubricant bottle](/docs/definitions/part/lubricant-bottle)|1|5.0|
 |[Methane fuel cell stack](/docs/definitions/part/methane-fuel-cell-stack)|1|2.0|
-|[Plastic tubing](/docs/definitions/part/plastic-tubing)|1|5.0|
 |[Power cable](/docs/definitions/part/power-cable)|1|5.0|
 |[Spark plug](/docs/definitions/part/spark-plug)|1|15.0|
 |[Steel pipe](/docs/definitions/part/steel-pipe)|1|5.0|
@@ -52,5 +52,5 @@ hide_summary: true
 |---|---|
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 

@@ -23,10 +23,15 @@ no description available.
 ## Used by Manufacturing Process
 
 - [Manufacture refrigerator](/docs/definitions/process/manufacture-refrigerator)
+- [Assemble Passenger Drone](/docs/definitions/process/assemble-passenger-drone)
+- [Assemble Explorer Rover](/docs/definitions/process/assemble-explorer-rover)
+- [Assemble Long Range Explorer](/docs/definitions/process/assemble-long-range-explorer)
+- [Assemble Transport Rover](/docs/definitions/process/assemble-transport-rover)
+- [Assemble Cargo Rover](/docs/definitions/process/assemble-cargo-rover)
 
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 
 

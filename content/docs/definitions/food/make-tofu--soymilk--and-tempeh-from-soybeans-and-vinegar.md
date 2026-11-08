@@ -24,28 +24,30 @@ hide_summary: true
 | Input      | Amount |
 |--------:|:------|
 |[Rhizopus oligosporus](/docs/definitions/resource/rhizopus-oligosporus)|Resource|0.0014 kg|
-|[Rice Vinegar](/docs/definitions/resource/rice-vinegar)|Resource|0.133 kg|
-|[Sugar](/docs/definitions/resource/sugar)|Resource|0.028 kg|
-|[Water](/docs/definitions/resource/water)|Resource|13.75 kg|
 |[autoclave](/docs/definitions/part/autoclave)|Part|1|
+|[blender](/docs/definitions/part/blender)|Part|1|
+|[glucose](/docs/definitions/resource/glucose)|Resource|0.028 kg|
+|[rice vinegar](/docs/definitions/resource/rice-vinegar)|Resource|0.133 kg|
 |[soybean](/docs/definitions/resource/soybean)|Resource|1.25 kg|
+|[stove](/docs/definitions/part/stove)|Part|1|
+|[water](/docs/definitions/resource/water)|Resource|13.75 kg|
 
 ## Outcomes
 
 
 | Produce      | Amount |
 |--------:|:------|
-|[Grey Water](/docs/definitions/resource/grey-water)|6.07 kg|
-|[Soymilk](/docs/definitions/resource/soymilk)|3.0 kg|
 |[Tempeh](/docs/definitions/resource/tempeh)|1.04 kg|
 |[Tofu](/docs/definitions/resource/tofu)|3.0 kg|
 |[autoclave](/docs/definitions/part/autoclave)|1|
 |[blender](/docs/definitions/part/blender)|1|
+|[grey water](/docs/definitions/resource/grey-water)|6.07 kg|
+|[soymilk](/docs/definitions/resource/soymilk)|3.0 kg|
 |[stove](/docs/definitions/part/stove)|1|
 
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 
 

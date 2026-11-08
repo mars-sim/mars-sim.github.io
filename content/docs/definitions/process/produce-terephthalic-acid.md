@@ -26,8 +26,8 @@ hide_summary: true
 | Input      | Amount |
 |--------:|:------|
 |[Carbon](/docs/definitions/resource/carbon)|Resource|9.6 kg|
-|[hydrogen](/docs/definitions/resource/hydrogen)|Resource|5.0 kg|
-|[oxygen](/docs/definitions/resource/oxygen)|Resource|4.8 kg|
+|[hydrogen](/docs/definitions/resource/hydrogen)|Resource|1.0 kg|
+|[oxygen](/docs/definitions/resource/oxygen)|Resource|9.6 kg|
 
 ## Products
 
@@ -39,7 +39,7 @@ hide_summary: true
 
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 
 

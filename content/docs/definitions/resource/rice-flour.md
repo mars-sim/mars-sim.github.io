@@ -22,17 +22,17 @@ Flour made from White Rice.
 
 ## Made by Food Process
 
-- [Process White Rice into Rice Flour](/docs/definitions/food/process-white-rice-into-rice-flour)
-- [Process Brown Rice into Rice Flour](/docs/definitions/food/process-brown-rice-into-rice-flour)
+- [Process White Rice into Rice flour](/docs/definitions/food/process-white-rice-into-rice-flour)
+- [Process Brown Rice into Rice flour](/docs/definitions/food/process-brown-rice-into-rice-flour)
 
     
 ## Used by Food Process
 
-- [Make Rice Noodles from Rice Flour](/docs/definitions/food/make-rice-noodles-from-rice-flour)
+- [Make Rice Noodles from Rice flour](/docs/definitions/food/make-rice-noodles-from-rice-flour)
 - [Make Pizza Dough](/docs/definitions/food/make-pizza-dough)
 
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 

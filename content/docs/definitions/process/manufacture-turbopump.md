@@ -16,17 +16,17 @@ hide_summary: true
 |Tech Level:|3|
 |Process Time:|50.0 millisols|
 |Tooling:|Soldering|
-|Work Level:|100.0 millisols|
+|Work Level:|200.0 millisols|
 |Power Required:|1.0 kW/hr|
 
 ## Inputs
 
 | Input      | Amount |
 |--------:|:------|
+|[Steel sheet](/docs/definitions/part/steel-sheet)|Part|1|
 |[electrical wire](/docs/definitions/part/electrical-wire)|Part|1|
-|[plastic sheet](/docs/definitions/part/plastic-sheet)|Part|1|
+|[plastic pipe](/docs/definitions/part/plastic-pipe)|Part|1|
 |[steel pipe](/docs/definitions/part/steel-pipe)|Part|3|
-|[steel sheet](/docs/definitions/part/steel-sheet)|Part|1|
 |[wire connector](/docs/definitions/part/wire-connector)|Part|3|
 
 ## Products
@@ -38,7 +38,7 @@ hide_summary: true
 
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 
 

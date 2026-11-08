@@ -31,21 +31,20 @@ hide_summary: true
 |[Decontamination kit](/docs/definitions/part/decontamination-kit)|1|30.0|
 |[Fiberglass](/docs/definitions/part/fiberglass)|1|10.0|
 |[Fiberglass cloth](/docs/definitions/part/fiberglass-cloth)|1|10.0|
-|[Plastic sheet](/docs/definitions/part/plastic-sheet)|1|10.0|
-|[Work gloves](/docs/definitions/part/work-gloves)|2|10.0|
+|[Work glove](/docs/definitions/part/work-glove)|2|10.0|
 
 ## Impacts
 
 ### Medical Complaints
 |Complaint|Default Probability|
 |---|---|
-|Hypoxemia|3.0|
-|Minor Burns|10.0|
+|HYPOXEMIA|3.0|
+|MINOR_BURNS|10.0|
 
 ### Life Support
 |Resource|Impact|
 |---|---|
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 

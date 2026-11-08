@@ -1,6 +1,6 @@
 ---
-title: Food Recipe - Make Rice Noodles from Rice Flour
-linkTitle: Make Rice Noodles from Rice Flour
+title: Food Recipe - Make Rice Noodles from Rice flour
+linkTitle: Make Rice Noodles from Rice flour
 toc_hide: true
 hide_summary: true
 ---
@@ -24,20 +24,20 @@ hide_summary: true
 | Input      | Amount |
 |--------:|:------|
 |[Baking soda](/docs/definitions/resource/baking-soda)|Resource|0.02 kg|
-|[Rice Flour](/docs/definitions/resource/rice-flour)|Resource|1.0 kg|
-|[Soy Protein](/docs/definitions/resource/soy-protein)|Resource|0.08 kg|
-|[Water](/docs/definitions/resource/water)|Resource|1.0 kg|
+|[rice flour](/docs/definitions/resource/rice-flour)|Resource|1.0 kg|
+|[soy Protein](/docs/definitions/resource/soy-protein)|Resource|0.08 kg|
+|[water](/docs/definitions/resource/water)|Resource|1.0 kg|
 
 ## Outcomes
 
 
 | Produce      | Amount |
 |--------:|:------|
-|[Rice Noodle](/docs/definitions/resource/rice-noodle)|1.0 kg|
+|[rice Noodle](/docs/definitions/resource/rice-noodle)|1.0 kg|
 
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 
 

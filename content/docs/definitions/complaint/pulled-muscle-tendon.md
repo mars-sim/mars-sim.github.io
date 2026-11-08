@@ -10,7 +10,7 @@ hide_summary: true
 
 | Attribute      | Value |
 |--------:|:------|
-|Seriousness:|1|
+|Seriousness:|10|
 |Performance Impact:|0.7|
 |Probability:|3.0|
 |Degrade Time:|0.0 millisols|
@@ -20,5 +20,5 @@ hide_summary: true
  
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 

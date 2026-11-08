@@ -1,6 +1,6 @@
 ---
-title: Food Recipe - Bake White Bread from Soy Flour
-linkTitle: Bake White Bread from Soy Flour
+title: Food Recipe - Bake White Bread from Soy flour
+linkTitle: Bake White Bread from Soy flour
 toc_hide: true
 hide_summary: true
 ---
@@ -23,10 +23,10 @@ hide_summary: true
 
 | Input      | Amount |
 |--------:|:------|
-|[Soy Flour](/docs/definitions/resource/soy-flour)|Resource|1.0 kg|
-|[Water](/docs/definitions/resource/water)|Resource|0.33 kg|
-|[Yeast](/docs/definitions/resource/yeast)|Resource|0.01 kg|
 |[oven](/docs/definitions/part/oven)|Part|1|
+|[soy flour](/docs/definitions/resource/soy-flour)|Resource|1.0 kg|
+|[water](/docs/definitions/resource/water)|Resource|0.33 kg|
+|[yeast](/docs/definitions/resource/yeast)|Resource|0.01 kg|
 
 ## Outcomes
 
@@ -38,7 +38,7 @@ hide_summary: true
 
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 
 

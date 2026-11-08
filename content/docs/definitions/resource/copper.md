@@ -24,9 +24,19 @@ An elemen.
 
 ## Used by Manufacturing Process
 
-- [Make crop fertilizers with copper](/docs/definitions/process/make-crop-fertilizers-with-copper)
+- [Make crop fertilizers with Copper](/docs/definitions/process/make-crop-fertilizers-with-copper)
 - [Make spark plug](/docs/definitions/process/make-spark-plug)
 - [Make copper sheet](/docs/definitions/process/make-copper-sheet)
+- [Manufacture memory module](/docs/definitions/process/manufacture-memory-module)
+- [Manufacture microcontroller](/docs/definitions/process/manufacture-microcontroller)
+- [Manufacture resistor](/docs/definitions/process/manufacture-resistor)
+- [Manufacture resistor with Aluminum oxide](/docs/definitions/process/manufacture-resistor-with-aluminum-oxide)
+- [Manufacture capacitor](/docs/definitions/process/manufacture-capacitor)
+- [Manufacture capacitor with Aluminum oxide](/docs/definitions/process/manufacture-capacitor-with-aluminum-oxide)
+- [Manufacture diode](/docs/definitions/process/manufacture-diode)
+- [Manufacture diode with Aluminum oxide](/docs/definitions/process/manufacture-diode-with-aluminum-oxide)
+- [Manufacture power transistor](/docs/definitions/process/manufacture-power-transistor)
+- [Manufacture power transistor with Aluminum oxide](/docs/definitions/process/manufacture-power-transistor-with-aluminum-oxide)
 - [Manufacture logic board](/docs/definitions/process/manufacture-logic-board)
 - [Manufacture logic board with Aluminum oxide](/docs/definitions/process/manufacture-logic-board-with-aluminum-oxide)
 - [Manufacture plasma cutter](/docs/definitions/process/manufacture-plasma-cutter)
@@ -36,6 +46,6 @@ An elemen.
     
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 

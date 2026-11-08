@@ -19,7 +19,6 @@ no description available.
 ## Made by Manufacturing Process
 
 - [Cast aluminum ingot](/docs/definitions/process/cast-aluminum-ingot)
-- [Cast aluminum ingot (large batch)](/docs/definitions/process/cast-aluminum-ingot--large-batch-)
 - [Recycle aluminum scrap](/docs/definitions/process/recycle-aluminum-scrap)
 
 ## Used by Manufacturing Process
@@ -28,7 +27,7 @@ no description available.
 
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 
 

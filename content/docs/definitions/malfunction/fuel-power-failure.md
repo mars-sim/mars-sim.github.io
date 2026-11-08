@@ -36,20 +36,20 @@ hide_summary: true
 |[Power cable](/docs/definitions/part/power-cable)|2|5.0|
 |[Steel pipe](/docs/definitions/part/steel-pipe)|2|10.0|
 |[Wire connector](/docs/definitions/part/wire-connector)|5|20.0|
-|[Work gloves](/docs/definitions/part/work-gloves)|1|10.0|
+|[Work glove](/docs/definitions/part/work-glove)|1|10.0|
 
 ## Impacts
 
 ### Medical Complaints
 |Complaint|Default Probability|
 |---|---|
-|Laceration|2.0|
-|Minor Burns|5.0|
+|LACERATION|2.0|
+|MINOR_BURNS|5.0|
 
 ### Life Support
 |Resource|Impact|
 |---|---|
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 

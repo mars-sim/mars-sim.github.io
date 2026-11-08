@@ -21,25 +21,23 @@ Light yellow, silky protein Soybean fiber .
 ## Used by Manufacturing Process
 
 - [Make Garment with Soy fiber](/docs/definitions/process/make-garment-with-soy-fiber)
-- [Make Liquid Cooling Garment with Soy fiber](/docs/definitions/process/make-liquid-cooling-garment-with-soy-fiber)
-- [Make EVA helmet with Soy fiber](/docs/definitions/process/make-eva-helmet-with-soy-fiber)
-- [Make pressure suit with Soy fiber](/docs/definitions/process/make-pressure-suit-with-soy-fiber)
-- [Make coveralls with Soy fiber](/docs/definitions/process/make-coveralls-with-soy-fiber)
-- [Make EVA gloves with Soy fiber](/docs/definitions/process/make-eva-gloves-with-soy-fiber)
-- [Make EVA boots with Soy fiber](/docs/definitions/process/make-eva-boots-with-soy-fiber)
-- [Make EVA pads with Soy fiber](/docs/definitions/process/make-eva-pads-with-soy-fiber)
+- [Make Towel with Soy fiber](/docs/definitions/process/make-towel-with-soy-fiber)
+- [Make EVA glove with Soy fiber](/docs/definitions/process/make-eva-glove-with-soy-fiber)
+- [Make EVA boot with Soy fiber](/docs/definitions/process/make-eva-boot-with-soy-fiber)
+- [Make EVA pad with Soy fiber](/docs/definitions/process/make-eva-pad-with-soy-fiber)
 - [Make EVA backpack with Soy fiber](/docs/definitions/process/make-eva-backpack-with-soy-fiber)
-- [Make work gloves with Soy fiber](/docs/definitions/process/make-work-gloves-with-soy-fiber)
+- [Make work glove with Soy fiber](/docs/definitions/process/make-work-glove-with-soy-fiber)
+- [Make fiber cloth with Soy fiber](/docs/definitions/process/make-fiber-cloth-with-soy-fiber)
 - [Make biosensor with Soy fiber](/docs/definitions/process/make-biosensor-with-soy-fiber)
 
 
     
 ## Used by Food Process
 
-- [Produce Fiber Cloth from Cane or Soy Fiber with Soy Fiber](/docs/definitions/food/produce-fiber-cloth-from-cane-or-soy-fiber-with-soy-fiber)
+- [Produce Fiber Cloth from Cane or Soy Fiber with soy fiber](/docs/definitions/food/produce-fiber-cloth-from-cane-or-soy-fiber-with-soy-fiber)
 
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 

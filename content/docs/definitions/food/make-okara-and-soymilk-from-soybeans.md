@@ -23,26 +23,26 @@ hide_summary: true
 
 | Input      | Amount |
 |--------:|:------|
-|[Soybean](/docs/definitions/resource/soybean)|Resource|0.95 kg|
-|[Sugar](/docs/definitions/resource/sugar)|Resource|0.0465 kg|
-|[Water](/docs/definitions/resource/water)|Resource|10.5 kg|
 |[blender](/docs/definitions/part/blender)|Part|1|
+|[glucose](/docs/definitions/resource/glucose)|Resource|0.0465 kg|
+|[soybean](/docs/definitions/resource/soybean)|Resource|0.95 kg|
 |[stove](/docs/definitions/part/stove)|Part|1|
+|[water](/docs/definitions/resource/water)|Resource|10.5 kg|
 
 ## Outcomes
 
 
 | Produce      | Amount |
 |--------:|:------|
-|[Grey Water](/docs/definitions/resource/grey-water)|1.9 kg|
-|[Okara](/docs/definitions/resource/okara)|1.045 kg|
-|[Soymilk](/docs/definitions/resource/soymilk)|5.0 kg|
 |[blender](/docs/definitions/part/blender)|1|
+|[grey water](/docs/definitions/resource/grey-water)|1.9 kg|
+|[okara](/docs/definitions/resource/okara)|1.045 kg|
+|[soymilk](/docs/definitions/resource/soymilk)|5.0 kg|
 |[stove](/docs/definitions/part/stove)|1|
 
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 
 

@@ -23,13 +23,13 @@ hide_summary: true
 
 | Input      | Amount |
 |--------:|:------|
+|[Polyethylene HDPE sheet](/docs/definitions/part/polyethylene-hdpe-sheet)|Part|2|
+|[Steel sheet](/docs/definitions/part/steel-sheet)|Part|2|
 |[aluminum wire](/docs/definitions/part/aluminum-wire)|Part|2|
 |[electrical wire](/docs/definitions/part/electrical-wire)|Part|3|
 |[heating element](/docs/definitions/part/heating-element)|Part|6|
 |[logic board](/docs/definitions/part/logic-board)|Part|1|
 |[microcontroller](/docs/definitions/part/microcontroller)|Part|1|
-|[plastic sheet](/docs/definitions/part/plastic-sheet)|Part|2|
-|[steel sheet](/docs/definitions/part/steel-sheet)|Part|2|
 |[ventilation fan](/docs/definitions/part/ventilation-fan)|Part|1|
 |[water pump small](/docs/definitions/part/water-pump-small)|Part|2|
 |[wire connector](/docs/definitions/part/wire-connector)|Part|6|
@@ -43,7 +43,7 @@ hide_summary: true
 
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 
 

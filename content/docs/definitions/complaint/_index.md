@@ -29,27 +29,27 @@ Grouped by Seriousness.
 ### 21 to 30 {#A-21-to-30}
 
 - [Fever](../complaint/fever)
+- [Freezing](../complaint/freezing)
 - [Panic Attack](../complaint/panic-attack)
 - [Radiation Sickness](../complaint/radiation-sickness)
 
 ### 31 to 40 {#A-31-to-40}
 
-- [Heat Stroke](../complaint/heat-stroke)
 - [Starvation](../complaint/starvation)
 
 ### 41 to 50 {#A-41-to-50}
 
 - [Burns](../complaint/burns)
-- [Freezing](../complaint/freezing)
-- [Frostbite](../complaint/frostbite)
-- [Laceration](../complaint/laceration)
 
 ### 51 to 60 {#A-51-to-60}
 
 - [Appendicitis](../complaint/appendicitis)
 - [Broken Bone](../complaint/broken-bone)
 - [Food Poisoning](../complaint/food-poisoning)
+- [Frostbite](../complaint/frostbite)
+- [Heat Stroke](../complaint/heat-stroke)
 - [High Fatigue Collapse](../complaint/high-fatigue-collapse)
+- [Laceration](../complaint/laceration)
 
 ### 61 to 70 {#A-61-to-70}
 
@@ -57,6 +57,7 @@ Grouped by Seriousness.
 
 ### 71 to 80 {#A-71-to-80}
 
+- [Gangrene](../complaint/gangrene)
 - [Hypoxemia](../complaint/hypoxemia)
 - [Suffocation](../complaint/suffocation)
 
@@ -67,11 +68,10 @@ Grouped by Seriousness.
 
 ### 91 to 100 {#A-91-to-100}
 
-- [Gangrene](../complaint/gangrene)
 - [Major Burns](../complaint/major-burns)
 - [Ruptured Appendix](../complaint/ruptured-appendix)
 
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 

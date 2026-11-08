@@ -12,18 +12,18 @@ hide_summary: true
 |--------:|:------|
 |Process Time:|200 millisols|
 |Work Time:|10 millisols|
-|Power Required:|0.05 kW/hr|
+|Power Required:| kW/hr|
 |Start On:|false|
 
 ## Inputs
 | Name      | Input Rate (kg/sol) | Minimum kg | Ambient |
 |--------:|:------|-----:|:----|
-|[Iron oxide](/docs/definitions/resource/iron-oxide)|2.5|0.0|false|
-|[Regolith](/docs/definitions/resource/regolith)|30.0|0.002|false|
-|[Silica](/docs/definitions/resource/silica)|5.0|0.0|false|
-|[Gypsum](/docs/definitions/resource/gypsum)|5.0|0.0|false|
-|[Aluminum oxide](/docs/definitions/resource/aluminum-oxide)|2.5|0.0|false|
-|[Calcium carbonate](/docs/definitions/resource/calcium-carbonate)|5.0|0.0|false|
+|[Silica](/docs/definitions/resource/silica)|5.0|3.0E-4|false|
+|[Gypsum](/docs/definitions/resource/gypsum)|5.0|3.0E-4|false|
+|[Aluminum oxide](/docs/definitions/resource/aluminum-oxide)|2.5|1.0E-4|false|
+|[Calcium carbonate](/docs/definitions/resource/calcium-carbonate)|5.0|3.0E-4|false|
+|[Iron oxide](/docs/definitions/resource/iron-oxide)|2.5|1.0E-4|false|
+|[Regolith](/docs/definitions/resource/regolith)|30.0|0.0015|false|
 
 Ambient inputs are consumed from the environment.
 
@@ -35,7 +35,7 @@ Ambient inputs are consumed from the environment.
 Waste outputs are released into the environment and do not need to be stored.
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 
 

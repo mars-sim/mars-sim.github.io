@@ -20,21 +20,14 @@ hide_summary: true
 
 ## Used by Manufacturing Process
 
-- [Make plastic barrel with Polypropylene](/docs/definitions/process/make-plastic-barrel-with-polypropylene)
 - [Make Polypropylene rope](/docs/definitions/process/make-polypropylene-rope)
-- [Make pot with Polypropylene](/docs/definitions/process/make-pot-with-polypropylene)
-- [Make basket with Polypropylene](/docs/definitions/process/make-basket-with-polypropylene)
-- [Make crate with Polypropylene](/docs/definitions/process/make-crate-with-polypropylene)
-- [Make plastic specimen box with Polypropylene](/docs/definitions/process/make-plastic-specimen-box-with-polypropylene)
 - [Make plastic pipe with Polypropylene](/docs/definitions/process/make-plastic-pipe-with-polypropylene)
-- [Roll mylar film with Polypropylene](/docs/definitions/process/roll-mylar-film-with-polypropylene)
+- [Make gasket with Polypropylene](/docs/definitions/process/make-gasket-with-polypropylene)
 - [Make plastic bottle with Polypropylene](/docs/definitions/process/make-plastic-bottle-with-polypropylene)
 - [Make coolant bottle](/docs/definitions/process/make-coolant-bottle)
 - [Make Liquid Cooling Garment](/docs/definitions/process/make-liquid-cooling-garment)
 - [Make Liquid Cooling Garment with Kevlar](/docs/definitions/process/make-liquid-cooling-garment-with-kevlar)
-- [Make Liquid Cooling Garment with Soy fiber](/docs/definitions/process/make-liquid-cooling-garment-with-soy-fiber)
-- [Make Liquid Cooling Garment with Polyester fiber](/docs/definitions/process/make-liquid-cooling-garment-with-polyester-fiber)
-- [Make Liquid Cooling Garment with Fiber cloth](/docs/definitions/process/make-liquid-cooling-garment-with-fiber-cloth)
+- [Make Liquid Cooling Garment with Polyurethane](/docs/definitions/process/make-liquid-cooling-garment-with-polyurethane)
 - [Make EVA helmet with Polypropylene](/docs/definitions/process/make-eva-helmet-with-polypropylene)
 - [Make pressure suit with Polypropylene](/docs/definitions/process/make-pressure-suit-with-polypropylene)
 - [Make EVA backpack with Polypropylene](/docs/definitions/process/make-eva-backpack-with-polypropylene)
@@ -42,13 +35,23 @@ hide_summary: true
 - [Manufacture utility vehicle control panel with Polypropylene](/docs/definitions/process/manufacture-utility-vehicle-control-panel-with-polypropylene)
 - [Manufacture battery module with Polypropylene](/docs/definitions/process/manufacture-battery-module-with-polypropylene)
 - [Manufacture EVA battery with Polypropylene](/docs/definitions/process/manufacture-eva-battery-with-polypropylene)
-- [Manufacture flexible hose](/docs/definitions/process/manufacture-flexible-hose)
+- [Make floodlight](/docs/definitions/process/make-floodlight)
+- [Manufacture flexible water hose](/docs/definitions/process/manufacture-flexible-water-hose)
+- [Make liquid tubing](/docs/definitions/process/make-liquid-tubing)
 - [Make Paraffin Composites with Polypropylene](/docs/definitions/process/make-paraffin-composites-with-polypropylene)
+- [Make pot with Polypropylene](/docs/definitions/process/make-pot-with-polypropylene)
+- [Make basket with Polypropylene](/docs/definitions/process/make-basket-with-polypropylene)
+- [Make crate with Polypropylene](/docs/definitions/process/make-crate-with-polypropylene)
+- [Manufacture thermal bottle](/docs/definitions/process/manufacture-thermal-bottle)
+- [Manufacture thermal bottle with Thermoplastic elastomer](/docs/definitions/process/manufacture-thermal-bottle-with-thermoplastic-elastomer)
+- [Manufacture thermal bottle with Aluminum oxide](/docs/definitions/process/manufacture-thermal-bottle-with-aluminum-oxide)
+- [Manufacture barrel with Polypropylene](/docs/definitions/process/manufacture-barrel-with-polypropylene)
+- [Manufacture specimen box with Polypropylene](/docs/definitions/process/manufacture-specimen-box-with-polypropylene)
 
 
     
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 

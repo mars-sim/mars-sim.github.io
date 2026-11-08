@@ -24,14 +24,14 @@ No Description
     
 ## Used by Food Process
 
-- [Make Granola Bar with Rice](/docs/definitions/food/make-granola-bar-with-rice)
-- [Make Okara Protein Bar with Rice](/docs/definitions/food/make-okara-protein-bar-with-rice)
+- [Make Granola Bar with rice](/docs/definitions/food/make-granola-bar-with-rice)
+- [Make Okara Protein Bar with rice](/docs/definitions/food/make-okara-protein-bar-with-rice)
 - [Process Rice into White Rice and rice bran oil](/docs/definitions/food/process-rice-into-white-rice-and-rice-bran-oil)
 - [Process Rice into Brown Rice](/docs/definitions/food/process-rice-into-brown-rice)
 - [Make Miso by Fermentation](/docs/definitions/food/make-miso-by-fermentation)
 
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 

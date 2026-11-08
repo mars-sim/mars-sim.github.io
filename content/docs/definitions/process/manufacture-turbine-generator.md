@@ -13,9 +13,9 @@ hide_summary: true
 |--------:|:------|
 |Type:|Manufacture|
 |Skill Level:|3|
-|Tech Level:|3|
+|Tech Level:|4|
 |Process Time:|300.0 millisols|
-|Tooling:|Soldering|
+|Tooling:|Fabrication|
 |Work Level:|300.0 millisols|
 |Power Required:|1.0 kW/hr|
 
@@ -23,12 +23,12 @@ hide_summary: true
 
 | Input      | Amount |
 |--------:|:------|
+|[Steel sheet](/docs/definitions/part/steel-sheet)|Part|1|
 |[acetylene](/docs/definitions/resource/acetylene)|Resource|0.3 kg|
 |[copper wire](/docs/definitions/part/copper-wire)|Part|15|
 |[electrical wire](/docs/definitions/part/electrical-wire)|Part|3|
 |[iron ingot](/docs/definitions/part/iron-ingot)|Part|20|
 |[iron sheet](/docs/definitions/part/iron-sheet)|Part|1|
-|[steel sheet](/docs/definitions/part/steel-sheet)|Part|1|
 |[wire connector](/docs/definitions/part/wire-connector)|Part|8|
 
 ## Products
@@ -40,7 +40,7 @@ hide_summary: true
 
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 
 

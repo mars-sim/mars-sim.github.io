@@ -1,6 +1,6 @@
 ---
-title: Manufacturing Process - Salvage cargo rover
-linkTitle: Salvage cargo rover
+title: Manufacturing Process - Salvage Cargo Rover
+linkTitle: Salvage Cargo Rover
 toc_hide: true
 hide_summary: true
 ---
@@ -23,7 +23,7 @@ hide_summary: true
 
 | Input      | Amount |
 |--------:|:------|
-|[cargo rover](/docs/definitions/vehicle/cargo-rover)|Vehicle|1|
+|[Cargo Rover](/docs/definitions/vehicle/cargo-rover)|Vehicle|1|
 
 ## Products
 
@@ -31,20 +31,20 @@ hide_summary: true
 | Produce      | Amount |
 |--------:|:------|
 |[CMOS sensor](/docs/definitions/part/cmos-sensor)|8|
+|[Gas tubing](/docs/definitions/part/gas-tubing)|5|
 |[Motor 30 kW](/docs/definitions/part/motor-30-kw)|5|
 |[aluminum scrap](/docs/definitions/part/aluminum-scrap)|8|
 |[battery module](/docs/definitions/part/battery-module)|5|
 |[electrical wire](/docs/definitions/part/electrical-wire)|20|
 |[fuel pump](/docs/definitions/part/fuel-pump)|2|
-|[fuel tank](/docs/definitions/part/fuel-tank)|4|
+|[fuel tank large methanol](/docs/definitions/part/fuel-tank-large-methanol)|4|
 |[gas tank](/docs/definitions/part/gas-tank)|4|
 |[lubricant bottle](/docs/definitions/part/lubricant-bottle)|2|
-|[methanol fuel cell stack](/docs/definitions/part/methanol-fuel-cell-stack)|6|
+|[methanol fuel cell stack large](/docs/definitions/part/methanol-fuel-cell-stack-large)|3|
 |[optical cable](/docs/definitions/part/optical-cable)|10|
 |[oxygen pump](/docs/definitions/part/oxygen-pump)|2|
 |[plastic bottle](/docs/definitions/part/plastic-bottle)|5|
 |[plastic pipe](/docs/definitions/part/plastic-pipe)|2|
-|[plastic tubing](/docs/definitions/part/plastic-tubing)|5|
 |[radio antenna](/docs/definitions/part/radio-antenna)|1|
 |[rover control panel](/docs/definitions/part/rover-control-panel)|1|
 |[rover wheel](/docs/definitions/part/rover-wheel)|14|
@@ -61,7 +61,7 @@ hide_summary: true
 
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 
 

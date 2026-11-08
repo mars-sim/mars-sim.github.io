@@ -23,11 +23,11 @@ Cook tomatoes. Then grind them with garlic, onions, vinegar, and spice.
 
 | Input      | Amount |
 |--------:|:------|
-|[Garlic](/docs/definitions/resource/garlic)|Resource|0.022 kg|
 |[Mustard](/docs/definitions/resource/mustard)|Resource|0.0092 kg|
-|[Rice Vinegar](/docs/definitions/resource/rice-vinegar)|Resource|0.443 kg|
-|[Sugar](/docs/definitions/resource/sugar)|Resource|0.367 kg|
+|[garlic](/docs/definitions/resource/garlic)|Resource|0.022 kg|
+|[glucose](/docs/definitions/resource/glucose)|Resource|0.367 kg|
 |[plastic bottle](/docs/definitions/part/plastic-bottle)|Part|2|
+|[rice vinegar](/docs/definitions/resource/rice-vinegar)|Resource|0.443 kg|
 |[stove](/docs/definitions/part/stove)|Part|1|
 |[table salt](/docs/definitions/resource/table-salt)|Resource|0.0105 kg|
 |[tomato](/docs/definitions/resource/tomato)|Resource|5.0 kg|
@@ -44,7 +44,7 @@ Cook tomatoes. Then grind them with garlic, onions, vinegar, and spice.
 
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 
 

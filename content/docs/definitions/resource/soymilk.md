@@ -32,12 +32,13 @@ Plant milk produced by soaking dry Soybean and grinding them with water.
 ## Used by Food Process
 
 - [Make Sesame Milk from Soymilk](/docs/definitions/food/make-sesame-milk-from-soymilk)
+- [Make Sesame Milk from Soymilk with Spirulina](/docs/definitions/food/make-sesame-milk-from-soymilk-with-spirulina)
 - [Make Tofu from Soymilk and Calcium Sulfate](/docs/definitions/food/make-tofu-from-soymilk-and-calcium-sulfate)
 - [Make Tofu from Soymilk and Epsom Salt](/docs/definitions/food/make-tofu-from-soymilk-and-epsom-salt)
 - [Make Tofu from Soymilk and Vinegar](/docs/definitions/food/make-tofu-from-soymilk-and-vinegar)
 
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 

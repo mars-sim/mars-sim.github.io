@@ -4,7 +4,47 @@ linktitle: Version
 description: History of the MarsSim releases
 weight: 50
 ---
+## Version 4.1 (Nov 2026)
 
+### A. CORE ENGINE IMPROVEMENTS
+
+- Metric manager provides a consistent and centralised means to record large volumes of metrics from the simulation.
+- Mission creation and management improvements. Meta Missions define the parameters of the associated missions.
+- Mission control logic is now localised to the parent Settlement instead of being global.
+- Person & Robot absolute values, e.g. health, energy, now have a levels system overlaid. This supports internationalisation and significantly reduces the volume of events.
+- Upgrade to JDK25.
+- Refactor the Colony classes and move configurations to a dedicated XML file.
+- Provide a single means to identify the type of a Resource ID.
+- Make Rating an interface to promote safe/unmodified sharing.
+- Redesign SettlementTaskManager to maintain a persistent list of Task across clock pulses.
+- The type and number of Robots is defined in the Supplies Manifest instead of explicitly in the ResupplyMission. This provides a consistent approach.
+- Exploration missions rewritten to flow a Project approach.
+- Complaints and Treatment are data driven.
+- Improve pulse generation and stabilize time ratio.
+- Redesign the Inventory system for better usability and performance.
+- Allow tourists to be embedded and show up in settlements.	
+- Optimize methods to use settlement as a param in LocalAreaUtil.
+- Turn various methods in AmountResourceGood into mutable data members.
+- Allow emotional state to spread out over a wider range intead of converging at the states at the center of the matrix.
+- Add data gathering task to collect ground ice data.
+- Refactor resource processes in settlement-wide fashion and drastically lower CPU utilization.	
+- Add Hub Base 2 template.	
+- Allow drones to park indoor by default. Add parking space in Hab buildings to park drones other than garages.	
+    
+### B. UI IMPROVEMENT
+
+- Displaying of collection of Entities is now based on a common table pattern that dynamically update.
+- In the Settlement map, hatches are rendered differently according to the material of the 2 adjacent buildings.
+- Metric viewer now available in the UI.
+- Beta: Add desktop notification for Events when the main window is in closed state.
+- Improve filtering on the Event Viewer.
+- Backlog table in Monitor window shows the date tasks are created/updated.
+- Settlement Map optimised to improve rendering performance and give MapLayer more responsibility to reduce custom code in common logic.
+- Monitor window filter options are shown in a popup menu.
+- Add a History tab to Entity windows to track significant changes and events.
+- The Monitor window now adds decoration to represent the direction of change for Resources.
+- Add TabPanelData for SettlementUnitWindow.
+  
 ## Version 4.0 (Apr 2026)
 
 ### A. CORE ENGINE IMPROVEMENTS

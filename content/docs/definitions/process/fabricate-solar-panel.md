@@ -15,18 +15,18 @@ hide_summary: true
 |Skill Level:|4|
 |Tech Level:|3|
 |Process Time:|150.0 millisols|
-|Tooling:|3D Printer|
-|Work Level:|300.0 millisols|
+|Tooling:|Fabrication|
+|Work Level:|200.0 millisols|
 |Power Required:|1.0 kW/hr|
 
 ## Inputs
 
 | Input      | Amount |
 |--------:|:------|
+|[Glass](/docs/definitions/resource/glass)|Resource|5.0 kg|
 |[aluminum sheet](/docs/definitions/part/aluminum-sheet)|Part|3|
 |[electrical wire](/docs/definitions/part/electrical-wire)|Part|4|
 |[fiberglass](/docs/definitions/part/fiberglass)|Part|2|
-|[glass](/docs/definitions/resource/glass)|Resource|5.0 kg|
 |[logic board](/docs/definitions/part/logic-board)|Part|3|
 |[magnesium](/docs/definitions/resource/magnesium)|Resource|0.75 kg|
 |[semiconductor wafer](/docs/definitions/part/semiconductor-wafer)|Part|2|
@@ -38,11 +38,11 @@ hide_summary: true
 
 | Produce      | Amount |
 |--------:|:------|
-|[solar panel](/docs/definitions/part/solar-panel)|3|
+|[solar panel](/docs/definitions/part/solar-panel)|1|
 
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 
 

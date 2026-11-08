@@ -26,7 +26,7 @@ A density of 8.94 g/cm3. length of 1m. Thickness of 2mm. Diameter of 20mm
 
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 
 

@@ -29,12 +29,27 @@ Organic waste from leftover or expired food.
 
 ## Used by Manufacturing Process
 
-- [Produce polycarbonate resin](/docs/definitions/process/produce-polycarbonate-resin)
+- [Make crop fertilizers](/docs/definitions/process/make-crop-fertilizers)
+- [Make crop fertilizers with potash lye](/docs/definitions/process/make-crop-fertilizers-with-potash-lye)
+- [Make crop fertilizers with Oxygen](/docs/definitions/process/make-crop-fertilizers-with-oxygen)
+- [Make crop fertilizers with Iron powder](/docs/definitions/process/make-crop-fertilizers-with-iron-powder)
+- [Make crop fertilizers with Nitrospira SPP](/docs/definitions/process/make-crop-fertilizers-with-nitrospira-spp)
+- [Make crop fertilizers with Nitrite](/docs/definitions/process/make-crop-fertilizers-with-nitrite)
+- [Make crop fertilizers with Carbon](/docs/definitions/process/make-crop-fertilizers-with-carbon)
+- [Make crop fertilizers with Calcium sulfate](/docs/definitions/process/make-crop-fertilizers-with-calcium-sulfate)
+- [Make crop fertilizers with Rock samples](/docs/definitions/process/make-crop-fertilizers-with-rock-samples)
+- [Make crop fertilizers with Ammonia](/docs/definitions/process/make-crop-fertilizers-with-ammonia)
+- [Make crop fertilizers with Lime](/docs/definitions/process/make-crop-fertilizers-with-lime)
+- [Make crop fertilizers with Rhizobia](/docs/definitions/process/make-crop-fertilizers-with-rhizobia)
+- [Make crop fertilizers with Chromium](/docs/definitions/process/make-crop-fertilizers-with-chromium)
+- [Make crop fertilizers with Copper](/docs/definitions/process/make-crop-fertilizers-with-copper)
+- [Make crop fertilizers with Sandstone](/docs/definitions/process/make-crop-fertilizers-with-sandstone)
+- [Make crop fertilizers with Manganese](/docs/definitions/process/make-crop-fertilizers-with-manganese)
 
 
 ## Made by Food Process
 
-- [Process Brown Rice into Rice Flour](/docs/definitions/food/process-brown-rice-into-rice-flour)
+- [Process Brown Rice into Rice flour](/docs/definitions/food/process-brown-rice-into-rice-flour)
 - [Expel Soybean Oil from Soybean](/docs/definitions/food/expel-soybean-oil-from-soybean)
 - [Press Sesame Oil from Sesame Seeds](/docs/definitions/food/press-sesame-oil-from-sesame-seeds)
 - [Press Garlic Oil from Garlic](/docs/definitions/food/press-garlic-oil-from-garlic)
@@ -43,6 +58,6 @@ Organic waste from leftover or expired food.
     
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 

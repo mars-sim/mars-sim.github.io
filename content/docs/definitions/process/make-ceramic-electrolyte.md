@@ -26,7 +26,7 @@ hide_summary: true
 | Input      | Amount |
 |--------:|:------|
 |[Aluminum](/docs/definitions/resource/aluminum)|Resource|0.1 kg|
-|[glass](/docs/definitions/resource/glass)|Resource|4.2 kg|
+|[Glass](/docs/definitions/resource/glass)|Resource|4.2 kg|
 |[iron powder](/docs/definitions/resource/iron-powder)|Resource|0.1 kg|
 |[manganese](/docs/definitions/resource/manganese)|Resource|0.1 kg|
 |[nickel](/docs/definitions/resource/nickel)|Resource|0.1 kg|
@@ -41,7 +41,7 @@ hide_summary: true
 
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 
 

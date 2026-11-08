@@ -27,12 +27,12 @@ hide_summary: true
 ## Made by Food Process
 
 - [Process Rice into White Rice and rice bran oil](/docs/definitions/food/process-rice-into-white-rice-and-rice-bran-oil)
-- [Process Brown Rice into Rice Flour](/docs/definitions/food/process-brown-rice-into-rice-flour)
+- [Process Brown Rice into Rice flour](/docs/definitions/food/process-brown-rice-into-rice-flour)
 - [Process Brown Rice into White Rice](/docs/definitions/food/process-brown-rice-into-white-rice)
 
     
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 

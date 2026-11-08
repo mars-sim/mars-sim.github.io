@@ -39,13 +39,18 @@ hide_summary: true
 - [Make Soy Sauce by Fermentation](/docs/definitions/food/make-soy-sauce-by-fermentation)
 - [Make Miso by Fermentation](/docs/definitions/food/make-miso-by-fermentation)
 - [Make Blueberry Muffin](/docs/definitions/food/make-blueberry-muffin)
+- [Make Blueberry Muffin with glucose](/docs/definitions/food/make-blueberry-muffin-with-glucose)
+- [Make Blueberry Muffin with sugarcane juice](/docs/definitions/food/make-blueberry-muffin-with-sugarcane-juice)
 - [Make Okara Blueberry Muffin](/docs/definitions/food/make-okara-blueberry-muffin)
+- [Make Okara Blueberry Muffin with glucose](/docs/definitions/food/make-okara-blueberry-muffin-with-glucose)
+- [Make Okara Blueberry Muffin with sugarcane juice](/docs/definitions/food/make-okara-blueberry-muffin-with-sugarcane-juice)
 - [Make Cranberry Sauce from Cranberry](/docs/definitions/food/make-cranberry-sauce-from-cranberry)
+- [Make Cranberry Sauce from Cranberry with spirulina](/docs/definitions/food/make-cranberry-sauce-from-cranberry-with-spirulina)
 - [Make Pizza Dough](/docs/definitions/food/make-pizza-dough)
 - [Make fish patty from fish meat](/docs/definitions/food/make-fish-patty-from-fish-meat)
 
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 

@@ -22,12 +22,12 @@ hide_summary: true
 |[Aerogel tile](/docs/definitions/part/aerogel-tile)|Part|16|
 |[Electrical wire](/docs/definitions/part/electrical-wire)|Part|20|
 |[Power cable](/docs/definitions/part/power-cable)|Part|2|
-|[Solar panel](/docs/definitions/part/solar-panel)|Part|6|
+|[Solar panel](/docs/definitions/part/solar-panel)|Part|20|
 |[Stepper motor](/docs/definitions/part/stepper-motor)|Part|4|
 |[Wire connector](/docs/definitions/part/wire-connector)|Part|20|
 
 
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 

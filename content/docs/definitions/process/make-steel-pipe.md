@@ -14,28 +14,28 @@ hide_summary: true
 |Type:|Manufacture|
 |Skill Level:|0|
 |Tech Level:|0|
-|Process Time:|20.0 millisols|
+|Process Time:|10.0 millisols|
 |Tooling:|Metalwork|
-|Work Level:|50.0 millisols|
+|Work Level:|20.0 millisols|
 |Power Required:|0.1 kW/hr|
 
 ## Inputs
 
 | Input      | Amount |
 |--------:|:------|
-|[steel sheet](/docs/definitions/part/steel-sheet)|Part|1|
+|[Steel sheet](/docs/definitions/part/steel-sheet)|Part|1|
+|[iron powder](/docs/definitions/resource/iron-powder)|Resource|0.138 kg|
 
 ## Products
 
 
 | Produce      | Amount |
 |--------:|:------|
-|[iron powder](/docs/definitions/resource/iron-powder)|0.8 kg|
-|[steel pipe](/docs/definitions/part/steel-pipe)|8|
+|[steel pipe](/docs/definitions/part/steel-pipe)|9|
 
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 
 

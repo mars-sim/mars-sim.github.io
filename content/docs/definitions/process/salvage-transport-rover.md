@@ -1,6 +1,6 @@
 ---
-title: Manufacturing Process - Salvage transport rover
-linkTitle: Salvage transport rover
+title: Manufacturing Process - Salvage Transport Rover
+linkTitle: Salvage Transport Rover
 toc_hide: true
 hide_summary: true
 ---
@@ -23,7 +23,7 @@ hide_summary: true
 
 | Input      | Amount |
 |--------:|:------|
-|[transport rover](/docs/definitions/vehicle/transport-rover)|Vehicle|1|
+|[Transport Rover](/docs/definitions/vehicle/transport-rover)|Vehicle|1|
 
 ## Products
 
@@ -31,20 +31,22 @@ hide_summary: true
 | Produce      | Amount |
 |--------:|:------|
 |[CMOS sensor](/docs/definitions/part/cmos-sensor)|10|
+|[Gas tubing](/docs/definitions/part/gas-tubing)|5|
 |[Motor 30 kW](/docs/definitions/part/motor-30-kw)|5|
 |[aluminum scrap](/docs/definitions/part/aluminum-scrap)|7|
 |[battery module](/docs/definitions/part/battery-module)|4|
 |[electrical wire](/docs/definitions/part/electrical-wire)|20|
 |[fuel pump](/docs/definitions/part/fuel-pump)|2|
-|[fuel tank](/docs/definitions/part/fuel-tank)|4|
+|[fuel tank large methanol](/docs/definitions/part/fuel-tank-large-methanol)|3|
+|[fuel tank small methanol](/docs/definitions/part/fuel-tank-small-methanol)|1|
 |[gas tank](/docs/definitions/part/gas-tank)|4|
 |[lubricant bottle](/docs/definitions/part/lubricant-bottle)|2|
-|[methanol fuel cell stack](/docs/definitions/part/methanol-fuel-cell-stack)|5|
+|[methanol fuel cell stack large](/docs/definitions/part/methanol-fuel-cell-stack-large)|2|
+|[methanol fuel cell stack medium](/docs/definitions/part/methanol-fuel-cell-stack-medium)|1|
 |[optical cable](/docs/definitions/part/optical-cable)|10|
 |[oxygen pump](/docs/definitions/part/oxygen-pump)|2|
 |[plastic bottle](/docs/definitions/part/plastic-bottle)|5|
 |[plastic pipe](/docs/definitions/part/plastic-pipe)|2|
-|[plastic tubing](/docs/definitions/part/plastic-tubing)|5|
 |[radio antenna](/docs/definitions/part/radio-antenna)|1|
 |[rover control panel](/docs/definitions/part/rover-control-panel)|1|
 |[rover wheel](/docs/definitions/part/rover-wheel)|16|
@@ -61,7 +63,7 @@ hide_summary: true
 
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 
 

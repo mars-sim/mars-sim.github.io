@@ -19,18 +19,17 @@ No Description
  
 ## Made by Manufacturing Process
 
-- [Cast aluminum ingot](/docs/definitions/process/cast-aluminum-ingot)
-- [Cast aluminum ingot (large batch)](/docs/definitions/process/cast-aluminum-ingot--large-batch-)
-- [Make aluminum sheet](/docs/definitions/process/make-aluminum-sheet)
+- [Convert to high purity silicon](/docs/definitions/process/convert-to-high-purity-silicon)
 
 ## Used by Manufacturing Process
 
 - [Do carbon monoxide iron reduction](/docs/definitions/process/do-carbon-monoxide-iron-reduction)
+- [Make steel ingot from iron oxide](/docs/definitions/process/make-steel-ingot-from-iron-oxide)
 
 
     
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 

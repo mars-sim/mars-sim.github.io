@@ -23,28 +23,43 @@ Carbon powder
 
 ## Used by Manufacturing Process
 
-- [Cast aluminum ingot](/docs/definitions/process/cast-aluminum-ingot)
-- [Cast aluminum ingot (large batch)](/docs/definitions/process/cast-aluminum-ingot--large-batch-)
-- [Make aluminum sheet](/docs/definitions/process/make-aluminum-sheet)
+- [Make crop fertilizers with Carbon](/docs/definitions/process/make-crop-fertilizers-with-carbon)
 - [Do steel ingot alloying](/docs/definitions/process/do-steel-ingot-alloying)
 - [Make steel sheet](/docs/definitions/process/make-steel-sheet)
 - [Produce Terephthalic Acid](/docs/definitions/process/produce-terephthalic-acid)
 - [Produce Polyester Resin](/docs/definitions/process/produce-polyester-resin)
+- [Make Nylon](/docs/definitions/process/make-nylon)
+- [Make Kevlar](/docs/definitions/process/make-kevlar)
 - [Do steel ingot nickel alloying](/docs/definitions/process/do-steel-ingot-nickel-alloying)
+- [Make aluminum](/docs/definitions/process/make-aluminum)
+- [Fabricate wind turbine blade](/docs/definitions/process/fabricate-wind-turbine-blade)
+- [Fabricate wind turbine blade with Polycarbonate resin](/docs/definitions/process/fabricate-wind-turbine-blade-with-polycarbonate-resin)
+- [Fabricate wind turbine blade with Fiber Cloth](/docs/definitions/process/fabricate-wind-turbine-blade-with-fiber-cloth)
+- [Fabricate wind turbine blade with Epoxy resin](/docs/definitions/process/fabricate-wind-turbine-blade-with-epoxy-resin)
+- [Make polarizer film](/docs/definitions/process/make-polarizer-film)
+- [Make liquid crystal](/docs/definitions/process/make-liquid-crystal)
+- [Convert to high purity silicon](/docs/definitions/process/convert-to-high-purity-silicon)
 - [Make activated charcoal](/docs/definitions/process/make-activated-charcoal)
+- [Produce polycarbonate resin](/docs/definitions/process/produce-polycarbonate-resin)
+- [Produce polyurethane](/docs/definitions/process/produce-polyurethane)
+- [Produce polyurethane with Ethylene glycol](/docs/definitions/process/produce-polyurethane-with-ethylene-glycol)
 - [Produce bisphenol-a](/docs/definitions/process/produce-bisphenol-a)
-- [Manufacture resistors](/docs/definitions/process/manufacture-resistors)
-- [Manufacture resistors with Aluminum oxide](/docs/definitions/process/manufacture-resistors-with-aluminum-oxide)
-- [Manufacture capacitors](/docs/definitions/process/manufacture-capacitors)
-- [Manufacture capacitors with Aluminum oxide](/docs/definitions/process/manufacture-capacitors-with-aluminum-oxide)
-- [Make wheelbarrow](/docs/definitions/process/make-wheelbarrow)
+- [Manufacture resistor](/docs/definitions/process/manufacture-resistor)
+- [Manufacture resistor with Aluminum oxide](/docs/definitions/process/manufacture-resistor-with-aluminum-oxide)
+- [Manufacture capacitor](/docs/definitions/process/manufacture-capacitor)
+- [Manufacture capacitor with Aluminum oxide](/docs/definitions/process/manufacture-capacitor-with-aluminum-oxide)
+- [Manufacture diode](/docs/definitions/process/manufacture-diode)
+- [Manufacture diode with Aluminum oxide](/docs/definitions/process/manufacture-diode-with-aluminum-oxide)
+- [Manufacture power transistor](/docs/definitions/process/manufacture-power-transistor)
+- [Manufacture power transistor with Aluminum oxide](/docs/definitions/process/manufacture-power-transistor-with-aluminum-oxide)
 - [Make Thermoplastic Elastomer](/docs/definitions/process/make-thermoplastic-elastomer)
 - [Make Silicone Elastomer](/docs/definitions/process/make-silicone-elastomer)
+- [Manufacture wheelbarrow](/docs/definitions/process/manufacture-wheelbarrow)
 
 
     
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 

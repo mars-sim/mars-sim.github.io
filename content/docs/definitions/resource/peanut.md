@@ -25,21 +25,24 @@ No Description
 ## Used by Food Process
 
 - [Make Granola Bar](/docs/definitions/food/make-granola-bar)
-- [Make Granola Bar with Sugarcane Juice](/docs/definitions/food/make-granola-bar-with-sugarcane-juice)
+- [Make Granola Bar with glucose](/docs/definitions/food/make-granola-bar-with-glucose)
+- [Make Granola Bar with sugarcane juice](/docs/definitions/food/make-granola-bar-with-sugarcane-juice)
 - [Make Granola Bar with Blueberry](/docs/definitions/food/make-granola-bar-with-blueberry)
+- [Make Granola Bar with rice](/docs/definitions/food/make-granola-bar-with-rice)
 - [Make Granola Bar with Wheat](/docs/definitions/food/make-granola-bar-with-wheat)
-- [Make Granola Bar with Rice](/docs/definitions/food/make-granola-bar-with-rice)
 - [Make Okara Protein Bar](/docs/definitions/food/make-okara-protein-bar)
-- [Make Okara Protein Bar with Sugarcane Juice](/docs/definitions/food/make-okara-protein-bar-with-sugarcane-juice)
+- [Make Okara Protein Bar with Spirulina](/docs/definitions/food/make-okara-protein-bar-with-spirulina)
+- [Make Okara Protein Bar with glucose](/docs/definitions/food/make-okara-protein-bar-with-glucose)
+- [Make Okara Protein Bar with sugarcane juice](/docs/definitions/food/make-okara-protein-bar-with-sugarcane-juice)
 - [Make Okara Protein Bar with Blueberry](/docs/definitions/food/make-okara-protein-bar-with-blueberry)
+- [Make Okara Protein Bar with rice](/docs/definitions/food/make-okara-protein-bar-with-rice)
 - [Make Okara Protein Bar with Wheat](/docs/definitions/food/make-okara-protein-bar-with-wheat)
-- [Make Okara Protein Bar with Rice](/docs/definitions/food/make-okara-protein-bar-with-rice)
 - [Press and Refine Peanut Oil from Peanuts](/docs/definitions/food/press-and-refine-peanut-oil-from-peanuts)
 - [Chop and Roast Peanuts in Oven](/docs/definitions/food/chop-and-roast-peanuts-in-oven)
 - [Make Peanut Butter from Peanuts](/docs/definitions/food/make-peanut-butter-from-peanuts)
 
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 

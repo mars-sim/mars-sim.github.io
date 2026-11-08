@@ -18,8 +18,8 @@ a basic electrical component.
 
 ## Made by Manufacturing Process
 
-- [Manufacture diodes](/docs/definitions/process/manufacture-diodes)
-- [Manufacture diodes with Aluminum oxide](/docs/definitions/process/manufacture-diodes-with-aluminum-oxide)
+- [Manufacture diode](/docs/definitions/process/manufacture-diode)
+- [Manufacture diode with Aluminum oxide](/docs/definitions/process/manufacture-diode-with-aluminum-oxide)
 
 ## Used by Manufacturing Process
 
@@ -30,10 +30,11 @@ a basic electrical component.
 - [Manufacture logic board with Aluminum oxide](/docs/definitions/process/manufacture-logic-board-with-aluminum-oxide)
 - [Manufacture plasma cutter](/docs/definitions/process/manufacture-plasma-cutter)
 - [Manufacture plasma cutter with Aluminum oxide](/docs/definitions/process/manufacture-plasma-cutter-with-aluminum-oxide)
+- [Manufacture data recorder](/docs/definitions/process/manufacture-data-recorder)
 
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 
 

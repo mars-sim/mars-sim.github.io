@@ -17,7 +17,7 @@ hide_summary: true
 |Skill Level:|2|
 |Tech Level:|2|
 |Process Time:|50.0 millisols|
-|Tooling:|Soldering|
+|Tooling:|Fabrication|
 |Work Level:|50.0 millisols|
 |Power Required:|0.1 kW/hr|
 
@@ -25,20 +25,20 @@ hide_summary: true
 
 | Input      | Amount |
 |--------:|:------|
-|[Electrical Wire](/docs/definitions/part/electrical-wire)|Part|1|
-|[Sand](/docs/definitions/resource/sand)|Resource|0.25 kg|
-|[Styrene](/docs/definitions/resource/styrene)|Resource|0.05 kg|
+|[Iron powder](/docs/definitions/resource/iron-powder)|Resource|0.1 kg|
+|[Sand](/docs/definitions/resource/sand)|Resource|2.4 kg|
+|[Styrene](/docs/definitions/resource/styrene)|Resource|0.5 kg|
 
 ## Products
 
 
 | Produce      | Amount |
 |--------:|:------|
-|[Metal Oxide Varistor](/docs/definitions/part/metal-oxide-varistor)|4|
+|[Metal oxide varistor](/docs/definitions/part/metal-oxide-varistor)|10|
 
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 
 

@@ -28,17 +28,19 @@ a cable made of optic fiber
 - [Make radio antenna with Polycarbonate resin](/docs/definitions/process/make-radio-antenna-with-polycarbonate-resin)
 - [Make EVA antenna](/docs/definitions/process/make-eva-antenna)
 - [Make EVA antenna with Polycarbonate resin](/docs/definitions/process/make-eva-antenna-with-polycarbonate-resin)
+- [Manufacture SLS 3D Printer](/docs/definitions/process/manufacture-sls-3d-printer)
+- [Assemble Passenger Drone](/docs/definitions/process/assemble-passenger-drone)
 - [Assemble Cargo Drone](/docs/definitions/process/assemble-cargo-drone)
 - [Assemble Delivery Drone](/docs/definitions/process/assemble-delivery-drone)
 - [Assemble LUV](/docs/definitions/process/assemble-luv)
-- [Assemble explorer rover](/docs/definitions/process/assemble-explorer-rover)
-- [Assemble transport rover](/docs/definitions/process/assemble-transport-rover)
-- [Assemble cargo rover](/docs/definitions/process/assemble-cargo-rover)
-- [Manufacture SLS 3D Printer](/docs/definitions/process/manufacture-sls-3d-printer)
+- [Assemble Explorer Rover](/docs/definitions/process/assemble-explorer-rover)
+- [Assemble Long Range Explorer](/docs/definitions/process/assemble-long-range-explorer)
+- [Assemble Transport Rover](/docs/definitions/process/assemble-transport-rover)
+- [Assemble Cargo Rover](/docs/definitions/process/assemble-cargo-rover)
 
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 
 

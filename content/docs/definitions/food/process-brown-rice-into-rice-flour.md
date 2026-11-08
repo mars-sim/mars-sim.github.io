@@ -1,6 +1,6 @@
 ---
-title: Food Recipe - Process Brown Rice into Rice Flour
-linkTitle: Process Brown Rice into Rice Flour
+title: Food Recipe - Process Brown Rice into Rice flour
+linkTitle: Process Brown Rice into Rice flour
 toc_hide: true
 hide_summary: true
 ---
@@ -24,7 +24,7 @@ hide_summary: true
 | Input      | Amount |
 |--------:|:------|
 |[Brown Rice](/docs/definitions/resource/brown-rice)|Resource|1.0 kg|
-|[Water](/docs/definitions/resource/water)|Resource|3.0 kg|
+|[water](/docs/definitions/resource/water)|Resource|3.0 kg|
 
 ## Outcomes
 
@@ -32,13 +32,13 @@ hide_summary: true
 | Produce      | Amount |
 |--------:|:------|
 |[Food Waste](/docs/definitions/resource/food-waste)|0.032 kg|
-|[Grey Water](/docs/definitions/resource/grey-water)|2.9 kg|
-|[Rice Flour](/docs/definitions/resource/rice-flour)|0.856 kg|
+|[grey water](/docs/definitions/resource/grey-water)|2.9 kg|
 |[rice bran oil](/docs/definitions/resource/rice-bran-oil)|0.112 kg|
+|[rice flour](/docs/definitions/resource/rice-flour)|0.856 kg|
 
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 
 

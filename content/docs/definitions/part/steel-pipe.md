@@ -14,7 +14,7 @@ A density of 7.8 g/cm3. length of 1m. Thickness of 2mm. Diameter of 20mm
 | Attribute      | Value |
 |--------:|:------|
 |Mass:|0.882 kg|
-|Type:|Metallic|
+|Type:|Construction|
 
 ## Made by Manufacturing Process
 
@@ -22,19 +22,23 @@ A density of 7.8 g/cm3. length of 1m. Thickness of 2mm. Diameter of 20mm
 
 ## Used by Manufacturing Process
 
-- [Assemble explorer rover](/docs/definitions/process/assemble-explorer-rover)
-- [Assemble transport rover](/docs/definitions/process/assemble-transport-rover)
-- [Assemble cargo rover](/docs/definitions/process/assemble-cargo-rover)
+- [Assemble drilling rig](/docs/definitions/process/assemble-drilling-rig)
 - [Manufacture oven](/docs/definitions/process/manufacture-oven)
 - [Manufacture transformer](/docs/definitions/process/manufacture-transformer)
 - [Manufacture electrostatic precipitator](/docs/definitions/process/manufacture-electrostatic-precipitator)
 - [Make methane fuel cell stack](/docs/definitions/process/make-methane-fuel-cell-stack)
-- [Make methanol fuel cell stack](/docs/definitions/process/make-methanol-fuel-cell-stack)
+- [Make large methanol fuel cell stack](/docs/definitions/process/make-large-methanol-fuel-cell-stack)
+- [Make medium methanol fuel cell stack](/docs/definitions/process/make-medium-methanol-fuel-cell-stack)
 - [Manufacture turbopump](/docs/definitions/process/manufacture-turbopump)
+- [Manufacture mud pump](/docs/definitions/process/manufacture-mud-pump)
+- [Assemble Explorer Rover](/docs/definitions/process/assemble-explorer-rover)
+- [Assemble Long Range Explorer](/docs/definitions/process/assemble-long-range-explorer)
+- [Assemble Transport Rover](/docs/definitions/process/assemble-transport-rover)
+- [Assemble Cargo Rover](/docs/definitions/process/assemble-cargo-rover)
 
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 
 

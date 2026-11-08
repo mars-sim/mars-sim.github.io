@@ -12,8 +12,8 @@ hide_summary: true
 | Attribute      | Value |
 |--------:|:------|
 |Type:|Manufacture|
-|Skill Level:|1|
-|Tech Level:|1|
+|Skill Level:|2|
+|Tech Level:|2|
 |Process Time:|50.0 millisols|
 |Tooling:|Soldering|
 |Work Level:|80.0 millisols|
@@ -37,7 +37,7 @@ hide_summary: true
 
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 
 

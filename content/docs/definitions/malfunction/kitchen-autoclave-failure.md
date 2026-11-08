@@ -35,7 +35,7 @@ hide_summary: true
 |[Ventilation fan](/docs/definitions/part/ventilation-fan)|1|15.0|
 |[Water pump small](/docs/definitions/part/water-pump-small)|1|5.0|
 |[Wire connector](/docs/definitions/part/wire-connector)|2|25.0|
-|[Work gloves](/docs/definitions/part/work-gloves)|1|10.0|
+|[Work glove](/docs/definitions/part/work-glove)|1|10.0|
 
 ## Impacts
 
@@ -48,5 +48,5 @@ hide_summary: true
 |---|---|
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 

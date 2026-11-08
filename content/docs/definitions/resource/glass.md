@@ -20,9 +20,17 @@ For making vessels
 
 ## Used by Manufacturing Process
 
+- [Make clear glass bottle](/docs/definitions/process/make-clear-glass-bottle)
+- [Make glass sheet](/docs/definitions/process/make-glass-sheet)
 - [Make helmet visor](/docs/definitions/process/make-helmet-visor)
+- [Fabricate wind turbine blade with Glass](/docs/definitions/process/fabricate-wind-turbine-blade-with-glass)
 - [Fabricate solar panel](/docs/definitions/process/fabricate-solar-panel)
 - [Fabricate solar parabolic mirror](/docs/definitions/process/fabricate-solar-parabolic-mirror)
+- [Manufacture LCD screen](/docs/definitions/process/manufacture-lcd-screen)
+- [Manufacture memory module](/docs/definitions/process/manufacture-memory-module)
+- [Manufacture microcontroller](/docs/definitions/process/manufacture-microcontroller)
+- [Manufacture optical lens](/docs/definitions/process/manufacture-optical-lens)
+- [Manufacture optical prism](/docs/definitions/process/manufacture-optical-prism)
 - [Manufacture optical cable](/docs/definitions/process/manufacture-optical-cable)
 - [Manufacture helium neon laser](/docs/definitions/process/manufacture-helium-neon-laser)
 - [Make ceramic electrolyte](/docs/definitions/process/make-ceramic-electrolyte)
@@ -36,6 +44,6 @@ For making vessels
     
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 

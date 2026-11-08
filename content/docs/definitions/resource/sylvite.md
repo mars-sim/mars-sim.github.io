@@ -17,6 +17,9 @@ Or sylvine, is potassium chloride (KCl) in natural&#10;&#9; mineral form. It for
 |Type:|Mineral|
 |Form:|Solid|
  
+## Made by Manufacturing Process
+
+- [Prepare potassium chloride](/docs/definitions/process/prepare-potassium-chloride)
 
 ## Used by Manufacturing Process
 
@@ -26,6 +29,6 @@ Or sylvine, is potassium chloride (KCl) in natural&#10;&#9; mineral form. It for
     
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 

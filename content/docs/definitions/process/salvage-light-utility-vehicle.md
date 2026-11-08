@@ -1,6 +1,6 @@
 ---
-title: Manufacturing Process - Salvage light utility vehicle
-linkTitle: Salvage light utility vehicle
+title: Manufacturing Process - Salvage Light Utility Vehicle
+linkTitle: Salvage Light Utility Vehicle
 toc_hide: true
 hide_summary: true
 ---
@@ -23,7 +23,7 @@ hide_summary: true
 
 | Input      | Amount |
 |--------:|:------|
-|[light utility vehicle](/docs/definitions/vehicle/light-utility-vehicle)|Vehicle|1|
+|[Light Utility Vehicle](/docs/definitions/vehicle/light-utility-vehicle)|Vehicle|1|
 
 ## Products
 
@@ -48,7 +48,7 @@ hide_summary: true
 
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 
 

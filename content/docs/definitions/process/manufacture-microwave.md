@@ -13,7 +13,7 @@ hide_summary: true
 |--------:|:------|
 |Type:|Manufacture|
 |Skill Level:|2|
-|Tech Level:|1|
+|Tech Level:|2|
 |Process Time:|20.0 millisols|
 |Tooling:|Soldering|
 |Work Level:|200.0 millisols|
@@ -23,12 +23,12 @@ hide_summary: true
 
 | Input      | Amount |
 |--------:|:------|
+|[Polyethylene HDPE sheet](/docs/definitions/part/polyethylene-hdpe-sheet)|Part|1|
+|[Steel sheet](/docs/definitions/part/steel-sheet)|Part|2|
 |[electrical wire](/docs/definitions/part/electrical-wire)|Part|1|
 |[logic board](/docs/definitions/part/logic-board)|Part|1|
 |[microcontroller](/docs/definitions/part/microcontroller)|Part|1|
-|[plastic sheet](/docs/definitions/part/plastic-sheet)|Part|1|
 |[power transistor](/docs/definitions/part/power-transistor)|Part|1|
-|[steel sheet](/docs/definitions/part/steel-sheet)|Part|2|
 |[transformer](/docs/definitions/part/transformer)|Part|1|
 |[wire connector](/docs/definitions/part/wire-connector)|Part|5|
 
@@ -41,7 +41,7 @@ hide_summary: true
 
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 
 

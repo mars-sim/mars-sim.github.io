@@ -24,12 +24,12 @@ A biopolymer sensor that can be printed on a wide range of materials &#10;&#9;&#
 
 ## Used by Manufacturing Process
 
-- [Assemble a RepairBot](/docs/definitions/process/assemble-a-repairbot)
+- [Assemble repairBot](/docs/definitions/process/assemble-repairbot)
 - [Assemble EVA suit](/docs/definitions/process/assemble-eva-suit)
 
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 
 

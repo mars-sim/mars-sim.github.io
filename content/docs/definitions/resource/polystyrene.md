@@ -31,18 +31,19 @@ hide_summary: true
 - [Manufacture utility vehicle control panel](/docs/definitions/process/manufacture-utility-vehicle-control-panel)
 - [Manufacture utility vehicle control panel with Polycarbonate resin](/docs/definitions/process/manufacture-utility-vehicle-control-panel-with-polycarbonate-resin)
 - [Manufacture utility vehicle control panel with Polypropylene](/docs/definitions/process/manufacture-utility-vehicle-control-panel-with-polypropylene)
-- [Assemble LUV](/docs/definitions/process/assemble-luv)
-- [Assemble explorer rover](/docs/definitions/process/assemble-explorer-rover)
-- [Assemble transport rover](/docs/definitions/process/assemble-transport-rover)
-- [Assemble cargo rover](/docs/definitions/process/assemble-cargo-rover)
 - [Make aerogel tile](/docs/definitions/process/make-aerogel-tile)
 - [Manufacture insulation board](/docs/definitions/process/manufacture-insulation-board)
 - [Manufacture insulation board with Aluminum oxide](/docs/definitions/process/manufacture-insulation-board-with-aluminum-oxide)
+- [Assemble LUV](/docs/definitions/process/assemble-luv)
+- [Assemble Explorer Rover](/docs/definitions/process/assemble-explorer-rover)
+- [Assemble Long Range Explorer](/docs/definitions/process/assemble-long-range-explorer)
+- [Assemble Transport Rover](/docs/definitions/process/assemble-transport-rover)
+- [Assemble Cargo Rover](/docs/definitions/process/assemble-cargo-rover)
 
 
     
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 

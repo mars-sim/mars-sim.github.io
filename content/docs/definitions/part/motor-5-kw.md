@@ -25,10 +25,12 @@ A motor with 5 kW power output can be used in hybrid models and &#10;&#9;&#9;aut
 - [Assemble backhoe](/docs/definitions/process/assemble-backhoe)
 - [Manufacture crane boom](/docs/definitions/process/manufacture-crane-boom)
 - [Make air compressor](/docs/definitions/process/make-air-compressor)
+- [Assemble Delivery Drone](/docs/definitions/process/assemble-delivery-drone)
+- [Assemble LUV](/docs/definitions/process/assemble-luv)
 
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 
 

@@ -28,12 +28,13 @@ no description available.
 - [Manufacture utility vehicle control panel](/docs/definitions/process/manufacture-utility-vehicle-control-panel)
 - [Manufacture utility vehicle control panel with Polycarbonate resin](/docs/definitions/process/manufacture-utility-vehicle-control-panel-with-polycarbonate-resin)
 - [Manufacture utility vehicle control panel with Polypropylene](/docs/definitions/process/manufacture-utility-vehicle-control-panel-with-polypropylene)
+- [Assemble Passenger Drone](/docs/definitions/process/assemble-passenger-drone)
 - [Assemble Cargo Drone](/docs/definitions/process/assemble-cargo-drone)
 - [Assemble Delivery Drone](/docs/definitions/process/assemble-delivery-drone)
 
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 
 

@@ -22,17 +22,26 @@ hide_summary: true
 
 - [Make crop fertilizers](/docs/definitions/process/make-crop-fertilizers)
 - [Make crop fertilizers with potash lye](/docs/definitions/process/make-crop-fertilizers-with-potash-lye)
-- [Make crop fertilizers with Ammonia](/docs/definitions/process/make-crop-fertilizers-with-ammonia)
-- [Make crop fertilizers with iron powder](/docs/definitions/process/make-crop-fertilizers-with-iron-powder)
-- [Make crop fertilizers with copper](/docs/definitions/process/make-crop-fertilizers-with-copper)
+- [Make crop fertilizers with Compost](/docs/definitions/process/make-crop-fertilizers-with-compost)
+- [Make crop fertilizers with Oxygen](/docs/definitions/process/make-crop-fertilizers-with-oxygen)
+- [Make crop fertilizers with Iron powder](/docs/definitions/process/make-crop-fertilizers-with-iron-powder)
 - [Make crop fertilizers with Crop Waste](/docs/definitions/process/make-crop-fertilizers-with-crop-waste)
 - [Make crop fertilizers with Nitrite](/docs/definitions/process/make-crop-fertilizers-with-nitrite)
-- [Make crop fertilizers with hydrogen](/docs/definitions/process/make-crop-fertilizers-with-hydrogen)
+- [Make crop fertilizers with Carbon](/docs/definitions/process/make-crop-fertilizers-with-carbon)
+- [Make crop fertilizers with Calcium sulfate](/docs/definitions/process/make-crop-fertilizers-with-calcium-sulfate)
+- [Make crop fertilizers with Rock samples](/docs/definitions/process/make-crop-fertilizers-with-rock-samples)
+- [Make crop fertilizers with Ammonia](/docs/definitions/process/make-crop-fertilizers-with-ammonia)
+- [Make crop fertilizers with Lime](/docs/definitions/process/make-crop-fertilizers-with-lime)
+- [Make crop fertilizers with Chromium](/docs/definitions/process/make-crop-fertilizers-with-chromium)
+- [Make crop fertilizers with Copper](/docs/definitions/process/make-crop-fertilizers-with-copper)
+- [Make crop fertilizers with Sandstone](/docs/definitions/process/make-crop-fertilizers-with-sandstone)
+- [Make crop fertilizers with Food](/docs/definitions/process/make-crop-fertilizers-with-food)
+- [Make crop fertilizers with Manganese](/docs/definitions/process/make-crop-fertilizers-with-manganese)
 
 
     
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 

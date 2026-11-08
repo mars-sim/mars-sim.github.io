@@ -1,6 +1,6 @@
 ---
-title: Food Recipe - Process Wheat into Wheat Flour
-linkTitle: Process Wheat into Wheat Flour
+title: Food Recipe - Process Wheat into Wheat flour
+linkTitle: Process Wheat into Wheat flour
 toc_hide: true
 hide_summary: true
 ---
@@ -23,8 +23,8 @@ hide_summary: true
 
 | Input      | Amount |
 |--------:|:------|
-|[Water](/docs/definitions/resource/water)|Resource|3.0 kg|
 |[Wheat](/docs/definitions/resource/wheat)|Resource|1.0 kg|
+|[water](/docs/definitions/resource/water)|Resource|3.0 kg|
 
 ## Outcomes
 
@@ -32,12 +32,12 @@ hide_summary: true
 | Produce      | Amount |
 |--------:|:------|
 |[Crop Waste](/docs/definitions/resource/crop-waste)|0.208 kg|
-|[Grey Water](/docs/definitions/resource/grey-water)|2.9 kg|
-|[Wheat Flour](/docs/definitions/resource/wheat-flour)|0.792 kg|
+|[Wheat flour](/docs/definitions/resource/wheat-flour)|0.792 kg|
+|[grey water](/docs/definitions/resource/grey-water)|2.9 kg|
 
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 
 

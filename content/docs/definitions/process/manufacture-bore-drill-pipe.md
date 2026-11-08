@@ -13,7 +13,7 @@ hide_summary: true
 |--------:|:------|
 |Type:|Manufacture|
 |Skill Level:|2|
-|Tech Level:|2|
+|Tech Level:|1|
 |Process Time:|150.0 millisols|
 |Tooling:|Metalwork|
 |Work Level:|180.0 millisols|
@@ -23,8 +23,8 @@ hide_summary: true
 
 | Input      | Amount |
 |--------:|:------|
+|[Steel sheet](/docs/definitions/part/steel-sheet)|Part|3|
 |[calcium](/docs/definitions/resource/calcium)|Resource|1.0 kg|
-|[steel sheet](/docs/definitions/part/steel-sheet)|Part|3|
 
 ## Products
 
@@ -35,7 +35,7 @@ hide_summary: true
 
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 
 

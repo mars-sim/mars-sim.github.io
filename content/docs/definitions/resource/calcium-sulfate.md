@@ -20,21 +20,24 @@ hide_summary: true
 ## Made by Manufacturing Process
 
 - [Purify rock salt into compounds](/docs/definitions/process/purify-rock-salt-into-compounds)
+- [Obtain Flourine from Fluorite](/docs/definitions/process/obtain-flourine-from-fluorite)
+- [Obtain Flourine from Fluorapatite](/docs/definitions/process/obtain-flourine-from-fluorapatite)
 
 ## Used by Manufacturing Process
 
 - [Make paper, napkin and toilet tissue from pulp](/docs/definitions/process/make-paper--napkin-and-toilet-tissue-from-pulp)
 - [Make paper, napkin and toilet tissue from pulp (large batch)](/docs/definitions/process/make-paper--napkin-and-toilet-tissue-from-pulp--large-batch-)
+- [Make crop fertilizers with Calcium sulfate](/docs/definitions/process/make-crop-fertilizers-with-calcium-sulfate)
 
 
     
 ## Used by Food Process
 
 - [Make Tofu from Soymilk and Calcium Sulfate](/docs/definitions/food/make-tofu-from-soymilk-and-calcium-sulfate)
-- [Process White Rice into Rice Flour](/docs/definitions/food/process-white-rice-into-rice-flour)
+- [Process White Rice into Rice flour](/docs/definitions/food/process-white-rice-into-rice-flour)
 
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 

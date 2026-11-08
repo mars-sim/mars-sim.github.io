@@ -1,6 +1,6 @@
 ---
-title: Food Recipe - Process White Rice into Rice Flour
-linkTitle: Process White Rice into Rice Flour
+title: Food Recipe - Process White Rice into Rice flour
+linkTitle: Process White Rice into Rice flour
 toc_hide: true
 hide_summary: true
 ---
@@ -23,21 +23,21 @@ hide_summary: true
 
 | Input      | Amount |
 |--------:|:------|
-|[Water](/docs/definitions/resource/water)|Resource|3.0 kg|
 |[White Rice](/docs/definitions/resource/white-rice)|Resource|1.0 kg|
 |[calcium sulfate](/docs/definitions/resource/calcium-sulfate)|Resource|0.05 kg|
+|[water](/docs/definitions/resource/water)|Resource|3.0 kg|
 
 ## Outcomes
 
 
 | Produce      | Amount |
 |--------:|:------|
-|[Rice Flour](/docs/definitions/resource/rice-flour)|1.0 kg|
-|[Water](/docs/definitions/resource/water)|2.9 kg|
+|[rice flour](/docs/definitions/resource/rice-flour)|1.0 kg|
+|[water](/docs/definitions/resource/water)|2.9 kg|
 
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 
 

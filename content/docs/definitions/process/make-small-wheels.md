@@ -23,8 +23,8 @@ hide_summary: true
 
 | Input      | Amount |
 |--------:|:------|
+|[Steel sheet](/docs/definitions/part/steel-sheet)|Part|1|
 |[magnesium](/docs/definitions/resource/magnesium)|Resource|0.8 kg|
-|[steel sheet](/docs/definitions/part/steel-sheet)|Part|1|
 |[steel wire](/docs/definitions/part/steel-wire)|Part|20|
 
 ## Products
@@ -36,7 +36,7 @@ hide_summary: true
 
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 
 

@@ -23,11 +23,15 @@ No Description
 ## Made by Food Process
 
 - [Make Blueberry Muffin](/docs/definitions/food/make-blueberry-muffin)
+- [Make Blueberry Muffin with glucose](/docs/definitions/food/make-blueberry-muffin-with-glucose)
+- [Make Blueberry Muffin with sugarcane juice](/docs/definitions/food/make-blueberry-muffin-with-sugarcane-juice)
 - [Make Okara Blueberry Muffin](/docs/definitions/food/make-okara-blueberry-muffin)
+- [Make Okara Blueberry Muffin with glucose](/docs/definitions/food/make-okara-blueberry-muffin-with-glucose)
+- [Make Okara Blueberry Muffin with sugarcane juice](/docs/definitions/food/make-okara-blueberry-muffin-with-sugarcane-juice)
 
     
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 

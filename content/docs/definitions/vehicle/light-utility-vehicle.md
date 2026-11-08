@@ -18,10 +18,10 @@ The Light Utility Vehicle (LUV) is a small, unpressurized, one crew utility vehi
 |Base Speed:|30.0 kmph|
 |Crew Size:|1|
 |Cargo Capacity:|300.0 kg|
-|Empty Mass:|245.73999999999998 kg|
+|Empty Mass:|270.04 kg|
 |Width:|1.7|
 |Length:|2.55|
-|Base Range:|743.51 km|
+|Base Range:|4640.17 km|
 |Fuel Efficiency:|0.9|
 |Attachment Slots:|3|
 
@@ -40,9 +40,9 @@ Total storage: 300.0 kg
 
 | Resource      | Amount |
 |--------:|:------|
-|[Methanol](/docs/definitions/resource/methanol)|10.0|
-|[Oxygen](/docs/definitions/resource/oxygen)|15.0|
+|[Oxygen](/docs/definitions/resource/oxygen)|20.0|
+|[Methane](/docs/definitions/resource/methane)|20.0|
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 

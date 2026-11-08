@@ -13,7 +13,7 @@ A steel pipe for drilling and lining bore holes.
 
 | Attribute      | Value |
 |--------:|:------|
-|Mass:|50.0 kg|
+|Mass:|24.4 kg|
 |Type:|Tool|
 
 ## Made by Manufacturing Process
@@ -23,7 +23,7 @@ A steel pipe for drilling and lining bore holes.
 
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 
 

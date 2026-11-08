@@ -12,41 +12,64 @@ hide_summary: true
 |--------:|:------|
 |Process Time:|200 millisols|
 |Work Time:|10 millisols|
-|Power Required:|0.01 kW/hr|
-|Start On:|false|
+|Power Required:| kW/hr|
+|Start On:|true|
 
 ## Inputs
 | Name      | Input Rate (kg/sol) | Minimum kg | Ambient |
 |--------:|:------|-----:|:----|
-|[Brine Water](/docs/definitions/resource/brine-water)|400.0|0.02|false|
+|[Brine Water](/docs/definitions/resource/brine-water)|3900.0|0.195|false|
 
 Ambient inputs are consumed from the environment.
 
 ## Outputs
 | Name      | Output Rate (kg/sol) | Waste Output |
 |--------:|:------|-----:|:----|
-|[Sulfur](/docs/definitions/resource/sulfur)|0.2|false|
-|[Goethite](/docs/definitions/resource/goethite)|1.5|false|
-|[Iron oxide](/docs/definitions/resource/iron-oxide)|1.6|false|
-|[Hematite](/docs/definitions/resource/hematite)|1.5|false|
-|[Silica](/docs/definitions/resource/silica)|1.2|false|
-|[Water](/docs/definitions/resource/water)|384.0|false|
-|[Calcium](/docs/definitions/resource/calcium)|0.5|false|
-|[Perchlorate](/docs/definitions/resource/perchlorate)|0.4|false|
+|[Water](/docs/definitions/resource/water)|3500.0|false|
+|[Aluminum oxide](/docs/definitions/resource/aluminum-oxide)|8.0|false|
+|[Calcium carbonate](/docs/definitions/resource/calcium-carbonate)|15.0|false|
+|[Iron chloride](/docs/definitions/resource/iron-chloride)|1.0|false|
+|[Regolith](/docs/definitions/resource/regolith)|200.0|false|
+|[Gypsum](/docs/definitions/resource/gypsum)|50.0|false|
+|[Chalcopyrite](/docs/definitions/resource/chalcopyrite)|8.0|false|
+|[Goethite](/docs/definitions/resource/goethite)|8.0|false|
+|[Hematite](/docs/definitions/resource/hematite)|8.0|false|
+|[Kamacite](/docs/definitions/resource/kamacite)|8.0|false|
+|[Iron oxide](/docs/definitions/resource/iron-oxide)|15.0|false|
+|[Magnesite](/docs/definitions/resource/magnesite)|5.0|false|
+|[Magnetite](/docs/definitions/resource/magnetite)|5.0|false|
+|[Fluorite](/docs/definitions/resource/fluorite)|5.0|false|
+|[Malachite](/docs/definitions/resource/malachite)|8.0|false|
+|[Fluorapatite](/docs/definitions/resource/fluorapatite)|5.0|false|
+|[Aluminum](/docs/definitions/resource/aluminum)|1.0|false|
+|[Olivine](/docs/definitions/resource/olivine)|12.0|false|
+|[Plagioclase feldspar](/docs/definitions/resource/plagioclase-feldspar)|12.0|false|
+|[Calcium](/docs/definitions/resource/calcium)|7.0|false|
+|[Pyroxene](/docs/definitions/resource/pyroxene)|12.0|false|
+|[Chromium](/docs/definitions/resource/chromium)|1.0|false|
+|[Sylvite](/docs/definitions/resource/sylvite)|12.0|false|
+|[Taenite](/docs/definitions/resource/taenite)|12.0|false|
 |[Copper](/docs/definitions/resource/copper)|1.0|false|
-|[Sand](/docs/definitions/resource/sand)|1.8|false|
-|[Magnesium](/docs/definitions/resource/magnesium)|0.9|false|
-|[Manganese](/docs/definitions/resource/manganese)|0.1|false|
-|[Nickel](/docs/definitions/resource/nickel)|0.5|false|
-|[Gypsum](/docs/definitions/resource/gypsum)|1.5|false|
-|[Lime](/docs/definitions/resource/lime)|1.0|false|
-|[Aluminum oxide](/docs/definitions/resource/aluminum-oxide)|0.8|false|
-|[Calcium carbonate](/docs/definitions/resource/calcium-carbonate)|1.5|false|
+|[Gold](/docs/definitions/resource/gold)|1.0|false|
+|[Magnesium](/docs/definitions/resource/magnesium)|9.0|false|
+|[Manganese](/docs/definitions/resource/manganese)|1.0|false|
+|[Nickel](/docs/definitions/resource/nickel)|5.0|false|
+|[Platinum](/docs/definitions/resource/platinum)|1.0|false|
+|[Scandium](/docs/definitions/resource/scandium)|1.0|false|
+|[Sand](/docs/definitions/resource/sand)|40.0|false|
+|[Silver](/docs/definitions/resource/silver)|1.0|false|
+|[Sulfur](/docs/definitions/resource/sulfur)|8.0|false|
+|[Tin](/docs/definitions/resource/tin)|1.0|false|
+|[Titanium](/docs/definitions/resource/titanium)|1.0|false|
+|[Vanadium](/docs/definitions/resource/vanadium)|1.0|false|
+|[Zinc](/docs/definitions/resource/zinc)|1.0|false|
+|[Lime](/docs/definitions/resource/lime)|10.0|false|
+|[Perchlorate](/docs/definitions/resource/perchlorate)|20.0|false|
 
 Waste outputs are released into the environment and do not need to be stored.
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 
 

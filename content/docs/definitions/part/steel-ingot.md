@@ -19,6 +19,7 @@ no description available.
 ## Made by Manufacturing Process
 
 - [Do steel ingot alloying](/docs/definitions/process/do-steel-ingot-alloying)
+- [Make steel ingot from iron oxide](/docs/definitions/process/make-steel-ingot-from-iron-oxide)
 - [Do steel ingot nickel alloying](/docs/definitions/process/do-steel-ingot-nickel-alloying)
 - [Recycle steel scrap](/docs/definitions/process/recycle-steel-scrap)
 
@@ -28,20 +29,20 @@ no description available.
 - [Draw steel wire](/docs/definitions/process/draw-steel-wire)
 - [Do steel cable winding](/docs/definitions/process/do-steel-cable-winding)
 - [Make steel valve](/docs/definitions/process/make-steel-valve)
+- [Manufacture pry bar](/docs/definitions/process/manufacture-pry-bar)
 - [Make spark plug](/docs/definitions/process/make-spark-plug)
-- [Make EVA boots](/docs/definitions/process/make-eva-boots)
-- [Make EVA boots with Soy fiber](/docs/definitions/process/make-eva-boots-with-soy-fiber)
-- [Make EVA boots with Polyester fiber](/docs/definitions/process/make-eva-boots-with-polyester-fiber)
-- [Make EVA pads](/docs/definitions/process/make-eva-pads)
-- [Make EVA pads with Soy fiber](/docs/definitions/process/make-eva-pads-with-soy-fiber)
-- [Make EVA pads with Polyester fiber](/docs/definitions/process/make-eva-pads-with-polyester-fiber)
+- [Make EVA boot](/docs/definitions/process/make-eva-boot)
+- [Make EVA boot with Soy fiber](/docs/definitions/process/make-eva-boot-with-soy-fiber)
+- [Make EVA boot with Polyester fiber](/docs/definitions/process/make-eva-boot-with-polyester-fiber)
+- [Make EVA pad](/docs/definitions/process/make-eva-pad)
+- [Make EVA pad with Soy fiber](/docs/definitions/process/make-eva-pad-with-soy-fiber)
+- [Make EVA pad with Polyester fiber](/docs/definitions/process/make-eva-pad-with-polyester-fiber)
 - [Make EVA backpack](/docs/definitions/process/make-eva-backpack)
 - [Make EVA backpack with Polypropylene](/docs/definitions/process/make-eva-backpack-with-polypropylene)
 - [Make EVA backpack with Soy fiber](/docs/definitions/process/make-eva-backpack-with-soy-fiber)
 - [Make EVA backpack with Polyester fiber](/docs/definitions/process/make-eva-backpack-with-polyester-fiber)
 - [Make small vehicle frame](/docs/definitions/process/make-small-vehicle-frame)
 - [Make large vehicle frame](/docs/definitions/process/make-large-vehicle-frame)
-- [Manufacture rover windshield](/docs/definitions/process/manufacture-rover-windshield)
 - [Manufacture window](/docs/definitions/process/manufacture-window)
 - [Make winch](/docs/definitions/process/make-winch)
 - [Make socket wrench](/docs/definitions/process/make-socket-wrench)
@@ -51,11 +52,17 @@ no description available.
 - [Manufacture soil compactor](/docs/definitions/process/manufacture-soil-compactor)
 - [Manufacture steel truss](/docs/definitions/process/manufacture-steel-truss)
 - [Manufacture steel post](/docs/definitions/process/manufacture-steel-post)
+- [Fabricate wind turbine blade](/docs/definitions/process/fabricate-wind-turbine-blade)
+- [Fabricate wind turbine blade with Polycarbonate resin](/docs/definitions/process/fabricate-wind-turbine-blade-with-polycarbonate-resin)
+- [Fabricate wind turbine blade with Fiber Cloth](/docs/definitions/process/fabricate-wind-turbine-blade-with-fiber-cloth)
+- [Fabricate wind turbine blade with Glass](/docs/definitions/process/fabricate-wind-turbine-blade-with-glass)
+- [Fabricate wind turbine blade with Epoxy resin](/docs/definitions/process/fabricate-wind-turbine-blade-with-epoxy-resin)
 - [Manufacture bore drill bit](/docs/definitions/process/manufacture-bore-drill-bit)
+- [Make floodlight](/docs/definitions/process/make-floodlight)
 
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 
 

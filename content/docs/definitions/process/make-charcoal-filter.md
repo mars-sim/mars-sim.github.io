@@ -13,11 +13,11 @@ hide_summary: true
 |--------:|:------|
 |Type:|Manufacture|
 |Skill Level:|1|
-|Tech Level:|2|
-|Process Time:|50.0 millisols|
+|Tech Level:|1|
+|Process Time:|15.0 millisols|
 |Tooling:|3D Printer|
-|Work Level:|50.0 millisols|
-|Power Required:|0.2 kW/hr|
+|Work Level:|5.0 millisols|
+|Power Required:|0.1 kW/hr|
 
 ## Inputs
 
@@ -32,11 +32,11 @@ hide_summary: true
 
 | Produce      | Amount |
 |--------:|:------|
-|[charcoal filter](/docs/definitions/part/charcoal-filter)|1|
+|[charcoal filter](/docs/definitions/part/charcoal-filter)|5|
 
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 
 

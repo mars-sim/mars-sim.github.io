@@ -23,14 +23,13 @@ hide_summary: true
 
 | Input      | Amount |
 |--------:|:------|
+|[Gas tubing](/docs/definitions/part/gas-tubing)|Part|3|
 |[carbon dioxide pump](/docs/definitions/part/carbon-dioxide-pump)|Part|2|
 |[electrical wire](/docs/definitions/part/electrical-wire)|Part|1|
 |[fiberglass cloth](/docs/definitions/part/fiberglass-cloth)|Part|2|
-|[flexible hose](/docs/definitions/part/flexible-hose)|Part|3|
 |[gasket](/docs/definitions/part/gasket)|Part|2|
 |[heating element](/docs/definitions/part/heating-element)|Part|2|
 |[oxygen pump](/docs/definitions/part/oxygen-pump)|Part|2|
-|[plastic tubing](/docs/definitions/part/plastic-tubing)|Part|3|
 |[valve](/docs/definitions/part/valve)|Part|5|
 |[ventilation fan](/docs/definitions/part/ventilation-fan)|Part|2|
 |[wire connector](/docs/definitions/part/wire-connector)|Part|2|
@@ -44,7 +43,7 @@ hide_summary: true
 
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 
 

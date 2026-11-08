@@ -25,11 +25,11 @@ Mix flour, sugar, salt, baking soda, honey, and blueberry&#10;&#9;&#9;&#9;and ba
 |--------:|:------|
 |[Baking soda](/docs/definitions/resource/baking-soda)|Resource|0.1 kg|
 |[Blueberry](/docs/definitions/resource/blueberry)|Resource|0.2 kg|
-|[Honey](/docs/definitions/resource/honey)|Resource|0.1 kg|
-|[Sugar](/docs/definitions/resource/sugar)|Resource|0.2 kg|
-|[Water](/docs/definitions/resource/water)|Resource|2.0 kg|
-|[Wheat Flour](/docs/definitions/resource/wheat-flour)|Resource|1.5 kg|
+|[Wheat flour](/docs/definitions/resource/wheat-flour)|Resource|1.5 kg|
+|[glucose](/docs/definitions/resource/glucose)|Resource|0.2 kg|
+|[honey](/docs/definitions/resource/honey)|Resource|0.1 kg|
 |[table salt](/docs/definitions/resource/table-salt)|Resource|0.1 kg|
+|[water](/docs/definitions/resource/water)|Resource|2.0 kg|
 
 ## Outcomes
 
@@ -40,7 +40,7 @@ Mix flour, sugar, salt, baking soda, honey, and blueberry&#10;&#9;&#9;&#9;and ba
 
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 
 

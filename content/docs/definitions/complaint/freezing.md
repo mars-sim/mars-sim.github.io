@@ -10,15 +10,15 @@ hide_summary: true
 
 | Attribute      | Value |
 |--------:|:------|
-|Seriousness:|50|
+|Seriousness:|30|
 |Performance Impact:|0.5|
 |Probability:|0.0|
 |Degrade Time:|250.0 millisols|
-|Bed Rest:|true|
+|Bed Rest:|false|
 |Recovery Period:|1.0 to 1.1 sols|
 |Influenced by Effort:|NONE|
  
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 

@@ -13,34 +13,43 @@ Gasket is a sealing component, typically made from high-quality rubber, &#10;&#9
 
 | Attribute      | Value |
 |--------:|:------|
-|Mass:|0.1 kg|
+|Mass:|0.3 kg|
 |Type:|Utility|
 
 ## Made by Manufacturing Process
 
 - [Make gasket](/docs/definitions/process/make-gasket)
+- [Make gasket with Polypropylene](/docs/definitions/process/make-gasket-with-polypropylene)
+- [Make gasket with Polyurethane](/docs/definitions/process/make-gasket-with-polyurethane)
+- [Make gasket with Silicone elastomer](/docs/definitions/process/make-gasket-with-silicone-elastomer)
+- [Make gasket with polyethylene](/docs/definitions/process/make-gasket-with-polyethylene)
 
 ## Used by Manufacturing Process
 
 - [Make fire extinguisher](/docs/definitions/process/make-fire-extinguisher)
-- [Make gas canister](/docs/definitions/process/make-gas-canister)
 - [Make EVA helmet](/docs/definitions/process/make-eva-helmet)
+- [Make EVA helmet with Kevlar](/docs/definitions/process/make-eva-helmet-with-kevlar)
 - [Make EVA helmet with Polypropylene](/docs/definitions/process/make-eva-helmet-with-polypropylene)
-- [Make EVA helmet with Soy fiber](/docs/definitions/process/make-eva-helmet-with-soy-fiber)
-- [Make EVA helmet with Polyester fiber](/docs/definitions/process/make-eva-helmet-with-polyester-fiber)
 - [Make EVA backpack](/docs/definitions/process/make-eva-backpack)
 - [Make EVA backpack with Polypropylene](/docs/definitions/process/make-eva-backpack-with-polypropylene)
 - [Make EVA backpack with Soy fiber](/docs/definitions/process/make-eva-backpack-with-soy-fiber)
 - [Make EVA backpack with Polyester fiber](/docs/definitions/process/make-eva-backpack-with-polyester-fiber)
-- [Manufacture fuel tank](/docs/definitions/process/manufacture-fuel-tank)
+- [Manufacture large methane fuel tank](/docs/definitions/process/manufacture-large-methane-fuel-tank)
+- [Manufacture medium methane fuel tank](/docs/definitions/process/manufacture-medium-methane-fuel-tank)
+- [Manufacture small methane fuel tank](/docs/definitions/process/manufacture-small-methane-fuel-tank)
+- [Manufacture large methanol fuel tank](/docs/definitions/process/manufacture-large-methanol-fuel-tank)
+- [Manufacture medium methanol fuel tank](/docs/definitions/process/manufacture-medium-methanol-fuel-tank)
+- [Manufacture small methanol fuel tank](/docs/definitions/process/manufacture-small-methanol-fuel-tank)
 - [Manufacture gas tank](/docs/definitions/process/manufacture-gas-tank)
 - [Manufacture water tank](/docs/definitions/process/manufacture-water-tank)
 - [Manufacture pneumatic drill](/docs/definitions/process/manufacture-pneumatic-drill)
+- [Assemble drilling rig](/docs/definitions/process/assemble-drilling-rig)
 - [Make mushroom containment kit](/docs/definitions/process/make-mushroom-containment-kit)
+- [Manufacture gas canister](/docs/definitions/process/manufacture-gas-canister)
 
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 
 

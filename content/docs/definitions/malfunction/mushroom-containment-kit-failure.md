@@ -29,15 +29,15 @@ hide_summary: true
 |[Carbon dioxide pump](/docs/definitions/part/carbon-dioxide-pump)|3|5.0|
 |[Electrical wire](/docs/definitions/part/electrical-wire)|3|20.0|
 |[Fiberglass cloth](/docs/definitions/part/fiberglass-cloth)|3|5.0|
+|[Gas tubing](/docs/definitions/part/gas-tubing)|10|10.0|
 |[Gasket](/docs/definitions/part/gasket)|10|5.0|
 |[Heating element](/docs/definitions/part/heating-element)|3|10.0|
 |[Mushroom containment kit](/docs/definitions/part/mushroom-containment-kit)|1|5.0|
 |[Oxygen pump](/docs/definitions/part/oxygen-pump)|3|5.0|
-|[Plastic tubing](/docs/definitions/part/plastic-tubing)|10|10.0|
 |[Valve](/docs/definitions/part/valve)|10|5.0|
 |[Water pump small](/docs/definitions/part/water-pump-small)|3|10.0|
 |[Wire connector](/docs/definitions/part/wire-connector)|6|20.0|
-|[Work gloves](/docs/definitions/part/work-gloves)|1|10.0|
+|[Work glove](/docs/definitions/part/work-glove)|1|10.0|
 
 ## Impacts
 
@@ -50,5 +50,5 @@ hide_summary: true
 |---|---|
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 

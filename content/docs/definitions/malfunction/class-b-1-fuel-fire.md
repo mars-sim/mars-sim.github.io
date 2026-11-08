@@ -33,23 +33,21 @@ hide_summary: true
 |[Electrical wire](/docs/definitions/part/electrical-wire)|2|5.0|
 |[Fiberglass](/docs/definitions/part/fiberglass)|1|5.0|
 |[Fire extinguisher](/docs/definitions/part/fire-extinguisher)|2|45.0|
-|[Fuel tank](/docs/definitions/part/fuel-tank)|1|10.0|
+|[Fuel tank large methanol](/docs/definitions/part/fuel-tank-large-methanol)|1|10.0|
 |[Gas tank](/docs/definitions/part/gas-tank)|1|5.0|
 |[Methanol fuel cell](/docs/definitions/part/methanol-fuel-cell)|1|5.0|
-|[Methanol fuel cell stack](/docs/definitions/part/methanol-fuel-cell-stack)|1|1.0|
 |[Plastic pipe](/docs/definitions/part/plastic-pipe)|2|5.0|
-|[Plastic sheet](/docs/definitions/part/plastic-sheet)|1|5.0|
 |[Valve](/docs/definitions/part/valve)|3|5.0|
 |[Wire connector](/docs/definitions/part/wire-connector)|2|5.0|
-|[Work gloves](/docs/definitions/part/work-gloves)|1|10.0|
+|[Work glove](/docs/definitions/part/work-glove)|1|10.0|
 
 ## Impacts
 
 ### Medical Complaints
 |Complaint|Default Probability|
 |---|---|
-|Burns|5.0|
-|Minor Burns|15.0|
+|BURNS|5.0|
+|MINOR_BURNS|15.0|
 
 ### Life Support
 |Resource|Impact|
@@ -58,5 +56,5 @@ hide_summary: true
 |Temperature|0.01|
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 

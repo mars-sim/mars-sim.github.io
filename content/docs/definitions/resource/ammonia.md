@@ -24,11 +24,13 @@ hide_summary: true
 - [Make bleaching chemical for paper making (large batch)](/docs/definitions/process/make-bleaching-chemical-for-paper-making--large-batch-)
 - [Make cleaning agent with Ammonia](/docs/definitions/process/make-cleaning-agent-with-ammonia)
 - [Make crop fertilizers with Ammonia](/docs/definitions/process/make-crop-fertilizers-with-ammonia)
+- [Produce polyurethane](/docs/definitions/process/produce-polyurethane)
+- [Produce polyurethane with Ethylene glycol](/docs/definitions/process/produce-polyurethane-with-ethylene-glycol)
 
 
     
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 

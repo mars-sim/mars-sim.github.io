@@ -1,6 +1,6 @@
 ---
-title: Food Recipe - Bake Wheat Bun from Wheat Flour
-linkTitle: Bake Wheat Bun from Wheat Flour
+title: Food Recipe - Bake Wheat Bun from Wheat flour
+linkTitle: Bake Wheat Bun from Wheat flour
 toc_hide: true
 hide_summary: true
 ---
@@ -24,10 +24,10 @@ Bake Wheat Burger Bun from Wheat Flour
 | Input      | Amount |
 |--------:|:------|
 |[Sesame Seed](/docs/definitions/resource/sesame-seed)|Resource|0.05 kg|
-|[Water](/docs/definitions/resource/water)|Resource|1.0 kg|
-|[Wheat Flour](/docs/definitions/resource/wheat-flour)|Resource|0.95 kg|
-|[Yeast](/docs/definitions/resource/yeast)|Resource|0.01 kg|
+|[Wheat flour](/docs/definitions/resource/wheat-flour)|Resource|0.95 kg|
 |[oven](/docs/definitions/part/oven)|Part|1|
+|[water](/docs/definitions/resource/water)|Resource|1.0 kg|
+|[yeast](/docs/definitions/resource/yeast)|Resource|0.01 kg|
 
 ## Outcomes
 
@@ -39,7 +39,7 @@ Bake Wheat Burger Bun from Wheat Flour
 
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 
 

@@ -21,6 +21,7 @@ hide_summary: true
 ## Used by Manufacturing Process
 
 - [Produce polyester fiber](/docs/definitions/process/produce-polyester-fiber)
+- [Roll mylar film](/docs/definitions/process/roll-mylar-film)
 - [Convert bio-based oil into hydraulic fluid](/docs/definitions/process/convert-bio-based-oil-into-hydraulic-fluid)
 - [Convert bio-based oil into hydraulic fluid with Garlic Oil](/docs/definitions/process/convert-bio-based-oil-into-hydraulic-fluid-with-garlic-oil)
 - [Convert bio-based oil into hydraulic fluid with Sesame Oil](/docs/definitions/process/convert-bio-based-oil-into-hydraulic-fluid-with-sesame-oil)
@@ -28,11 +29,12 @@ hide_summary: true
 - [Convert bio-based oil into hydraulic fluid with Soybean Oil](/docs/definitions/process/convert-bio-based-oil-into-hydraulic-fluid-with-soybean-oil)
 - [Convert bio-based oil into hydraulic fluid with Fish Oil](/docs/definitions/process/convert-bio-based-oil-into-hydraulic-fluid-with-fish-oil)
 - [Convert bio-based oil into hydraulic fluid with Peanut Oil](/docs/definitions/process/convert-bio-based-oil-into-hydraulic-fluid-with-peanut-oil)
+- [Produce polyurethane with Ethylene glycol](/docs/definitions/process/produce-polyurethane-with-ethylene-glycol)
 
 
     
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 

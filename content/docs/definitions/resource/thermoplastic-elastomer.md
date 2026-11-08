@@ -1,6 +1,6 @@
 ---
-title: Resource - Thermoplastic Elastomer
-linkTitle: Thermoplastic Elastomer
+title: Resource - Thermoplastic elastomer
+linkTitle: Thermoplastic elastomer
 toc_hide: true
 hide_summary: true
 ---
@@ -25,14 +25,19 @@ hide_summary: true
 
 - [Make Liquid Cooling Garment](/docs/definitions/process/make-liquid-cooling-garment)
 - [Make Liquid Cooling Garment with Kevlar](/docs/definitions/process/make-liquid-cooling-garment-with-kevlar)
-- [Make Liquid Cooling Garment with Soy fiber](/docs/definitions/process/make-liquid-cooling-garment-with-soy-fiber)
-- [Make Liquid Cooling Garment with Polyester fiber](/docs/definitions/process/make-liquid-cooling-garment-with-polyester-fiber)
-- [Make Liquid Cooling Garment with Fiber cloth](/docs/definitions/process/make-liquid-cooling-garment-with-fiber-cloth)
+- [Make Liquid Cooling Garment with Polyurethane](/docs/definitions/process/make-liquid-cooling-garment-with-polyurethane)
+- [Make EVA glove](/docs/definitions/process/make-eva-glove)
+- [Make EVA glove with Soy fiber](/docs/definitions/process/make-eva-glove-with-soy-fiber)
+- [Make EVA glove with Polyester fiber](/docs/definitions/process/make-eva-glove-with-polyester-fiber)
+- [Make EVA boot](/docs/definitions/process/make-eva-boot)
+- [Make EVA boot with Soy fiber](/docs/definitions/process/make-eva-boot-with-soy-fiber)
+- [Make EVA boot with Polyester fiber](/docs/definitions/process/make-eva-boot-with-polyester-fiber)
+- [Manufacture thermal bottle with Thermoplastic elastomer](/docs/definitions/process/manufacture-thermal-bottle-with-thermoplastic-elastomer)
 
 
     
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 

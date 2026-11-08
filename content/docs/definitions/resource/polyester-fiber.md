@@ -24,21 +24,23 @@ hide_summary: true
 ## Used by Manufacturing Process
 
 - [Make Garment with Polyester fiber](/docs/definitions/process/make-garment-with-polyester-fiber)
-- [Make Liquid Cooling Garment with Polyester fiber](/docs/definitions/process/make-liquid-cooling-garment-with-polyester-fiber)
-- [Make EVA helmet with Polyester fiber](/docs/definitions/process/make-eva-helmet-with-polyester-fiber)
-- [Make pressure suit with Polyester fiber](/docs/definitions/process/make-pressure-suit-with-polyester-fiber)
-- [Make coveralls with Polyester Fiber](/docs/definitions/process/make-coveralls-with-polyester-fiber)
-- [Make EVA gloves with Polyester fiber](/docs/definitions/process/make-eva-gloves-with-polyester-fiber)
-- [Make EVA boots with Polyester fiber](/docs/definitions/process/make-eva-boots-with-polyester-fiber)
-- [Make EVA pads with Polyester fiber](/docs/definitions/process/make-eva-pads-with-polyester-fiber)
+- [Make Towel with Polyester fiber](/docs/definitions/process/make-towel-with-polyester-fiber)
+- [Make EVA glove with Polyester fiber](/docs/definitions/process/make-eva-glove-with-polyester-fiber)
+- [Make EVA boot with Polyester fiber](/docs/definitions/process/make-eva-boot-with-polyester-fiber)
+- [Make EVA pad with Polyester fiber](/docs/definitions/process/make-eva-pad-with-polyester-fiber)
 - [Make EVA backpack with Polyester fiber](/docs/definitions/process/make-eva-backpack-with-polyester-fiber)
-- [Make work gloves with Polyester Fiber](/docs/definitions/process/make-work-gloves-with-polyester-fiber)
+- [Make work glove with Polyester Fiber](/docs/definitions/process/make-work-glove-with-polyester-fiber)
+- [Make fiber cloth with Polyester Fiber](/docs/definitions/process/make-fiber-cloth-with-polyester-fiber)
+- [Fabricate wind turbine blade](/docs/definitions/process/fabricate-wind-turbine-blade)
+- [Fabricate wind turbine blade with Polycarbonate resin](/docs/definitions/process/fabricate-wind-turbine-blade-with-polycarbonate-resin)
+- [Fabricate wind turbine blade with Glass](/docs/definitions/process/fabricate-wind-turbine-blade-with-glass)
+- [Fabricate wind turbine blade with Epoxy resin](/docs/definitions/process/fabricate-wind-turbine-blade-with-epoxy-resin)
 - [Make biosensor with Polyester fiber](/docs/definitions/process/make-biosensor-with-polyester-fiber)
 
 
     
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 

@@ -24,12 +24,13 @@ hide_summary: true
 |[Cement](/docs/definitions/resource/cement)|Resource|150.0 kg|
 |[Concrete](/docs/definitions/resource/concrete)|Resource|150.0 kg|
 |[Electrical wire](/docs/definitions/part/electrical-wire)|Part|20|
-|[Fuel tank](/docs/definitions/part/fuel-tank)|Part|1|
+|[Fuel tank large methane](/docs/definitions/part/fuel-tank-large-methane)|Part|1|
 |[Gas tank](/docs/definitions/part/gas-tank)|Part|5|
+|[Gas tubing](/docs/definitions/part/gas-tubing)|Part|20|
 |[Gasket](/docs/definitions/part/gasket)|Part|10|
+|[Liquid tubing](/docs/definitions/part/liquid-tubing)|Part|10|
 |[Plastic bottle](/docs/definitions/part/plastic-bottle)|Part|50|
 |[Plastic pipe](/docs/definitions/part/plastic-pipe)|Part|8|
-|[Plastic tubing](/docs/definitions/part/plastic-tubing)|Part|6|
 |[Power cable](/docs/definitions/part/power-cable)|Part|2|
 |[Steel pipe](/docs/definitions/part/steel-pipe)|Part|6|
 |[Valve](/docs/definitions/part/valve)|Part|10|
@@ -39,5 +40,5 @@ hide_summary: true
 
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 

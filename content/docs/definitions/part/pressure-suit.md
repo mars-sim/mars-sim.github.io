@@ -20,8 +20,6 @@ Spandex inner EVA suit for counter pressure.
 
 - [Make pressure suit](/docs/definitions/process/make-pressure-suit)
 - [Make pressure suit with Polypropylene](/docs/definitions/process/make-pressure-suit-with-polypropylene)
-- [Make pressure suit with Soy fiber](/docs/definitions/process/make-pressure-suit-with-soy-fiber)
-- [Make pressure suit with Polyester fiber](/docs/definitions/process/make-pressure-suit-with-polyester-fiber)
 
 ## Used by Manufacturing Process
 
@@ -29,7 +27,7 @@ Spandex inner EVA suit for counter pressure.
 
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 
 

@@ -15,9 +15,9 @@ hide_summary: true
 |--------:|:------|
 |Type:|Manufacture|
 |Skill Level:|3|
-|Tech Level:|2|
+|Tech Level:|3|
 |Process Time:|100.0 millisols|
-|Tooling:|Soldering|
+|Tooling:|Fabrication|
 |Work Level:|300.0 millisols|
 |Power Required:|1.0 kW/hr|
 
@@ -25,7 +25,7 @@ hide_summary: true
 
 | Input      | Amount |
 |--------:|:------|
-|[Polypropylene](/docs/definitions/resource/polypropylene)|Resource|5.0 kg|
+|[Polypropylene](/docs/definitions/resource/polypropylene)|Resource|5.63 kg|
 |[electrical wire](/docs/definitions/part/electrical-wire)|Part|12|
 |[iron sheet](/docs/definitions/part/iron-sheet)|Part|1|
 |[lithium](/docs/definitions/resource/lithium)|Resource|0.05 kg|
@@ -43,7 +43,7 @@ hide_summary: true
 
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 
 

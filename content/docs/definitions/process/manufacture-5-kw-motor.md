@@ -23,11 +23,11 @@ hide_summary: true
 
 | Input      | Amount |
 |--------:|:------|
+|[Steel sheet](/docs/definitions/part/steel-sheet)|Part|1|
 |[copper wire](/docs/definitions/part/copper-wire)|Part|9|
 |[electrical wire](/docs/definitions/part/electrical-wire)|Part|9|
 |[iron ingot](/docs/definitions/part/iron-ingot)|Part|1|
 |[iron sheet](/docs/definitions/part/iron-sheet)|Part|1|
-|[steel sheet](/docs/definitions/part/steel-sheet)|Part|1|
 |[wire connector](/docs/definitions/part/wire-connector)|Part|9|
 
 ## Products
@@ -39,7 +39,7 @@ hide_summary: true
 
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 
 

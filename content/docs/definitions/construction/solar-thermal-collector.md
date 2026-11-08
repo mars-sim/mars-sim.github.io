@@ -23,8 +23,9 @@ hide_summary: true
 |[Electrical wire](/docs/definitions/part/electrical-wire)|Part|20|
 |[Glass tube](/docs/definitions/part/glass-tube)|Part|6|
 |[Heat pump](/docs/definitions/part/heat-pump)|Part|1|
+|[Liquid tubing](/docs/definitions/part/liquid-tubing)|Part|3|
 |[Power cable](/docs/definitions/part/power-cable)|Part|2|
-|[Solar parabolic mirror](/docs/definitions/part/solar-parabolic-mirror)|Part|3|
+|[Solar parabolic mirror](/docs/definitions/part/solar-parabolic-mirror)|Part|20|
 |[Steel pipe](/docs/definitions/part/steel-pipe)|Part|10|
 |[Stepper motor](/docs/definitions/part/stepper-motor)|Part|4|
 |[Water](/docs/definitions/resource/water)|Resource|200.0 kg|
@@ -35,5 +36,5 @@ hide_summary: true
 
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 

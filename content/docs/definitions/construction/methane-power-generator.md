@@ -21,10 +21,10 @@ hide_summary: true
 |:-----|:-----|-----:|
 |[Aerogel tile](/docs/definitions/part/aerogel-tile)|Part|65|
 |[Electrical wire](/docs/definitions/part/electrical-wire)|Part|20|
-|[Fuel tank](/docs/definitions/part/fuel-tank)|Part|5|
+|[Fuel tank large methane](/docs/definitions/part/fuel-tank-large-methane)|Part|5|
+|[Gas tubing](/docs/definitions/part/gas-tubing)|Part|6|
 |[Gasket](/docs/definitions/part/gasket)|Part|6|
 |[Methane fuel cell stack](/docs/definitions/part/methane-fuel-cell-stack)|Part|4|
-|[Plastic tubing](/docs/definitions/part/plastic-tubing)|Part|6|
 |[Power cable](/docs/definitions/part/power-cable)|Part|6|
 |[Valve](/docs/definitions/part/valve)|Part|6|
 |[Wire connector](/docs/definitions/part/wire-connector)|Part|20|
@@ -32,5 +32,5 @@ hide_summary: true
 
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 

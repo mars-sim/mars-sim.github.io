@@ -17,7 +17,7 @@ hide_summary: true
 |Skill Level:|2|
 |Tech Level:|3|
 |Process Time:|150.0 millisols|
-|Tooling:|3D Printer|
+|Tooling:|Fabrication|
 |Work Level:|100.0 millisols|
 |Power Required:|0.1 kW/hr|
 
@@ -25,8 +25,8 @@ hide_summary: true
 
 | Input      | Amount |
 |--------:|:------|
-|[aerogel tile](/docs/definitions/part/aerogel-tile)|Part|8|
-|[glass sheet](/docs/definitions/part/glass-sheet)|Part|1|
+|[Aerogel tile](/docs/definitions/part/aerogel-tile)|Part|8|
+|[Glass sheet](/docs/definitions/part/glass-sheet)|Part|1|
 |[steel ingot](/docs/definitions/part/steel-ingot)|Part|1|
 
 ## Products
@@ -38,7 +38,7 @@ hide_summary: true
 
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 
 

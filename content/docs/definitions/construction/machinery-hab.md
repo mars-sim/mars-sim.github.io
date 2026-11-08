@@ -24,8 +24,9 @@ hide_summary: true
 |[Aluminum sheet](/docs/definitions/part/aluminum-sheet)|Part|10|
 |[Electrical wire](/docs/definitions/part/electrical-wire)|Part|25|
 |[Fiberglass](/docs/definitions/part/fiberglass)|Part|5|
+|[Gas tubing](/docs/definitions/part/gas-tubing)|Part|10|
+|[Liquid tubing](/docs/definitions/part/liquid-tubing)|Part|5|
 |[Plastic pipe](/docs/definitions/part/plastic-pipe)|Part|7|
-|[Plastic sheet](/docs/definitions/part/plastic-sheet)|Part|5|
 |[Polyester resin](/docs/definitions/resource/polyester-resin)|Resource|25.0 kg|
 |[Polyethylene](/docs/definitions/resource/polyethylene)|Resource|50.0 kg|
 |[Steel sheet](/docs/definitions/part/steel-sheet)|Part|10|
@@ -37,5 +38,5 @@ hide_summary: true
 
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 

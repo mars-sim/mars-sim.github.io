@@ -14,7 +14,7 @@ hide_summary: true
 |Type:|Manufacture|
 |Skill Level:|2|
 |Tech Level:|2|
-|Process Time:|300.0 millisols|
+|Process Time:|100.0 millisols|
 |Tooling:|3D Printer|
 |Work Level:|100.0 millisols|
 |Power Required:|0.2 kW/hr|
@@ -23,14 +23,15 @@ hide_summary: true
 
 | Input      | Amount |
 |--------:|:------|
-|[Aluminized mylar](/docs/definitions/resource/aluminized-mylar)|Resource|0.25 kg|
-|[Cane fiber](/docs/definitions/resource/cane-fiber)|Resource|0.2 kg|
+|[Aluminized mylar](/docs/definitions/resource/aluminized-mylar)|Resource|0.08 kg|
 |[Electrical wire](/docs/definitions/part/electrical-wire)|Part|2|
+|[Fiber cloth](/docs/definitions/resource/fiber-cloth)|Resource|0.5 kg|
+|[Gas tubing](/docs/definitions/part/gas-tubing)|Part|2|
 |[Gasket](/docs/definitions/part/gasket)|Part|2|
-|[Plastic tubing](/docs/definitions/part/plastic-tubing)|Part|2|
+|[Nylon](/docs/definitions/resource/nylon)|Resource|0.3 kg|
 |[Polycarbonate resin](/docs/definitions/resource/polycarbonate-resin)|Resource|0.5 kg|
 |[Polyethylene](/docs/definitions/resource/polyethylene)|Resource|0.5 kg|
-|[Wire connector](/docs/definitions/part/wire-connector)|Part|10|
+|[Wire connector](/docs/definitions/part/wire-connector)|Part|2|
 
 ## Products
 
@@ -41,7 +42,7 @@ hide_summary: true
 
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 
 

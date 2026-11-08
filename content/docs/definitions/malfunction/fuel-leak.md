@@ -29,12 +29,12 @@ hide_summary: true
 |Part|Number|Default Probability|
 |---|---|---|
 |[Decontamination kit](/docs/definitions/part/decontamination-kit)|1|30.0|
-|[Fuel tank](/docs/definitions/part/fuel-tank)|1|10.0|
+|[Fuel tank large methane](/docs/definitions/part/fuel-tank-large-methane)|1|10.0|
+|[Gas tubing](/docs/definitions/part/gas-tubing)|1|15.0|
 |[Gasket](/docs/definitions/part/gasket)|1|15.0|
 |[Plastic bottle](/docs/definitions/part/plastic-bottle)|1|15.0|
-|[Plastic tubing](/docs/definitions/part/plastic-tubing)|1|15.0|
 |[Valve](/docs/definitions/part/valve)|1|15.0|
-|[Work gloves](/docs/definitions/part/work-gloves)|1|10.0|
+|[Work glove](/docs/definitions/part/work-glove)|1|10.0|
 
 ## Impacts
 
@@ -47,5 +47,5 @@ hide_summary: true
 |---|---|
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 

@@ -22,7 +22,6 @@ no description available.
 
 ## Used by Manufacturing Process
 
-- [Assemble a RepairBot](/docs/definitions/process/assemble-a-repairbot)
 - [Make fuel pump](/docs/definitions/process/make-fuel-pump)
 - [Make oxygen pump](/docs/definitions/process/make-oxygen-pump)
 - [Make carbon dioxide pump](/docs/definitions/process/make-carbon-dioxide-pump)
@@ -41,10 +40,11 @@ no description available.
 - [Manufacture autoclave](/docs/definitions/process/manufacture-autoclave)
 - [Manufacture SLS 3D Printer](/docs/definitions/process/manufacture-sls-3d-printer)
 - [Manufacture transformer](/docs/definitions/process/manufacture-transformer)
+- [Assemble repairBot](/docs/definitions/process/assemble-repairbot)
 
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 
 

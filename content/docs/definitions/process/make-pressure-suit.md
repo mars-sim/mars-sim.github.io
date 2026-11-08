@@ -23,22 +23,22 @@ hide_summary: true
 
 | Input      | Amount |
 |--------:|:------|
-|[Cane fiber](/docs/definitions/resource/cane-fiber)|Resource|0.3 kg|
-|[Plastic tubing](/docs/definitions/part/plastic-tubing)|Part|3|
-|[Polyester resin](/docs/definitions/resource/polyester-resin)|Resource|0.5 kg|
+|[Fiber cloth](/docs/definitions/resource/fiber-cloth)|Resource|0.3 kg|
+|[Gas tubing](/docs/definitions/part/gas-tubing)|Part|2|
+|[Polyester resin](/docs/definitions/resource/polyester-resin)|Resource|0.1 kg|
 |[Polyethylene](/docs/definitions/resource/polyethylene)|Resource|0.2 kg|
-|[Silicone elastomer](/docs/definitions/resource/silicone-elastomer)|Resource|1.0 kg|
+|[Silicone elastomer](/docs/definitions/resource/silicone-elastomer)|Resource|0.3 kg|
 
 ## Products
 
 
 | Produce      | Amount |
 |--------:|:------|
-|[Pressure suit](/docs/definitions/part/pressure-suit)|2|
+|[Pressure suit](/docs/definitions/part/pressure-suit)|1|
 
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 
 

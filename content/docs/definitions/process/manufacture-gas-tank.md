@@ -23,11 +23,11 @@ hide_summary: true
 
 | Input      | Amount |
 |--------:|:------|
+|[Gas tubing](/docs/definitions/part/gas-tubing)|Part|1|
+|[Steel sheet](/docs/definitions/part/steel-sheet)|Part|2|
 |[acetylene](/docs/definitions/resource/acetylene)|Resource|0.1 kg|
 |[gasket](/docs/definitions/part/gasket)|Part|1|
 |[plastic bottle](/docs/definitions/part/plastic-bottle)|Part|1|
-|[plastic tubing](/docs/definitions/part/plastic-tubing)|Part|1|
-|[steel sheet](/docs/definitions/part/steel-sheet)|Part|2|
 |[valve](/docs/definitions/part/valve)|Part|1|
 
 ## Products
@@ -39,7 +39,7 @@ hide_summary: true
 
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 
 

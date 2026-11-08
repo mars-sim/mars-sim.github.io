@@ -12,11 +12,12 @@ description: Resupply Manifests that are used to resupply a Settlement templates
 
 - [Standard Resupply 1](../manifest/standard-resupply-1)
 - [Food Resupply 1](../manifest/food-resupply-1)
+- [Resupply for Phase 0](../manifest/resupply-for-phase-0)
 - [Resupply for Phase 1](../manifest/resupply-for-phase-1)
 - [Resupply for Phase 2](../manifest/resupply-for-phase-2)
 - [Resupply for Phase 3](../manifest/resupply-for-phase-3)
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 

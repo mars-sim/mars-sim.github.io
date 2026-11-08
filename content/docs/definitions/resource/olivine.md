@@ -23,6 +23,6 @@ A magnesium iron silicate (Mg2+, Fe2+)2SiO4. A type&#10;&#9; of nesosilicate or 
     
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 

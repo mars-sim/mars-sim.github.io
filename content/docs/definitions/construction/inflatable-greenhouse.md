@@ -22,20 +22,21 @@ hide_summary: true
 |[Aerogel tile](/docs/definitions/part/aerogel-tile)|Part|114|
 |[Air duct](/docs/definitions/part/air-duct)|Part|10|
 |[Aluminum sheet](/docs/definitions/part/aluminum-sheet)|Part|3|
-|[Electrical wire](/docs/definitions/part/electrical-wire)|Part|5|
+|[Electrical wire](/docs/definitions/part/electrical-wire)|Part|50|
 |[Fiberglass](/docs/definitions/part/fiberglass)|Part|5|
+|[Gas tubing](/docs/definitions/part/gas-tubing)|Part|10|
+|[Liquid tubing](/docs/definitions/part/liquid-tubing)|Part|5|
 |[Plastic pipe](/docs/definitions/part/plastic-pipe)|Part|5|
-|[Plastic sheet](/docs/definitions/part/plastic-sheet)|Part|10|
-|[Polycarbonate roofing](/docs/definitions/part/polycarbonate-roofing)|Part|12|
+|[Polycarbonate panel](/docs/definitions/part/polycarbonate-panel)|Part|14|
 |[Polyester resin](/docs/definitions/resource/polyester-resin)|Resource|5.0 kg|
 |[Polyethylene](/docs/definitions/resource/polyethylene)|Resource|10.0 kg|
 |[Styrene](/docs/definitions/resource/styrene)|Resource|1.0 kg|
-|[Valve](/docs/definitions/part/valve)|Part|5|
+|[Valve](/docs/definitions/part/valve)|Part|50|
 |[Window](/docs/definitions/part/window)|Part|6|
-|[Wire connector](/docs/definitions/part/wire-connector)|Part|5|
+|[Wire connector](/docs/definitions/part/wire-connector)|Part|50|
 
 
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 

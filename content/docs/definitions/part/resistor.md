@@ -18,19 +18,22 @@ a basic electrical component.
 
 ## Made by Manufacturing Process
 
-- [Manufacture resistors](/docs/definitions/process/manufacture-resistors)
-- [Manufacture resistors with Aluminum oxide](/docs/definitions/process/manufacture-resistors-with-aluminum-oxide)
+- [Manufacture resistor](/docs/definitions/process/manufacture-resistor)
+- [Manufacture resistor with Aluminum oxide](/docs/definitions/process/manufacture-resistor-with-aluminum-oxide)
 
 ## Used by Manufacturing Process
 
+- [Manufacture radio](/docs/definitions/process/manufacture-radio)
+- [Manufacture loudspeaker](/docs/definitions/process/manufacture-loudspeaker)
 - [Manufacture logic board](/docs/definitions/process/manufacture-logic-board)
 - [Manufacture logic board with Aluminum oxide](/docs/definitions/process/manufacture-logic-board-with-aluminum-oxide)
 - [Manufacture plasma cutter](/docs/definitions/process/manufacture-plasma-cutter)
 - [Manufacture plasma cutter with Aluminum oxide](/docs/definitions/process/manufacture-plasma-cutter-with-aluminum-oxide)
+- [Manufacture data recorder](/docs/definitions/process/manufacture-data-recorder)
 
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 
 

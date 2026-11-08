@@ -25,11 +25,11 @@ Make Immune Booster with minerals and fiber
 |--------:|:------|
 |[Blueberry](/docs/definitions/resource/blueberry)|Resource|0.02 kg|
 |[Calcium](/docs/definitions/resource/calcium)|Resource|0.028 kg|
-|[Cane Fiber](/docs/definitions/resource/cane-fiber)|Resource|0.1 kg|
 |[Magnesium](/docs/definitions/resource/magnesium)|Resource|0.028 kg|
 |[Phosphorus](/docs/definitions/resource/phosphorus)|Resource|0.07 kg|
 |[Potassium](/docs/definitions/resource/potassium)|Resource|0.018 kg|
 |[Zinc](/docs/definitions/resource/zinc)|Resource|0.01 kg|
+|[cane fiber](/docs/definitions/resource/cane-fiber)|Resource|0.1 kg|
 
 ## Outcomes
 
@@ -40,7 +40,7 @@ Make Immune Booster with minerals and fiber
 
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 
 

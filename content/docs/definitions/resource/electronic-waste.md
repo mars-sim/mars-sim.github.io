@@ -23,6 +23,6 @@ Electronic waste comprises discarded electronic devices, circuit boards and scra
     
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 

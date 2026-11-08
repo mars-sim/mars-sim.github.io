@@ -20,25 +20,42 @@ An element.
 ## Made by Manufacturing Process
 
 - [Break down meteorite](/docs/definitions/process/break-down-meteorite)
+- [Cast aluminum ingot](/docs/definitions/process/cast-aluminum-ingot)
+- [Make aluminum](/docs/definitions/process/make-aluminum)
 
 ## Used by Manufacturing Process
 
+- [Make aluminum sheet](/docs/definitions/process/make-aluminum-sheet)
+- [Roll aluminum sheet](/docs/definitions/process/roll-aluminum-sheet)
 - [Roll aluminized mylar foil](/docs/definitions/process/roll-aluminized-mylar-foil)
-- [Manufacture thermal bottle](/docs/definitions/process/manufacture-thermal-bottle)
+- [Make steering wheel](/docs/definitions/process/make-steering-wheel)
+- [Make steering wheel with Polycarbonate resin](/docs/definitions/process/make-steering-wheel-with-polycarbonate-resin)
+- [Make steering wheel with Styrene](/docs/definitions/process/make-steering-wheel-with-styrene)
+- [Fabricate wind turbine blade](/docs/definitions/process/fabricate-wind-turbine-blade)
+- [Fabricate wind turbine blade with Polycarbonate resin](/docs/definitions/process/fabricate-wind-turbine-blade-with-polycarbonate-resin)
+- [Fabricate wind turbine blade with Fiber Cloth](/docs/definitions/process/fabricate-wind-turbine-blade-with-fiber-cloth)
+- [Fabricate wind turbine blade with Glass](/docs/definitions/process/fabricate-wind-turbine-blade-with-glass)
+- [Fabricate wind turbine blade with Epoxy resin](/docs/definitions/process/fabricate-wind-turbine-blade-with-epoxy-resin)
+- [Manufacture EVA battery](/docs/definitions/process/manufacture-eva-battery)
+- [Manufacture EVA battery with Polypropylene](/docs/definitions/process/manufacture-eva-battery-with-polypropylene)
 - [Make ceramic electrolyte](/docs/definitions/process/make-ceramic-electrolyte)
 - [Make methane solid oxide fuel cells](/docs/definitions/process/make-methane-solid-oxide-fuel-cells)
 - [Make methanol fuel cells](/docs/definitions/process/make-methanol-fuel-cells)
-- [Manufacture resistors](/docs/definitions/process/manufacture-resistors)
-- [Manufacture capacitors](/docs/definitions/process/manufacture-capacitors)
-- [Manufacture diodes](/docs/definitions/process/manufacture-diodes)
+- [Manufacture resistor](/docs/definitions/process/manufacture-resistor)
+- [Manufacture capacitor](/docs/definitions/process/manufacture-capacitor)
+- [Manufacture diode](/docs/definitions/process/manufacture-diode)
+- [Manufacture power transistor](/docs/definitions/process/manufacture-power-transistor)
 - [Manufacture logic board](/docs/definitions/process/manufacture-logic-board)
 - [Manufacture plasma cutter](/docs/definitions/process/manufacture-plasma-cutter)
 - [Manufacture insulation board](/docs/definitions/process/manufacture-insulation-board)
+- [Manufacture insulation board with Styrene](/docs/definitions/process/manufacture-insulation-board-with-styrene)
+- [Manufacture thermal bottle](/docs/definitions/process/manufacture-thermal-bottle)
+- [Manufacture thermal bottle with Thermoplastic elastomer](/docs/definitions/process/manufacture-thermal-bottle-with-thermoplastic-elastomer)
 
 
     
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 

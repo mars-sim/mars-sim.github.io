@@ -12,10 +12,10 @@ hide_summary: true
 | Attribute      | Value |
 |--------:|:------|
 |Type:|Manufacture|
-|Skill Level:|3|
+|Skill Level:|4|
 |Tech Level:|3|
 |Process Time:|200.0 millisols|
-|Tooling:|Soldering|
+|Tooling:|Fabrication|
 |Work Level:|80.0 millisols|
 |Power Required:|0.01 kW/hr|
 
@@ -31,11 +31,11 @@ hide_summary: true
 
 | Produce      | Amount |
 |--------:|:------|
-|[CMOS sensor](/docs/definitions/part/cmos-sensor)|20|
+|[CMOS sensor](/docs/definitions/part/cmos-sensor)|5|
 
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 
 

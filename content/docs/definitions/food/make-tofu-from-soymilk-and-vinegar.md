@@ -23,8 +23,8 @@ hide_summary: true
 
 | Input      | Amount |
 |--------:|:------|
-|[Rice Vinegar](/docs/definitions/resource/rice-vinegar)|Resource|0.039 kg|
-|[Soymilk](/docs/definitions/resource/soymilk)|Resource|2.5 kg|
+|[rice vinegar](/docs/definitions/resource/rice-vinegar)|Resource|0.039 kg|
+|[soymilk](/docs/definitions/resource/soymilk)|Resource|2.5 kg|
 |[stove](/docs/definitions/part/stove)|Part|1|
 
 ## Outcomes
@@ -32,13 +32,13 @@ hide_summary: true
 
 | Produce      | Amount |
 |--------:|:------|
-|[Grey Water](/docs/definitions/resource/grey-water)|0.4 kg|
 |[Tofu](/docs/definitions/resource/tofu)|2.1 kg|
+|[grey water](/docs/definitions/resource/grey-water)|0.4 kg|
 |[stove](/docs/definitions/part/stove)|1|
 
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 
 

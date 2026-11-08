@@ -15,16 +15,16 @@ The Long Range Explorer is an extended range version of the Explorer Rover.
 |--------:|:------|
 |Type:|EXPLORER_ROVER|
 |Model:|A|
-|Base Speed:|40.0 kmph|
+|Base Speed:|35.0 kmph|
 |Crew Size:|4|
 |Cargo Capacity:|2400.0 kg|
-|Empty Mass:|931.2559999999999 kg|
+|Empty Mass:|1134.04 kg|
 |Width:|3.5|
 |Length:|8.0|
-|Base Range:|762.81 km|
+|Base Range:|2044.5 km|
 |Fuel Efficiency:|0.85|
-|Lab Tech Level:|1|
-|Lab Specialties:|[AREOLOGY, CHEMISTRY]|
+|Lab Tech Level:|2|
+|Lab Specialties:|[AREOLOGY, ASTROBIOLOGY, CHEMISTRY, METEOROLOGY]|
 |Sickbay Tech Level:|2|
 |Sickbay Beds:|1|
 |Attachment Slots:|0|
@@ -36,18 +36,18 @@ Total storage: 2400.0 kg
 
 | Resource      | Amount |
 |--------:|:------|
-|[Food waste](/docs/definitions/resource/food-waste)|8.0|
+|[Water](/docs/definitions/resource/water)|300.0|
+|[Food](/docs/definitions/resource/food)|90.0|
+|[Oxygen](/docs/definitions/resource/oxygen)|250.0|
+|[Black water](/docs/definitions/resource/black-water)|10.0|
+|[Carbon dioxide](/docs/definitions/resource/carbon-dioxide)|20.0|
+|[Grey water](/docs/definitions/resource/grey-water)|20.0|
+|[Nitrogen](/docs/definitions/resource/nitrogen)|2.0|
 |[Methanol](/docs/definitions/resource/methanol)|180.0|
+|[Food waste](/docs/definitions/resource/food-waste)|8.0|
 |[Toxic waste](/docs/definitions/resource/toxic-waste)|4.0|
 |[Solid waste](/docs/definitions/resource/solid-waste)|20.0|
-|[Water](/docs/definitions/resource/water)|300.0|
-|[Black water](/docs/definitions/resource/black-water)|10.0|
-|[Food](/docs/definitions/resource/food)|90.0|
-|[Grey water](/docs/definitions/resource/grey-water)|20.0|
-|[Oxygen](/docs/definitions/resource/oxygen)|250.0|
-|[Carbon dioxide](/docs/definitions/resource/carbon-dioxide)|20.0|
-|[Nitrogen](/docs/definitions/resource/nitrogen)|2.0|
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 

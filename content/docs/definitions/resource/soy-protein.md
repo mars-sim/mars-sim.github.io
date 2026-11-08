@@ -22,17 +22,17 @@ Protein extract derived from Soybean.
 
 ## Made by Food Process
 
-- [Extract Soy Protein from Soy Flour](/docs/definitions/food/extract-soy-protein-from-soy-flour)
+- [Extract Soy Protein from Soy flour](/docs/definitions/food/extract-soy-protein-from-soy-flour)
 
     
 ## Used by Food Process
 
 - [Make Peanut Butter from Peanuts](/docs/definitions/food/make-peanut-butter-from-peanuts)
-- [Make Wheat Noodles from Wheat Flour](/docs/definitions/food/make-wheat-noodles-from-wheat-flour)
-- [Make Rice Noodles from Rice Flour](/docs/definitions/food/make-rice-noodles-from-rice-flour)
+- [Make Wheat Noodles from Wheat flour](/docs/definitions/food/make-wheat-noodles-from-wheat-flour)
+- [Make Rice Noodles from Rice flour](/docs/definitions/food/make-rice-noodles-from-rice-flour)
 
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 

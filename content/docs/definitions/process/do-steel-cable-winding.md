@@ -16,7 +16,7 @@ hide_summary: true
 |Tech Level:|0|
 |Process Time:|20.0 millisols|
 |Tooling:|Metalwork|
-|Work Level:|50.0 millisols|
+|Work Level:|40.0 millisols|
 |Power Required:|0.1 kW/hr|
 
 ## Inputs
@@ -34,7 +34,7 @@ hide_summary: true
 
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 
 

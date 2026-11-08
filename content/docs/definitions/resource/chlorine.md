@@ -24,11 +24,12 @@ No Description
 ## Used by Manufacturing Process
 
 - [Make cleaning agent with Chlorine](/docs/definitions/process/make-cleaning-agent-with-chlorine)
+- [Prepare potassium chloride](/docs/definitions/process/prepare-potassium-chloride)
 
 
     
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 

@@ -17,32 +17,30 @@ No Description
 |Type:|Compound|
 |Form:|Solid|
  
-## Made by Manufacturing Process
-
-- [Roll aluminum sheet](/docs/definitions/process/roll-aluminum-sheet)
 
 ## Used by Manufacturing Process
 
 - [Cast aluminum ingot](/docs/definitions/process/cast-aluminum-ingot)
-- [Cast aluminum ingot (large batch)](/docs/definitions/process/cast-aluminum-ingot--large-batch-)
 - [Make aluminum sheet](/docs/definitions/process/make-aluminum-sheet)
 - [Roll aluminized mylar foil with Aluminum oxide](/docs/definitions/process/roll-aluminized-mylar-foil-with-aluminum-oxide)
 - [Make spark plug](/docs/definitions/process/make-spark-plug)
-- [Manufacture thermal bottle with Aluminum oxide](/docs/definitions/process/manufacture-thermal-bottle-with-aluminum-oxide)
+- [Make aluminum](/docs/definitions/process/make-aluminum)
 - [Make ceramic electrolyte with Aluminum oxide](/docs/definitions/process/make-ceramic-electrolyte-with-aluminum-oxide)
 - [Make methane solid oxide fuel cells with Aluminum oxide](/docs/definitions/process/make-methane-solid-oxide-fuel-cells-with-aluminum-oxide)
 - [Make methanol fuel cells with Aluminum oxide](/docs/definitions/process/make-methanol-fuel-cells-with-aluminum-oxide)
-- [Manufacture resistors with Aluminum oxide](/docs/definitions/process/manufacture-resistors-with-aluminum-oxide)
-- [Manufacture capacitors with Aluminum oxide](/docs/definitions/process/manufacture-capacitors-with-aluminum-oxide)
-- [Manufacture diodes with Aluminum oxide](/docs/definitions/process/manufacture-diodes-with-aluminum-oxide)
+- [Manufacture resistor with Aluminum oxide](/docs/definitions/process/manufacture-resistor-with-aluminum-oxide)
+- [Manufacture capacitor with Aluminum oxide](/docs/definitions/process/manufacture-capacitor-with-aluminum-oxide)
+- [Manufacture diode with Aluminum oxide](/docs/definitions/process/manufacture-diode-with-aluminum-oxide)
+- [Manufacture power transistor with Aluminum oxide](/docs/definitions/process/manufacture-power-transistor-with-aluminum-oxide)
 - [Manufacture logic board with Aluminum oxide](/docs/definitions/process/manufacture-logic-board-with-aluminum-oxide)
 - [Manufacture plasma cutter with Aluminum oxide](/docs/definitions/process/manufacture-plasma-cutter-with-aluminum-oxide)
 - [Manufacture insulation board with Aluminum oxide](/docs/definitions/process/manufacture-insulation-board-with-aluminum-oxide)
+- [Manufacture thermal bottle with Aluminum oxide](/docs/definitions/process/manufacture-thermal-bottle-with-aluminum-oxide)
 
 
     
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 

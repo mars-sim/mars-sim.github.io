@@ -31,12 +31,12 @@ hide_summary: true
     
 ## Used by Food Process
 
-- [Make French Fries from Potatoes with Soybean Oil](/docs/definitions/food/make-french-fries-from-potatoes-with-soybean-oil)
+- [Make French Fries from Potatoes with soybean oil](/docs/definitions/food/make-french-fries-from-potatoes-with-soybean-oil)
 - [Make Peanut Butter from Peanuts](/docs/definitions/food/make-peanut-butter-from-peanuts)
 - [Make Pizza Dough](/docs/definitions/food/make-pizza-dough)
 
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 

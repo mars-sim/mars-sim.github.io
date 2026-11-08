@@ -12,26 +12,26 @@ hide_summary: true
 |--------:|:------|
 |Process Time:|200 millisols|
 |Work Time:|10 millisols|
-|Power Required:|0.01 kW/hr|
+|Power Required:| kW/hr|
 |Start On:|false|
 
 ## Inputs
 | Name      | Input Rate (kg/sol) | Minimum kg | Ambient |
 |--------:|:------|-----:|:----|
-|[Methane](/docs/definitions/resource/methane)|32.0|0.002|false|
-|[Oxygen](/docs/definitions/resource/oxygen)|32.0|0.002|false|
+|[Oxygen](/docs/definitions/resource/oxygen)|64.0|0.0032|false|
+|[Methane](/docs/definitions/resource/methane)|64.0|0.0032|false|
 
 Ambient inputs are consumed from the environment.
 
 ## Outputs
 | Name      | Output Rate (kg/sol) | Waste Output |
 |--------:|:------|-----:|:----|
-|[Methanol](/docs/definitions/resource/methanol)|64.0|false|
+|[Methanol](/docs/definitions/resource/methanol)|128.0|false|
 
 Waste outputs are released into the environment and do not need to be stored.
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 
 

@@ -13,7 +13,7 @@ no description available.
 
 | Attribute      | Value |
 |--------:|:------|
-|Mass:|0.1 kg|
+|Mass:|0.01 kg|
 |Type:|Electronic|
 
 ## Made by Manufacturing Process
@@ -28,11 +28,12 @@ no description available.
 - [Manufacture autoclave](/docs/definitions/process/manufacture-autoclave)
 - [Manufacture navigation circuit board](/docs/definitions/process/manufacture-navigation-circuit-board)
 - [Manufacture communications circuit board](/docs/definitions/process/manufacture-communications-circuit-board)
+- [Manufacture radio](/docs/definitions/process/manufacture-radio)
 - [Manufacture SLS 3D Printer](/docs/definitions/process/manufacture-sls-3d-printer)
 
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 
 

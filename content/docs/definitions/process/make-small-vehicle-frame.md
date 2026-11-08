@@ -15,7 +15,7 @@ hide_summary: true
 |Skill Level:|2|
 |Tech Level:|2|
 |Process Time:|200.0 millisols|
-|Tooling:|Metalwork|
+|Tooling:|Welding|
 |Work Level:|300.0 millisols|
 |Power Required:|3.0 kW/hr|
 
@@ -37,7 +37,7 @@ hide_summary: true
 
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 
 

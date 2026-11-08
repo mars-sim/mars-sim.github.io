@@ -15,15 +15,15 @@ A fish patty is made of&#10;&#9;&#9;&#9;textured fish meat and other ingredien
 |--------:|:------|
 |Skill Level:|1|
 |Tech Level:|2|
-|Process Time:|25.0 millisols|
-|Work Level:|25.0 millisols|
-|Power Required:|0.5 kW/hr|
+|Process Time:|5.0 millisols|
+|Work Level:|10.0 millisols|
+|Power Required:|0.1 kW/hr|
 
 ## Ingredients
 
 | Input      | Amount |
 |--------:|:------|
-|[fish meat](/docs/definitions/resource/fish-meat)|Resource|3.0 kg|
+|[fish meat](/docs/definitions/resource/fish-meat)|Resource|1.0 kg|
 |[table salt](/docs/definitions/resource/table-salt)|Resource|0.01 kg|
 
 ## Outcomes
@@ -31,11 +31,11 @@ A fish patty is made of&#10;&#9;&#9;&#9;textured fish meat and other ingredien
 
 | Produce      | Amount |
 |--------:|:------|
-|[fish patty](/docs/definitions/resource/fish-patty)|3.0 kg|
+|[fish patty](/docs/definitions/resource/fish-patty)|1.0 kg|
 
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 
 

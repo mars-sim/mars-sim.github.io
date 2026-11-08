@@ -1,6 +1,6 @@
 ---
-title: Robot - RepairBot Standard
-linkTitle: RepairBot Standard
+title: Robot - RepairBot-Standard
+linkTitle: RepairBot-Standard
 toc_hide: true
 hide_summary: true
 ---
@@ -8,7 +8,7 @@ hide_summary: true
 
 ## Description
 
-A robot that fix and repair parts and equipment.
+A robot that fixes and repaire parts and equipment.
 
 ## Characteristics
 
@@ -17,7 +17,7 @@ A robot that fix and repair parts and equipment.
 |Type:|RepairBot|
 |Model:|Standard|
 |Carry Capacity:|15.0 kg|
-|Mass:|100 kg|
+|Mass:|60.378 kg|
 |Height:|150 cm|
 |Power Consumption:|0.45 kWH|
 |Power Consumption (standby):|0.1 kWH|
@@ -40,5 +40,5 @@ A robot that fix and repair parts and equipment.
 |Teaching|30|
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 

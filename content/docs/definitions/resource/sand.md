@@ -20,9 +20,24 @@ hide_summary: true
 
 ## Used by Manufacturing Process
 
-- [Make clear glass bottle](/docs/definitions/process/make-clear-glass-bottle)
-- [Draw optical fiber glass](/docs/definitions/process/draw-optical-fiber-glass)
-- [Make sheet glass](/docs/definitions/process/make-sheet-glass)
+- [Make crop fertilizers](/docs/definitions/process/make-crop-fertilizers)
+- [Make crop fertilizers with potash lye](/docs/definitions/process/make-crop-fertilizers-with-potash-lye)
+- [Make crop fertilizers with Compost](/docs/definitions/process/make-crop-fertilizers-with-compost)
+- [Make crop fertilizers with Oxygen](/docs/definitions/process/make-crop-fertilizers-with-oxygen)
+- [Make crop fertilizers with Iron powder](/docs/definitions/process/make-crop-fertilizers-with-iron-powder)
+- [Make crop fertilizers with Nitrospira SPP](/docs/definitions/process/make-crop-fertilizers-with-nitrospira-spp)
+- [Make crop fertilizers with Crop Waste](/docs/definitions/process/make-crop-fertilizers-with-crop-waste)
+- [Make crop fertilizers with Nitrite](/docs/definitions/process/make-crop-fertilizers-with-nitrite)
+- [Make crop fertilizers with Carbon](/docs/definitions/process/make-crop-fertilizers-with-carbon)
+- [Make crop fertilizers with Calcium sulfate](/docs/definitions/process/make-crop-fertilizers-with-calcium-sulfate)
+- [Make crop fertilizers with Ammonia](/docs/definitions/process/make-crop-fertilizers-with-ammonia)
+- [Make crop fertilizers with Lime](/docs/definitions/process/make-crop-fertilizers-with-lime)
+- [Make crop fertilizers with Rhizobia](/docs/definitions/process/make-crop-fertilizers-with-rhizobia)
+- [Make crop fertilizers with Chromium](/docs/definitions/process/make-crop-fertilizers-with-chromium)
+- [Make crop fertilizers with Copper](/docs/definitions/process/make-crop-fertilizers-with-copper)
+- [Make crop fertilizers with Food](/docs/definitions/process/make-crop-fertilizers-with-food)
+- [Make crop fertilizers with Manganese](/docs/definitions/process/make-crop-fertilizers-with-manganese)
+- [Draw optical fiberglass](/docs/definitions/process/draw-optical-fiberglass)
 - [Make heating element](/docs/definitions/process/make-heating-element)
 - [Fabricate glass tube](/docs/definitions/process/fabricate-glass-tube)
 - [Bake sand brick](/docs/definitions/process/bake-sand-brick)
@@ -33,6 +48,6 @@ hide_summary: true
     
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 

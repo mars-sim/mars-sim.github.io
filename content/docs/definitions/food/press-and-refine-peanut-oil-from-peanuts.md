@@ -30,11 +30,11 @@ Derive vegetable oil from peanuts. Press and refine it&#10;&#9;&#9;&#9;for use
 
 | Produce      | Amount |
 |--------:|:------|
-|[Peanut Oil](/docs/definitions/resource/peanut-oil)|2.0 kg|
+|[Peanut oil](/docs/definitions/resource/peanut-oil)|2.0 kg|
 
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 
 

@@ -22,10 +22,10 @@ hide_summary: true
 |[Apple](/docs/definitions/resource/apple)|0.3|
 |[Blueberry](/docs/definitions/resource/blueberry)|0.3|
 |[Orange](/docs/definitions/resource/orange)|0.2|
-|[Cinnamon](/docs/definitions/resource/cinnamon)|0.1|
+|[Glucose](/docs/definitions/resource/glucose)|0.1|
 
 
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 

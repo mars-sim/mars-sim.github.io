@@ -27,11 +27,11 @@ no description available.
 - [Make heating element](/docs/definitions/process/make-heating-element)
 - [Assemble backhoe](/docs/definitions/process/assemble-backhoe)
 - [Manufacture crane boom](/docs/definitions/process/manufacture-crane-boom)
-- [Make wheelbarrow](/docs/definitions/process/make-wheelbarrow)
+- [Manufacture wheelbarrow](/docs/definitions/process/manufacture-wheelbarrow)
 
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 
 

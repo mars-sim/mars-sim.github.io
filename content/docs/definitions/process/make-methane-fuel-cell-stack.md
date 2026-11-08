@@ -17,7 +17,7 @@ hide_summary: true
 |Skill Level:|4|
 |Tech Level:|3|
 |Process Time:|200.0 millisols|
-|Tooling:|Soldering|
+|Tooling:|Fabrication|
 |Work Level:|300.0 millisols|
 |Power Required:|2.0 kW/hr|
 
@@ -25,12 +25,12 @@ hide_summary: true
 
 | Input      | Amount |
 |--------:|:------|
+|[Polyethylene HDPE sheet](/docs/definitions/part/polyethylene-hdpe-sheet)|Part|1|
+|[Steel sheet](/docs/definitions/part/steel-sheet)|Part|1|
 |[electrical wire](/docs/definitions/part/electrical-wire)|Part|20|
 |[logic board](/docs/definitions/part/logic-board)|Part|1|
 |[methane fuel cell](/docs/definitions/part/methane-fuel-cell)|Part|75|
-|[plastic sheet](/docs/definitions/part/plastic-sheet)|Part|1|
 |[steel pipe](/docs/definitions/part/steel-pipe)|Part|2|
-|[steel sheet](/docs/definitions/part/steel-sheet)|Part|1|
 |[wire connector](/docs/definitions/part/wire-connector)|Part|5|
 
 ## Products
@@ -42,7 +42,7 @@ hide_summary: true
 
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 
 

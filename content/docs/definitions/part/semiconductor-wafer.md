@@ -13,7 +13,7 @@ no description available.
 
 | Attribute      | Value |
 |--------:|:------|
-|Mass:|1.0 kg|
+|Mass:|0.2 kg|
 |Type:|Electronic|
 
 ## Made by Manufacturing Process
@@ -24,6 +24,7 @@ no description available.
 
 - [Fabricate solar panel](/docs/definitions/process/fabricate-solar-panel)
 - [Make CMOS sensor](/docs/definitions/process/make-cmos-sensor)
+- [Manufacture memory module](/docs/definitions/process/manufacture-memory-module)
 - [Manufacture light emitting diode bulb](/docs/definitions/process/manufacture-light-emitting-diode-bulb)
 - [Manufacture microcontroller](/docs/definitions/process/manufacture-microcontroller)
 - [Manufacture carbon dioxide laser](/docs/definitions/process/manufacture-carbon-dioxide-laser)
@@ -33,7 +34,7 @@ no description available.
 
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 
 

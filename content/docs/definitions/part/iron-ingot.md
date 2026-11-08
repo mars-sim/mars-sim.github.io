@@ -20,6 +20,8 @@ no description available.
 
 - [Cast iron ingot](/docs/definitions/process/cast-iron-ingot)
 - [Recycle iron scrap](/docs/definitions/process/recycle-iron-scrap)
+- [Make iron ingot](/docs/definitions/process/make-iron-ingot)
+- [Make iron ingot with iron oxide](/docs/definitions/process/make-iron-ingot-with-iron-oxide)
 
 ## Used by Manufacturing Process
 
@@ -43,7 +45,7 @@ no description available.
 
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 
 

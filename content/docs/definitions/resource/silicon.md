@@ -19,21 +19,22 @@ An element.
  
 ## Made by Manufacturing Process
 
-- [Draw optical fiber glass](/docs/definitions/process/draw-optical-fiber-glass)
+- [Convert to high purity silicon](/docs/definitions/process/convert-to-high-purity-silicon)
+- [Source high purity quartz](/docs/definitions/process/source-high-purity-quartz)
 
 ## Used by Manufacturing Process
 
 - [Fabricate solar panel](/docs/definitions/process/fabricate-solar-panel)
-- [Fabricate semiconductor wafer](/docs/definitions/process/fabricate-semiconductor-wafer)
-- [Manufacture capacitors](/docs/definitions/process/manufacture-capacitors)
-- [Manufacture capacitors with Aluminum oxide](/docs/definitions/process/manufacture-capacitors-with-aluminum-oxide)
-- [Manufacture diodes](/docs/definitions/process/manufacture-diodes)
-- [Manufacture diodes with Aluminum oxide](/docs/definitions/process/manufacture-diodes-with-aluminum-oxide)
+- [Source high purity quartz](/docs/definitions/process/source-high-purity-quartz)
+- [Manufacture diode](/docs/definitions/process/manufacture-diode)
+- [Manufacture diode with Aluminum oxide](/docs/definitions/process/manufacture-diode-with-aluminum-oxide)
+- [Manufacture power transistor](/docs/definitions/process/manufacture-power-transistor)
+- [Manufacture power transistor with Aluminum oxide](/docs/definitions/process/manufacture-power-transistor-with-aluminum-oxide)
 
 
     
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 

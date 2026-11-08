@@ -1,6 +1,6 @@
 ---
-title: Manufacturing Process - Salvage gas canister
-linkTitle: Salvage gas canister
+title: Manufacturing Process - Salvage Gas Canister
+linkTitle: Salvage Gas Canister
 toc_hide: true
 hide_summary: true
 ---
@@ -22,20 +22,20 @@ hide_summary: true
 
 | Input      | Amount |
 |--------:|:------|
-|[gas canister](/docs/definitions/null/gas-canister)|Equipment|1|
+|[Gas Canister](/docs/definitions/null/gas-canister)|Equipment|1|
 
 ## Products
 
 
 | Produce      | Amount |
 |--------:|:------|
-|[gasket](/docs/definitions/part/gasket)|4|
+|[gasket](/docs/definitions/part/gasket)|1|
 |[steel canister](/docs/definitions/part/steel-canister)|1|
 |[valve](/docs/definitions/part/valve)|2|
 
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 
 

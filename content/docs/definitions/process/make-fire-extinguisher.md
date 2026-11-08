@@ -23,9 +23,9 @@ hide_summary: true
 
 | Input      | Amount |
 |--------:|:------|
+|[Gas tubing](/docs/definitions/part/gas-tubing)|Part|1|
 |[carbon dioxide](/docs/definitions/resource/carbon-dioxide)|Resource|3.0 kg|
 |[gasket](/docs/definitions/part/gasket)|Part|1|
-|[plastic tubing](/docs/definitions/part/plastic-tubing)|Part|1|
 |[steel canister](/docs/definitions/part/steel-canister)|Part|1|
 |[valve](/docs/definitions/part/valve)|Part|1|
 
@@ -38,7 +38,7 @@ hide_summary: true
 
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 
 

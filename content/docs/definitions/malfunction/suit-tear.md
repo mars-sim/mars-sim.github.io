@@ -27,8 +27,8 @@ hide_summary: true
 |Part|Number|Default Probability|
 |---|---|---|
 |[Airleak patch](/docs/definitions/part/airleak-patch)|1|100.0|
-|[Coveralls](/docs/definitions/part/coveralls)|1|10.0|
-|[EVA pads](/docs/definitions/part/eva-pads)|1|10.0|
+|[Coverall](/docs/definitions/part/coverall)|1|10.0|
+|[EVA pad](/docs/definitions/part/eva-pad)|1|10.0|
 |[Pressure suit](/docs/definitions/part/pressure-suit)|1|10.0|
 
 ## Impacts
@@ -36,13 +36,13 @@ hide_summary: true
 ### Medical Complaints
 |Complaint|Default Probability|
 |---|---|
-|Frostbite|10.0|
-|Frostnip|50.0|
+|FROSTBITE|10.0|
+|FROSTNIP|50.0|
 
 ### Life Support
 |Resource|Impact|
 |---|---|
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 

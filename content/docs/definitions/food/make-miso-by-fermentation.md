@@ -24,29 +24,29 @@ Clean bottle with bleach. Soybeans are soaked and fermented with rice and brine 
 | Input      | Amount |
 |--------:|:------|
 |[Aspergillus Mix](/docs/definitions/resource/aspergillus-mix)|Resource|0.001 kg|
-|[Rice](/docs/definitions/resource/rice)|Resource|0.4 kg|
-|[Soybean](/docs/definitions/resource/soybean)|Resource|0.7 kg|
-|[Water](/docs/definitions/resource/water)|Resource|5.25 kg|
 |[autoclave](/docs/definitions/part/autoclave)|Part|1|
 |[blender](/docs/definitions/part/blender)|Part|1|
 |[plastic bottle](/docs/definitions/part/plastic-bottle)|Part|1|
+|[rice](/docs/definitions/resource/rice)|Resource|0.4 kg|
 |[sodium hypochlorite](/docs/definitions/resource/sodium-hypochlorite)|Resource|0.002 kg|
+|[soybean](/docs/definitions/resource/soybean)|Resource|0.7 kg|
 |[table salt](/docs/definitions/resource/table-salt)|Resource|0.3 kg|
+|[water](/docs/definitions/resource/water)|Resource|5.25 kg|
 
 ## Outcomes
 
 
 | Produce      | Amount |
 |--------:|:------|
-|[Grey Water](/docs/definitions/resource/grey-water)|3.54 kg|
-|[Miso](/docs/definitions/resource/miso)|2.81 kg|
 |[autoclave](/docs/definitions/part/autoclave)|1|
 |[blender](/docs/definitions/part/blender)|1|
+|[grey water](/docs/definitions/resource/grey-water)|3.54 kg|
+|[miso](/docs/definitions/resource/miso)|2.81 kg|
 |[plastic bottle](/docs/definitions/part/plastic-bottle)|1|
 
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 
 

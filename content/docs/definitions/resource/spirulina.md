@@ -21,8 +21,18 @@ hide_summary: true
 
 
     
+## Used by Food Process
+
+- [Package Preserved Food with Spirulina](/docs/definitions/food/package-preserved-food-with-spirulina)
+- [Make Okara Protein Bar with Spirulina](/docs/definitions/food/make-okara-protein-bar-with-spirulina)
+- [Make Sesame Milk from Soymilk with Spirulina](/docs/definitions/food/make-sesame-milk-from-soymilk-with-spirulina)
+- [Make Veggie Patty from Quinoa Tempeh and Spice with Spirulina](/docs/definitions/food/make-veggie-patty-from-quinoa-tempeh-and-spice-with-spirulina)
+- [Make Veggie Patty from Quinoa Tempeh and Spice with Spirulina](/docs/definitions/food/make-veggie-patty-from-quinoa-tempeh-and-spice-with-spirulina)
+- [Make Cranberry Juice from Cranberry with spirulina](/docs/definitions/food/make-cranberry-juice-from-cranberry-with-spirulina)
+- [Make Cranberry Sauce from Cranberry with spirulina](/docs/definitions/food/make-cranberry-sauce-from-cranberry-with-spirulina)
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 
