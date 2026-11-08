@@ -25,12 +25,15 @@ hide_summary: true
 
 | Input      | Amount |
 |--------:|:------|
-|[Cane Fiber](/docs/definitions/resource/cane-fiber)|Resource|0.2 kg|
+|[Aluminized mylar](/docs/definitions/resource/aluminized-mylar)|Resource|0.2 kg|
+|[Fiber cloth](/docs/definitions/resource/fiber-cloth)|Resource|0.2 kg|
+|[Gas tubing](/docs/definitions/part/gas-tubing)|Part|3|
 |[Kevlar](/docs/definitions/resource/kevlar)|Resource|0.2 kg|
-|[Paraffin composites](/docs/definitions/resource/paraffin-composites)|Resource|0.15 kg|
-|[Plastic tubing](/docs/definitions/part/plastic-tubing)|Part|3|
+|[Liquid tubing](/docs/definitions/part/liquid-tubing)|Part|6|
+|[Paraffin composites](/docs/definitions/resource/paraffin-composites)|Resource|0.1 kg|
+|[Polyester resin](/docs/definitions/resource/polyester-resin)|Resource|0.6 kg|
 |[Polypropylene](/docs/definitions/resource/polypropylene)|Resource|0.1 kg|
-|[Thermoplastic elastomer](/docs/definitions/resource/thermoplastic-elastomer)|Resource|0.4 kg|
+|[Thermoplastic elastomer](/docs/definitions/resource/thermoplastic-elastomer)|Resource|0.1 kg|
 
 ## Products
 
@@ -41,7 +44,7 @@ hide_summary: true
 
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 
 

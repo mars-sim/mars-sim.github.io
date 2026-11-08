@@ -35,9 +35,11 @@ Grouped by Type.
 - [Ethylene](../resource/ethylene)
 - [Ethylene glycol](../resource/ethylene-glycol)
 - [Fertilizer](../resource/fertilizer)
+- [Hydrogen fluoride](../resource/hydrogen-fluoride)
 - [Hydrogen peroxide](../resource/hydrogen-peroxide)
 - [Lime](../resource/lime)
 - [Perchlorate](../resource/perchlorate)
+- [Phosphoric acid](../resource/phosphoric-acid)
 - [Polycarbonate resin](../resource/polycarbonate-resin)
 - [Polyester fiber](../resource/polyester-fiber)
 - [Polyester resin](../resource/polyester-resin)
@@ -47,24 +49,27 @@ Grouped by Type.
 - [Polyurethane](../resource/polyurethane)
 - [Propylene](../resource/propylene)
 - [Rock salt](../resource/rock-salt)
-- [Silicone Elastomer](../resource/silicone-elastomer)
+- [Silicone elastomer](../resource/silicone-elastomer)
 - [Sodium hypochlorite](../resource/sodium-hypochlorite)
 - [Styrene](../resource/styrene)
+- [Sulphuric acid](../resource/sulphuric-acid)
 - [Table salt](../resource/table-salt)
 - [Terephthalic acid](../resource/terephthalic-acid)
-- [Thermoplastic Elastomer](../resource/thermoplastic-elastomer)
+- [Thermoplastic elastomer](../resource/thermoplastic-elastomer)
 
 ### Compound {#A-compound}
 
 - [Aluminum oxide](../resource/aluminum-oxide)
 - [Ammonia](../resource/ammonia)
+- [Barium carbonate](../resource/barium-carbonate)
+- [Barium hexaferrite](../resource/barium-hexaferrite)
 - [Brine Water](../resource/brine-water)
 - [Calcium carbonate](../resource/calcium-carbonate)
 - [Calcium sulfate](../resource/calcium-sulfate)
 - [Carbon dioxide](../resource/carbon-dioxide)
 - [Carbon monoxide](../resource/carbon-monoxide)
 - [Gypsum plaster](../resource/gypsum-plaster)
-- [Hydraulic Fluid](../resource/hydraulic-fluid)
+- [Hydraulic fluid](../resource/hydraulic-fluid)
 - [Ice](../resource/ice)
 - [Iron chloride](../resource/iron-chloride)
 - [Iron hydroxide](../resource/iron-hydroxide)
@@ -78,6 +83,8 @@ Grouped by Type.
 - [Silica](../resource/silica)
 - [Sodium carbonate](../resource/sodium-carbonate)
 - [Sodium oxide](../resource/sodium-oxide)
+- [Strontium carbonate](../resource/strontium-carbonate)
+- [Strontium hexaferrite](../resource/strontium-hexaferrite)
 - [Water](../resource/water)
 
 ### Construction {#A-construction}
@@ -158,7 +165,6 @@ Grouped by Type.
 - [Roasted peanut](../resource/roasted-peanut)
 - [Sesame milk](../resource/sesame-milk)
 - [Sesame seed](../resource/sesame-seed)
-- [Sugar](../resource/sugar)
 - [Sugarcane juice](../resource/sugarcane-juice)
 - [Veggie patty](../resource/veggie-patty)
 - [Wheat bread](../resource/wheat-bread)
@@ -169,17 +175,25 @@ Grouped by Type.
 - [White bun](../resource/white-bun)
 - [White rice](../resource/white-rice)
 
+### Electronic {#A-electronic}
+
+- [Fiberglass-epoxy composite](../resource/fiberglass-epoxy-composite)
+
 ### Element {#A-element}
 
 - [Aluminum](../resource/aluminum)
 - [Argon](../resource/argon)
+- [Barium](../resource/barium)
 - [Calcium](../resource/calcium)
 - [Carbon](../resource/carbon)
 - [Chlorine](../resource/chlorine)
 - [Chromium](../resource/chromium)
+- [Cobalt](../resource/cobalt)
 - [Copper](../resource/copper)
+- [Fluorine](../resource/fluorine)
 - [Gold](../resource/gold)
 - [Hydrogen](../resource/hydrogen)
+- [Iodine](../resource/iodine)
 - [Iron powder](../resource/iron-powder)
 - [Lithium](../resource/lithium)
 - [Magnesium](../resource/magnesium)
@@ -193,6 +207,7 @@ Grouped by Type.
 - [Scandium](../resource/scandium)
 - [Silicon](../resource/silicon)
 - [Silver](../resource/silver)
+- [Strontium](../resource/strontium)
 - [Sulfur](../resource/sulfur)
 - [Tin](../resource/tin)
 - [Titanium](../resource/titanium)
@@ -216,6 +231,8 @@ Grouped by Type.
 ### Mineral {#A-mineral}
 
 - [Chalcopyrite](../resource/chalcopyrite)
+- [Fluorapatite](../resource/fluorapatite)
+- [Fluorite](../resource/fluorite)
 - [Goethite](../resource/goethite)
 - [Hematite](../resource/hematite)
 - [Kamacite](../resource/kamacite)
@@ -223,6 +240,7 @@ Grouped by Type.
 - [Magnetite](../resource/magnetite)
 - [Malachite](../resource/malachite)
 - [Olivine](../resource/olivine)
+- [Plagioclase feldspar](../resource/plagioclase-feldspar)
 - [Pyroxene](../resource/pyroxene)
 - [Sylvite](../resource/sylvite)
 - [Taenite](../resource/taenite)
@@ -250,7 +268,12 @@ Grouped by Type.
 ### Organism {#A-organism}
 
 - [Acetic acid bacteria](../resource/acetic-acid-bacteria)
+- [Anaerobes](../resource/anaerobes)
 - [Aspergillus mix](../resource/aspergillus-mix)
+- [Chlorella](../resource/chlorella)
+- [Cyanobacteria](../resource/cyanobacteria)
+- [Methanoarchaea](../resource/methanoarchaea)
+- [Methanotrophs](../resource/methanotrophs)
 - [Nitrosomonas SPP](../resource/nitrosomonas-spp)
 - [Nitrospira SPP](../resource/nitrospira-spp)
 - [Rhizobia](../resource/rhizobia)
@@ -340,14 +363,16 @@ Grouped by Type.
 
 ### Utility {#A-utility}
 
-- [Aluminized Mylar](../resource/aluminized-mylar)
+- [Aluminized mylar](../resource/aluminized-mylar)
+- [Ferrite magnet](../resource/ferrite-magnet)
 - [Fiber cloth](../resource/fiber-cloth)
 - [Kevlar](../resource/kevlar)
+- [Liquid crystal](../resource/liquid-crystal)
 - [Mylar](../resource/mylar)
 - [Napkin](../resource/napkin)
 - [Nylon](../resource/nylon)
 - [Paper](../resource/paper)
-- [Paraffin Composites](../resource/paraffin-composites)
+- [Paraffin composites](../resource/paraffin-composites)
 - [Pulp](../resource/pulp)
 - [Toilet tissue](../resource/toilet-tissue)
 - [Zeolite](../resource/zeolite)
@@ -366,5 +391,5 @@ Grouped by Type.
 
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 

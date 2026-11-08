@@ -12,16 +12,16 @@ hide_summary: true
 |--------:|:------|
 |Process Time:|200 millisols|
 |Work Time:|10 millisols|
-|Power Required:|0.2 kW/hr|
+|Power Required:| kW/hr|
 |Start On:|false|
 
 ## Inputs
 | Name      | Input Rate (kg/sol) | Minimum kg | Ambient |
 |--------:|:------|-----:|:----|
-|[Sulfur](/docs/definitions/resource/sulfur)|50.0|0.003|false|
-|[Regolith](/docs/definitions/resource/regolith)|24.0|0.001|false|
-|[Sand](/docs/definitions/resource/sand)|25.0|0.001|false|
+|[Sand](/docs/definitions/resource/sand)|25.0|0.0013|false|
+|[Sulfur](/docs/definitions/resource/sulfur)|50.0|0.0025|false|
 |[Polyethylene](/docs/definitions/resource/polyethylene)|0.5|0.0|false|
+|[Regolith](/docs/definitions/resource/regolith)|24.0|0.0012|false|
 
 Ambient inputs are consumed from the environment.
 
@@ -33,7 +33,7 @@ Ambient inputs are consumed from the environment.
 Waste outputs are released into the environment and do not need to be stored.
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 
 

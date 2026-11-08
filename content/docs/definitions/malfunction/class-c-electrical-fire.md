@@ -36,16 +36,16 @@ hide_summary: true
 |[Transformer](/docs/definitions/part/transformer)|1|1.0|
 |[Valve](/docs/definitions/part/valve)|4|5.0|
 |[Wire connector](/docs/definitions/part/wire-connector)|5|20.0|
-|[Work gloves](/docs/definitions/part/work-gloves)|1|10.0|
+|[Work glove](/docs/definitions/part/work-glove)|1|10.0|
 
 ## Impacts
 
 ### Medical Complaints
 |Complaint|Default Probability|
 |---|---|
-|Burns|15.0|
-|Major Burns|5.0|
-|Minor Burns|30.0|
+|BURNS|15.0|
+|MAJOR_BURNS|5.0|
+|MINOR_BURNS|30.0|
 
 ### Life Support
 |Resource|Impact|
@@ -54,5 +54,5 @@ hide_summary: true
 |Temperature|0.02|
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 

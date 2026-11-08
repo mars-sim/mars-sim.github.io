@@ -1,6 +1,6 @@
 ---
-title: Manufacturing Process - Salvage EVA suit
-linkTitle: Salvage EVA suit
+title: Manufacturing Process - Salvage EVA Suit
+linkTitle: Salvage EVA Suit
 toc_hide: true
 hide_summary: true
 ---
@@ -22,7 +22,7 @@ hide_summary: true
 
 | Input      | Amount |
 |--------:|:------|
-|[EVA suit](/docs/definitions/null/eva-suit)|Equipment|1|
+|[EVA Suit](/docs/definitions/null/eva-suit)|Equipment|1|
 
 ## Products
 
@@ -32,12 +32,12 @@ hide_summary: true
 |[EVA antenna](/docs/definitions/part/eva-antenna)|1|
 |[EVA backpack](/docs/definitions/part/eva-backpack)|1|
 |[EVA battery](/docs/definitions/part/eva-battery)|1|
-|[EVA boots](/docs/definitions/part/eva-boots)|1|
-|[EVA gloves](/docs/definitions/part/eva-gloves)|1|
+|[EVA boot](/docs/definitions/part/eva-boot)|1|
+|[EVA glove](/docs/definitions/part/eva-glove)|1|
 |[EVA helmet](/docs/definitions/part/eva-helmet)|1|
 |[EVA radio](/docs/definitions/part/eva-radio)|1|
 |[biosensor](/docs/definitions/part/biosensor)|6|
-|[coveralls](/docs/definitions/part/coveralls)|1|
+|[coverall](/docs/definitions/part/coverall)|1|
 |[electrical wire](/docs/definitions/part/electrical-wire)|3|
 |[helmet visor](/docs/definitions/part/helmet-visor)|1|
 |[pressure suit](/docs/definitions/part/pressure-suit)|1|
@@ -46,7 +46,7 @@ hide_summary: true
 
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 
 

@@ -28,9 +28,9 @@ hide_summary: true
 |Part|Number|Default Probability|
 |---|---|---|
 |[Decontamination kit](/docs/definitions/part/decontamination-kit)|1|25.0|
+|[Gas tubing](/docs/definitions/part/gas-tubing)|5|5.0|
 |[Gasket](/docs/definitions/part/gasket)|1|5.0|
 |[Plastic pipe](/docs/definitions/part/plastic-pipe)|2|5.0|
-|[Plastic tubing](/docs/definitions/part/plastic-tubing)|5|5.0|
 |[Valve](/docs/definitions/part/valve)|1|5.0|
 
 ## Impacts
@@ -38,13 +38,13 @@ hide_summary: true
 ### Medical Complaints
 |Complaint|Default Probability|
 |---|---|
-|Food Poisoning|10.0|
-|Heartburn|10.0|
+|FOOD_POISONING|10.0|
+|HEARTBURN|10.0|
 
 ### Life Support
 |Resource|Impact|
 |---|---|
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 

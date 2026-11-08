@@ -1,6 +1,6 @@
 ---
-title: Robot - DeliveryBot Advanced
-linkTitle: DeliveryBot Advanced
+title: Robot - DeliveryBot-Advanced
+linkTitle: DeliveryBot-Advanced
 toc_hide: true
 hide_summary: true
 ---
@@ -17,7 +17,7 @@ A robot that functions as a pilot and loads and unloads cargoes.
 |Type:|DeliveryBot|
 |Model:|Advanced|
 |Carry Capacity:|15.0 kg|
-|Mass:|50 kg|
+|Mass:|60.378 kg|
 |Height:|80 cm|
 |Power Consumption:|0.25 kWH|
 |Power Consumption (standby):|0.1 kWH|
@@ -41,5 +41,5 @@ A robot that functions as a pilot and loads and unloads cargoes.
 |Teaching|30|
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 

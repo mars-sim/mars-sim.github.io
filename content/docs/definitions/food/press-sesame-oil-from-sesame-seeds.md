@@ -31,11 +31,11 @@ hide_summary: true
 | Produce      | Amount |
 |--------:|:------|
 |[Food Waste](/docs/definitions/resource/food-waste)|1.25 kg|
-|[Sesame Oil](/docs/definitions/resource/sesame-oil)|1.25 kg|
+|[Sesame oil](/docs/definitions/resource/sesame-oil)|1.25 kg|
 
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 
 

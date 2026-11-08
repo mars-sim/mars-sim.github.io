@@ -23,8 +23,8 @@ hide_summary: true
 
 | Input      | Amount |
 |--------:|:------|
-|[Soybean](/docs/definitions/resource/soybean)|Resource|2.5 kg|
 |[oven](/docs/definitions/part/oven)|Part|1|
+|[soybean](/docs/definitions/resource/soybean)|Resource|2.5 kg|
 
 ## Outcomes
 
@@ -32,12 +32,12 @@ hide_summary: true
 | Produce      | Amount |
 |--------:|:------|
 |[Food Waste](/docs/definitions/resource/food-waste)|2.063 kg|
-|[Soybean Oil](/docs/definitions/resource/soybean-oil)|0.437 kg|
 |[oven](/docs/definitions/part/oven)|1|
+|[soybean oil](/docs/definitions/resource/soybean-oil)|0.437 kg|
 
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 
 

@@ -26,10 +26,11 @@ hide_summary: true
 - [Make radio antenna with Polycarbonate resin](/docs/definitions/process/make-radio-antenna-with-polycarbonate-resin)
 - [Make gasket](/docs/definitions/process/make-gasket)
 - [Make timing belt](/docs/definitions/process/make-timing-belt)
-- [Make plastic tubing](/docs/definitions/process/make-plastic-tubing)
+- [Make gas tubing](/docs/definitions/process/make-gas-tubing)
 - [Make airleak patch](/docs/definitions/process/make-airleak-patch)
 - [Make EVA antenna](/docs/definitions/process/make-eva-antenna)
 - [Make EVA antenna with Polycarbonate resin](/docs/definitions/process/make-eva-antenna-with-polycarbonate-resin)
+- [Make steering wheel with Styrene](/docs/definitions/process/make-steering-wheel-with-styrene)
 - [Manufacture vehicle chassis panel](/docs/definitions/process/manufacture-vehicle-chassis-panel)
 - [Manufacture vehicle chassis panel with Polycarbonate resin](/docs/definitions/process/manufacture-vehicle-chassis-panel-with-polycarbonate-resin)
 - [Manufacture drone chassis panel](/docs/definitions/process/manufacture-drone-chassis-panel)
@@ -46,10 +47,13 @@ hide_summary: true
 - [Make copper electrical wire](/docs/definitions/process/make-copper-electrical-wire)
 - [Make copper power cable](/docs/definitions/process/make-copper-power-cable)
 - [Make copper wire connector](/docs/definitions/process/make-copper-wire-connector)
-- [Fabricate turbine blade](/docs/definitions/process/fabricate-turbine-blade)
-- [Fabricate turbine blade with Polycarbonate resin](/docs/definitions/process/fabricate-turbine-blade-with-polycarbonate-resin)
-- [Make flood light](/docs/definitions/process/make-flood-light)
-- [Make Power Panel with Styrene](/docs/definitions/process/make-power-panel-with-styrene)
+- [Fabricate wind turbine blade](/docs/definitions/process/fabricate-wind-turbine-blade)
+- [Fabricate wind turbine blade with Polycarbonate resin](/docs/definitions/process/fabricate-wind-turbine-blade-with-polycarbonate-resin)
+- [Fabricate wind turbine blade with Fiber Cloth](/docs/definitions/process/fabricate-wind-turbine-blade-with-fiber-cloth)
+- [Fabricate wind turbine blade with Glass](/docs/definitions/process/fabricate-wind-turbine-blade-with-glass)
+- [Fabricate wind turbine blade with Epoxy resin](/docs/definitions/process/fabricate-wind-turbine-blade-with-epoxy-resin)
+- [Manufacture insulation board with Styrene](/docs/definitions/process/manufacture-insulation-board-with-styrene)
+- [Make Power panel with Styrene](/docs/definitions/process/make-power-panel-with-styrene)
 - [Make Surge Protector with Styrene](/docs/definitions/process/make-surge-protector-with-styrene)
 - [Make Metal Oxide Varistor with Styrene](/docs/definitions/process/make-metal-oxide-varistor-with-styrene)
 
@@ -57,6 +61,6 @@ hide_summary: true
     
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 

@@ -16,10 +16,10 @@ Aerogel is a porous, translucent material that could allow sunlight &#10;&#9;&#9
 |Type:|Manufacture|
 |Skill Level:|3|
 |Tech Level:|3|
-|Process Time:|100.0 millisols|
+|Process Time:|80.0 millisols|
 |Tooling:|3D Printer|
-|Work Level:|50.0 millisols|
-|Power Required:|1.0 kW/hr|
+|Work Level:|20.0 millisols|
+|Power Required:|0.75 kW/hr|
 
 ## Inputs
 
@@ -34,11 +34,11 @@ Aerogel is a porous, translucent material that could allow sunlight &#10;&#9;&#9
 
 | Produce      | Amount |
 |--------:|:------|
-|[aerogel tile](/docs/definitions/part/aerogel-tile)|20|
+|[Aerogel tile](/docs/definitions/part/aerogel-tile)|20|
 
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 
 

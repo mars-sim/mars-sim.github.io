@@ -26,10 +26,14 @@ Made of textured vegetable protein (like soy), legumes (beans), tofu, nuts, 
 - [Make Veggie Patty from Veg, Tempeh and Spice](/docs/definitions/food/make-veggie-patty-from-veg--tempeh-and-spice)
 - [Make Veggie Patty from Veg, Okara and Spice](/docs/definitions/food/make-veggie-patty-from-veg--okara-and-spice)
 - [Make Veggie Patty from Quinoa Tempeh and Spice](/docs/definitions/food/make-veggie-patty-from-quinoa-tempeh-and-spice)
+- [Make Veggie Patty from Quinoa Tempeh and Spice with white rice](/docs/definitions/food/make-veggie-patty-from-quinoa-tempeh-and-spice-with-white-rice)
+- [Make Veggie Patty from Quinoa Tempeh and Spice with Spirulina](/docs/definitions/food/make-veggie-patty-from-quinoa-tempeh-and-spice-with-spirulina)
+- [Make Veggie Patty from Quinoa Tempeh and Spice with sugarcane juice](/docs/definitions/food/make-veggie-patty-from-quinoa-tempeh-and-spice-with-sugarcane-juice)
+- [Make Veggie Patty from Quinoa Tempeh and Spice with honey](/docs/definitions/food/make-veggie-patty-from-quinoa-tempeh-and-spice-with-honey)
 
     
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 

@@ -23,11 +23,11 @@ Make protein bars using puffed quinoa/rice/wheat, honey/sugarcane juice, nuts an
 
 | Input      | Amount |
 |--------:|:------|
-|[Honey](/docs/definitions/resource/honey)|Resource|0.5 kg|
 |[Okara](/docs/definitions/resource/okara)|Resource|2.0 kg|
 |[Peanut](/docs/definitions/resource/peanut)|Resource|1.0 kg|
 |[Strawberry](/docs/definitions/resource/strawberry)|Resource|0.5 kg|
 |[Wheat](/docs/definitions/resource/wheat)|Resource|2.0 kg|
+|[honey](/docs/definitions/resource/honey)|Resource|0.5 kg|
 
 ## Outcomes
 
@@ -38,7 +38,7 @@ Make protein bars using puffed quinoa/rice/wheat, honey/sugarcane juice, nuts an
 
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 
 

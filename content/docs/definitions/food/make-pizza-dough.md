@@ -23,14 +23,14 @@ hide_summary: true
 
 | Input      | Amount |
 |--------:|:------|
-|[Rice Flour](/docs/definitions/resource/rice-flour)|Resource|0.4 kg|
-|[Soy Flour](/docs/definitions/resource/soy-flour)|Resource|0.2 kg|
-|[Soybean Oil](/docs/definitions/resource/soybean-oil)|Resource|0.01 kg|
-|[Water](/docs/definitions/resource/water)|Resource|0.33 kg|
-|[Wheat Flour](/docs/definitions/resource/wheat-flour)|Resource|0.4 kg|
-|[Yeast](/docs/definitions/resource/yeast)|Resource|0.01 kg|
+|[Wheat flour](/docs/definitions/resource/wheat-flour)|Resource|0.4 kg|
 |[oven](/docs/definitions/part/oven)|Part|1|
+|[rice flour](/docs/definitions/resource/rice-flour)|Resource|0.4 kg|
+|[soy flour](/docs/definitions/resource/soy-flour)|Resource|0.2 kg|
+|[soybean oil](/docs/definitions/resource/soybean-oil)|Resource|0.01 kg|
 |[table salt](/docs/definitions/resource/table-salt)|Resource|0.01 kg|
+|[water](/docs/definitions/resource/water)|Resource|0.33 kg|
+|[yeast](/docs/definitions/resource/yeast)|Resource|0.01 kg|
 
 ## Outcomes
 
@@ -42,7 +42,7 @@ hide_summary: true
 
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 
 

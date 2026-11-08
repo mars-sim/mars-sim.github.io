@@ -15,8 +15,7 @@ Base for a trading outpost
 |--------:|:------|
 |Objective:|Trade Center|
 |Shift Pattern:|Standard 2 Shift|
-|Default People #:|4|
-|Default Robot #:|4|
+|Default People #:|8|
 |Sponsor:|[MS](/docs/definitions/authority/ms)|
 
 ## Buildings
@@ -25,11 +24,14 @@ Base for a trading outpost
 |:------|:------|
 |Atmospheric Processor 1|[Atmospheric Processor](/docs/definitions/building/atmospheric-processor)|
 |Atmospheric Processor 2|[Atmospheric Processor](/docs/definitions/building/atmospheric-processor)|
+|Atmospheric Processor 3|[Atmospheric Processor](/docs/definitions/building/atmospheric-processor)|
+|Brine Water Well 1|[Brine Water Well](/docs/definitions/building/brine-water-well)|
 |Bunkhouse 1|[Bunkhouse](/docs/definitions/building/bunkhouse)|
 |Bunkhouse 2|[Bunkhouse](/docs/definitions/building/bunkhouse)|
 |Cement Storage 1|[Cement Storage](/docs/definitions/building/cement-storage)|
 |Chemical Storage 1|[Chemical Storage](/docs/definitions/building/chemical-storage)|
 |Concrete Storage 1|[Concrete Storage](/docs/definitions/building/concrete-storage)|
+|Dining Hall 1|[Dining Hall](/docs/definitions/building/dining-hall)|
 |ERV-A 1|[ERV-A](/docs/definitions/building/erv-a)|
 |ERV-B 1|[ERV-B](/docs/definitions/building/erv-b)|
 |ERV-C 1|[ERV-C](/docs/definitions/building/erv-c)|
@@ -41,23 +43,36 @@ Base for a trading outpost
 |Gas Storage 2|[Gas Storage](/docs/definitions/building/gas-storage)|
 |Ice Storage 1|[Ice Storage](/docs/definitions/building/ice-storage)|
 |Ice Storage 2|[Ice Storage](/docs/definitions/building/ice-storage)|
+|Inground Greenhouse 1|[Inground Greenhouse](/docs/definitions/building/inground-greenhouse)|
 |Large Sabatier Processor 1|[Large Sabatier Processor](/docs/definitions/building/large-sabatier-processor)|
 |Large Sabatier Processor 2|[Large Sabatier Processor](/docs/definitions/building/large-sabatier-processor)|
 |Lime Storage 1|[Lime Storage](/docs/definitions/building/lime-storage)|
 |Loading Dock Garage 1|[Loading Dock Garage](/docs/definitions/building/loading-dock-garage)|
+|Manufacturing Shed 1|[Manufacturing Shed](/docs/definitions/building/manufacturing-shed)|
 |Medium Battery Array 1|[Medium Battery Array](/docs/definitions/building/medium-battery-array)|
 |Medium Battery Array 2|[Medium Battery Array](/docs/definitions/building/medium-battery-array)|
 |Medium Battery Array 3|[Medium Battery Array](/docs/definitions/building/medium-battery-array)|
 |Medium Battery Array 4|[Medium Battery Array](/docs/definitions/building/medium-battery-array)|
 |Medium Battery Array 5|[Medium Battery Array](/docs/definitions/building/medium-battery-array)|
 |Medium Battery Array 6|[Medium Battery Array](/docs/definitions/building/medium-battery-array)|
+|Medium Battery Array 7|[Medium Battery Array](/docs/definitions/building/medium-battery-array)|
+|Medium Battery Array 8|[Medium Battery Array](/docs/definitions/building/medium-battery-array)|
+|Medium Battery Array 9|[Medium Battery Array](/docs/definitions/building/medium-battery-array)|
 |Metal Storage 1|[Metal Storage](/docs/definitions/building/metal-storage)|
-|Methane Power Generator 1|[Methane Power Generator](/docs/definitions/building/methane-power-generator)|
-|Methane Power Generator 2|[Methane Power Generator](/docs/definitions/building/methane-power-generator)|
+|Mining Lab 1|[Mining Lab](/docs/definitions/building/mining-lab)|
 |Ore Storage 1|[Ore Storage](/docs/definitions/building/ore-storage)|
 |Outpost Hub 1|[Outpost Hub](/docs/definitions/building/outpost-hub)|
 |Regolith Storage 1|[Regolith Storage](/docs/definitions/building/regolith-storage)|
 |Sand Storage 1|[Sand Storage](/docs/definitions/building/sand-storage)|
+|Solar Photovoltaic Array 1|[Solar Photovoltaic Array](/docs/definitions/building/solar-photovoltaic-array)|
+|Solar Photovoltaic Array 2|[Solar Photovoltaic Array](/docs/definitions/building/solar-photovoltaic-array)|
+|Solar Photovoltaic Array 3|[Solar Photovoltaic Array](/docs/definitions/building/solar-photovoltaic-array)|
+|Solar Photovoltaic Array 4|[Solar Photovoltaic Array](/docs/definitions/building/solar-photovoltaic-array)|
+|Solar Photovoltaic Array 5|[Solar Photovoltaic Array](/docs/definitions/building/solar-photovoltaic-array)|
+|Solar Photovoltaic Array 6|[Solar Photovoltaic Array](/docs/definitions/building/solar-photovoltaic-array)|
+|Solar Photovoltaic Array 7|[Solar Photovoltaic Array](/docs/definitions/building/solar-photovoltaic-array)|
+|Solar Photovoltaic Array 8|[Solar Photovoltaic Array](/docs/definitions/building/solar-photovoltaic-array)|
+|Solar Photovoltaic Array 9|[Solar Photovoltaic Array](/docs/definitions/building/solar-photovoltaic-array)|
 |Solar Thermal Collector 1|[Solar Thermal Collector](/docs/definitions/building/solar-thermal-collector)|
 |Solar Thermal Collector 2|[Solar Thermal Collector](/docs/definitions/building/solar-thermal-collector)|
 |Solar Thermal Collector 3|[Solar Thermal Collector](/docs/definitions/building/solar-thermal-collector)|
@@ -68,17 +83,14 @@ Base for a trading outpost
 |Solar Thermal Collector 8|[Solar Thermal Collector](/docs/definitions/building/solar-thermal-collector)|
 |Solar Thermal Collector 9|[Solar Thermal Collector](/docs/definitions/building/solar-thermal-collector)|
 |Storage Shed 1|[Storage Shed](/docs/definitions/building/storage-shed)|
-|Storage Shed 2|[Storage Shed](/docs/definitions/building/storage-shed)|
-|Storage Shed 3|[Storage Shed](/docs/definitions/building/storage-shed)|
-|Storage Shed 4|[Storage Shed](/docs/definitions/building/storage-shed)|
 |Syngas Plant 1|[Syngas Plant](/docs/definitions/building/syngas-plant)|
-|Tunnel 1|[Tunnel](/docs/definitions/building/tunnel)|
-|Tunnel 2|[Tunnel](/docs/definitions/building/tunnel)|
-|Tunnel 3|[Tunnel](/docs/definitions/building/tunnel)|
-|Tunnel 4|[Tunnel](/docs/definitions/building/tunnel)|
-|Tunnel 5|[Tunnel](/docs/definitions/building/tunnel)|
-|Tunnel 6|[Tunnel](/docs/definitions/building/tunnel)|
-|Tunnel 7|[Tunnel](/docs/definitions/building/tunnel)|
+|T1|[Tunnel](/docs/definitions/building/tunnel)|
+|T2|[Tunnel](/docs/definitions/building/tunnel)|
+|T3|[Tunnel](/docs/definitions/building/tunnel)|
+|T4|[Tunnel](/docs/definitions/building/tunnel)|
+|T5|[Tunnel](/docs/definitions/building/tunnel)|
+|T6|[Tunnel](/docs/definitions/building/tunnel)|
+|T7|[Tunnel](/docs/definitions/building/tunnel)|
 |Wind Turbine 1|[Wind Turbine](/docs/definitions/building/wind-turbine)|
 |Wind Turbine 2|[Wind Turbine](/docs/definitions/building/wind-turbine)|
 |Wind Turbine 3|[Wind Turbine](/docs/definitions/building/wind-turbine)|
@@ -111,31 +123,35 @@ Base for a trading outpost
 |[Condenser coil](/docs/definitions/part/condenser-coil)|Part|1|
 |[Coolant bottle](/docs/definitions/part/coolant-bottle)|Part|18|
 |[Copper pipe](/docs/definitions/part/copper-pipe)|Part|12|
-|[Coveralls](/docs/definitions/part/coveralls)|Part|16|
+|[Coverall](/docs/definitions/part/coverall)|Part|16|
 |[Crane boom](/docs/definitions/part/crane-boom)|Part|2|
 |[Decontamination kit](/docs/definitions/part/decontamination-kit)|Part|2|
 |[Drilling rig](/docs/definitions/part/drilling-rig)|Part|1|
+|[Dynamic Albedo of Neutrons Meter](/docs/definitions/part/dynamic-albedo-of-neutrons-meter)|Part|1|
 |[EVA antenna](/docs/definitions/part/eva-antenna)|Part|32|
 |[EVA backpack](/docs/definitions/part/eva-backpack)|Part|8|
 |[EVA battery](/docs/definitions/part/eva-battery)|Part|16|
-|[EVA boots](/docs/definitions/part/eva-boots)|Part|16|
-|[EVA gloves](/docs/definitions/part/eva-gloves)|Part|16|
+|[EVA boot](/docs/definitions/part/eva-boot)|Part|16|
+|[EVA glove](/docs/definitions/part/eva-glove)|Part|16|
 |[EVA helmet](/docs/definitions/part/eva-helmet)|Part|16|
-|[EVA pads](/docs/definitions/part/eva-pads)|Part|16|
+|[EVA pad](/docs/definitions/part/eva-pad)|Part|16|
 |[EVA radio](/docs/definitions/part/eva-radio)|Part|20|
 |[Electrical wire](/docs/definitions/part/electrical-wire)|Part|330|
 |[Electrostatic precipitator](/docs/definitions/part/electrostatic-precipitator)|Part|5|
 |[Fiberglass](/docs/definitions/part/fiberglass)|Part|3|
 |[Fiberglass cloth](/docs/definitions/part/fiberglass-cloth)|Part|10|
 |[Fire extinguisher](/docs/definitions/part/fire-extinguisher)|Part|26|
-|[Flexible hose](/docs/definitions/part/flexible-hose)|Part|10|
+|[Flexible water hose](/docs/definitions/part/flexible-water-hose)|Part|3|
 |[Food](/docs/definitions/resource/food)|Resource|2880.0 kg|
 |[Fuel pump](/docs/definitions/part/fuel-pump)|Part|2|
-|[Fuel tank](/docs/definitions/part/fuel-tank)|Part|20|
 |[Garment](/docs/definitions/part/garment)|Part|8|
 |[Gas tank](/docs/definitions/part/gas-tank)|Part|20|
+|[Gas tubing](/docs/definitions/part/gas-tubing)|Part|10|
 |[Gasket](/docs/definitions/part/gasket)|Part|94|
+|[Gravity Gradiometer](/docs/definitions/part/gravity-gradiometer)|Part|1|
+|[Ground Penetrating Radar](/docs/definitions/part/ground-penetrating-radar)|Part|1|
 |[Heat pipe](/docs/definitions/part/heat-pipe)|Part|26|
+|[Heat probe](/docs/definitions/part/heat-probe)|Part|10|
 |[Heat pump](/docs/definitions/part/heat-pump)|Part|2|
 |[Heating element](/docs/definitions/part/heating-element)|Part|26|
 |[Helium neon laser](/docs/definitions/part/helium-neon-laser)|Part|5|
@@ -144,6 +160,7 @@ Base for a trading outpost
 |[Iron pipe](/docs/definitions/part/iron-pipe)|Part|12|
 |[Light emitting diode bulb](/docs/definitions/part/light-emitting-diode-bulb)|Part|50|
 |[Light emitting diode kit](/docs/definitions/part/light-emitting-diode-kit)|Part|20|
+|[Liquid tubing](/docs/definitions/part/liquid-tubing)|Part|10|
 |[Logic board](/docs/definitions/part/logic-board)|Part|25|
 |[Lubricant bottle](/docs/definitions/part/lubricant-bottle)|Part|22|
 |[Methane](/docs/definitions/resource/methane)|Resource|7200.0 kg|
@@ -151,7 +168,8 @@ Base for a trading outpost
 |[Methane fuel cell stack](/docs/definitions/part/methane-fuel-cell-stack)|Part|4|
 |[Methanol](/docs/definitions/resource/methanol)|Resource|7200.0 kg|
 |[Methanol fuel cell](/docs/definitions/part/methanol-fuel-cell)|Part|200|
-|[Methanol fuel cell stack](/docs/definitions/part/methanol-fuel-cell-stack)|Part|4|
+|[Methanol fuel cell stack large](/docs/definitions/part/methanol-fuel-cell-stack-large)|Part|4|
+|[Methanol fuel cell stack medium](/docs/definitions/part/methanol-fuel-cell-stack-medium)|Part|4|
 |[Microcontroller](/docs/definitions/part/microcontroller)|Part|60|
 |[Microwave](/docs/definitions/part/microwave)|Part|3|
 |[Motor 10 kW](/docs/definitions/part/motor-10-kw)|Part|4|
@@ -169,9 +187,8 @@ Base for a trading outpost
 |[Plasma cutter](/docs/definitions/part/plasma-cutter)|Part|2|
 |[Plastic bottle](/docs/definitions/part/plastic-bottle)|Part|180|
 |[Plastic pipe](/docs/definitions/part/plastic-pipe)|Part|18|
-|[Plastic tubing](/docs/definitions/part/plastic-tubing)|Part|60|
 |[Pneumatic drill](/docs/definitions/part/pneumatic-drill)|Part|2|
-|[Polycarbonate roofing](/docs/definitions/part/polycarbonate-roofing)|Part|10|
+|[Polycarbonate panel](/docs/definitions/part/polycarbonate-panel)|Part|10|
 |[Power cable](/docs/definitions/part/power-cable)|Part|16|
 |[Power transistor](/docs/definitions/part/power-transistor)|Part|60|
 |[Pressure suit](/docs/definitions/part/pressure-suit)|Part|16|
@@ -183,6 +200,7 @@ Base for a trading outpost
 |[Rover windshield](/docs/definitions/part/rover-windshield)|Part|2|
 |[SLS 3D Printer](/docs/definitions/part/sls-3d-printer)|Part|4|
 |[Satellite dish](/docs/definitions/part/satellite-dish)|Part|4|
+|[Seismoelectric Sensor](/docs/definitions/part/seismoelectric-sensor)|Part|10|
 |[Semiconductor wafer](/docs/definitions/part/semiconductor-wafer)|Part|5|
 |[Soil compactor](/docs/definitions/part/soil-compactor)|Part|2|
 |[Solar panel](/docs/definitions/part/solar-panel)|Part|2|
@@ -191,13 +209,15 @@ Base for a trading outpost
 |[Stepper motor](/docs/definitions/part/stepper-motor)|Part|8|
 |[Stove](/docs/definitions/part/stove)|Part|3|
 |[Suit heating unit](/docs/definitions/part/suit-heating-unit)|Part|8|
+|[Surface Nuclear Magnetic Resonance Sounder](/docs/definitions/part/surface-nuclear-magnetic-resonance-sounder)|Part|1|
+|[Time Domain Electromagnetic Sounder](/docs/definitions/part/time-domain-electromagnetic-sounder)|Part|1|
 |[Timing belt](/docs/definitions/part/timing-belt)|Part|16|
 |[Transformer](/docs/definitions/part/transformer)|Part|5|
 |[Utility vehicle control panel](/docs/definitions/part/utility-vehicle-control-panel)|Part|2|
 |[Valve](/docs/definitions/part/valve)|Part|48|
 |[Vehicle chassis panel](/docs/definitions/part/vehicle-chassis-panel)|Part|4|
 |[Ventilation fan](/docs/definitions/part/ventilation-fan)|Part|3|
-|[Water](/docs/definitions/resource/water)|Resource|7200.0 kg|
+|[Water](/docs/definitions/resource/water)|Resource|8400.0 kg|
 |[Water pump large](/docs/definitions/part/water-pump-large)|Part|1|
 |[Water pump small](/docs/definitions/part/water-pump-small)|Part|3|
 |[Water tank](/docs/definitions/part/water-tank)|Part|20|
@@ -205,7 +225,7 @@ Base for a trading outpost
 |[Winch](/docs/definitions/part/winch)|Part|2|
 |[Window](/docs/definitions/part/window)|Part|4|
 |[Wire connector](/docs/definitions/part/wire-connector)|Part|216|
-|[Work gloves](/docs/definitions/part/work-gloves)|Part|16|
+|[Work glove](/docs/definitions/part/work-glove)|Part|16|
 
 ## Equipment
 
@@ -214,21 +234,31 @@ Base for a trading outpost
 |thermal bottle|8|
 |barrel|40|
 |wheelbarrow|12|
-|EVA Suit|8|
 |specimen box|40|
+|eva suit|8|
+|data recorder|4|
 |bag|40|
 |large bag|40|
 |gas canister|40|
+
+## Robots
+
+| Robot Spec. | Quantity |
+|:-----|-----:|
+|[MedicBot-Standard](/docs/definitions/robot/medicbot-standard)|1|
+|[RepairBot-Standard](/docs/definitions/robot/repairbot-standard)|1|
+|[MakerBot-Standard](/docs/definitions/robot/makerbot-standard)|1|
+|[DeliveryBot-Standard](/docs/definitions/robot/deliverybot-standard)|1|
 
 ## Vehicles
 
 | Vehicle Spec. | Quantity |
 |:-----|-----:|
+|[Explorer Rover](/docs/definitions/vehicle/explorer-rover)|2|
 |[Cargo Rover](/docs/definitions/vehicle/cargo-rover)|2|
-|[Delivery Drone](/docs/definitions/vehicle/delivery-drone)|1|
+|[Delivery Drone](/docs/definitions/vehicle/delivery-drone)|4|
 |[Light Utility Vehicle](/docs/definitions/vehicle/light-utility-vehicle)|1|
    
-
 
 
 ## Supply Missions
@@ -238,5 +268,5 @@ Base for a trading outpost
 |Quarterly Delivery|11|[Standard Resupply 1](/docs/definitions/manifest/standard-resupply-1)|160|
     
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 

@@ -24,27 +24,27 @@ Soybeans are first soaked in water for an extended period, and then steamed at h
 | Input      | Amount |
 |--------:|:------|
 |[Aspergillus Mix](/docs/definitions/resource/aspergillus-mix)|Resource|0.0057 kg|
-|[Soybean](/docs/definitions/resource/soybean)|Resource|5.0 kg|
-|[Water](/docs/definitions/resource/water)|Resource|11.25 kg|
 |[Wheat](/docs/definitions/resource/wheat)|Resource|1.0 kg|
 |[autoclave](/docs/definitions/part/autoclave)|Part|1|
 |[plastic bottle](/docs/definitions/part/plastic-bottle)|Part|5|
 |[sodium hypochlorite](/docs/definitions/resource/sodium-hypochlorite)|Resource|0.003 kg|
+|[soybean](/docs/definitions/resource/soybean)|Resource|5.0 kg|
 |[table salt](/docs/definitions/resource/table-salt)|Resource|0.1 kg|
+|[water](/docs/definitions/resource/water)|Resource|11.25 kg|
 
 ## Outcomes
 
 
 | Produce      | Amount |
 |--------:|:------|
-|[Grey Water](/docs/definitions/resource/grey-water)|1.25 kg|
-|[Soy Sauce](/docs/definitions/resource/soy-sauce)|15.0 kg|
 |[autoclave](/docs/definitions/part/autoclave)|1|
+|[grey water](/docs/definitions/resource/grey-water)|1.25 kg|
 |[plastic bottle](/docs/definitions/part/plastic-bottle)|5|
+|[soy Sauce](/docs/definitions/resource/soy-sauce)|15.0 kg|
 
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 
 

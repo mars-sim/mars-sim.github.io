@@ -12,26 +12,26 @@ hide_summary: true
 |--------:|:------|
 |Process Time:|200 millisols|
 |Work Time:|10 millisols|
-|Power Required:|0.5 kW/hr|
-|Start On:|false|
+|Power Required:| kW/hr|
+|Start On:|true|
 
 ## Inputs
 | Name      | Input Rate (kg/sol) | Minimum kg | Ambient |
 |--------:|:------|-----:|:----|
-|[Hydraulic Fluid](/docs/definitions/resource/hydraulic-fluid)|0.1|0.0|false|
-|[Rock salt](/docs/definitions/resource/rock-salt)|1.0|0.0|false|
+|[Rock salt](/docs/definitions/resource/rock-salt)|32.0|0.0016|false|
+|[Hydraulic fluid](/docs/definitions/resource/hydraulic-fluid)|0.32|0.0|false|
 
 Ambient inputs are consumed from the environment.
 
 ## Outputs
 | Name      | Output Rate (kg/sol) | Waste Output |
 |--------:|:------|-----:|:----|
-|[Ice](/docs/definitions/resource/ice)|4000.0|false|
+|[Ice](/docs/definitions/resource/ice)|6400.0|false|
 
 Waste outputs are released into the environment and do not need to be stored.
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 
 

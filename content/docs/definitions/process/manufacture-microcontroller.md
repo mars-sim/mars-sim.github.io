@@ -14,15 +14,24 @@ hide_summary: true
 |Type:|Manufacture|
 |Skill Level:|4|
 |Tech Level:|4|
-|Process Time:|200.0 millisols|
-|Tooling:|Soldering|
-|Work Level:|300.0 millisols|
+|Process Time:|500.0 millisols|
+|Tooling:|Fabrication|
+|Work Level:|500.0 millisols|
 |Power Required:|1.0 kW/hr|
 
 ## Inputs
 
 | Input      | Amount |
 |--------:|:------|
+|[Copper](/docs/definitions/resource/copper)|Resource|0.1 kg|
+|[Epoxy resin](/docs/definitions/resource/epoxy-resin)|Resource|0.2 kg|
+|[Fiberglass-epoxy composite](/docs/definitions/resource/fiberglass-epoxy-composite)|Resource|1.0 kg|
+|[Glass](/docs/definitions/resource/glass)|Resource|0.1 kg|
+|[Gold](/docs/definitions/resource/gold)|Resource|0.01 kg|
+|[Memory module](/docs/definitions/part/memory-module)|Part|4|
+|[Nickel](/docs/definitions/resource/nickel)|Resource|0.005 kg|
+|[Silver](/docs/definitions/resource/silver)|Resource|0.015 kg|
+|[Tin](/docs/definitions/resource/tin)|Resource|0.01 kg|
 |[semiconductor wafer](/docs/definitions/part/semiconductor-wafer)|Part|1|
 
 ## Products
@@ -30,11 +39,11 @@ hide_summary: true
 
 | Produce      | Amount |
 |--------:|:------|
-|[microcontroller](/docs/definitions/part/microcontroller)|40|
+|[microcontroller](/docs/definitions/part/microcontroller)|2|
 
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 
 

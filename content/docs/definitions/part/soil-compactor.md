@@ -13,7 +13,7 @@ Attachment part for LUV. A drum roller that applied stress to a soil.
 
 | Attribute      | Value |
 |--------:|:------|
-|Mass:|100.0 kg|
+|Mass:|85.6 kg|
 |Type:|Attachment|
 
 ## Made by Manufacturing Process
@@ -23,7 +23,7 @@ Attachment part for LUV. A drum roller that applied stress to a soil.
 
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 
 

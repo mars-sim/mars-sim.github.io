@@ -19,6 +19,8 @@ No Description
  
 ## Made by Manufacturing Process
 
+- [Cast aluminum ingot](/docs/definitions/process/cast-aluminum-ingot)
+- [Make aluminum sheet](/docs/definitions/process/make-aluminum-sheet)
 - [Dry potash into potassium crystal](/docs/definitions/process/dry-potash-into-potassium-crystal)
 
 ## Used by Manufacturing Process
@@ -26,9 +28,15 @@ No Description
 - [Make bleaching chemical for paper making](/docs/definitions/process/make-bleaching-chemical-for-paper-making)
 - [Make bleaching chemical for paper making (large batch)](/docs/definitions/process/make-bleaching-chemical-for-paper-making--large-batch-)
 - [Make hydrogen peroxide](/docs/definitions/process/make-hydrogen-peroxide)
+- [Make crop fertilizers with Oxygen](/docs/definitions/process/make-crop-fertilizers-with-oxygen)
 - [Make Nitrites](/docs/definitions/process/make-nitrites)
 - [Make Nitrates](/docs/definitions/process/make-nitrates)
+- [Make steel ingot from iron oxide](/docs/definitions/process/make-steel-ingot-from-iron-oxide)
 - [Produce Terephthalic Acid](/docs/definitions/process/produce-terephthalic-acid)
+- [Make Nylon](/docs/definitions/process/make-nylon)
+- [Make Kevlar](/docs/definitions/process/make-kevlar)
+- [Make polarizer film](/docs/definitions/process/make-polarizer-film)
+- [Make liquid crystal](/docs/definitions/process/make-liquid-crystal)
 - [Produce bisphenol-a](/docs/definitions/process/produce-bisphenol-a)
 - [Make ceramic electrolyte](/docs/definitions/process/make-ceramic-electrolyte)
 - [Make ceramic electrolyte with Aluminum oxide](/docs/definitions/process/make-ceramic-electrolyte-with-aluminum-oxide)
@@ -37,6 +45,6 @@ No Description
     
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 

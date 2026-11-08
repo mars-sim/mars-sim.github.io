@@ -23,10 +23,10 @@ hide_summary: true
 
 | Input      | Amount |
 |--------:|:------|
+|[Gas tubing](/docs/definitions/part/gas-tubing)|Part|2|
+|[Polyethylene HDPE sheet](/docs/definitions/part/polyethylene-hdpe-sheet)|Part|1|
 |[charcoal filter](/docs/definitions/part/charcoal-filter)|Part|2|
 |[electrical wire](/docs/definitions/part/electrical-wire)|Part|1|
-|[flexible hose](/docs/definitions/part/flexible-hose)|Part|2|
-|[plastic sheet](/docs/definitions/part/plastic-sheet)|Part|1|
 |[valve](/docs/definitions/part/valve)|Part|4|
 |[wire connector](/docs/definitions/part/wire-connector)|Part|1|
 
@@ -39,7 +39,7 @@ hide_summary: true
 
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 
 

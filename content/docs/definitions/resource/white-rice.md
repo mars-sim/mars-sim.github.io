@@ -28,11 +28,13 @@ No Description
     
 ## Used by Food Process
 
-- [Process White Rice into Rice Flour](/docs/definitions/food/process-white-rice-into-rice-flour)
+- [Process White Rice into Rice flour](/docs/definitions/food/process-white-rice-into-rice-flour)
+- [Make Veggie Patty from Quinoa Tempeh and Spice with white rice](/docs/definitions/food/make-veggie-patty-from-quinoa-tempeh-and-spice-with-white-rice)
+- [Make Veggie Patty from Quinoa Tempeh and Spice with white rice](/docs/definitions/food/make-veggie-patty-from-quinoa-tempeh-and-spice-with-white-rice)
 - [Make Rice Vinegar by Fermentation](/docs/definitions/food/make-rice-vinegar-by-fermentation)
 
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 

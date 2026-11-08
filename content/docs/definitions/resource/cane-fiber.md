@@ -23,20 +23,14 @@ Fiber processed from Sugarcane.
 - [Make pulp from cane fiber and crop waste](/docs/definitions/process/make-pulp-from-cane-fiber-and-crop-waste)
 - [Make pulp from cane fiber and crop waste (large batch)](/docs/definitions/process/make-pulp-from-cane-fiber-and-crop-waste--large-batch-)
 - [Make Garment](/docs/definitions/process/make-garment)
-- [Make Liquid Cooling Garment](/docs/definitions/process/make-liquid-cooling-garment)
-- [Make Liquid Cooling Garment with Kevlar](/docs/definitions/process/make-liquid-cooling-garment-with-kevlar)
-- [Make Liquid Cooling Garment with Fiber cloth](/docs/definitions/process/make-liquid-cooling-garment-with-fiber-cloth)
-- [Make EVA helmet](/docs/definitions/process/make-eva-helmet)
-- [Make EVA helmet with Polypropylene](/docs/definitions/process/make-eva-helmet-with-polypropylene)
-- [Make pressure suit](/docs/definitions/process/make-pressure-suit)
-- [Make pressure suit with Polypropylene](/docs/definitions/process/make-pressure-suit-with-polypropylene)
-- [Make coveralls](/docs/definitions/process/make-coveralls)
-- [Make EVA gloves](/docs/definitions/process/make-eva-gloves)
-- [Make EVA boots](/docs/definitions/process/make-eva-boots)
-- [Make EVA pads](/docs/definitions/process/make-eva-pads)
+- [Make Towel](/docs/definitions/process/make-towel)
+- [Make EVA glove](/docs/definitions/process/make-eva-glove)
+- [Make EVA boot](/docs/definitions/process/make-eva-boot)
+- [Make EVA pad](/docs/definitions/process/make-eva-pad)
 - [Make EVA backpack](/docs/definitions/process/make-eva-backpack)
 - [Make EVA backpack with Polypropylene](/docs/definitions/process/make-eva-backpack-with-polypropylene)
-- [Make work gloves](/docs/definitions/process/make-work-gloves)
+- [Make work glove](/docs/definitions/process/make-work-glove)
+- [Make fiber cloth](/docs/definitions/process/make-fiber-cloth)
 - [Make biosensor](/docs/definitions/process/make-biosensor)
 
 
@@ -52,6 +46,6 @@ Fiber processed from Sugarcane.
 
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 

@@ -16,7 +16,6 @@ Phase 1 base for United Kingdom
 |Objective:|Crop Farm|
 |Shift Pattern:|Standard 2 Shift|
 |Default People #:|8|
-|Default Robot #:|4|
 |Sponsor:|[UKSA](/docs/definitions/authority/uksa)|
 
 ## Buildings
@@ -24,14 +23,14 @@ Phase 1 base for United Kingdom
 | Name | Building Spec |
 |:------|:------|
 |Atmospheric Processor 1|[Atmospheric Processor](/docs/definitions/building/atmospheric-processor)|
+|B3.1|[Brickcore3x3](/docs/definitions/building/brickcore3x3)|
+|B9.1|[Brickcore3x9](/docs/definitions/building/brickcore3x9)|
+|B9.2|[Brickcore3x9](/docs/definitions/building/brickcore3x9)|
+|B9.3|[Brickcore3x9](/docs/definitions/building/brickcore3x9)|
 |Brine Water Well 1|[Brine Water Well](/docs/definitions/building/brine-water-well)|
 |Cement Storage 1|[Cement Storage](/docs/definitions/building/cement-storage)|
 |Chemical Storage 1|[Chemical Storage](/docs/definitions/building/chemical-storage)|
 |Concrete Storage 1|[Concrete Storage](/docs/definitions/building/concrete-storage)|
-|Corridor 3x3 1|[Corridor 3x3](/docs/definitions/building/corridor-3x3)|
-|Corridor 3x9 1|[Corridor 3x9](/docs/definitions/building/corridor-3x9)|
-|Corridor 3x9 2|[Corridor 3x9](/docs/definitions/building/corridor-3x9)|
-|Corridor 3x9 3|[Corridor 3x9](/docs/definitions/building/corridor-3x9)|
 |ERV-A 1|[ERV-A](/docs/definitions/building/erv-a)|
 |ERV-B 1|[ERV-B](/docs/definitions/building/erv-b)|
 |ERV-C 1|[ERV-C](/docs/definitions/building/erv-c)|
@@ -92,31 +91,35 @@ Phase 1 base for United Kingdom
 |[Condenser coil](/docs/definitions/part/condenser-coil)|Part|1|
 |[Coolant bottle](/docs/definitions/part/coolant-bottle)|Part|18|
 |[Copper pipe](/docs/definitions/part/copper-pipe)|Part|12|
-|[Coveralls](/docs/definitions/part/coveralls)|Part|16|
+|[Coverall](/docs/definitions/part/coverall)|Part|16|
 |[Crane boom](/docs/definitions/part/crane-boom)|Part|2|
 |[Decontamination kit](/docs/definitions/part/decontamination-kit)|Part|2|
 |[Drilling rig](/docs/definitions/part/drilling-rig)|Part|1|
+|[Dynamic Albedo of Neutrons Meter](/docs/definitions/part/dynamic-albedo-of-neutrons-meter)|Part|1|
 |[EVA antenna](/docs/definitions/part/eva-antenna)|Part|32|
 |[EVA backpack](/docs/definitions/part/eva-backpack)|Part|8|
 |[EVA battery](/docs/definitions/part/eva-battery)|Part|16|
-|[EVA boots](/docs/definitions/part/eva-boots)|Part|16|
-|[EVA gloves](/docs/definitions/part/eva-gloves)|Part|16|
+|[EVA boot](/docs/definitions/part/eva-boot)|Part|16|
+|[EVA glove](/docs/definitions/part/eva-glove)|Part|16|
 |[EVA helmet](/docs/definitions/part/eva-helmet)|Part|16|
-|[EVA pads](/docs/definitions/part/eva-pads)|Part|16|
+|[EVA pad](/docs/definitions/part/eva-pad)|Part|16|
 |[EVA radio](/docs/definitions/part/eva-radio)|Part|20|
 |[Electrical wire](/docs/definitions/part/electrical-wire)|Part|330|
 |[Electrostatic precipitator](/docs/definitions/part/electrostatic-precipitator)|Part|5|
 |[Fiberglass](/docs/definitions/part/fiberglass)|Part|3|
 |[Fiberglass cloth](/docs/definitions/part/fiberglass-cloth)|Part|10|
 |[Fire extinguisher](/docs/definitions/part/fire-extinguisher)|Part|26|
-|[Flexible hose](/docs/definitions/part/flexible-hose)|Part|10|
+|[Flexible water hose](/docs/definitions/part/flexible-water-hose)|Part|3|
 |[Food](/docs/definitions/resource/food)|Resource|720.0 kg|
 |[Fuel pump](/docs/definitions/part/fuel-pump)|Part|2|
-|[Fuel tank](/docs/definitions/part/fuel-tank)|Part|20|
 |[Garment](/docs/definitions/part/garment)|Part|8|
 |[Gas tank](/docs/definitions/part/gas-tank)|Part|20|
+|[Gas tubing](/docs/definitions/part/gas-tubing)|Part|10|
 |[Gasket](/docs/definitions/part/gasket)|Part|94|
+|[Gravity Gradiometer](/docs/definitions/part/gravity-gradiometer)|Part|1|
+|[Ground Penetrating Radar](/docs/definitions/part/ground-penetrating-radar)|Part|1|
 |[Heat pipe](/docs/definitions/part/heat-pipe)|Part|26|
+|[Heat probe](/docs/definitions/part/heat-probe)|Part|10|
 |[Heat pump](/docs/definitions/part/heat-pump)|Part|2|
 |[Heating element](/docs/definitions/part/heating-element)|Part|26|
 |[Helium neon laser](/docs/definitions/part/helium-neon-laser)|Part|5|
@@ -124,12 +127,14 @@ Phase 1 base for United Kingdom
 |[Iron pipe](/docs/definitions/part/iron-pipe)|Part|12|
 |[Light emitting diode bulb](/docs/definitions/part/light-emitting-diode-bulb)|Part|50|
 |[Light emitting diode kit](/docs/definitions/part/light-emitting-diode-kit)|Part|20|
+|[Liquid tubing](/docs/definitions/part/liquid-tubing)|Part|10|
 |[Logic board](/docs/definitions/part/logic-board)|Part|25|
 |[Lubricant bottle](/docs/definitions/part/lubricant-bottle)|Part|22|
 |[Methane fuel cell](/docs/definitions/part/methane-fuel-cell)|Part|200|
 |[Methane fuel cell stack](/docs/definitions/part/methane-fuel-cell-stack)|Part|4|
 |[Methanol fuel cell](/docs/definitions/part/methanol-fuel-cell)|Part|200|
-|[Methanol fuel cell stack](/docs/definitions/part/methanol-fuel-cell-stack)|Part|4|
+|[Methanol fuel cell stack large](/docs/definitions/part/methanol-fuel-cell-stack-large)|Part|4|
+|[Methanol fuel cell stack medium](/docs/definitions/part/methanol-fuel-cell-stack-medium)|Part|4|
 |[Microcontroller](/docs/definitions/part/microcontroller)|Part|60|
 |[Microwave](/docs/definitions/part/microwave)|Part|3|
 |[Motor 10 kW](/docs/definitions/part/motor-10-kw)|Part|4|
@@ -147,9 +152,8 @@ Phase 1 base for United Kingdom
 |[Plasma cutter](/docs/definitions/part/plasma-cutter)|Part|2|
 |[Plastic bottle](/docs/definitions/part/plastic-bottle)|Part|180|
 |[Plastic pipe](/docs/definitions/part/plastic-pipe)|Part|18|
-|[Plastic tubing](/docs/definitions/part/plastic-tubing)|Part|60|
 |[Pneumatic drill](/docs/definitions/part/pneumatic-drill)|Part|2|
-|[Polycarbonate roofing](/docs/definitions/part/polycarbonate-roofing)|Part|10|
+|[Polycarbonate panel](/docs/definitions/part/polycarbonate-panel)|Part|10|
 |[Power cable](/docs/definitions/part/power-cable)|Part|16|
 |[Power transistor](/docs/definitions/part/power-transistor)|Part|60|
 |[Pressure suit](/docs/definitions/part/pressure-suit)|Part|16|
@@ -161,6 +165,7 @@ Phase 1 base for United Kingdom
 |[Rover windshield](/docs/definitions/part/rover-windshield)|Part|2|
 |[SLS 3D Printer](/docs/definitions/part/sls-3d-printer)|Part|4|
 |[Satellite dish](/docs/definitions/part/satellite-dish)|Part|4|
+|[Seismoelectric Sensor](/docs/definitions/part/seismoelectric-sensor)|Part|10|
 |[Semiconductor wafer](/docs/definitions/part/semiconductor-wafer)|Part|5|
 |[Soil compactor](/docs/definitions/part/soil-compactor)|Part|2|
 |[Solar panel](/docs/definitions/part/solar-panel)|Part|2|
@@ -169,6 +174,8 @@ Phase 1 base for United Kingdom
 |[Stepper motor](/docs/definitions/part/stepper-motor)|Part|8|
 |[Stove](/docs/definitions/part/stove)|Part|3|
 |[Suit heating unit](/docs/definitions/part/suit-heating-unit)|Part|8|
+|[Surface Nuclear Magnetic Resonance Sounder](/docs/definitions/part/surface-nuclear-magnetic-resonance-sounder)|Part|1|
+|[Time Domain Electromagnetic Sounder](/docs/definitions/part/time-domain-electromagnetic-sounder)|Part|1|
 |[Timing belt](/docs/definitions/part/timing-belt)|Part|16|
 |[Transformer](/docs/definitions/part/transformer)|Part|5|
 |[Utility vehicle control panel](/docs/definitions/part/utility-vehicle-control-panel)|Part|2|
@@ -183,7 +190,7 @@ Phase 1 base for United Kingdom
 |[Winch](/docs/definitions/part/winch)|Part|2|
 |[Window](/docs/definitions/part/window)|Part|4|
 |[Wire connector](/docs/definitions/part/wire-connector)|Part|216|
-|[Work gloves](/docs/definitions/part/work-gloves)|Part|16|
+|[Work glove](/docs/definitions/part/work-glove)|Part|16|
 |[basket](/docs/definitions/null/basket)|Bin|20|
 |[crate](/docs/definitions/null/crate)|Bin|20|
 |[pot](/docs/definitions/null/pot)|Bin|20|
@@ -195,11 +202,21 @@ Phase 1 base for United Kingdom
 |thermal bottle|8|
 |barrel|40|
 |wheelbarrow|12|
-|EVA Suit|8|
 |specimen box|40|
+|eva suit|8|
+|data recorder|4|
 |bag|40|
 |large bag|40|
 |gas canister|40|
+
+## Robots
+
+| Robot Spec. | Quantity |
+|:-----|-----:|
+|[RepairBot-Standard](/docs/definitions/robot/repairbot-standard)|1|
+|[GardenBot-Advanced](/docs/definitions/robot/gardenbot-advanced)|1|
+|[MedicBot-Advanced](/docs/definitions/robot/medicbot-advanced)|1|
+|[MakerBot-Standard](/docs/definitions/robot/makerbot-standard)|1|
 
 ## Vehicles
 
@@ -211,14 +228,13 @@ Phase 1 base for United Kingdom
    
 
 
-
 ## Supply Missions
 
 | Name      | 1st Arrival | Supply Plan | Frequency (sols) |
 |--------:|:------|:-----|-------:|
 |Food Delivery|2|[Food Resupply 1](/docs/definitions/manifest/food-resupply-1)|80|
-|Phase 1 Delivery|668|[Resupply for Phase 1](/docs/definitions/manifest/resupply-for-phase-1)|-1|
+|Phase 1 Delivery|120|[Resupply for Phase 1](/docs/definitions/manifest/resupply-for-phase-1)|-1|
     
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 

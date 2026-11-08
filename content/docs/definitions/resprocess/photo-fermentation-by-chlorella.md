@@ -12,14 +12,14 @@ hide_summary: true
 |--------:|:------|
 |Process Time:|200 millisols|
 |Work Time:|10 millisols|
-|Power Required:|0.0 kW/hr|
+|Power Required:| kW/hr|
 |Start On:|false|
 
 ## Inputs
 | Name      | Input Rate (kg/sol) | Minimum kg | Ambient |
 |--------:|:------|-----:|:----|
+|[Water](/docs/definitions/resource/water)|108.0|0.0054|false|
 |[Glucose](/docs/definitions/resource/glucose)|180.0|0.009|false|
-|[Water](/docs/definitions/resource/water)|108.0|0.005|false|
 
 Ambient inputs are consumed from the environment.
 
@@ -32,7 +32,7 @@ Ambient inputs are consumed from the environment.
 Waste outputs are released into the environment and do not need to be stored.
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 
 

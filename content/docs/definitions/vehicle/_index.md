@@ -16,9 +16,10 @@ description: Types of Vehicles Featured for Mars Surface Operations
 - [Explorer Rover](../vehicle/explorer-rover)
 - [Light Utility Vehicle](../vehicle/light-utility-vehicle)
 - [Long Range Explorer](../vehicle/long-range-explorer)
+- [Passenger Drone](../vehicle/passenger-drone)
 - [Transport Rover](../vehicle/transport-rover)
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 

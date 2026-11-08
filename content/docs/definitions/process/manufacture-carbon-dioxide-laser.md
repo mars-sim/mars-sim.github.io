@@ -15,7 +15,7 @@ hide_summary: true
 |Skill Level:|4|
 |Tech Level:|3|
 |Process Time:|300.0 millisols|
-|Tooling:|Soldering|
+|Tooling:|Fabrication|
 |Work Level:|300.0 millisols|
 |Power Required:|1.0 kW/hr|
 
@@ -23,14 +23,13 @@ hide_summary: true
 
 | Input      | Amount |
 |--------:|:------|
+|[Glass sheet](/docs/definitions/part/glass-sheet)|Part|1|
+|[Optical lens](/docs/definitions/part/optical-lens)|Part|10|
+|[Steel sheet](/docs/definitions/part/steel-sheet)|Part|1|
 |[diode](/docs/definitions/part/diode)|Part|15|
 |[electrical wire](/docs/definitions/part/electrical-wire)|Part|1|
-|[glass sheet](/docs/definitions/part/glass-sheet)|Part|1|
 |[light emitting diode kit](/docs/definitions/part/light-emitting-diode-kit)|Part|5|
-|[optical lens](/docs/definitions/part/optical-lens)|Part|10|
-|[plastic sheet](/docs/definitions/part/plastic-sheet)|Part|1|
 |[semiconductor wafer](/docs/definitions/part/semiconductor-wafer)|Part|1|
-|[steel sheet](/docs/definitions/part/steel-sheet)|Part|1|
 |[wire connector](/docs/definitions/part/wire-connector)|Part|1|
 
 ## Products
@@ -42,7 +41,7 @@ hide_summary: true
 
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 
 

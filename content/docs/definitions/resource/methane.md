@@ -18,22 +18,11 @@ No Description
 |Form:|Gas|
  
 
-## Used by Manufacturing Process
-
-- [Make crop fertilizers](/docs/definitions/process/make-crop-fertilizers)
-- [Make crop fertilizers with potash lye](/docs/definitions/process/make-crop-fertilizers-with-potash-lye)
-- [Make crop fertilizers with Ammonia](/docs/definitions/process/make-crop-fertilizers-with-ammonia)
-- [Make crop fertilizers with Rhizobia](/docs/definitions/process/make-crop-fertilizers-with-rhizobia)
-- [Make crop fertilizers with Nitrospira SPP](/docs/definitions/process/make-crop-fertilizers-with-nitrospira-spp)
-- [Make crop fertilizers with iron powder](/docs/definitions/process/make-crop-fertilizers-with-iron-powder)
-- [Make crop fertilizers with copper](/docs/definitions/process/make-crop-fertilizers-with-copper)
-- [Make crop fertilizers with Crop Waste](/docs/definitions/process/make-crop-fertilizers-with-crop-waste)
-- [Make crop fertilizers with Nitrite](/docs/definitions/process/make-crop-fertilizers-with-nitrite)
 
 
     
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 

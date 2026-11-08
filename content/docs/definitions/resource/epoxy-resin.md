@@ -18,11 +18,32 @@ hide_summary: true
 |Form:|Solid|
  
 
+## Used by Manufacturing Process
+
+- [Manufacture large methane fuel tank](/docs/definitions/process/manufacture-large-methane-fuel-tank)
+- [Manufacture medium methane fuel tank](/docs/definitions/process/manufacture-medium-methane-fuel-tank)
+- [Manufacture small methane fuel tank](/docs/definitions/process/manufacture-small-methane-fuel-tank)
+- [Manufacture large methanol fuel tank](/docs/definitions/process/manufacture-large-methanol-fuel-tank)
+- [Manufacture medium methanol fuel tank](/docs/definitions/process/manufacture-medium-methanol-fuel-tank)
+- [Manufacture small methanol fuel tank](/docs/definitions/process/manufacture-small-methanol-fuel-tank)
+- [Fabricate wind turbine blade with Epoxy resin](/docs/definitions/process/fabricate-wind-turbine-blade-with-epoxy-resin)
+- [Make Fiberglass-epoxy composite](/docs/definitions/process/make-fiberglass-epoxy-composite)
+- [Manufacture memory module](/docs/definitions/process/manufacture-memory-module)
+- [Manufacture microcontroller](/docs/definitions/process/manufacture-microcontroller)
+- [Manufacture radio](/docs/definitions/process/manufacture-radio)
+- [Manufacture loudspeaker](/docs/definitions/process/manufacture-loudspeaker)
+- [Manufacture diode](/docs/definitions/process/manufacture-diode)
+- [Manufacture diode with Aluminum oxide](/docs/definitions/process/manufacture-diode-with-aluminum-oxide)
+- [Manufacture power transistor](/docs/definitions/process/manufacture-power-transistor)
+- [Manufacture power transistor with Aluminum oxide](/docs/definitions/process/manufacture-power-transistor-with-aluminum-oxide)
+- [Manufacture logic board](/docs/definitions/process/manufacture-logic-board)
+- [Manufacture logic board with Aluminum oxide](/docs/definitions/process/manufacture-logic-board-with-aluminum-oxide)
+- [Manufacture data recorder](/docs/definitions/process/manufacture-data-recorder)
 
 
     
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 

@@ -23,18 +23,18 @@ hide_summary: true
 
 | Input      | Amount |
 |--------:|:------|
-|[Polypropylene](/docs/definitions/resource/polypropylene)|Resource|7.8 kg|
+|[Polypropylene](/docs/definitions/resource/polypropylene)|Resource|1.0 kg|
 
 ## Products
 
 
 | Produce      | Amount |
 |--------:|:------|
-|[crate](/docs/definitions/null/crate)|6|
+|[crate](/docs/definitions/null/crate)|1|
 
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 
 

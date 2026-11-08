@@ -31,30 +31,30 @@ hide_summary: true
 | Produce      | Amount |
 |--------:|:------|
 |[CMOS sensor](/docs/definitions/part/cmos-sensor)|8|
+|[Gas tubing](/docs/definitions/part/gas-tubing)|2|
 |[Motor 10 kW](/docs/definitions/part/motor-10-kw)|4|
+|[Optical lens](/docs/definitions/part/optical-lens)|2|
 |[aluminum sheet](/docs/definitions/part/aluminum-sheet)|3|
 |[battery module](/docs/definitions/part/battery-module)|1|
 |[communications circuit board](/docs/definitions/part/communications-circuit-board)|1|
+|[drone chassis panel](/docs/definitions/part/drone-chassis-panel)|3|
 |[electrical wire](/docs/definitions/part/electrical-wire)|10|
 |[fuel pump](/docs/definitions/part/fuel-pump)|1|
-|[fuel tank](/docs/definitions/part/fuel-tank)|1|
+|[fuel tank large methane](/docs/definitions/part/fuel-tank-large-methane)|3|
 |[gas tank](/docs/definitions/part/gas-tank)|1|
-|[methane fuel cell stack](/docs/definitions/part/methane-fuel-cell-stack)|2|
+|[methane fuel cell stack](/docs/definitions/part/methane-fuel-cell-stack)|1|
 |[navigation circuit board](/docs/definitions/part/navigation-circuit-board)|1|
 |[optical cable](/docs/definitions/part/optical-cable)|2|
-|[optical lens](/docs/definitions/part/optical-lens)|2|
 |[plastic pipe](/docs/definitions/part/plastic-pipe)|1|
-|[plastic tubing](/docs/definitions/part/plastic-tubing)|2|
 |[propeller](/docs/definitions/part/propeller)|4|
 |[radio antenna](/docs/definitions/part/radio-antenna)|1|
-|[vehicle chassis panel](/docs/definitions/part/vehicle-chassis-panel)|3|
 |[vehicle frame small](/docs/definitions/part/vehicle-frame-small)|1|
 |[water tank](/docs/definitions/part/water-tank)|1|
 |[wire connector](/docs/definitions/part/wire-connector)|10|
 
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 
 

@@ -12,10 +12,10 @@ hide_summary: true
 | Attribute      | Value |
 |--------:|:------|
 |Type:|Manufacture|
-|Skill Level:|2|
-|Tech Level:|3|
+|Skill Level:|1|
+|Tech Level:|1|
 |Process Time:|100.0 millisols|
-|Tooling:|Soldering|
+|Tooling:|Chemical|
 |Work Level:|50.0 millisols|
 |Power Required:|1.0 kW/hr|
 
@@ -25,18 +25,18 @@ hide_summary: true
 |--------:|:------|
 |[Ethylene glycol](/docs/definitions/resource/ethylene-glycol)|Resource|0.1 kg|
 |[Peanut Oil](/docs/definitions/resource/peanut-oil)|Resource|3.8 kg|
-|[propylene](/docs/definitions/resource/propylene)|Resource|0.1 kg|
+|[Propylene](/docs/definitions/resource/propylene)|Resource|0.1 kg|
 
 ## Products
 
 
 | Produce      | Amount |
 |--------:|:------|
-|[Hydraulic Fluid](/docs/definitions/resource/hydraulic-fluid)|4.0 kg|
+|[Hydraulic fluid](/docs/definitions/resource/hydraulic-fluid)|4.0 kg|
 
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 
 

@@ -22,11 +22,11 @@ French bread or loaves of bread made from flour.
 
 ## Made by Food Process
 
-- [Bake White Bread from Soy Flour](/docs/definitions/food/bake-white-bread-from-soy-flour)
+- [Bake White Bread from Soy flour](/docs/definitions/food/bake-white-bread-from-soy-flour)
 
     
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 

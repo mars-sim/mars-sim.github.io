@@ -23,9 +23,9 @@ hide_summary: true
 
 | Input      | Amount |
 |--------:|:------|
-|[Polyester fiber](/docs/definitions/resource/polyester-fiber)|Resource|0.2 kg|
-|[Polyester resin](/docs/definitions/resource/polyester-resin)|Resource|1.0 kg|
-|[Polyurethane](/docs/definitions/resource/polyurethane)|Resource|0.1 kg|
+|[Polyester fiber](/docs/definitions/resource/polyester-fiber)|Resource|0.4 kg|
+|[Polyester resin](/docs/definitions/resource/polyester-resin)|Resource|0.5 kg|
+|[Polyurethane](/docs/definitions/resource/polyurethane)|Resource|0.3 kg|
 
 ## Products
 
@@ -36,7 +36,7 @@ hide_summary: true
 
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 
 

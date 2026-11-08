@@ -1,6 +1,6 @@
 ---
-title: Manufacturing Process - Assemble transport rover
-linkTitle: Assemble transport rover
+title: Manufacturing Process - Assemble Transport Rover
+linkTitle: Assemble Transport Rover
 toc_hide: true
 hide_summary: true
 ---
@@ -13,7 +13,7 @@ hide_summary: true
 |--------:|:------|
 |Type:|Manufacture|
 |Skill Level:|4|
-|Tech Level:|3|
+|Tech Level:|4|
 |Process Time:|1000.0 millisols|
 |Tooling:|Lifting|
 |Work Level:|2500.0 millisols|
@@ -23,22 +23,25 @@ hide_summary: true
 
 | Input      | Amount |
 |--------:|:------|
+|[Aerogel tile](/docs/definitions/part/aerogel-tile)|Part|120|
 |[CMOS sensor](/docs/definitions/part/cmos-sensor)|Part|10|
+|[Fuel pump](/docs/definitions/part/fuel-pump)|Part|2|
+|[Gas tubing](/docs/definitions/part/gas-tubing)|Part|5|
+|[Heat pump](/docs/definitions/part/heat-pump)|Part|1|
 |[Motor 30 kW](/docs/definitions/part/motor-30-kw)|Part|5|
+|[Oxygen pump](/docs/definitions/part/oxygen-pump)|Part|2|
 |[acetylene](/docs/definitions/resource/acetylene)|Resource|3.0 kg|
-|[aerogel tile](/docs/definitions/part/aerogel-tile)|Part|120|
 |[battery module](/docs/definitions/part/battery-module)|Part|4|
 |[electrical wire](/docs/definitions/part/electrical-wire)|Part|20|
-|[fuel pump](/docs/definitions/part/fuel-pump)|Part|2|
-|[fuel tank](/docs/definitions/part/fuel-tank)|Part|4|
+|[fuel tank large methanol](/docs/definitions/part/fuel-tank-large-methanol)|Part|3|
+|[fuel tank small methanol](/docs/definitions/part/fuel-tank-small-methanol)|Part|1|
 |[gas tank](/docs/definitions/part/gas-tank)|Part|4|
 |[lubricant bottle](/docs/definitions/part/lubricant-bottle)|Part|5|
-|[methanol fuel cell stack](/docs/definitions/part/methanol-fuel-cell-stack)|Part|5|
+|[methanol fuel cell stack large](/docs/definitions/part/methanol-fuel-cell-stack-large)|Part|2|
+|[methanol fuel cell stack medium](/docs/definitions/part/methanol-fuel-cell-stack-medium)|Part|1|
 |[optical cable](/docs/definitions/part/optical-cable)|Part|8|
-|[oxygen pump](/docs/definitions/part/oxygen-pump)|Part|2|
 |[plastic bottle](/docs/definitions/part/plastic-bottle)|Part|5|
 |[plastic pipe](/docs/definitions/part/plastic-pipe)|Part|5|
-|[plastic tubing](/docs/definitions/part/plastic-tubing)|Part|5|
 |[polystyrene](/docs/definitions/resource/polystyrene)|Resource|20.0 kg|
 |[radio antenna](/docs/definitions/part/radio-antenna)|Part|1|
 |[rover control panel](/docs/definitions/part/rover-control-panel)|Part|1|
@@ -58,11 +61,11 @@ hide_summary: true
 
 | Produce      | Amount |
 |--------:|:------|
-|[transport rover](/docs/definitions/vehicle/transport-rover)|1|
+|[Transport Rover](/docs/definitions/vehicle/transport-rover)|1|
 
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 
 

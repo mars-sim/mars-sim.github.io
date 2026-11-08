@@ -13,7 +13,7 @@ This turbopump is compatible with delivering liquid methane. The purpose of a tu
 
 | Attribute      | Value |
 |--------:|:------|
-|Mass:|50.0 kg|
+|Mass:|10.911 kg|
 |Type:|Utility|
 
 ## Made by Manufacturing Process
@@ -23,7 +23,7 @@ This turbopump is compatible with delivering liquid methane. The purpose of a tu
 
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 
 

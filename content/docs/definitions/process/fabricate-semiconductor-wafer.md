@@ -23,18 +23,18 @@ hide_summary: true
 
 | Input      | Amount |
 |--------:|:------|
-|[silicon](/docs/definitions/resource/silicon)|Resource|1.2 kg|
+|[Silicon ingot](/docs/definitions/part/silicon-ingot)|Part|1|
 
 ## Products
 
 
 | Produce      | Amount |
 |--------:|:------|
-|[semiconductor wafer](/docs/definitions/part/semiconductor-wafer)|1|
+|[semiconductor wafer](/docs/definitions/part/semiconductor-wafer)|20|
 
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 
 

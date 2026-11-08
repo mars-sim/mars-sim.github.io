@@ -41,11 +41,15 @@ Rice vinegar is more popular in the cuisines of East and Southeast Asia. It is
 - [Make Tofu, Soymilk, and Tempeh from Soybeans and Vinegar](/docs/definitions/food/make-tofu--soymilk--and-tempeh-from-soybeans-and-vinegar)
 - [Make Tofu, Soymilk, and Tempeh from Soybeans and Epsom Salt](/docs/definitions/food/make-tofu--soymilk--and-tempeh-from-soybeans-and-epsom-salt)
 - [Make Veggie Patty from Quinoa Tempeh and Spice](/docs/definitions/food/make-veggie-patty-from-quinoa-tempeh-and-spice)
+- [Make Veggie Patty from Quinoa Tempeh and Spice with white rice](/docs/definitions/food/make-veggie-patty-from-quinoa-tempeh-and-spice-with-white-rice)
+- [Make Veggie Patty from Quinoa Tempeh and Spice with Spirulina](/docs/definitions/food/make-veggie-patty-from-quinoa-tempeh-and-spice-with-spirulina)
+- [Make Veggie Patty from Quinoa Tempeh and Spice with sugarcane juice](/docs/definitions/food/make-veggie-patty-from-quinoa-tempeh-and-spice-with-sugarcane-juice)
+- [Make Veggie Patty from Quinoa Tempeh and Spice with honey](/docs/definitions/food/make-veggie-patty-from-quinoa-tempeh-and-spice-with-honey)
 - [Make Mustard](/docs/definitions/food/make-mustard)
 - [Make Ketchup from Tomatoes](/docs/definitions/food/make-ketchup-from-tomatoes)
 
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 

@@ -26,11 +26,12 @@ Soybean seeds.
 
 - [Make Soy Sprouts from Soybeans](/docs/definitions/food/make-soy-sprouts-from-soybeans)
 - [Make Okara and Soymilk from Soybeans](/docs/definitions/food/make-okara-and-soymilk-from-soybeans)
+- [Make Sesame Milk from Soymilk](/docs/definitions/food/make-sesame-milk-from-soymilk)
 - [Make Tofu from Soybeans, Water, and Epsom Salt (large batch)](/docs/definitions/food/make-tofu-from-soybeans--water--and-epsom-salt--large-batch-)
 - [Make Tofu from Soybeans, Water, and Vinegar (large batch)](/docs/definitions/food/make-tofu-from-soybeans--water--and-vinegar--large-batch-)
 - [Make Soymilk and Tofu from Soybeans, Water, and Epsom Salt](/docs/definitions/food/make-soymilk-and-tofu-from-soybeans--water--and-epsom-salt)
 - [Make Soymilk and Tofu from Soybeans, Water, and Vinegar](/docs/definitions/food/make-soymilk-and-tofu-from-soybeans--water--and-vinegar)
-- [Process Soybean into Soy Flour](/docs/definitions/food/process-soybean-into-soy-flour)
+- [Process Soybeans into Soy Flour](/docs/definitions/food/process-soybeans-into-soy-flour)
 - [Make Tempeh from Soybeans](/docs/definitions/food/make-tempeh-from-soybeans)
 - [Make Tempeh from half Soybeans and half Okara](/docs/definitions/food/make-tempeh-from-half-soybeans-and-half-okara)
 - [Make Tofu and Tempeh from Soybeans and Vinegar (large batch)](/docs/definitions/food/make-tofu-and-tempeh-from-soybeans-and-vinegar--large-batch-)
@@ -46,6 +47,6 @@ Soybean seeds.
 
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 

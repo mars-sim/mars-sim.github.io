@@ -24,27 +24,27 @@ Clean bottle with bleach. Add water to white rice and heat up mixture.&#10;&#9;&
 | Input      | Amount |
 |--------:|:------|
 |[Acetic Acid Bacteria](/docs/definitions/resource/acetic-acid-bacteria)|Resource|0.3 kg|
-|[Sugar](/docs/definitions/resource/sugar)|Resource|0.5 kg|
-|[Water](/docs/definitions/resource/water)|Resource|13.25 kg|
 |[White Rice](/docs/definitions/resource/white-rice)|Resource|5.0 kg|
-|[Yeast](/docs/definitions/resource/yeast)|Resource|0.3 kg|
 |[autoclave](/docs/definitions/part/autoclave)|Part|1|
+|[glucose](/docs/definitions/resource/glucose)|Resource|0.5 kg|
 |[plastic bottle](/docs/definitions/part/plastic-bottle)|Part|5|
 |[sodium hypochlorite](/docs/definitions/resource/sodium-hypochlorite)|Resource|0.003 kg|
+|[water](/docs/definitions/resource/water)|Resource|13.25 kg|
+|[yeast](/docs/definitions/resource/yeast)|Resource|0.3 kg|
 
 ## Outcomes
 
 
 | Produce      | Amount |
 |--------:|:------|
-|[Grey Water](/docs/definitions/resource/grey-water)|1.25 kg|
-|[Rice Vinegar](/docs/definitions/resource/rice-vinegar)|15.0 kg|
 |[autoclave](/docs/definitions/part/autoclave)|1|
+|[grey water](/docs/definitions/resource/grey-water)|1.25 kg|
 |[plastic bottle](/docs/definitions/part/plastic-bottle)|5|
+|[rice vinegar](/docs/definitions/resource/rice-vinegar)|15.0 kg|
 
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 
 

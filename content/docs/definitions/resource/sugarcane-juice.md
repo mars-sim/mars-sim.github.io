@@ -27,12 +27,14 @@ Juice made from Sugarcane
     
 ## Used by Food Process
 
-- [Make Granola Bar with Sugarcane Juice](/docs/definitions/food/make-granola-bar-with-sugarcane-juice)
-- [Make Okara Protein Bar with Sugarcane Juice](/docs/definitions/food/make-okara-protein-bar-with-sugarcane-juice)
-- [Make Veggie Patty from Quinoa Tempeh and Spice](/docs/definitions/food/make-veggie-patty-from-quinoa-tempeh-and-spice)
+- [Make Granola Bar with sugarcane juice](/docs/definitions/food/make-granola-bar-with-sugarcane-juice)
+- [Make Okara Protein Bar with sugarcane juice](/docs/definitions/food/make-okara-protein-bar-with-sugarcane-juice)
+- [Make Veggie Patty from Quinoa Tempeh and Spice with sugarcane juice](/docs/definitions/food/make-veggie-patty-from-quinoa-tempeh-and-spice-with-sugarcane-juice)
+- [Make Blueberry Muffin with sugarcane juice](/docs/definitions/food/make-blueberry-muffin-with-sugarcane-juice)
+- [Make Okara Blueberry Muffin with sugarcane juice](/docs/definitions/food/make-okara-blueberry-muffin-with-sugarcane-juice)
 
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 

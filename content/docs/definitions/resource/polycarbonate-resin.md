@@ -26,19 +26,20 @@ hide_summary: true
 - [Make satellite dish with Polycarbonate resin](/docs/definitions/process/make-satellite-dish-with-polycarbonate-resin)
 - [Make radio antenna with Polycarbonate resin](/docs/definitions/process/make-radio-antenna-with-polycarbonate-resin)
 - [Make EVA helmet](/docs/definitions/process/make-eva-helmet)
+- [Make EVA helmet with Kevlar](/docs/definitions/process/make-eva-helmet-with-kevlar)
 - [Make EVA helmet with Polypropylene](/docs/definitions/process/make-eva-helmet-with-polypropylene)
-- [Make EVA helmet with Soy fiber](/docs/definitions/process/make-eva-helmet-with-soy-fiber)
-- [Make EVA helmet with Polyester fiber](/docs/definitions/process/make-eva-helmet-with-polyester-fiber)
 - [Make helmet visor](/docs/definitions/process/make-helmet-visor)
 - [Make EVA antenna with Polycarbonate resin](/docs/definitions/process/make-eva-antenna-with-polycarbonate-resin)
+- [Make steering wheel with Polycarbonate resin](/docs/definitions/process/make-steering-wheel-with-polycarbonate-resin)
 - [Manufacture vehicle chassis panel with Polycarbonate resin](/docs/definitions/process/manufacture-vehicle-chassis-panel-with-polycarbonate-resin)
 - [Manufacture drone chassis panel with Polycarbonate resin](/docs/definitions/process/manufacture-drone-chassis-panel-with-polycarbonate-resin)
 - [Manufacture propeller](/docs/definitions/process/manufacture-propeller)
 - [Manufacture rover control panel with Polycarbonate resin](/docs/definitions/process/manufacture-rover-control-panel-with-polycarbonate-resin)
 - [Manufacture utility vehicle control panel with Polycarbonate resin](/docs/definitions/process/manufacture-utility-vehicle-control-panel-with-polycarbonate-resin)
-- [Fabricate turbine blade with Polycarbonate resin](/docs/definitions/process/fabricate-turbine-blade-with-polycarbonate-resin)
-- [Manufacture polycarbonate roofing](/docs/definitions/process/manufacture-polycarbonate-roofing)
-- [Make Power Panel](/docs/definitions/process/make-power-panel)
+- [Fabricate wind turbine blade with Polycarbonate resin](/docs/definitions/process/fabricate-wind-turbine-blade-with-polycarbonate-resin)
+- [Make floodlight](/docs/definitions/process/make-floodlight)
+- [Manufacture polycarbonate roofing panel](/docs/definitions/process/manufacture-polycarbonate-roofing-panel)
+- [Make Power panel](/docs/definitions/process/make-power-panel)
 - [Make Surge Protector](/docs/definitions/process/make-surge-protector)
 - [Make Metal Oxide Varistor](/docs/definitions/process/make-metal-oxide-varistor)
 
@@ -46,6 +47,6 @@ hide_summary: true
     
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 

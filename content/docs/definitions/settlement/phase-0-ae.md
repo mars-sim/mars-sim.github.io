@@ -16,7 +16,6 @@ Phase 0 base for United Arab Emirates
 |Objective:|Crop Farm|
 |Shift Pattern:|Standard 2 Shift|
 |Default People #:|4|
-|Default Robot #:|4|
 |Sponsor:|[UAESA](/docs/definitions/authority/uaesa)|
 
 ## Buildings
@@ -35,8 +34,8 @@ Phase 0 base for United Arab Emirates
 |Fuel Storage 2|[Fuel Storage](/docs/definitions/building/fuel-storage)|
 |Gas Storage 1|[Gas Storage](/docs/definitions/building/gas-storage)|
 |Gas Storage 2|[Gas Storage](/docs/definitions/building/gas-storage)|
-|Hallway 1|[Hallway](/docs/definitions/building/hallway)|
-|Hallway 2|[Hallway](/docs/definitions/building/hallway)|
+|H1|[Hallway](/docs/definitions/building/hallway)|
+|H2|[Hallway](/docs/definitions/building/hallway)|
 |Ice Storage 1|[Ice Storage](/docs/definitions/building/ice-storage)|
 |Ice Storage 2|[Ice Storage](/docs/definitions/building/ice-storage)|
 |Inflatable Greenhouse 1|[Inflatable Greenhouse](/docs/definitions/building/inflatable-greenhouse)|
@@ -60,71 +59,79 @@ Phase 0 base for United Arab Emirates
 
 | Name | Type | Quantity |
 |:-----|:-----|-----:|
+|[Actuator](/docs/definitions/part/actuator)|Part|28|
 |[Air compressor](/docs/definitions/part/air-compressor)|Part|3|
 |[Air duct](/docs/definitions/part/air-duct)|Part|10|
 |[Airleak patch](/docs/definitions/part/airleak-patch)|Part|160|
 |[Autoclave](/docs/definitions/part/autoclave)|Part|3|
 |[Backhoe](/docs/definitions/part/backhoe)|Part|2|
-|[Battery module](/docs/definitions/part/battery-module)|Part|4|
-|[Biosensor](/docs/definitions/part/biosensor)|Part|4|
+|[Battery module](/docs/definitions/part/battery-module)|Part|8|
+|[Biosensor](/docs/definitions/part/biosensor)|Part|24|
 |[Blender](/docs/definitions/part/blender)|Part|3|
 |[Bore drill bit](/docs/definitions/part/bore-drill-bit)|Part|6|
 |[Bore drill pipe](/docs/definitions/part/bore-drill-pipe)|Part|20|
 |[Bulldozer blade](/docs/definitions/part/bulldozer-blade)|Part|2|
-|[Carbon dioxide laser](/docs/definitions/part/carbon-dioxide-laser)|Part|5|
+|[Carbon dioxide laser](/docs/definitions/part/carbon-dioxide-laser)|Part|10|
 |[Carbon dioxide pump](/docs/definitions/part/carbon-dioxide-pump)|Part|3|
 |[Charcoal filter](/docs/definitions/part/charcoal-filter)|Part|5|
-|[Communications circuit board](/docs/definitions/part/communications-circuit-board)|Part|6|
+|[Communications circuit board](/docs/definitions/part/communications-circuit-board)|Part|12|
 |[Condenser coil](/docs/definitions/part/condenser-coil)|Part|1|
 |[Coolant bottle](/docs/definitions/part/coolant-bottle)|Part|18|
 |[Copper pipe](/docs/definitions/part/copper-pipe)|Part|12|
-|[Coveralls](/docs/definitions/part/coveralls)|Part|16|
+|[Coverall](/docs/definitions/part/coverall)|Part|16|
 |[Crane boom](/docs/definitions/part/crane-boom)|Part|2|
 |[Decontamination kit](/docs/definitions/part/decontamination-kit)|Part|2|
 |[Drilling rig](/docs/definitions/part/drilling-rig)|Part|1|
+|[Dynamic Albedo of Neutrons Meter](/docs/definitions/part/dynamic-albedo-of-neutrons-meter)|Part|4|
 |[EVA antenna](/docs/definitions/part/eva-antenna)|Part|32|
 |[EVA backpack](/docs/definitions/part/eva-backpack)|Part|8|
 |[EVA battery](/docs/definitions/part/eva-battery)|Part|16|
-|[EVA boots](/docs/definitions/part/eva-boots)|Part|16|
-|[EVA gloves](/docs/definitions/part/eva-gloves)|Part|16|
+|[EVA boot](/docs/definitions/part/eva-boot)|Part|16|
+|[EVA glove](/docs/definitions/part/eva-glove)|Part|16|
 |[EVA helmet](/docs/definitions/part/eva-helmet)|Part|16|
-|[EVA pads](/docs/definitions/part/eva-pads)|Part|16|
+|[EVA pad](/docs/definitions/part/eva-pad)|Part|16|
 |[EVA radio](/docs/definitions/part/eva-radio)|Part|20|
 |[Electrical wire](/docs/definitions/part/electrical-wire)|Part|330|
 |[Electrostatic precipitator](/docs/definitions/part/electrostatic-precipitator)|Part|5|
 |[Fiberglass](/docs/definitions/part/fiberglass)|Part|3|
 |[Fiberglass cloth](/docs/definitions/part/fiberglass-cloth)|Part|10|
 |[Fire extinguisher](/docs/definitions/part/fire-extinguisher)|Part|26|
-|[Flexible hose](/docs/definitions/part/flexible-hose)|Part|10|
+|[Flexible water hose](/docs/definitions/part/flexible-water-hose)|Part|3|
 |[Food](/docs/definitions/resource/food)|Resource|720.0 kg|
 |[Fuel pump](/docs/definitions/part/fuel-pump)|Part|2|
-|[Fuel tank](/docs/definitions/part/fuel-tank)|Part|20|
 |[Garment](/docs/definitions/part/garment)|Part|8|
 |[Gas tank](/docs/definitions/part/gas-tank)|Part|20|
+|[Gas tubing](/docs/definitions/part/gas-tubing)|Part|10|
 |[Gasket](/docs/definitions/part/gasket)|Part|94|
+|[Gearbox](/docs/definitions/part/gearbox)|Part|12|
+|[Gravity Gradiometer](/docs/definitions/part/gravity-gradiometer)|Part|4|
+|[Ground Penetrating Radar](/docs/definitions/part/ground-penetrating-radar)|Part|4|
 |[Heat pipe](/docs/definitions/part/heat-pipe)|Part|26|
+|[Heat probe](/docs/definitions/part/heat-probe)|Part|35|
 |[Heat pump](/docs/definitions/part/heat-pump)|Part|2|
 |[Heating element](/docs/definitions/part/heating-element)|Part|26|
-|[Helium neon laser](/docs/definitions/part/helium-neon-laser)|Part|5|
+|[Helium neon laser](/docs/definitions/part/helium-neon-laser)|Part|10|
 |[Helmet visor](/docs/definitions/part/helmet-visor)|Part|8|
 |[Iron pipe](/docs/definitions/part/iron-pipe)|Part|12|
-|[Light emitting diode bulb](/docs/definitions/part/light-emitting-diode-bulb)|Part|50|
-|[Light emitting diode kit](/docs/definitions/part/light-emitting-diode-kit)|Part|20|
-|[Logic board](/docs/definitions/part/logic-board)|Part|25|
+|[Light emitting diode bulb](/docs/definitions/part/light-emitting-diode-bulb)|Part|100|
+|[Light emitting diode kit](/docs/definitions/part/light-emitting-diode-kit)|Part|40|
+|[Liquid tubing](/docs/definitions/part/liquid-tubing)|Part|10|
+|[Logic board](/docs/definitions/part/logic-board)|Part|50|
 |[Lubricant bottle](/docs/definitions/part/lubricant-bottle)|Part|22|
-|[Methane fuel cell](/docs/definitions/part/methane-fuel-cell)|Part|200|
-|[Methane fuel cell stack](/docs/definitions/part/methane-fuel-cell-stack)|Part|4|
-|[Methanol fuel cell](/docs/definitions/part/methanol-fuel-cell)|Part|200|
-|[Methanol fuel cell stack](/docs/definitions/part/methanol-fuel-cell-stack)|Part|4|
-|[Microcontroller](/docs/definitions/part/microcontroller)|Part|60|
+|[Methane fuel cell](/docs/definitions/part/methane-fuel-cell)|Part|400|
+|[Methane fuel cell stack](/docs/definitions/part/methane-fuel-cell-stack)|Part|8|
+|[Methanol fuel cell](/docs/definitions/part/methanol-fuel-cell)|Part|400|
+|[Methanol fuel cell stack large](/docs/definitions/part/methanol-fuel-cell-stack-large)|Part|8|
+|[Methanol fuel cell stack medium](/docs/definitions/part/methanol-fuel-cell-stack-medium)|Part|8|
+|[Microcontroller](/docs/definitions/part/microcontroller)|Part|120|
 |[Microwave](/docs/definitions/part/microwave)|Part|3|
-|[Motor 10 kW](/docs/definitions/part/motor-10-kw)|Part|4|
-|[Motor 30 kW](/docs/definitions/part/motor-30-kw)|Part|2|
-|[Motor 5 kW](/docs/definitions/part/motor-5-kw)|Part|6|
+|[Motor 10 kW](/docs/definitions/part/motor-10-kw)|Part|8|
+|[Motor 30 kW](/docs/definitions/part/motor-30-kw)|Part|4|
+|[Motor 5 kW](/docs/definitions/part/motor-5-kw)|Part|12|
 |[Mushroom containment kit](/docs/definitions/part/mushroom-containment-kit)|Part|5|
-|[Navigation circuit board](/docs/definitions/part/navigation-circuit-board)|Part|4|
-|[Optical lens](/docs/definitions/part/optical-lens)|Part|20|
-|[Optical prism](/docs/definitions/part/optical-prism)|Part|20|
+|[Navigation circuit board](/docs/definitions/part/navigation-circuit-board)|Part|8|
+|[Optical lens](/docs/definitions/part/optical-lens)|Part|40|
+|[Optical prism](/docs/definitions/part/optical-prism)|Part|40|
 |[Oven](/docs/definitions/part/oven)|Part|5|
 |[Oxygen](/docs/definitions/resource/oxygen)|Resource|1440.0 kg|
 |[Oxygen pump](/docs/definitions/part/oxygen-pump)|Part|2|
@@ -133,30 +140,33 @@ Phase 0 base for United Arab Emirates
 |[Plasma cutter](/docs/definitions/part/plasma-cutter)|Part|2|
 |[Plastic bottle](/docs/definitions/part/plastic-bottle)|Part|180|
 |[Plastic pipe](/docs/definitions/part/plastic-pipe)|Part|18|
-|[Plastic tubing](/docs/definitions/part/plastic-tubing)|Part|60|
 |[Pneumatic drill](/docs/definitions/part/pneumatic-drill)|Part|2|
-|[Polycarbonate roofing](/docs/definitions/part/polycarbonate-roofing)|Part|10|
+|[Polycarbonate panel](/docs/definitions/part/polycarbonate-panel)|Part|10|
 |[Power cable](/docs/definitions/part/power-cable)|Part|16|
-|[Power transistor](/docs/definitions/part/power-transistor)|Part|60|
+|[Power transistor](/docs/definitions/part/power-transistor)|Part|120|
 |[Pressure suit](/docs/definitions/part/pressure-suit)|Part|16|
-|[Propeller](/docs/definitions/part/propeller)|Part|4|
-|[Radio antenna](/docs/definitions/part/radio-antenna)|Part|8|
+|[Propeller](/docs/definitions/part/propeller)|Part|8|
+|[Radio antenna](/docs/definitions/part/radio-antenna)|Part|16|
 |[Refrigerator](/docs/definitions/part/refrigerator)|Part|3|
 |[Rover control panel](/docs/definitions/part/rover-control-panel)|Part|2|
 |[Rover wheel](/docs/definitions/part/rover-wheel)|Part|12|
 |[Rover windshield](/docs/definitions/part/rover-windshield)|Part|2|
-|[SLS 3D Printer](/docs/definitions/part/sls-3d-printer)|Part|4|
-|[Satellite dish](/docs/definitions/part/satellite-dish)|Part|4|
+|[SLS 3D Printer](/docs/definitions/part/sls-3d-printer)|Part|8|
+|[Satellite dish](/docs/definitions/part/satellite-dish)|Part|8|
+|[Seismoelectric Sensor](/docs/definitions/part/seismoelectric-sensor)|Part|35|
 |[Semiconductor wafer](/docs/definitions/part/semiconductor-wafer)|Part|5|
+|[Servo motor](/docs/definitions/part/servo-motor)|Part|16|
 |[Soil compactor](/docs/definitions/part/soil-compactor)|Part|2|
 |[Solar panel](/docs/definitions/part/solar-panel)|Part|2|
 |[Spark plug](/docs/definitions/part/spark-plug)|Part|18|
 |[Steel pipe](/docs/definitions/part/steel-pipe)|Part|12|
-|[Stepper motor](/docs/definitions/part/stepper-motor)|Part|8|
+|[Stepper motor](/docs/definitions/part/stepper-motor)|Part|16|
 |[Stove](/docs/definitions/part/stove)|Part|3|
 |[Suit heating unit](/docs/definitions/part/suit-heating-unit)|Part|8|
+|[Surface Nuclear Magnetic Resonance Sounder](/docs/definitions/part/surface-nuclear-magnetic-resonance-sounder)|Part|4|
+|[Time Domain Electromagnetic Sounder](/docs/definitions/part/time-domain-electromagnetic-sounder)|Part|4|
 |[Timing belt](/docs/definitions/part/timing-belt)|Part|16|
-|[Transformer](/docs/definitions/part/transformer)|Part|5|
+|[Transformer](/docs/definitions/part/transformer)|Part|10|
 |[Utility vehicle control panel](/docs/definitions/part/utility-vehicle-control-panel)|Part|2|
 |[Valve](/docs/definitions/part/valve)|Part|48|
 |[Vehicle chassis panel](/docs/definitions/part/vehicle-chassis-panel)|Part|4|
@@ -169,7 +179,7 @@ Phase 0 base for United Arab Emirates
 |[Winch](/docs/definitions/part/winch)|Part|2|
 |[Window](/docs/definitions/part/window)|Part|4|
 |[Wire connector](/docs/definitions/part/wire-connector)|Part|216|
-|[Work gloves](/docs/definitions/part/work-gloves)|Part|16|
+|[Work glove](/docs/definitions/part/work-glove)|Part|16|
 |[basket](/docs/definitions/null/basket)|Bin|20|
 |[crate](/docs/definitions/null/crate)|Bin|20|
 |[pot](/docs/definitions/null/pot)|Bin|20|
@@ -181,11 +191,21 @@ Phase 0 base for United Arab Emirates
 |thermal bottle|8|
 |barrel|40|
 |wheelbarrow|12|
-|EVA Suit|8|
 |specimen box|40|
+|eva suit|8|
+|data recorder|4|
 |bag|40|
 |large bag|40|
 |gas canister|40|
+
+## Robots
+
+| Robot Spec. | Quantity |
+|:-----|-----:|
+|[MedicBot-Standard](/docs/definitions/robot/medicbot-standard)|1|
+|[RepairBot-Standard](/docs/definitions/robot/repairbot-standard)|1|
+|[GardenBot-Standard](/docs/definitions/robot/gardenbot-standard)|1|
+|[MakerBot-Standard](/docs/definitions/robot/makerbot-standard)|1|
 
 ## Vehicles
 
@@ -197,14 +217,13 @@ Phase 0 base for United Arab Emirates
    
 
 
-
 ## Supply Missions
 
 | Name      | 1st Arrival | Supply Plan | Frequency (sols) |
 |--------:|:------|:-----|-------:|
-|Food Delivery|2|[Food Resupply 1](/docs/definitions/manifest/food-resupply-1)|80|
-|Phase 1 Delivery|668|[Resupply for Phase 1](/docs/definitions/manifest/resupply-for-phase-1)|-1|
+|Food Delivery|30|[Food Resupply 1](/docs/definitions/manifest/food-resupply-1)|60|
+|Phase 0 Delivery|120|[Resupply for Phase 0](/docs/definitions/manifest/resupply-for-phase-0)|-1|
     
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 

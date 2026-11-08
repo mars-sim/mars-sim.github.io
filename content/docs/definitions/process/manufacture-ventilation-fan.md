@@ -23,11 +23,11 @@ hide_summary: true
 
 | Input      | Amount |
 |--------:|:------|
+|[Polyethylene HDPE sheet](/docs/definitions/part/polyethylene-hdpe-sheet)|Part|1|
+|[Steel sheet](/docs/definitions/part/steel-sheet)|Part|1|
 |[Stepper Motor](/docs/definitions/part/stepper-motor)|Part|1|
 |[aluminum wire](/docs/definitions/part/aluminum-wire)|Part|1|
 |[electrical wire](/docs/definitions/part/electrical-wire)|Part|1|
-|[plastic sheet](/docs/definitions/part/plastic-sheet)|Part|1|
-|[steel sheet](/docs/definitions/part/steel-sheet)|Part|1|
 |[wire connector](/docs/definitions/part/wire-connector)|Part|3|
 
 ## Products
@@ -39,7 +39,7 @@ hide_summary: true
 
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 
 

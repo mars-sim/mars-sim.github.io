@@ -18,6 +18,9 @@ hide_summary: true
 |Form:|Solid|
  
 
+## Used by Manufacturing Process
+
+- [Make crop fertilizers with Food](/docs/definitions/process/make-crop-fertilizers-with-food)
 
 
 ## Made by Food Process
@@ -26,12 +29,14 @@ hide_summary: true
 - [Package Preserved Food with Leaves](/docs/definitions/food/package-preserved-food-with-leaves)
 - [Package Preserved Food with Potato](/docs/definitions/food/package-preserved-food-with-potato)
 - [Package Preserved Food with Carrot](/docs/definitions/food/package-preserved-food-with-carrot)
+- [Package Preserved Food with Spirulina](/docs/definitions/food/package-preserved-food-with-spirulina)
 - [Package Preserved Food with Swiss Chard](/docs/definitions/food/package-preserved-food-with-swiss-chard)
 - [Package Roast Peanuts into Dry Food](/docs/definitions/food/package-roast-peanuts-into-dry-food)
+- [Process fish oil from fish meat](/docs/definitions/food/process-fish-oil-from-fish-meat)
 
     
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 

@@ -14,28 +14,27 @@ hide_summary: true
 |Type:|Manufacture|
 |Skill Level:|1|
 |Tech Level:|1|
-|Process Time:|5.0 millisols|
+|Process Time:|50.0 millisols|
 |Tooling:|3D Printer|
-|Work Level:|20.0 millisols|
-|Power Required:|0.0 kW/hr|
+|Work Level:|15.0 millisols|
+|Power Required:|0.2 kW/hr|
 
 ## Inputs
 
 | Input      | Amount |
 |--------:|:------|
-|[fiberglass cloth](/docs/definitions/part/fiberglass-cloth)|Part|2|
-|[plastic sheet](/docs/definitions/part/plastic-sheet)|Part|2|
+|[Polyethylene](/docs/definitions/resource/polyethylene)|Resource|1.0 kg|
 
 ## Products
 
 
 | Produce      | Amount |
 |--------:|:------|
-|[large bag](/docs/definitions/null/large-bag)|2|
+|[large bag](/docs/definitions/null/large-bag)|5|
 
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 
 

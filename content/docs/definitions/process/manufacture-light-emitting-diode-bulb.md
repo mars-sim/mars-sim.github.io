@@ -14,9 +14,9 @@ hide_summary: true
 |Type:|Manufacture|
 |Skill Level:|2|
 |Tech Level:|3|
-|Process Time:|100.0 millisols|
-|Tooling:|Soldering|
-|Work Level:|50.0 millisols|
+|Process Time:|300.0 millisols|
+|Tooling:|Fabrication|
+|Work Level:|150.0 millisols|
 |Power Required:|0.2 kW/hr|
 
 ## Inputs
@@ -30,11 +30,11 @@ hide_summary: true
 
 | Produce      | Amount |
 |--------:|:------|
-|[light emitting diode bulb](/docs/definitions/part/light-emitting-diode-bulb)|40|
+|[light emitting diode bulb](/docs/definitions/part/light-emitting-diode-bulb)|25|
 
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 
 

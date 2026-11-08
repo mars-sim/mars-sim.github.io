@@ -23,12 +23,12 @@ hide_summary: true
 |[Electrical wire](/docs/definitions/part/electrical-wire)|Part|3|
 |[Gasket](/docs/definitions/part/gasket)|Part|4|
 |[Plastic pipe](/docs/definitions/part/plastic-pipe)|Part|3|
-|[Plastic sheet](/docs/definitions/part/plastic-sheet)|Part|2|
+|[Polyethylene UHMW board](/docs/definitions/part/polyethylene-uhmw-board)|Part|2|
 |[Valve](/docs/definitions/part/valve)|Part|4|
 |[Wire connector](/docs/definitions/part/wire-connector)|Part|3|
 
 
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 

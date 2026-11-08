@@ -23,43 +23,49 @@ An element.
 - [Do hydrogen iron reduction](/docs/definitions/process/do-hydrogen-iron-reduction)
 - [Roll iron sheet](/docs/definitions/process/roll-iron-sheet)
 - [Roll steel sheet](/docs/definitions/process/roll-steel-sheet)
-- [Make steel pipe](/docs/definitions/process/make-steel-pipe)
 - [Make iron pipe](/docs/definitions/process/make-iron-pipe)
-- [Make steel canister](/docs/definitions/process/make-steel-canister)
 
 ## Used by Manufacturing Process
 
-- [Make crop fertilizers with iron powder](/docs/definitions/process/make-crop-fertilizers-with-iron-powder)
+- [Make crop fertilizers with Iron powder](/docs/definitions/process/make-crop-fertilizers-with-iron-powder)
 - [Cast iron ingot](/docs/definitions/process/cast-iron-ingot)
 - [Make iron sheet](/docs/definitions/process/make-iron-sheet)
 - [Do steel ingot alloying](/docs/definitions/process/do-steel-ingot-alloying)
 - [Make steel sheet](/docs/definitions/process/make-steel-sheet)
+- [Draw steel wire](/docs/definitions/process/draw-steel-wire)
+- [Make steel pipe](/docs/definitions/process/make-steel-pipe)
+- [Make iron pipe](/docs/definitions/process/make-iron-pipe)
 - [Make spark plug](/docs/definitions/process/make-spark-plug)
 - [Make pipe wrench](/docs/definitions/process/make-pipe-wrench)
 - [Manufacture propeller](/docs/definitions/process/manufacture-propeller)
 - [Manufacture propeller with Polyester resin](/docs/definitions/process/manufacture-propeller-with-polyester-resin)
 - [Do steel ingot nickel alloying](/docs/definitions/process/do-steel-ingot-nickel-alloying)
+- [Make iron ingot](/docs/definitions/process/make-iron-ingot)
 - [Make ceramic electrolyte](/docs/definitions/process/make-ceramic-electrolyte)
 - [Make ceramic electrolyte with Aluminum oxide](/docs/definitions/process/make-ceramic-electrolyte-with-aluminum-oxide)
 - [Make methane solid oxide fuel cells](/docs/definitions/process/make-methane-solid-oxide-fuel-cells)
 - [Make methane solid oxide fuel cells with Aluminum oxide](/docs/definitions/process/make-methane-solid-oxide-fuel-cells-with-aluminum-oxide)
 - [Make methanol fuel cells](/docs/definitions/process/make-methanol-fuel-cells)
 - [Make methanol fuel cells with Aluminum oxide](/docs/definitions/process/make-methanol-fuel-cells-with-aluminum-oxide)
-- [Manufacture resistors](/docs/definitions/process/manufacture-resistors)
-- [Manufacture resistors with Aluminum oxide](/docs/definitions/process/manufacture-resistors-with-aluminum-oxide)
-- [Manufacture capacitors](/docs/definitions/process/manufacture-capacitors)
-- [Manufacture capacitors with Aluminum oxide](/docs/definitions/process/manufacture-capacitors-with-aluminum-oxide)
-- [Manufacture diodes](/docs/definitions/process/manufacture-diodes)
-- [Manufacture diodes with Aluminum oxide](/docs/definitions/process/manufacture-diodes-with-aluminum-oxide)
+- [Manufacture resistor](/docs/definitions/process/manufacture-resistor)
+- [Manufacture resistor with Aluminum oxide](/docs/definitions/process/manufacture-resistor-with-aluminum-oxide)
+- [Manufacture capacitor](/docs/definitions/process/manufacture-capacitor)
+- [Manufacture capacitor with Aluminum oxide](/docs/definitions/process/manufacture-capacitor-with-aluminum-oxide)
+- [Manufacture diode](/docs/definitions/process/manufacture-diode)
+- [Manufacture diode with Aluminum oxide](/docs/definitions/process/manufacture-diode-with-aluminum-oxide)
+- [Manufacture power transistor](/docs/definitions/process/manufacture-power-transistor)
+- [Manufacture power transistor with Aluminum oxide](/docs/definitions/process/manufacture-power-transistor-with-aluminum-oxide)
 - [Manufacture logic board](/docs/definitions/process/manufacture-logic-board)
 - [Manufacture logic board with Aluminum oxide](/docs/definitions/process/manufacture-logic-board-with-aluminum-oxide)
 - [Manufacture plasma cutter](/docs/definitions/process/manufacture-plasma-cutter)
 - [Manufacture plasma cutter with Aluminum oxide](/docs/definitions/process/manufacture-plasma-cutter-with-aluminum-oxide)
+- [Make Metal Oxide Varistor](/docs/definitions/process/make-metal-oxide-varistor)
+- [Make Metal Oxide Varistor with Styrene](/docs/definitions/process/make-metal-oxide-varistor-with-styrene)
 
 
     
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 

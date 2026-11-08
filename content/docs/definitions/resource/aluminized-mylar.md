@@ -1,6 +1,6 @@
 ---
-title: Resource - Aluminized Mylar
-linkTitle: Aluminized Mylar
+title: Resource - Aluminized mylar
+linkTitle: Aluminized mylar
 toc_hide: true
 hide_summary: true
 ---
@@ -24,18 +24,18 @@ hide_summary: true
 
 ## Used by Manufacturing Process
 
+- [Make Liquid Cooling Garment](/docs/definitions/process/make-liquid-cooling-garment)
+- [Make Liquid Cooling Garment with Kevlar](/docs/definitions/process/make-liquid-cooling-garment-with-kevlar)
+- [Make Liquid Cooling Garment with Polyurethane](/docs/definitions/process/make-liquid-cooling-garment-with-polyurethane)
 - [Make EVA helmet](/docs/definitions/process/make-eva-helmet)
+- [Make EVA helmet with Kevlar](/docs/definitions/process/make-eva-helmet-with-kevlar)
 - [Make EVA helmet with Polypropylene](/docs/definitions/process/make-eva-helmet-with-polypropylene)
-- [Make EVA helmet with Soy fiber](/docs/definitions/process/make-eva-helmet-with-soy-fiber)
-- [Make EVA helmet with Polyester fiber](/docs/definitions/process/make-eva-helmet-with-polyester-fiber)
-- [Make coveralls](/docs/definitions/process/make-coveralls)
-- [Make coveralls with Polyester Fiber](/docs/definitions/process/make-coveralls-with-polyester-fiber)
-- [Make coveralls with Soy fiber](/docs/definitions/process/make-coveralls-with-soy-fiber)
+- [Fabricate solar parabolic mirror](/docs/definitions/process/fabricate-solar-parabolic-mirror)
 
 
     
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 

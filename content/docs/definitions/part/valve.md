@@ -23,22 +23,28 @@ no description available.
 ## Used by Manufacturing Process
 
 - [Make fire extinguisher](/docs/definitions/process/make-fire-extinguisher)
-- [Make gas canister](/docs/definitions/process/make-gas-canister)
 - [Make EVA backpack](/docs/definitions/process/make-eva-backpack)
 - [Make EVA backpack with Polypropylene](/docs/definitions/process/make-eva-backpack-with-polypropylene)
 - [Make EVA backpack with Soy fiber](/docs/definitions/process/make-eva-backpack-with-soy-fiber)
 - [Make EVA backpack with Polyester fiber](/docs/definitions/process/make-eva-backpack-with-polyester-fiber)
-- [Manufacture fuel tank](/docs/definitions/process/manufacture-fuel-tank)
+- [Manufacture large methane fuel tank](/docs/definitions/process/manufacture-large-methane-fuel-tank)
+- [Manufacture medium methane fuel tank](/docs/definitions/process/manufacture-medium-methane-fuel-tank)
+- [Manufacture small methane fuel tank](/docs/definitions/process/manufacture-small-methane-fuel-tank)
+- [Manufacture large methanol fuel tank](/docs/definitions/process/manufacture-large-methanol-fuel-tank)
+- [Manufacture medium methanol fuel tank](/docs/definitions/process/manufacture-medium-methanol-fuel-tank)
+- [Manufacture small methanol fuel tank](/docs/definitions/process/manufacture-small-methanol-fuel-tank)
 - [Manufacture gas tank](/docs/definitions/process/manufacture-gas-tank)
 - [Manufacture water tank](/docs/definitions/process/manufacture-water-tank)
 - [Manufacture pneumatic drill](/docs/definitions/process/manufacture-pneumatic-drill)
+- [Assemble drilling rig](/docs/definitions/process/assemble-drilling-rig)
 - [Manufacture oven](/docs/definitions/process/manufacture-oven)
 - [Make mushroom containment kit](/docs/definitions/process/make-mushroom-containment-kit)
 - [Manufacture pathogen filter](/docs/definitions/process/manufacture-pathogen-filter)
+- [Manufacture gas canister](/docs/definitions/process/manufacture-gas-canister)
 
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 
 

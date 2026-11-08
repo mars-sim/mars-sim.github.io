@@ -12,28 +12,28 @@ hide_summary: true
 |--------:|:------|
 |Process Time:|200 millisols|
 |Work Time:|10 millisols|
-|Power Required:|0.12 kW/hr|
-|Start On:|true|
+|Power Required:| kW/hr|
+|Start On:|false|
 
 ## Inputs
 | Name      | Input Rate (kg/sol) | Minimum kg | Ambient |
 |--------:|:------|-----:|:----|
-|[Carbon dioxide](/docs/definitions/resource/carbon-dioxide)|396.0|0.0|true|
-|[Hydrogen](/docs/definitions/resource/hydrogen)|36.0|0.002|false|
+|[Carbon dioxide](/docs/definitions/resource/carbon-dioxide)|660.0|0.0|true|
+|[Hydrogen](/docs/definitions/resource/hydrogen)|60.0|0.003|false|
 
 Ambient inputs are consumed from the environment.
 
 ## Outputs
 | Name      | Output Rate (kg/sol) | Waste Output |
 |--------:|:------|-----:|:----|
-|[Methane](/docs/definitions/resource/methane)|48.0|false|
-|[Carbon monoxide](/docs/definitions/resource/carbon-monoxide)|168.0|false|
-|[Water](/docs/definitions/resource/water)|216.0|false|
+|[Water](/docs/definitions/resource/water)|360.0|false|
+|[Methane](/docs/definitions/resource/methane)|80.0|false|
+|[Carbon monoxide](/docs/definitions/resource/carbon-monoxide)|280.0|false|
 
 Waste outputs are released into the environment and do not need to be stored.
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 
 

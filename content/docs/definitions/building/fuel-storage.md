@@ -18,8 +18,8 @@ The Fuel Storage is a small brick bin with tanks within for storing fuels.
 |Size:|2.0 x 3.0 m|
 |Level:|0|
 |Maintenance Period:|50|
-|Power Demands:|0.0 kW|
-|Offline Power Demands:|0.0 kW|
+|Power Demands:| kW|
+|Offline Power Demands:| kW|
 |Construction:|[Fuel Storage](/docs/definitions/construction/fuel-storage)|
 
 ## Functions
@@ -34,5 +34,5 @@ The Fuel Storage is a small brick bin with tanks within for storing fuels.
 
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 

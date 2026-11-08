@@ -23,19 +23,19 @@ Rinse the quinoa seeds in a bowl. Wash the quinoa seeds &#10;&#9;&#9;&#9;to remo
 
 | Input      | Amount |
 |--------:|:------|
-|[Quinoa](/docs/definitions/resource/quinoa)|Resource|3.0 kg|
-|[Water](/docs/definitions/resource/water)|Resource|3.0 kg|
+|[quinoa](/docs/definitions/resource/quinoa)|Resource|3.0 kg|
+|[water](/docs/definitions/resource/water)|Resource|3.0 kg|
 
 ## Outcomes
 
 
 | Produce      | Amount |
 |--------:|:------|
-|[Quinoa Sprout](/docs/definitions/resource/quinoa-sprout)|15.0 kg|
+|[quinoa sprout](/docs/definitions/resource/quinoa-sprout)|6.0 kg|
 
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 
 

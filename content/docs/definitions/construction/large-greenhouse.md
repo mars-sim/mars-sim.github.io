@@ -24,11 +24,13 @@ hide_summary: true
 |[Aluminum sheet](/docs/definitions/part/aluminum-sheet)|Part|9|
 |[Electrical wire](/docs/definitions/part/electrical-wire)|Part|15|
 |[Fiberglass](/docs/definitions/part/fiberglass)|Part|15|
+|[Gas tubing](/docs/definitions/part/gas-tubing)|Part|20|
+|[Liquid tubing](/docs/definitions/part/liquid-tubing)|Part|10|
 |[Plastic pipe](/docs/definitions/part/plastic-pipe)|Part|15|
-|[Plastic sheet](/docs/definitions/part/plastic-sheet)|Part|30|
-|[Polycarbonate roofing](/docs/definitions/part/polycarbonate-roofing)|Part|54|
+|[Polycarbonate panel](/docs/definitions/part/polycarbonate-panel)|Part|54|
 |[Polyester resin](/docs/definitions/resource/polyester-resin)|Resource|15.0 kg|
 |[Polyethylene](/docs/definitions/resource/polyethylene)|Resource|30.0 kg|
+|[Polyethylene UHMW board](/docs/definitions/part/polyethylene-uhmw-board)|Part|30|
 |[Styrene](/docs/definitions/resource/styrene)|Resource|3.0 kg|
 |[Valve](/docs/definitions/part/valve)|Part|15|
 |[Window](/docs/definitions/part/window)|Part|8|
@@ -37,5 +39,5 @@ hide_summary: true
 
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 

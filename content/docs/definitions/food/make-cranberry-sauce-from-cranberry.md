@@ -23,12 +23,13 @@ Add sugar, salt, ginger to cranberries and cook in the pan over low heat, stirri
 
 | Input      | Amount |
 |--------:|:------|
-|[Cranberry](/docs/definitions/resource/cranberry)|Resource|2.0 kg|
+|[Cranberry](/docs/definitions/resource/cranberry)|Resource|0.8 kg|
+|[Cranberry juice](/docs/definitions/resource/cranberry-juice)|Resource|0.2 kg|
 |[Ginger](/docs/definitions/resource/ginger)|Resource|0.2 kg|
-|[Sugar](/docs/definitions/resource/sugar)|Resource|0.5 kg|
-|[Water](/docs/definitions/resource/water)|Resource|1.0 kg|
 |[blender](/docs/definitions/part/blender)|Part|1|
-|[table salt](/docs/definitions/resource/table-salt)|Resource|0.15 kg|
+|[glucose](/docs/definitions/resource/glucose)|Resource|0.5 kg|
+|[table salt](/docs/definitions/resource/table-salt)|Resource|0.1 kg|
+|[water](/docs/definitions/resource/water)|Resource|0.2 kg|
 
 ## Outcomes
 
@@ -40,7 +41,7 @@ Add sugar, salt, ginger to cranberries and cook in the pan over low heat, stirri
 
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 
 

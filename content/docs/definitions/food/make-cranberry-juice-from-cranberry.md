@@ -23,10 +23,11 @@ The juice is obtained by&#10;&#9;&#9;crushing cranberries in a mill or by hand c
 
 | Input      | Amount |
 |--------:|:------|
-|[Cranberry](/docs/definitions/resource/cranberry)|Resource|2.0 kg|
-|[Sugar](/docs/definitions/resource/sugar)|Resource|1.0 kg|
-|[Water](/docs/definitions/resource/water)|Resource|7.0 kg|
+|[Cranberry](/docs/definitions/resource/cranberry)|Resource|1.8 kg|
+|[Cranberry sauce](/docs/definitions/resource/cranberry-sauce)|Resource|0.2 kg|
 |[blender](/docs/definitions/part/blender)|Part|1|
+|[glucose](/docs/definitions/resource/glucose)|Resource|1.0 kg|
+|[water](/docs/definitions/resource/water)|Resource|7.0 kg|
 
 ## Outcomes
 
@@ -38,7 +39,7 @@ The juice is obtained by&#10;&#9;&#9;crushing cranberries in a mill or by hand c
 
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 
 

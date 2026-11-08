@@ -16,13 +16,14 @@ hide_summary: true
 |Tech Level:|0|
 |Process Time:|20.0 millisols|
 |Tooling:|Metalwork|
-|Work Level:|50.0 millisols|
+|Work Level:|30.0 millisols|
 |Power Required:|0.2 kW/hr|
 
 ## Inputs
 
 | Input      | Amount |
 |--------:|:------|
+|[iron powder](/docs/definitions/resource/iron-powder)|Resource|0.2 kg|
 |[steel ingot](/docs/definitions/part/steel-ingot)|Part|1|
 
 ## Products
@@ -30,11 +31,11 @@ hide_summary: true
 
 | Produce      | Amount |
 |--------:|:------|
-|[steel wire](/docs/definitions/part/steel-wire)|100|
+|[steel wire](/docs/definitions/part/steel-wire)|10|
 
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 
 

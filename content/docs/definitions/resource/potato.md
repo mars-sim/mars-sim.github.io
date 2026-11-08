@@ -26,13 +26,13 @@ No Description
 
 - [Package Preserved Food with Potato](/docs/definitions/food/package-preserved-food-with-potato)
 - [Make French Fries from Potatoes](/docs/definitions/food/make-french-fries-from-potatoes)
-- [Make French Fries from Potatoes with Soybean Oil](/docs/definitions/food/make-french-fries-from-potatoes-with-soybean-oil)
+- [Make French Fries from Potatoes with soybean oil](/docs/definitions/food/make-french-fries-from-potatoes-with-soybean-oil)
 - [Make Veggie Patty from Veg, Tofu and Spice](/docs/definitions/food/make-veggie-patty-from-veg--tofu-and-spice)
 - [Make Veggie Patty from Veg, Tempeh and Spice](/docs/definitions/food/make-veggie-patty-from-veg--tempeh-and-spice)
 - [Make Veggie Patty from Veg, Okara and Spice](/docs/definitions/food/make-veggie-patty-from-veg--okara-and-spice)
 
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 

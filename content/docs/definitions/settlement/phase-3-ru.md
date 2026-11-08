@@ -16,7 +16,6 @@ Phase 3 Settlement for RKA
 |Objective:|Crop Farm|
 |Shift Pattern:|Long 3 Shift|
 |Default People #:|12|
-|Default Robot #:|7|
 |Sponsor:|[RKA](/docs/definitions/authority/rka)|
 
 ## Buildings
@@ -45,17 +44,17 @@ Phase 3 Settlement for RKA
 |Garage 1|[Garage](/docs/definitions/building/garage)|
 |Gas Storage 1|[Gas Storage](/docs/definitions/building/gas-storage)|
 |Gas Storage 2|[Gas Storage](/docs/definitions/building/gas-storage)|
-|Hallway 1|[Hallway](/docs/definitions/building/hallway)|
-|Hallway 10|[Hallway](/docs/definitions/building/hallway)|
-|Hallway 11|[Hallway](/docs/definitions/building/hallway)|
-|Hallway 2|[Hallway](/docs/definitions/building/hallway)|
-|Hallway 3|[Hallway](/docs/definitions/building/hallway)|
-|Hallway 4|[Hallway](/docs/definitions/building/hallway)|
-|Hallway 5|[Hallway](/docs/definitions/building/hallway)|
-|Hallway 6|[Hallway](/docs/definitions/building/hallway)|
-|Hallway 7|[Hallway](/docs/definitions/building/hallway)|
-|Hallway 8|[Hallway](/docs/definitions/building/hallway)|
-|Hallway 9|[Hallway](/docs/definitions/building/hallway)|
+|H1|[Hallway](/docs/definitions/building/hallway)|
+|H10|[Hallway](/docs/definitions/building/hallway)|
+|H11|[Hallway](/docs/definitions/building/hallway)|
+|H2|[Hallway](/docs/definitions/building/hallway)|
+|H3|[Hallway](/docs/definitions/building/hallway)|
+|H4|[Hallway](/docs/definitions/building/hallway)|
+|H5|[Hallway](/docs/definitions/building/hallway)|
+|H6|[Hallway](/docs/definitions/building/hallway)|
+|H7|[Hallway](/docs/definitions/building/hallway)|
+|H8|[Hallway](/docs/definitions/building/hallway)|
+|H9|[Hallway](/docs/definitions/building/hallway)|
 |Ice Storage 1|[Ice Storage](/docs/definitions/building/ice-storage)|
 |Ice Storage 2|[Ice Storage](/docs/definitions/building/ice-storage)|
 |Infirmary 1|[Infirmary](/docs/definitions/building/infirmary)|
@@ -122,31 +121,35 @@ Phase 3 Settlement for RKA
 |[Condenser coil](/docs/definitions/part/condenser-coil)|Part|3|
 |[Coolant bottle](/docs/definitions/part/coolant-bottle)|Part|54|
 |[Copper pipe](/docs/definitions/part/copper-pipe)|Part|36|
-|[Coveralls](/docs/definitions/part/coveralls)|Part|48|
+|[Coverall](/docs/definitions/part/coverall)|Part|48|
 |[Crane boom](/docs/definitions/part/crane-boom)|Part|6|
 |[Decontamination kit](/docs/definitions/part/decontamination-kit)|Part|6|
 |[Drilling rig](/docs/definitions/part/drilling-rig)|Part|3|
+|[Dynamic Albedo of Neutrons Meter](/docs/definitions/part/dynamic-albedo-of-neutrons-meter)|Part|3|
 |[EVA antenna](/docs/definitions/part/eva-antenna)|Part|96|
 |[EVA backpack](/docs/definitions/part/eva-backpack)|Part|24|
 |[EVA battery](/docs/definitions/part/eva-battery)|Part|48|
-|[EVA boots](/docs/definitions/part/eva-boots)|Part|48|
-|[EVA gloves](/docs/definitions/part/eva-gloves)|Part|48|
+|[EVA boot](/docs/definitions/part/eva-boot)|Part|48|
+|[EVA glove](/docs/definitions/part/eva-glove)|Part|48|
 |[EVA helmet](/docs/definitions/part/eva-helmet)|Part|48|
-|[EVA pads](/docs/definitions/part/eva-pads)|Part|48|
+|[EVA pad](/docs/definitions/part/eva-pad)|Part|48|
 |[EVA radio](/docs/definitions/part/eva-radio)|Part|60|
 |[Electrical wire](/docs/definitions/part/electrical-wire)|Part|990|
 |[Electrostatic precipitator](/docs/definitions/part/electrostatic-precipitator)|Part|15|
 |[Fiberglass](/docs/definitions/part/fiberglass)|Part|9|
 |[Fiberglass cloth](/docs/definitions/part/fiberglass-cloth)|Part|30|
 |[Fire extinguisher](/docs/definitions/part/fire-extinguisher)|Part|78|
-|[Flexible hose](/docs/definitions/part/flexible-hose)|Part|30|
+|[Flexible water hose](/docs/definitions/part/flexible-water-hose)|Part|9|
 |[Food](/docs/definitions/resource/food)|Resource|2160.0 kg|
 |[Fuel pump](/docs/definitions/part/fuel-pump)|Part|6|
-|[Fuel tank](/docs/definitions/part/fuel-tank)|Part|60|
 |[Garment](/docs/definitions/part/garment)|Part|24|
 |[Gas tank](/docs/definitions/part/gas-tank)|Part|60|
+|[Gas tubing](/docs/definitions/part/gas-tubing)|Part|30|
 |[Gasket](/docs/definitions/part/gasket)|Part|282|
+|[Gravity Gradiometer](/docs/definitions/part/gravity-gradiometer)|Part|3|
+|[Ground Penetrating Radar](/docs/definitions/part/ground-penetrating-radar)|Part|3|
 |[Heat pipe](/docs/definitions/part/heat-pipe)|Part|78|
+|[Heat probe](/docs/definitions/part/heat-probe)|Part|30|
 |[Heat pump](/docs/definitions/part/heat-pump)|Part|6|
 |[Heating element](/docs/definitions/part/heating-element)|Part|78|
 |[Helium neon laser](/docs/definitions/part/helium-neon-laser)|Part|15|
@@ -154,12 +157,14 @@ Phase 3 Settlement for RKA
 |[Iron pipe](/docs/definitions/part/iron-pipe)|Part|36|
 |[Light emitting diode bulb](/docs/definitions/part/light-emitting-diode-bulb)|Part|150|
 |[Light emitting diode kit](/docs/definitions/part/light-emitting-diode-kit)|Part|60|
+|[Liquid tubing](/docs/definitions/part/liquid-tubing)|Part|30|
 |[Logic board](/docs/definitions/part/logic-board)|Part|75|
 |[Lubricant bottle](/docs/definitions/part/lubricant-bottle)|Part|66|
 |[Methane fuel cell](/docs/definitions/part/methane-fuel-cell)|Part|600|
 |[Methane fuel cell stack](/docs/definitions/part/methane-fuel-cell-stack)|Part|12|
 |[Methanol fuel cell](/docs/definitions/part/methanol-fuel-cell)|Part|600|
-|[Methanol fuel cell stack](/docs/definitions/part/methanol-fuel-cell-stack)|Part|12|
+|[Methanol fuel cell stack large](/docs/definitions/part/methanol-fuel-cell-stack-large)|Part|12|
+|[Methanol fuel cell stack medium](/docs/definitions/part/methanol-fuel-cell-stack-medium)|Part|12|
 |[Microcontroller](/docs/definitions/part/microcontroller)|Part|180|
 |[Microwave](/docs/definitions/part/microwave)|Part|9|
 |[Motor 10 kW](/docs/definitions/part/motor-10-kw)|Part|12|
@@ -177,9 +182,8 @@ Phase 3 Settlement for RKA
 |[Plasma cutter](/docs/definitions/part/plasma-cutter)|Part|6|
 |[Plastic bottle](/docs/definitions/part/plastic-bottle)|Part|540|
 |[Plastic pipe](/docs/definitions/part/plastic-pipe)|Part|54|
-|[Plastic tubing](/docs/definitions/part/plastic-tubing)|Part|180|
 |[Pneumatic drill](/docs/definitions/part/pneumatic-drill)|Part|6|
-|[Polycarbonate roofing](/docs/definitions/part/polycarbonate-roofing)|Part|30|
+|[Polycarbonate panel](/docs/definitions/part/polycarbonate-panel)|Part|30|
 |[Power cable](/docs/definitions/part/power-cable)|Part|48|
 |[Power transistor](/docs/definitions/part/power-transistor)|Part|180|
 |[Pressure suit](/docs/definitions/part/pressure-suit)|Part|48|
@@ -191,6 +195,7 @@ Phase 3 Settlement for RKA
 |[Rover windshield](/docs/definitions/part/rover-windshield)|Part|6|
 |[SLS 3D Printer](/docs/definitions/part/sls-3d-printer)|Part|12|
 |[Satellite dish](/docs/definitions/part/satellite-dish)|Part|12|
+|[Seismoelectric Sensor](/docs/definitions/part/seismoelectric-sensor)|Part|30|
 |[Semiconductor wafer](/docs/definitions/part/semiconductor-wafer)|Part|15|
 |[Soil compactor](/docs/definitions/part/soil-compactor)|Part|6|
 |[Solar panel](/docs/definitions/part/solar-panel)|Part|6|
@@ -199,6 +204,8 @@ Phase 3 Settlement for RKA
 |[Stepper motor](/docs/definitions/part/stepper-motor)|Part|24|
 |[Stove](/docs/definitions/part/stove)|Part|9|
 |[Suit heating unit](/docs/definitions/part/suit-heating-unit)|Part|24|
+|[Surface Nuclear Magnetic Resonance Sounder](/docs/definitions/part/surface-nuclear-magnetic-resonance-sounder)|Part|3|
+|[Time Domain Electromagnetic Sounder](/docs/definitions/part/time-domain-electromagnetic-sounder)|Part|3|
 |[Timing belt](/docs/definitions/part/timing-belt)|Part|48|
 |[Transformer](/docs/definitions/part/transformer)|Part|15|
 |[Utility vehicle control panel](/docs/definitions/part/utility-vehicle-control-panel)|Part|6|
@@ -213,7 +220,7 @@ Phase 3 Settlement for RKA
 |[Winch](/docs/definitions/part/winch)|Part|6|
 |[Window](/docs/definitions/part/window)|Part|12|
 |[Wire connector](/docs/definitions/part/wire-connector)|Part|648|
-|[Work gloves](/docs/definitions/part/work-gloves)|Part|48|
+|[Work glove](/docs/definitions/part/work-glove)|Part|48|
 
 ## Equipment
 
@@ -222,11 +229,23 @@ Phase 3 Settlement for RKA
 |thermal bottle|18|
 |barrel|80|
 |wheelbarrow|18|
-|EVA Suit|24|
 |specimen box|80|
+|eva suit|24|
+|data recorder|12|
 |bag|80|
 |large bag|80|
 |gas canister|80|
+
+## Robots
+
+| Robot Spec. | Quantity |
+|:-----|-----:|
+|[RepairBot-Standard](/docs/definitions/robot/repairbot-standard)|2|
+|[ChefBot-Standard](/docs/definitions/robot/chefbot-standard)|1|
+|[GardenBot-Advanced](/docs/definitions/robot/gardenbot-advanced)|2|
+|[MedicBot-Advanced](/docs/definitions/robot/medicbot-advanced)|1|
+|[DeliveryBot-Advanced](/docs/definitions/robot/deliverybot-advanced)|1|
+|[MakerBot-Standard](/docs/definitions/robot/makerbot-standard)|2|
 
 ## Vehicles
 
@@ -240,7 +259,6 @@ Phase 3 Settlement for RKA
    
 
 
-
 ## Supply Missions
 
 | Name      | 1st Arrival | Supply Plan | Frequency (sols) |
@@ -249,5 +267,5 @@ Phase 3 Settlement for RKA
 |Annual Delivery|668|[Resupply for Phase 3](/docs/definitions/manifest/resupply-for-phase-3)|-1|
     
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 

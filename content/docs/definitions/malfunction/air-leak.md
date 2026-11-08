@@ -31,14 +31,14 @@ hide_summary: true
 |---|---|---|
 |[Airleak patch](/docs/definitions/part/airleak-patch)|2|75.0|
 |[Fiberglass cloth](/docs/definitions/part/fiberglass-cloth)|1|10.0|
-|[Work gloves](/docs/definitions/part/work-gloves)|1|10.0|
+|[Work glove](/docs/definitions/part/work-glove)|1|10.0|
 
 ## Impacts
 
 ### Medical Complaints
 |Complaint|Default Probability|
 |---|---|
-|Heartburn|10.0|
+|HEARTBURN|10.0|
 
 ### Life Support
 |Resource|Impact|
@@ -47,5 +47,5 @@ hide_summary: true
 |Oxygen|-0.01|
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 

@@ -25,14 +25,21 @@ An element.
 
 - [Make crop fertilizers](/docs/definitions/process/make-crop-fertilizers)
 - [Make crop fertilizers with potash lye](/docs/definitions/process/make-crop-fertilizers-with-potash-lye)
-- [Make crop fertilizers with Ammonia](/docs/definitions/process/make-crop-fertilizers-with-ammonia)
-- [Make crop fertilizers with Rhizobia](/docs/definitions/process/make-crop-fertilizers-with-rhizobia)
+- [Make crop fertilizers with Compost](/docs/definitions/process/make-crop-fertilizers-with-compost)
+- [Make crop fertilizers with Oxygen](/docs/definitions/process/make-crop-fertilizers-with-oxygen)
+- [Make crop fertilizers with Iron powder](/docs/definitions/process/make-crop-fertilizers-with-iron-powder)
 - [Make crop fertilizers with Nitrospira SPP](/docs/definitions/process/make-crop-fertilizers-with-nitrospira-spp)
-- [Make crop fertilizers with iron powder](/docs/definitions/process/make-crop-fertilizers-with-iron-powder)
-- [Make crop fertilizers with copper](/docs/definitions/process/make-crop-fertilizers-with-copper)
 - [Make crop fertilizers with Crop Waste](/docs/definitions/process/make-crop-fertilizers-with-crop-waste)
 - [Make crop fertilizers with Nitrite](/docs/definitions/process/make-crop-fertilizers-with-nitrite)
-- [Make crop fertilizers with hydrogen](/docs/definitions/process/make-crop-fertilizers-with-hydrogen)
+- [Make crop fertilizers with Carbon](/docs/definitions/process/make-crop-fertilizers-with-carbon)
+- [Make crop fertilizers with Rock samples](/docs/definitions/process/make-crop-fertilizers-with-rock-samples)
+- [Make crop fertilizers with Ammonia](/docs/definitions/process/make-crop-fertilizers-with-ammonia)
+- [Make crop fertilizers with Rhizobia](/docs/definitions/process/make-crop-fertilizers-with-rhizobia)
+- [Make crop fertilizers with Chromium](/docs/definitions/process/make-crop-fertilizers-with-chromium)
+- [Make crop fertilizers with Copper](/docs/definitions/process/make-crop-fertilizers-with-copper)
+- [Make crop fertilizers with Sandstone](/docs/definitions/process/make-crop-fertilizers-with-sandstone)
+- [Make crop fertilizers with Food](/docs/definitions/process/make-crop-fertilizers-with-food)
+- [Make crop fertilizers with Manganese](/docs/definitions/process/make-crop-fertilizers-with-manganese)
 - [Make copper pipe](/docs/definitions/process/make-copper-pipe)
 - [Make heating element](/docs/definitions/process/make-heating-element)
 - [Roll heat pipe from copper sheet](/docs/definitions/process/roll-heat-pipe-from-copper-sheet)
@@ -41,6 +48,14 @@ An element.
 - [Manufacture bore drill bit](/docs/definitions/process/manufacture-bore-drill-bit)
 - [Manufacture bore drill pipe](/docs/definitions/process/manufacture-bore-drill-pipe)
 - [Assemble drilling rig](/docs/definitions/process/assemble-drilling-rig)
+- [Manufacture resistor](/docs/definitions/process/manufacture-resistor)
+- [Manufacture resistor with Aluminum oxide](/docs/definitions/process/manufacture-resistor-with-aluminum-oxide)
+- [Manufacture capacitor](/docs/definitions/process/manufacture-capacitor)
+- [Manufacture capacitor with Aluminum oxide](/docs/definitions/process/manufacture-capacitor-with-aluminum-oxide)
+- [Manufacture diode](/docs/definitions/process/manufacture-diode)
+- [Manufacture diode with Aluminum oxide](/docs/definitions/process/manufacture-diode-with-aluminum-oxide)
+- [Manufacture power transistor](/docs/definitions/process/manufacture-power-transistor)
+- [Manufacture power transistor with Aluminum oxide](/docs/definitions/process/manufacture-power-transistor-with-aluminum-oxide)
 
 
 ## Made by Food Process
@@ -54,6 +69,6 @@ An element.
 
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 

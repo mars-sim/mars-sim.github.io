@@ -31,22 +31,22 @@ hide_summary: true
 |[Fiberglass](/docs/definitions/part/fiberglass)|2|5.0|
 |[Fiberglass cloth](/docs/definitions/part/fiberglass-cloth)|2|10.0|
 |[Fire extinguisher](/docs/definitions/part/fire-extinguisher)|1|10.0|
+|[Gas tubing](/docs/definitions/part/gas-tubing)|1|10.0|
 |[Plastic pipe](/docs/definitions/part/plastic-pipe)|2|5.0|
-|[Plastic tubing](/docs/definitions/part/plastic-tubing)|1|10.0|
-|[Polycarbonate roofing](/docs/definitions/part/polycarbonate-roofing)|1|5.0|
+|[Polycarbonate panel](/docs/definitions/part/polycarbonate-panel)|1|5.0|
 |[Valve](/docs/definitions/part/valve)|2|5.0|
-|[Work gloves](/docs/definitions/part/work-gloves)|1|10.0|
+|[Work glove](/docs/definitions/part/work-glove)|1|10.0|
 
 ## Impacts
 
 ### Medical Complaints
 |Complaint|Default Probability|
 |---|---|
-|Broken Bone|5.0|
-|Heartburn|10.0|
-|Laceration|30.0|
-|Minor Burns|15.0|
-|Panic Attack|10.0|
+|BROKEN_BONE|5.0|
+|HEARTBURN|10.0|
+|LACERATION|30.0|
+|MINOR_BURNS|15.0|
+|PANIC_ATTACK|10.0|
 
 ### Life Support
 |Resource|Impact|
@@ -55,5 +55,5 @@ hide_summary: true
 |Oxygen|-0.01|
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 

@@ -39,14 +39,17 @@ a printed circuit board (PCB) that&#10;&#9;&#9;mechanically supports and electri
 - [Make biosensor](/docs/definitions/process/make-biosensor)
 - [Make biosensor with Soy fiber](/docs/definitions/process/make-biosensor-with-soy-fiber)
 - [Make biosensor with Polyester fiber](/docs/definitions/process/make-biosensor-with-polyester-fiber)
+- [Manufacture radio](/docs/definitions/process/manufacture-radio)
 - [Make light emitting diode kit](/docs/definitions/process/make-light-emitting-diode-kit)
 - [Manufacture SLS 3D Printer](/docs/definitions/process/manufacture-sls-3d-printer)
 - [Make methane fuel cell stack](/docs/definitions/process/make-methane-fuel-cell-stack)
-- [Make methanol fuel cell stack](/docs/definitions/process/make-methanol-fuel-cell-stack)
+- [Make large methanol fuel cell stack](/docs/definitions/process/make-large-methanol-fuel-cell-stack)
+- [Make medium methanol fuel cell stack](/docs/definitions/process/make-medium-methanol-fuel-cell-stack)
+- [Manufacture data recorder](/docs/definitions/process/manufacture-data-recorder)
 
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 
 

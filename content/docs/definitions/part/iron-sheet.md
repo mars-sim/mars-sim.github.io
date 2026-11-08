@@ -34,11 +34,11 @@ A density of 7.85 g/cm3. 1m x 1m x 1mm sheet of iron
 - [Manufacture 30 kW Motor](/docs/definitions/process/manufacture-30-kw-motor)
 - [Manufacture battery module](/docs/definitions/process/manufacture-battery-module)
 - [Manufacture battery module with Polypropylene](/docs/definitions/process/manufacture-battery-module-with-polypropylene)
-- [Make wheelbarrow](/docs/definitions/process/make-wheelbarrow)
+- [Manufacture wheelbarrow](/docs/definitions/process/manufacture-wheelbarrow)
 
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 
 

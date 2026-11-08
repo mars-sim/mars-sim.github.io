@@ -21,7 +21,7 @@ hide_summary: true
 |:-----|:-----|-----:|
 |[Acetylene](/docs/definitions/resource/acetylene)|Resource|1.0 kg|
 |[Concrete](/docs/definitions/resource/concrete)|Resource|25.0 kg|
-|[Insulation board](/docs/definitions/part/insulation-board)|Part|4|
+|[Polyethylene UHMW board](/docs/definitions/part/polyethylene-uhmw-board)|Part|4|
 |[Steel sheet](/docs/definitions/part/steel-sheet)|Part|5|
 |[Steel truss](/docs/definitions/part/steel-truss)|Part|10|
 
@@ -31,5 +31,5 @@ hide_summary: true
 
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 

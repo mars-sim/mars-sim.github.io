@@ -11,9 +11,11 @@ description: Predefined Scenarios used to start the simulation
 
 
 - [Default](../scenario/default)
+- [One Thousand](../scenario/one-thousand)
 - [Single Settlement](../scenario/single-settlement)
+- [Two Settlements](../scenario/two-settlements)
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 

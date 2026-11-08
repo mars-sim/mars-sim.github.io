@@ -22,22 +22,17 @@ hide_summary: true
 |[Acetylene](/docs/definitions/resource/acetylene)|Resource|0.6 kg|
 |[Aluminum sheet](/docs/definitions/part/aluminum-sheet)|Part|5|
 |[Concrete](/docs/definitions/resource/concrete)|Resource|36.0 kg|
-|[Electrical wire](/docs/definitions/part/electrical-wire)|Part|30|
 |[Gasket](/docs/definitions/part/gasket)|Part|8|
-|[Insulation board](/docs/definitions/part/insulation-board)|Part|5|
 |[Plastic pipe](/docs/definitions/part/plastic-pipe)|Part|20|
-|[Plastic sheet](/docs/definitions/part/plastic-sheet)|Part|10|
-|[Power cable](/docs/definitions/part/power-cable)|Part|8|
 |[Steel post](/docs/definitions/part/steel-post)|Part|4|
 |[Steel sheet](/docs/definitions/part/steel-sheet)|Part|4|
 |[Steel truss](/docs/definitions/part/steel-truss)|Part|10|
 |[Valve](/docs/definitions/part/valve)|Part|30|
-|[Wire connector](/docs/definitions/part/wire-connector)|Part|30|
 
 ## Later Stages
 - [Core A](/docs/definitions/construction/core-a)
 
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 

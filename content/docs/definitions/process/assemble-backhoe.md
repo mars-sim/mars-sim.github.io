@@ -13,7 +13,7 @@ hide_summary: true
 |--------:|:------|
 |Type:|Manufacture|
 |Skill Level:|3|
-|Tech Level:|2|
+|Tech Level:|3|
 |Process Time:|100.0 millisols|
 |Tooling:|Lifting|
 |Work Level:|40.0 millisols|
@@ -24,8 +24,8 @@ hide_summary: true
 | Input      | Amount |
 |--------:|:------|
 |[Motor 5 kW](/docs/definitions/part/motor-5-kw)|Part|1|
+|[Steel sheet](/docs/definitions/part/steel-sheet)|Part|1|
 |[electrical wire](/docs/definitions/part/electrical-wire)|Part|2|
-|[steel sheet](/docs/definitions/part/steel-sheet)|Part|1|
 |[steel wire](/docs/definitions/part/steel-wire)|Part|1|
 |[wire connector](/docs/definitions/part/wire-connector)|Part|2|
 
@@ -38,7 +38,7 @@ hide_summary: true
 
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 
 

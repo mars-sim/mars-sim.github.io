@@ -31,26 +31,26 @@ hide_summary: true
 |Part|Number|Default Probability|
 |---|---|---|
 |[Charcoal filter](/docs/definitions/part/charcoal-filter)|1|3.0|
-|[Flexible hose](/docs/definitions/part/flexible-hose)|2|10.0|
+|[Flexible water hose](/docs/definitions/part/flexible-water-hose)|1|10.0|
+|[Gas tubing](/docs/definitions/part/gas-tubing)|1|15.0|
 |[Gasket](/docs/definitions/part/gasket)|1|20.0|
 |[Pathogen filter](/docs/definitions/part/pathogen-filter)|1|1.0|
 |[Plastic bottle](/docs/definitions/part/plastic-bottle)|1|20.0|
 |[Plastic pipe](/docs/definitions/part/plastic-pipe)|2|15.0|
-|[Plastic tubing](/docs/definitions/part/plastic-tubing)|5|15.0|
 |[Valve](/docs/definitions/part/valve)|1|20.0|
-|[Water tank](/docs/definitions/part/water-tank)|2|10.0|
+|[Water tank](/docs/definitions/part/water-tank)|1|10.0|
 
 ## Impacts
 
 ### Medical Complaints
 |Complaint|Default Probability|
 |---|---|
-|Heartburn|10.0|
+|HEARTBURN|10.0|
 
 ### Life Support
 |Resource|Impact|
 |---|---|
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 

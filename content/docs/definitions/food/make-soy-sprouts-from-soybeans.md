@@ -23,22 +23,22 @@ Sanitize soybean seeds with sodium hypochlorite. &#10;&#9;&#9;&#9;Wash the seeds
 
 | Input      | Amount |
 |--------:|:------|
-|[Soybean](/docs/definitions/resource/soybean)|Resource|3.0 kg|
-|[Water](/docs/definitions/resource/water)|Resource|3.0 kg|
 |[refrigerator](/docs/definitions/part/refrigerator)|Part|1|
-|[sodium hypochlorite](/docs/definitions/resource/sodium-hypochlorite)|Resource|0.003 kg|
+|[sodium hypochlorite](/docs/definitions/resource/sodium-hypochlorite)|Resource|0.001 kg|
+|[soybean](/docs/definitions/resource/soybean)|Resource|3.0 kg|
+|[water](/docs/definitions/resource/water)|Resource|3.0 kg|
 
 ## Outcomes
 
 
 | Produce      | Amount |
 |--------:|:------|
-|[Soy Sprout](/docs/definitions/resource/soy-sprout)|15.0 kg|
 |[refrigerator](/docs/definitions/part/refrigerator)|1|
+|[soy Sprout](/docs/definitions/resource/soy-sprout)|6.0 kg|
 
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 
 

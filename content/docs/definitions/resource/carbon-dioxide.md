@@ -20,12 +20,16 @@ No Description
 ## Made by Manufacturing Process
 
 - [Do carbon monoxide iron reduction](/docs/definitions/process/do-carbon-monoxide-iron-reduction)
+- [Make aluminum](/docs/definitions/process/make-aluminum)
+- [Produce ferrite with barium](/docs/definitions/process/produce-ferrite-with-barium)
+- [Produce ferrite with strontium](/docs/definitions/process/produce-ferrite-with-strontium)
 
 ## Used by Manufacturing Process
 
 - [Make fire extinguisher](/docs/definitions/process/make-fire-extinguisher)
 - [Produce polycarbonate resin](/docs/definitions/process/produce-polycarbonate-resin)
 - [Produce polyurethane](/docs/definitions/process/produce-polyurethane)
+- [Produce polyurethane with Ethylene glycol](/docs/definitions/process/produce-polyurethane-with-ethylene-glycol)
 - [gasify sugarcane and biomass into methanol](/docs/definitions/process/gasify-sugarcane-and-biomass-into-methanol)
 - [Make aerogel tile](/docs/definitions/process/make-aerogel-tile)
 
@@ -33,6 +37,6 @@ No Description
     
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 

@@ -26,7 +26,6 @@ hide_summary: true
 |[Fiberglass](/docs/definitions/part/fiberglass)|Part|10|
 |[Fiberglass cloth](/docs/definitions/part/fiberglass-cloth)|Part|10|
 |[Plastic pipe](/docs/definitions/part/plastic-pipe)|Part|15|
-|[Plastic sheet](/docs/definitions/part/plastic-sheet)|Part|20|
 |[Polyester resin](/docs/definitions/resource/polyester-resin)|Resource|5.0 kg|
 |[Polyethylene](/docs/definitions/resource/polyethylene)|Resource|20.0 kg|
 |[Steel sheet](/docs/definitions/part/steel-sheet)|Part|20|
@@ -38,5 +37,5 @@ hide_summary: true
 
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 

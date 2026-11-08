@@ -22,20 +22,24 @@ Flour made from wheat kernel.
 
 ## Made by Food Process
 
-- [Process Wheat into Wheat Flour](/docs/definitions/food/process-wheat-into-wheat-flour)
+- [Process Wheat into Wheat flour](/docs/definitions/food/process-wheat-into-wheat-flour)
 
     
 ## Used by Food Process
 
-- [Bake Wheat Bun from Wheat Flour](/docs/definitions/food/bake-wheat-bun-from-wheat-flour)
-- [Bake Wheat Bread from Wheat Flour](/docs/definitions/food/bake-wheat-bread-from-wheat-flour)
-- [Make Wheat Noodles from Wheat Flour](/docs/definitions/food/make-wheat-noodles-from-wheat-flour)
+- [Bake Wheat Bun from Wheat flour](/docs/definitions/food/bake-wheat-bun-from-wheat-flour)
+- [Bake Wheat Bread from Wheat flour](/docs/definitions/food/bake-wheat-bread-from-wheat-flour)
+- [Make Wheat Noodles from Wheat flour](/docs/definitions/food/make-wheat-noodles-from-wheat-flour)
 - [Make Blueberry Muffin](/docs/definitions/food/make-blueberry-muffin)
+- [Make Blueberry Muffin with glucose](/docs/definitions/food/make-blueberry-muffin-with-glucose)
+- [Make Blueberry Muffin with sugarcane juice](/docs/definitions/food/make-blueberry-muffin-with-sugarcane-juice)
 - [Make Okara Blueberry Muffin](/docs/definitions/food/make-okara-blueberry-muffin)
+- [Make Okara Blueberry Muffin with glucose](/docs/definitions/food/make-okara-blueberry-muffin-with-glucose)
+- [Make Okara Blueberry Muffin with sugarcane juice](/docs/definitions/food/make-okara-blueberry-muffin-with-sugarcane-juice)
 - [Make Pizza Dough](/docs/definitions/food/make-pizza-dough)
 
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 

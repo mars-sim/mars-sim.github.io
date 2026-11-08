@@ -24,7 +24,7 @@ Ripe olives can yield up to 30% of oil. It&#39;s about &#10;&#9;&#9;&#9;3 kg of 
 | Input      | Amount |
 |--------:|:------|
 |[Olive](/docs/definitions/resource/olive)|Resource|3.0 kg|
-|[Water](/docs/definitions/resource/water)|Resource|0.9 kg|
+|[water](/docs/definitions/resource/water)|Resource|0.9 kg|
 
 ## Outcomes
 
@@ -32,11 +32,11 @@ Ripe olives can yield up to 30% of oil. It&#39;s about &#10;&#9;&#9;&#9;3 kg of 
 | Produce      | Amount |
 |--------:|:------|
 |[Food Waste](/docs/definitions/resource/food-waste)|3.0 kg|
-|[Olive Oil](/docs/definitions/resource/olive-oil)|0.9 kg|
+|[Olive oil](/docs/definitions/resource/olive-oil)|0.9 kg|
 
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 
 

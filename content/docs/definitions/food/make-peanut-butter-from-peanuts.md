@@ -24,9 +24,9 @@ Ground peanuts, mix with oil, pour the mixture into food processor.&#10;&#9;&#9;
 | Input      | Amount |
 |--------:|:------|
 |[Peanut](/docs/definitions/resource/peanut)|Resource|3.0 kg|
-|[Soy Protein](/docs/definitions/resource/soy-protein)|Resource|0.1 kg|
-|[Soybean Oil](/docs/definitions/resource/soybean-oil)|Resource|0.5 kg|
 |[blender](/docs/definitions/part/blender)|Part|1|
+|[soy Protein](/docs/definitions/resource/soy-protein)|Resource|0.1 kg|
+|[soybean oil](/docs/definitions/resource/soybean-oil)|Resource|0.5 kg|
 |[table salt](/docs/definitions/resource/table-salt)|Resource|0.1 kg|
 
 ## Outcomes
@@ -39,7 +39,7 @@ Ground peanuts, mix with oil, pour the mixture into food processor.&#10;&#9;&#9;
 
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 
 

@@ -23,8 +23,8 @@ hide_summary: true
 
 | Input      | Amount |
 |--------:|:------|
-|[Garlic](/docs/definitions/resource/garlic)|Resource|5.0 kg|
-|[Sesame Oil](/docs/definitions/resource/sesame-oil)|Resource|0.99 kg|
+|[Sesame oil](/docs/definitions/resource/sesame-oil)|Resource|0.99 kg|
+|[garlic](/docs/definitions/resource/garlic)|Resource|5.0 kg|
 
 ## Outcomes
 
@@ -32,11 +32,11 @@ hide_summary: true
 | Produce      | Amount |
 |--------:|:------|
 |[Food Waste](/docs/definitions/resource/food-waste)|4.99 kg|
-|[Garlic Oil](/docs/definitions/resource/garlic-oil)|1.0 kg|
+|[Garlic oil](/docs/definitions/resource/garlic-oil)|1.0 kg|
 
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 
 

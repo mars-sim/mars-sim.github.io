@@ -10,21 +10,21 @@ description: Specification of various Robots.
 {{< definition-label xmlFile="robots" configEditor="" >}}
 
 
-- [ChefBot Advanced](../robot/chefbot-advanced)
-- [ChefBot Standard](../robot/chefbot-standard)
-- [ConstructionBot Standard](../robot/constructionbot-standard)
-- [DeliveryBot Advanced](../robot/deliverybot-advanced)
-- [DeliveryBot Standard](../robot/deliverybot-standard)
-- [GardenBot Advanced](../robot/gardenbot-advanced)
-- [GardenBot Standard](../robot/gardenbot-standard)
-- [MakerBot Advanced](../robot/makerbot-advanced)
-- [MakerBot Standard](../robot/makerbot-standard)
-- [MedicBot Advanced](../robot/medicbot-advanced)
-- [MedicBot Standard](../robot/medicbot-standard)
-- [RepairBot Advanced](../robot/repairbot-advanced)
-- [RepairBot Standard](../robot/repairbot-standard)
+- [ChefBot-Advanced](../robot/chefbot-advanced)
+- [ChefBot-Standard](../robot/chefbot-standard)
+- [ConstructionBot-Standard](../robot/constructionbot-standard)
+- [DeliveryBot-Advanced](../robot/deliverybot-advanced)
+- [DeliveryBot-Standard](../robot/deliverybot-standard)
+- [GardenBot-Advanced](../robot/gardenbot-advanced)
+- [GardenBot-Standard](../robot/gardenbot-standard)
+- [MakerBot-Advanced](../robot/makerbot-advanced)
+- [MakerBot-Standard](../robot/makerbot-standard)
+- [MedicBot-Advanced](../robot/medicbot-advanced)
+- [MedicBot-Standard](../robot/medicbot-standard)
+- [RepairBot-Advanced](../robot/repairbot-advanced)
+- [RepairBot-Standard](../robot/repairbot-standard)
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 

@@ -12,26 +12,26 @@ hide_summary: true
 |--------:|:------|
 |Process Time:|200 millisols|
 |Work Time:|10 millisols|
-|Power Required:|0.01 kW/hr|
+|Power Required:| kW/hr|
 |Start On:|false|
 
 ## Inputs
 | Name      | Input Rate (kg/sol) | Minimum kg | Ambient |
 |--------:|:------|-----:|:----|
-|[Crop waste](/docs/definitions/resource/crop-waste)|100.0|0.005|false|
+|[Crop waste](/docs/definitions/resource/crop-waste)|10.0|5.0E-4|false|
 
 Ambient inputs are consumed from the environment.
 
 ## Outputs
 | Name      | Output Rate (kg/sol) | Waste Output |
 |--------:|:------|-----:|:----|
-|[Carbon](/docs/definitions/resource/carbon)|80.0|false|
-|[Soil](/docs/definitions/resource/soil)|20.0|false|
+|[Soil](/docs/definitions/resource/soil)|2.0|false|
+|[Carbon](/docs/definitions/resource/carbon)|8.0|false|
 
 Waste outputs are released into the environment and do not need to be stored.
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 
 

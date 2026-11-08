@@ -15,7 +15,7 @@ Derive fish oil from fish meats. Press and refine it&#10;&#9;&#9;&#9;for use
 |--------:|:------|
 |Skill Level:|1|
 |Tech Level:|1|
-|Process Time:|50.0 millisols|
+|Process Time:|10.0 millisols|
 |Work Level:|5.0 millisols|
 |Power Required:|0.1 kW/hr|
 
@@ -23,18 +23,19 @@ Derive fish oil from fish meats. Press and refine it&#10;&#9;&#9;&#9;for use
 
 | Input      | Amount |
 |--------:|:------|
-|[fish meat](/docs/definitions/resource/fish-meat)|Resource|2.0 kg|
+|[fish meat](/docs/definitions/resource/fish-meat)|Resource|1.0 kg|
 
 ## Outcomes
 
 
 | Produce      | Amount |
 |--------:|:------|
-|[fish oil](/docs/definitions/resource/fish-oil)|0.5 kg|
+|[fish oil](/docs/definitions/resource/fish-oil)|0.3 kg|
+|[food](/docs/definitions/resource/food)|0.7 kg|
 
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 
 

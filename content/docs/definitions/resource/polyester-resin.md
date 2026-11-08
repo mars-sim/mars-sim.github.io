@@ -25,18 +25,18 @@ hide_summary: true
 
 - [Make satellite dish](/docs/definitions/process/make-satellite-dish)
 - [Make radio antenna](/docs/definitions/process/make-radio-antenna)
-- [Roll mylar film](/docs/definitions/process/roll-mylar-film)
-- [Roll mylar film with Polypropylene](/docs/definitions/process/roll-mylar-film-with-polypropylene)
 - [Make lubricant bottle](/docs/definitions/process/make-lubricant-bottle)
 - [Make airleak patch](/docs/definitions/process/make-airleak-patch)
-- [Do plastic sheet extrusion](/docs/definitions/process/do-plastic-sheet-extrusion)
 - [Make Garment](/docs/definitions/process/make-garment)
 - [Make Garment with Soy fiber](/docs/definitions/process/make-garment-with-soy-fiber)
 - [Make Garment with Polyester fiber](/docs/definitions/process/make-garment-with-polyester-fiber)
+- [Make Towel](/docs/definitions/process/make-towel)
+- [Make Towel with Soy fiber](/docs/definitions/process/make-towel-with-soy-fiber)
+- [Make Towel with Polyester fiber](/docs/definitions/process/make-towel-with-polyester-fiber)
+- [Make Liquid Cooling Garment](/docs/definitions/process/make-liquid-cooling-garment)
+- [Make Liquid Cooling Garment with Kevlar](/docs/definitions/process/make-liquid-cooling-garment-with-kevlar)
 - [Make pressure suit](/docs/definitions/process/make-pressure-suit)
 - [Make pressure suit with Polypropylene](/docs/definitions/process/make-pressure-suit-with-polypropylene)
-- [Make pressure suit with Soy fiber](/docs/definitions/process/make-pressure-suit-with-soy-fiber)
-- [Make pressure suit with Polyester fiber](/docs/definitions/process/make-pressure-suit-with-polyester-fiber)
 - [Make EVA antenna](/docs/definitions/process/make-eva-antenna)
 - [Manufacture vehicle chassis panel](/docs/definitions/process/manufacture-vehicle-chassis-panel)
 - [Manufacture drone chassis panel](/docs/definitions/process/manufacture-drone-chassis-panel)
@@ -45,12 +45,17 @@ hide_summary: true
 - [Manufacture rover control panel with Polypropylene](/docs/definitions/process/manufacture-rover-control-panel-with-polypropylene)
 - [Manufacture utility vehicle control panel](/docs/definitions/process/manufacture-utility-vehicle-control-panel)
 - [Manufacture utility vehicle control panel with Polypropylene](/docs/definitions/process/manufacture-utility-vehicle-control-panel-with-polypropylene)
-- [Fabricate turbine blade](/docs/definitions/process/fabricate-turbine-blade)
+- [Fabricate wind turbine blade](/docs/definitions/process/fabricate-wind-turbine-blade)
+- [Fabricate wind turbine blade with Fiber Cloth](/docs/definitions/process/fabricate-wind-turbine-blade-with-fiber-cloth)
+- [Fabricate wind turbine blade with Glass](/docs/definitions/process/fabricate-wind-turbine-blade-with-glass)
+- [Produce polyurethane](/docs/definitions/process/produce-polyurethane)
+- [Manufacture bag with Polyester resin](/docs/definitions/process/manufacture-bag-with-polyester-resin)
+- [Manufacture large bag with Polyester resin](/docs/definitions/process/manufacture-large-bag-with-polyester-resin)
 
 
     
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 

@@ -23,26 +23,33 @@ hide_summary: true
 
 ## Used by Manufacturing Process
 
+- [Manufacture pry bar](/docs/definitions/process/manufacture-pry-bar)
 - [Do steel ingot nickel alloying](/docs/definitions/process/do-steel-ingot-nickel-alloying)
 - [Manufacture battery module](/docs/definitions/process/manufacture-battery-module)
 - [Manufacture battery module with Polypropylene](/docs/definitions/process/manufacture-battery-module-with-polypropylene)
 - [Manufacture EVA battery](/docs/definitions/process/manufacture-eva-battery)
 - [Manufacture EVA battery with Polypropylene](/docs/definitions/process/manufacture-eva-battery-with-polypropylene)
+- [Manufacture memory module](/docs/definitions/process/manufacture-memory-module)
+- [Manufacture microcontroller](/docs/definitions/process/manufacture-microcontroller)
 - [Make ceramic electrolyte](/docs/definitions/process/make-ceramic-electrolyte)
 - [Make ceramic electrolyte with Aluminum oxide](/docs/definitions/process/make-ceramic-electrolyte-with-aluminum-oxide)
 - [Make methane solid oxide fuel cells](/docs/definitions/process/make-methane-solid-oxide-fuel-cells)
 - [Make methane solid oxide fuel cells with Aluminum oxide](/docs/definitions/process/make-methane-solid-oxide-fuel-cells-with-aluminum-oxide)
 - [Make methanol fuel cells](/docs/definitions/process/make-methanol-fuel-cells)
 - [Make methanol fuel cells with Aluminum oxide](/docs/definitions/process/make-methanol-fuel-cells-with-aluminum-oxide)
-- [Manufacture resistors](/docs/definitions/process/manufacture-resistors)
-- [Manufacture resistors with Aluminum oxide](/docs/definitions/process/manufacture-resistors-with-aluminum-oxide)
-- [Manufacture capacitors](/docs/definitions/process/manufacture-capacitors)
-- [Manufacture capacitors with Aluminum oxide](/docs/definitions/process/manufacture-capacitors-with-aluminum-oxide)
+- [Manufacture resistor](/docs/definitions/process/manufacture-resistor)
+- [Manufacture resistor with Aluminum oxide](/docs/definitions/process/manufacture-resistor-with-aluminum-oxide)
+- [Manufacture capacitor](/docs/definitions/process/manufacture-capacitor)
+- [Manufacture capacitor with Aluminum oxide](/docs/definitions/process/manufacture-capacitor-with-aluminum-oxide)
+- [Manufacture diode](/docs/definitions/process/manufacture-diode)
+- [Manufacture diode with Aluminum oxide](/docs/definitions/process/manufacture-diode-with-aluminum-oxide)
+- [Manufacture power transistor](/docs/definitions/process/manufacture-power-transistor)
+- [Manufacture power transistor with Aluminum oxide](/docs/definitions/process/manufacture-power-transistor-with-aluminum-oxide)
 
 
     
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 

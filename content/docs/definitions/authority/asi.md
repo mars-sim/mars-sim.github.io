@@ -24,12 +24,12 @@ Provide actionable data sets on how nations and corporations benefit from partne
 * Develop groundwork for common space operation platform
 * Spearhead new projects for cooperations
 * Identify human factors in the domain of operational safety
-* Develop program initiatives for economic fusion and integration
+* Develop sustainable program initiatives for economic fusion and integration
 
 ## Countries
 
 * Italy
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 

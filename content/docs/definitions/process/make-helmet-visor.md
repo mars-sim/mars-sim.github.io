@@ -14,28 +14,28 @@ hide_summary: true
 |Type:|Manufacture|
 |Skill Level:|2|
 |Tech Level:|2|
-|Process Time:|200.0 millisols|
+|Process Time:|50.0 millisols|
 |Tooling:|3D Printer|
-|Work Level:|100.0 millisols|
+|Work Level:|50.0 millisols|
 |Power Required:|0.1 kW/hr|
 
 ## Inputs
 
 | Input      | Amount |
 |--------:|:------|
-|[Glass](/docs/definitions/resource/glass)|Resource|3.0 kg|
-|[Polycarbonate resin](/docs/definitions/resource/polycarbonate-resin)|Resource|0.2 kg|
+|[Glass](/docs/definitions/resource/glass)|Resource|1.4 kg|
+|[Polycarbonate resin](/docs/definitions/resource/polycarbonate-resin)|Resource|0.1 kg|
 
 ## Products
 
 
 | Produce      | Amount |
 |--------:|:------|
-|[Helmet visor](/docs/definitions/part/helmet-visor)|13|
+|[Helmet visor](/docs/definitions/part/helmet-visor)|3|
 
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 
 

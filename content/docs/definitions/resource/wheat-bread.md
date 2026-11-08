@@ -22,11 +22,11 @@ Loaves of Bread for making sandwiches.
 
 ## Made by Food Process
 
-- [Bake Wheat Bread from Wheat Flour](/docs/definitions/food/bake-wheat-bread-from-wheat-flour)
+- [Bake Wheat Bread from Wheat flour](/docs/definitions/food/bake-wheat-bread-from-wheat-flour)
 
     
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 

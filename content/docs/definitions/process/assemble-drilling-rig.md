@@ -24,9 +24,16 @@ hide_summary: true
 | Input      | Amount |
 |--------:|:------|
 |[Motor 30 kW](/docs/definitions/part/motor-30-kw)|Part|1|
+|[Mud pump](/docs/definitions/part/mud-pump)|Part|2|
+|[Steel sheet](/docs/definitions/part/steel-sheet)|Part|1|
 |[calcium](/docs/definitions/resource/calcium)|Resource|2.0 kg|
+|[gasket](/docs/definitions/part/gasket)|Part|5|
+|[plastic pipe](/docs/definitions/part/plastic-pipe)|Part|3|
 |[steel cable](/docs/definitions/part/steel-cable)|Part|4|
-|[steel sheet](/docs/definitions/part/steel-sheet)|Part|1|
+|[steel pipe](/docs/definitions/part/steel-pipe)|Part|3|
+|[steel post](/docs/definitions/part/steel-post)|Part|2|
+|[steel truss](/docs/definitions/part/steel-truss)|Part|4|
+|[valve](/docs/definitions/part/valve)|Part|5|
 
 ## Products
 
@@ -37,7 +44,7 @@ hide_summary: true
 
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 
 

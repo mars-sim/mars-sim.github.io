@@ -20,25 +20,21 @@ hide_summary: true
 | Name | Type | Quantity |
 |:-----|:-----|-----:|
 |[Acetylene](/docs/definitions/resource/acetylene)|Resource|1.25 kg|
-|[Aluminum sheet](/docs/definitions/part/aluminum-sheet)|Part|10|
+|[Aluminum sheet](/docs/definitions/part/aluminum-sheet)|Part|30|
 |[Concrete](/docs/definitions/resource/concrete)|Resource|54.0 kg|
-|[Electrical wire](/docs/definitions/part/electrical-wire)|Part|80|
-|[Gasket](/docs/definitions/part/gasket)|Part|30|
-|[Insulation board](/docs/definitions/part/insulation-board)|Part|10|
-|[Plastic pipe](/docs/definitions/part/plastic-pipe)|Part|50|
-|[Plastic sheet](/docs/definitions/part/plastic-sheet)|Part|20|
-|[Power cable](/docs/definitions/part/power-cable)|Part|12|
-|[Steel pipe](/docs/definitions/part/steel-pipe)|Part|40|
-|[Steel post](/docs/definitions/part/steel-post)|Part|5|
-|[Steel sheet](/docs/definitions/part/steel-sheet)|Part|10|
-|[Steel truss](/docs/definitions/part/steel-truss)|Part|20|
-|[Valve](/docs/definitions/part/valve)|Part|30|
-|[Wire connector](/docs/definitions/part/wire-connector)|Part|80|
+|[Gasket](/docs/definitions/part/gasket)|Part|6|
+|[Plastic pipe](/docs/definitions/part/plastic-pipe)|Part|27|
+|[Polyethylene UHMW board](/docs/definitions/part/polyethylene-uhmw-board)|Part|60|
+|[Steel pipe](/docs/definitions/part/steel-pipe)|Part|27|
+|[Steel post](/docs/definitions/part/steel-post)|Part|8|
+|[Steel sheet](/docs/definitions/part/steel-sheet)|Part|30|
+|[Steel truss](/docs/definitions/part/steel-truss)|Part|4|
+|[Valve](/docs/definitions/part/valve)|Part|6|
 
 ## Later Stages
 - [Inflatable Greenhouse](/docs/definitions/construction/inflatable-greenhouse)
 
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 

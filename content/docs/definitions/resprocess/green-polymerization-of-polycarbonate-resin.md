@@ -12,27 +12,27 @@ hide_summary: true
 |--------:|:------|
 |Process Time:|200 millisols|
 |Work Time:|10 millisols|
-|Power Required:|0.1 kW/hr|
+|Power Required:| kW/hr|
 |Start On:|false|
 
 ## Inputs
 | Name      | Input Rate (kg/sol) | Minimum kg | Ambient |
 |--------:|:------|-----:|:----|
-|[Bisphenol-a](/docs/definitions/resource/bisphenol-a)|228.29|0.011|false|
-|[Carbon dioxide](/docs/definitions/resource/carbon-dioxide)|44.0|0.002|false|
+|[Bisphenol-a](/docs/definitions/resource/bisphenol-a)|228.29|0.0114|false|
+|[Carbon dioxide](/docs/definitions/resource/carbon-dioxide)|44.0|0.0|true|
 
 Ambient inputs are consumed from the environment.
 
 ## Outputs
 | Name      | Output Rate (kg/sol) | Waste Output |
 |--------:|:------|-----:|:----|
-|[Polycarbonate resin](/docs/definitions/resource/polycarbonate-resin)|254.29000000000002|false|
 |[Water](/docs/definitions/resource/water)|18.0|false|
+|[Polycarbonate resin](/docs/definitions/resource/polycarbonate-resin)|254.29000000000002|false|
 
 Waste outputs are released into the environment and do not need to be stored.
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 
 

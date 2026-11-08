@@ -20,29 +20,35 @@ hide_summary: true
 ## Made by Manufacturing Process
 
 - [Produce polyurethane](/docs/definitions/process/produce-polyurethane)
+- [Produce polyurethane with Ethylene glycol](/docs/definitions/process/produce-polyurethane-with-ethylene-glycol)
 
 ## Used by Manufacturing Process
 
+- [Make gasket with Polyurethane](/docs/definitions/process/make-gasket-with-polyurethane)
 - [Make Garment](/docs/definitions/process/make-garment)
 - [Make Garment with Soy fiber](/docs/definitions/process/make-garment-with-soy-fiber)
 - [Make Garment with Polyester fiber](/docs/definitions/process/make-garment-with-polyester-fiber)
-- [Make coveralls](/docs/definitions/process/make-coveralls)
-- [Make coveralls with Polyester Fiber](/docs/definitions/process/make-coveralls-with-polyester-fiber)
-- [Make coveralls with Soy fiber](/docs/definitions/process/make-coveralls-with-soy-fiber)
-- [Make EVA gloves](/docs/definitions/process/make-eva-gloves)
-- [Make EVA gloves with Soy fiber](/docs/definitions/process/make-eva-gloves-with-soy-fiber)
-- [Make EVA gloves with Polyester fiber](/docs/definitions/process/make-eva-gloves-with-polyester-fiber)
-- [Make EVA boots](/docs/definitions/process/make-eva-boots)
-- [Make EVA boots with Soy fiber](/docs/definitions/process/make-eva-boots-with-soy-fiber)
-- [Make EVA boots with Polyester fiber](/docs/definitions/process/make-eva-boots-with-polyester-fiber)
-- [Make EVA pads](/docs/definitions/process/make-eva-pads)
-- [Make EVA pads with Soy fiber](/docs/definitions/process/make-eva-pads-with-soy-fiber)
-- [Make EVA pads with Polyester fiber](/docs/definitions/process/make-eva-pads-with-polyester-fiber)
+- [Make Towel](/docs/definitions/process/make-towel)
+- [Make Towel with Soy fiber](/docs/definitions/process/make-towel-with-soy-fiber)
+- [Make Towel with Polyester fiber](/docs/definitions/process/make-towel-with-polyester-fiber)
+- [Make Liquid Cooling Garment with Polyurethane](/docs/definitions/process/make-liquid-cooling-garment-with-polyurethane)
+- [Make coverall](/docs/definitions/process/make-coverall)
+- [Make coverall with Kevlar](/docs/definitions/process/make-coverall-with-kevlar)
+- [Make EVA glove](/docs/definitions/process/make-eva-glove)
+- [Make EVA glove with Soy fiber](/docs/definitions/process/make-eva-glove-with-soy-fiber)
+- [Make EVA glove with Polyester fiber](/docs/definitions/process/make-eva-glove-with-polyester-fiber)
+- [Make EVA boot](/docs/definitions/process/make-eva-boot)
+- [Make EVA boot with Soy fiber](/docs/definitions/process/make-eva-boot-with-soy-fiber)
+- [Make EVA boot with Polyester fiber](/docs/definitions/process/make-eva-boot-with-polyester-fiber)
+- [Make EVA pad](/docs/definitions/process/make-eva-pad)
+- [Make EVA pad with Soy fiber](/docs/definitions/process/make-eva-pad-with-soy-fiber)
+- [Make EVA pad with Polyester fiber](/docs/definitions/process/make-eva-pad-with-polyester-fiber)
+- [Make steering wheel](/docs/definitions/process/make-steering-wheel)
 
 
     
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 

@@ -23,10 +23,10 @@ Make granola bar using puffed quinoa/rice/wheat, honey/sugarcane, nuts and dried
 
 | Input      | Amount |
 |--------:|:------|
-|[Honey](/docs/definitions/resource/honey)|Resource|0.5 kg|
 |[Peanut](/docs/definitions/resource/peanut)|Resource|1.0 kg|
 |[Quinoa](/docs/definitions/resource/quinoa)|Resource|4.0 kg|
 |[Strawberry](/docs/definitions/resource/strawberry)|Resource|0.5 kg|
+|[honey](/docs/definitions/resource/honey)|Resource|0.5 kg|
 
 ## Outcomes
 
@@ -37,7 +37,7 @@ Make granola bar using puffed quinoa/rice/wheat, honey/sugarcane, nuts and dried
 
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 
 

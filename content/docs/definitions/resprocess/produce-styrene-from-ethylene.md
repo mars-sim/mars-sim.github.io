@@ -12,29 +12,29 @@ hide_summary: true
 |--------:|:------|
 |Process Time:|200 millisols|
 |Work Time:|10 millisols|
-|Power Required:|0.05 kW/hr|
+|Power Required:| kW/hr|
 |Start On:|false|
 
 ## Inputs
 | Name      | Input Rate (kg/sol) | Minimum kg | Ambient |
 |--------:|:------|-----:|:----|
-|[Carbon](/docs/definitions/resource/carbon)|32.12|0.002|false|
-|[Ethylene](/docs/definitions/resource/ethylene)|8.34|0.0|false|
-|[Water](/docs/definitions/resource/water)|16.05|0.001|false|
-|[Lime](/docs/definitions/resource/lime)|2.0|0.0|false|
+|[Water](/docs/definitions/resource/water)|16.05|8.0E-4|false|
+|[Ethylene](/docs/definitions/resource/ethylene)|8.34|4.0E-4|false|
+|[Lime](/docs/definitions/resource/lime)|2.0|1.0E-4|false|
+|[Carbon](/docs/definitions/resource/carbon)|32.12|0.0016|false|
 
 Ambient inputs are consumed from the environment.
 
 ## Outputs
 | Name      | Output Rate (kg/sol) | Waste Output |
 |--------:|:------|-----:|:----|
-|[Styrene](/docs/definitions/resource/styrene)|30.95|false|
 |[Carbon monoxide](/docs/definitions/resource/carbon-monoxide)|24.97|false|
+|[Styrene](/docs/definitions/resource/styrene)|30.95|false|
 
 Waste outputs are released into the environment and do not need to be stored.
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 
 

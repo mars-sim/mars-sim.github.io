@@ -24,10 +24,10 @@ Soak seeds, crush and ground. Hulls and bran are sifted out. Liquids added to th
 | Input      | Amount |
 |--------:|:------|
 |[Mustard Seed](/docs/definitions/resource/mustard-seed)|Resource|0.5 kg|
-|[Rice Vinegar](/docs/definitions/resource/rice-vinegar)|Resource|0.1 kg|
-|[Sugar](/docs/definitions/resource/sugar)|Resource|0.4 kg|
-|[Water](/docs/definitions/resource/water)|Resource|4.0 kg|
+|[glucose](/docs/definitions/resource/glucose)|Resource|0.4 kg|
 |[plastic bottle](/docs/definitions/part/plastic-bottle)|Part|2|
+|[rice vinegar](/docs/definitions/resource/rice-vinegar)|Resource|0.1 kg|
+|[water](/docs/definitions/resource/water)|Resource|4.0 kg|
 
 ## Outcomes
 
@@ -39,7 +39,7 @@ Soak seeds, crush and ground. Hulls and bran are sifted out. Liquids added to th
 
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 
 

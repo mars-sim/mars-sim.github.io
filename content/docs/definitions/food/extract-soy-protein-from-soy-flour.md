@@ -1,6 +1,6 @@
 ---
-title: Food Recipe - Extract Soy Protein from Soy Flour
-linkTitle: Extract Soy Protein from Soy Flour
+title: Food Recipe - Extract Soy Protein from Soy flour
+linkTitle: Extract Soy Protein from Soy flour
 toc_hide: true
 hide_summary: true
 ---
@@ -23,19 +23,19 @@ hide_summary: true
 
 | Input      | Amount |
 |--------:|:------|
-|[Soy Flour](/docs/definitions/resource/soy-flour)|Resource|1.0 kg|
-|[Water](/docs/definitions/resource/water)|Resource|3.0 kg|
+|[soy flour](/docs/definitions/resource/soy-flour)|Resource|1.0 kg|
+|[water](/docs/definitions/resource/water)|Resource|3.0 kg|
 
 ## Outcomes
 
 
 | Produce      | Amount |
 |--------:|:------|
-|[Soy Protein](/docs/definitions/resource/soy-protein)|1.0 kg|
+|[soy Protein](/docs/definitions/resource/soy-protein)|1.0 kg|
 
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 
 

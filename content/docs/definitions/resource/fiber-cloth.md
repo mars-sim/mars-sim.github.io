@@ -17,20 +17,35 @@ Cloth made from soy fiber and cane fiber.
 |Type:|Utility|
 |Form:|Solid|
  
+## Made by Manufacturing Process
+
+- [Make fiber cloth](/docs/definitions/process/make-fiber-cloth)
+- [Make fiber cloth with Polyester Fiber](/docs/definitions/process/make-fiber-cloth-with-polyester-fiber)
+- [Make fiber cloth with Soy fiber](/docs/definitions/process/make-fiber-cloth-with-soy-fiber)
 
 ## Used by Manufacturing Process
 
-- [Make Liquid Cooling Garment with Fiber cloth](/docs/definitions/process/make-liquid-cooling-garment-with-fiber-cloth)
+- [Make Liquid Cooling Garment](/docs/definitions/process/make-liquid-cooling-garment)
+- [Make Liquid Cooling Garment with Kevlar](/docs/definitions/process/make-liquid-cooling-garment-with-kevlar)
+- [Make Liquid Cooling Garment with Polyurethane](/docs/definitions/process/make-liquid-cooling-garment-with-polyurethane)
+- [Make EVA helmet](/docs/definitions/process/make-eva-helmet)
+- [Make EVA helmet with Kevlar](/docs/definitions/process/make-eva-helmet-with-kevlar)
+- [Make EVA helmet with Polypropylene](/docs/definitions/process/make-eva-helmet-with-polypropylene)
+- [Make pressure suit](/docs/definitions/process/make-pressure-suit)
+- [Make pressure suit with Polypropylene](/docs/definitions/process/make-pressure-suit-with-polypropylene)
+- [Make coverall](/docs/definitions/process/make-coverall)
+- [Make coverall with Kevlar](/docs/definitions/process/make-coverall-with-kevlar)
+- [Fabricate wind turbine blade with Fiber Cloth](/docs/definitions/process/fabricate-wind-turbine-blade-with-fiber-cloth)
 
 
 ## Made by Food Process
 
 - [Produce Fiber Cloth from Cane or Soy Fiber](/docs/definitions/food/produce-fiber-cloth-from-cane-or-soy-fiber)
-- [Produce Fiber Cloth from Cane or Soy Fiber with Soy Fiber](/docs/definitions/food/produce-fiber-cloth-from-cane-or-soy-fiber-with-soy-fiber)
+- [Produce Fiber Cloth from Cane or Soy Fiber with soy fiber](/docs/definitions/food/produce-fiber-cloth-from-cane-or-soy-fiber-with-soy-fiber)
 
     
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 

@@ -32,17 +32,21 @@ The Soy Pulp consisting of insoluble parts of the soybean which&#10;&#9;&#9; aft
 ## Used by Food Process
 
 - [Make Okara Protein Bar](/docs/definitions/food/make-okara-protein-bar)
-- [Make Okara Protein Bar with Sugarcane Juice](/docs/definitions/food/make-okara-protein-bar-with-sugarcane-juice)
+- [Make Okara Protein Bar with Spirulina](/docs/definitions/food/make-okara-protein-bar-with-spirulina)
+- [Make Okara Protein Bar with glucose](/docs/definitions/food/make-okara-protein-bar-with-glucose)
+- [Make Okara Protein Bar with sugarcane juice](/docs/definitions/food/make-okara-protein-bar-with-sugarcane-juice)
 - [Make Okara Protein Bar with Blueberry](/docs/definitions/food/make-okara-protein-bar-with-blueberry)
+- [Make Okara Protein Bar with rice](/docs/definitions/food/make-okara-protein-bar-with-rice)
 - [Make Okara Protein Bar with Wheat](/docs/definitions/food/make-okara-protein-bar-with-wheat)
-- [Make Okara Protein Bar with Rice](/docs/definitions/food/make-okara-protein-bar-with-rice)
 - [Make Black Oncom from Okara](/docs/definitions/food/make-black-oncom-from-okara)
 - [Make Tempeh from half Soybeans and half Okara](/docs/definitions/food/make-tempeh-from-half-soybeans-and-half-okara)
 - [Make Veggie Patty from Veg, Okara and Spice](/docs/definitions/food/make-veggie-patty-from-veg--okara-and-spice)
 - [Make Okara Blueberry Muffin](/docs/definitions/food/make-okara-blueberry-muffin)
+- [Make Okara Blueberry Muffin with glucose](/docs/definitions/food/make-okara-blueberry-muffin-with-glucose)
+- [Make Okara Blueberry Muffin with sugarcane juice](/docs/definitions/food/make-okara-blueberry-muffin-with-sugarcane-juice)
 
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 

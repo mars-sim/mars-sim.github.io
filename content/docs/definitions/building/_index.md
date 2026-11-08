@@ -24,8 +24,10 @@ Grouped by Category.
 
 ### Connection {#A-connection}
 
+- [Brickway](../building/brickway)
 - [Hallway](../building/hallway)
 - [Tunnel](../building/tunnel)
+- [Walkway](../building/walkway)
 
 ### Erv {#A-erv}
 
@@ -37,11 +39,12 @@ Grouped by Category.
 ### Eva {#A-eva}
 
 - [EVA Airlock](../building/eva-airlock)
+- [Suit Port](../building/suit-port)
 
 ### Farming {#A-farming}
 
 - [Algae Pond](../building/algae-pond)
-- [Central Hub A](../building/central-hub-a)
+- [Central Dome A](../building/central-dome-a)
 - [Fish Farm](../building/fish-farm)
 - [Inflatable Greenhouse](../building/inflatable-greenhouse)
 - [Inground Greenhouse](../building/inground-greenhouse)
@@ -62,6 +65,7 @@ Grouped by Category.
 
 - [Bunkhouse](../building/bunkhouse)
 - [Compact Quarters](../building/compact-quarters)
+- [Dining Hall](../building/dining-hall)
 - [Lounge](../building/lounge)
 - [Residential Hab](../building/residential-hab)
 - [Residential Quarters](../building/residential-quarters)
@@ -90,19 +94,19 @@ Grouped by Category.
 
 - [Atmospheric Processor](../building/atmospheric-processor)
 - [Brine Water Well](../building/brine-water-well)
-- [Core A](../building/core-a)
 - [Large Sabatier Processor](../building/large-sabatier-processor)
 - [Syngas Plant](../building/syngas-plant)
 
 ### Storage {#A-storage}
 
+- [Brickcore3x3](../building/brickcore3x3)
+- [Brickcore3x9](../building/brickcore3x9)
 - [Cement Storage](../building/cement-storage)
 - [Chemical Storage](../building/chemical-storage)
 - [Concrete Storage](../building/concrete-storage)
+- [Core A](../building/core-a)
 - [Core B](../building/core-b)
 - [Core C](../building/core-c)
-- [Corridor 3x3](../building/corridor-3x3)
-- [Corridor 3x9](../building/corridor-3x9)
 - [Fuel Storage](../building/fuel-storage)
 - [Gas Storage](../building/gas-storage)
 - [Ice Storage](../building/ice-storage)
@@ -111,13 +115,13 @@ Grouped by Category.
 - [Ore Storage](../building/ore-storage)
 - [Regolith Storage](../building/regolith-storage)
 - [Sand Storage](../building/sand-storage)
-- [Storage Hab](../building/storage-hab)
 - [Storage Shed](../building/storage-shed)
 
 ### Vehicle {#A-vehicle}
 
 - [Garage](../building/garage)
 - [Loading Dock Garage](../building/loading-dock-garage)
+- [Storage Hab](../building/storage-hab)
 
 ### Workshop {#A-workshop}
 
@@ -127,5 +131,5 @@ Grouped by Category.
 
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 

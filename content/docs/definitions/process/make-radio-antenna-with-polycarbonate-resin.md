@@ -23,12 +23,12 @@ hide_summary: true
 
 | Input      | Amount |
 |--------:|:------|
-|[Polycarbonate resin](/docs/definitions/resource/polycarbonate-resin)|Resource|0.5 kg|
+|[Polycarbonate resin](/docs/definitions/resource/polycarbonate-resin)|Resource|0.12 kg|
 |[aluminum sheet](/docs/definitions/part/aluminum-sheet)|Part|1|
 |[electrical wire](/docs/definitions/part/electrical-wire)|Part|1|
 |[fiberglass](/docs/definitions/part/fiberglass)|Part|1|
 |[optical cable](/docs/definitions/part/optical-cable)|Part|1|
-|[styrene](/docs/definitions/resource/styrene)|Resource|0.5 kg|
+|[styrene](/docs/definitions/resource/styrene)|Resource|0.1 kg|
 |[wire connector](/docs/definitions/part/wire-connector)|Part|3|
 
 ## Products
@@ -36,11 +36,11 @@ hide_summary: true
 
 | Produce      | Amount |
 |--------:|:------|
-|[radio antenna](/docs/definitions/part/radio-antenna)|5|
+|[radio antenna](/docs/definitions/part/radio-antenna)|2|
 
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 
 

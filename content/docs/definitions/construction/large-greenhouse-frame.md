@@ -22,23 +22,18 @@ hide_summary: true
 |[Acetylene](/docs/definitions/resource/acetylene)|Resource|2.5 kg|
 |[Aluminum sheet](/docs/definitions/part/aluminum-sheet)|Part|20|
 |[Concrete](/docs/definitions/resource/concrete)|Resource|216.0 kg|
-|[Electrical wire](/docs/definitions/part/electrical-wire)|Part|120|
 |[Gasket](/docs/definitions/part/gasket)|Part|90|
 |[Glass sheet](/docs/definitions/part/glass-sheet)|Part|50|
-|[Insulation board](/docs/definitions/part/insulation-board)|Part|20|
 |[Plastic pipe](/docs/definitions/part/plastic-pipe)|Part|150|
-|[Plastic sheet](/docs/definitions/part/plastic-sheet)|Part|20|
-|[Power cable](/docs/definitions/part/power-cable)|Part|30|
 |[Steel post](/docs/definitions/part/steel-post)|Part|12|
 |[Steel sheet](/docs/definitions/part/steel-sheet)|Part|20|
 |[Steel truss](/docs/definitions/part/steel-truss)|Part|30|
 |[Valve](/docs/definitions/part/valve)|Part|90|
-|[Wire connector](/docs/definitions/part/wire-connector)|Part|120|
 
 ## Later Stages
 - [Large Greenhouse](/docs/definitions/construction/large-greenhouse)
 
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 

@@ -18,7 +18,7 @@ no description available.
 
 ## Made by Manufacturing Process
 
-- [Draw optical fiber glass](/docs/definitions/process/draw-optical-fiber-glass)
+- [Draw optical fiberglass](/docs/definitions/process/draw-optical-fiberglass)
 
 ## Used by Manufacturing Process
 
@@ -27,20 +27,14 @@ no description available.
 - [Make radio antenna](/docs/definitions/process/make-radio-antenna)
 - [Make radio antenna with Polycarbonate resin](/docs/definitions/process/make-radio-antenna-with-polycarbonate-resin)
 - [Weave fiberglass cloth](/docs/definitions/process/weave-fiberglass-cloth)
-- [Make EVA gloves](/docs/definitions/process/make-eva-gloves)
-- [Make EVA gloves with Soy fiber](/docs/definitions/process/make-eva-gloves-with-soy-fiber)
-- [Make EVA gloves with Polyester fiber](/docs/definitions/process/make-eva-gloves-with-polyester-fiber)
-- [Make EVA boots](/docs/definitions/process/make-eva-boots)
-- [Make EVA boots with Soy fiber](/docs/definitions/process/make-eva-boots-with-soy-fiber)
-- [Make EVA boots with Polyester fiber](/docs/definitions/process/make-eva-boots-with-polyester-fiber)
-- [Make EVA pads](/docs/definitions/process/make-eva-pads)
-- [Make EVA pads with Soy fiber](/docs/definitions/process/make-eva-pads-with-soy-fiber)
-- [Make EVA pads with Polyester fiber](/docs/definitions/process/make-eva-pads-with-polyester-fiber)
+- [Make EVA pad](/docs/definitions/process/make-eva-pad)
+- [Make EVA pad with Soy fiber](/docs/definitions/process/make-eva-pad-with-soy-fiber)
+- [Make EVA pad with Polyester fiber](/docs/definitions/process/make-eva-pad-with-polyester-fiber)
 - [Make EVA antenna](/docs/definitions/process/make-eva-antenna)
 - [Make EVA antenna with Polycarbonate resin](/docs/definitions/process/make-eva-antenna-with-polycarbonate-resin)
-- [Make work gloves](/docs/definitions/process/make-work-gloves)
-- [Make work gloves with Polyester Fiber](/docs/definitions/process/make-work-gloves-with-polyester-fiber)
-- [Make work gloves with Soy fiber](/docs/definitions/process/make-work-gloves-with-soy-fiber)
+- [Make work glove](/docs/definitions/process/make-work-glove)
+- [Make work glove with Polyester Fiber](/docs/definitions/process/make-work-glove-with-polyester-fiber)
+- [Make work glove with Soy fiber](/docs/definitions/process/make-work-glove-with-soy-fiber)
 - [Manufacture vehicle chassis panel](/docs/definitions/process/manufacture-vehicle-chassis-panel)
 - [Manufacture vehicle chassis panel with Polycarbonate resin](/docs/definitions/process/manufacture-vehicle-chassis-panel-with-polycarbonate-resin)
 - [Manufacture drone chassis panel](/docs/definitions/process/manufacture-drone-chassis-panel)
@@ -51,14 +45,17 @@ no description available.
 - [Manufacture utility vehicle control panel](/docs/definitions/process/manufacture-utility-vehicle-control-panel)
 - [Manufacture utility vehicle control panel with Polycarbonate resin](/docs/definitions/process/manufacture-utility-vehicle-control-panel-with-polycarbonate-resin)
 - [Manufacture utility vehicle control panel with Polypropylene](/docs/definitions/process/manufacture-utility-vehicle-control-panel-with-polypropylene)
-- [Fabricate turbine blade](/docs/definitions/process/fabricate-turbine-blade)
-- [Fabricate turbine blade with Polycarbonate resin](/docs/definitions/process/fabricate-turbine-blade-with-polycarbonate-resin)
+- [Fabricate wind turbine blade](/docs/definitions/process/fabricate-wind-turbine-blade)
+- [Fabricate wind turbine blade with Polycarbonate resin](/docs/definitions/process/fabricate-wind-turbine-blade-with-polycarbonate-resin)
+- [Fabricate wind turbine blade with Fiber Cloth](/docs/definitions/process/fabricate-wind-turbine-blade-with-fiber-cloth)
+- [Fabricate wind turbine blade with Glass](/docs/definitions/process/fabricate-wind-turbine-blade-with-glass)
+- [Fabricate wind turbine blade with Epoxy resin](/docs/definitions/process/fabricate-wind-turbine-blade-with-epoxy-resin)
 - [Fabricate solar panel](/docs/definitions/process/fabricate-solar-panel)
 - [Manufacture SLS 3D Printer](/docs/definitions/process/manufacture-sls-3d-printer)
 
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 
 

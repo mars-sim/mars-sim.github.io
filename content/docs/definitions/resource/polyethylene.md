@@ -20,20 +20,14 @@ hide_summary: true
 
 ## Used by Manufacturing Process
 
-- [Make plastic barrel](/docs/definitions/process/make-plastic-barrel)
-- [Make pot](/docs/definitions/process/make-pot)
-- [Make basket](/docs/definitions/process/make-basket)
-- [Make crate](/docs/definitions/process/make-crate)
-- [Make plastic specimen box](/docs/definitions/process/make-plastic-specimen-box)
 - [Make plastic pipe](/docs/definitions/process/make-plastic-pipe)
-- [Roll mylar film](/docs/definitions/process/roll-mylar-film)
+- [Make gasket with polyethylene](/docs/definitions/process/make-gasket-with-polyethylene)
+- [Make gas tubing with polyethylene](/docs/definitions/process/make-gas-tubing-with-polyethylene)
 - [Make plastic bottle](/docs/definitions/process/make-plastic-bottle)
+- [Produce polyethylene UHMW board](/docs/definitions/process/produce-polyethylene-uhmw-board)
 - [Make EVA helmet](/docs/definitions/process/make-eva-helmet)
-- [Make EVA helmet with Soy fiber](/docs/definitions/process/make-eva-helmet-with-soy-fiber)
-- [Make EVA helmet with Polyester fiber](/docs/definitions/process/make-eva-helmet-with-polyester-fiber)
+- [Make EVA helmet with Kevlar](/docs/definitions/process/make-eva-helmet-with-kevlar)
 - [Make pressure suit](/docs/definitions/process/make-pressure-suit)
-- [Make pressure suit with Soy fiber](/docs/definitions/process/make-pressure-suit-with-soy-fiber)
-- [Make pressure suit with Polyester fiber](/docs/definitions/process/make-pressure-suit-with-polyester-fiber)
 - [Make EVA backpack](/docs/definitions/process/make-eva-backpack)
 - [Make EVA backpack with Soy fiber](/docs/definitions/process/make-eva-backpack-with-soy-fiber)
 - [Make EVA backpack with Polyester fiber](/docs/definitions/process/make-eva-backpack-with-polyester-fiber)
@@ -41,14 +35,28 @@ hide_summary: true
 - [Manufacture rover control panel with Polycarbonate resin](/docs/definitions/process/manufacture-rover-control-panel-with-polycarbonate-resin)
 - [Manufacture utility vehicle control panel](/docs/definitions/process/manufacture-utility-vehicle-control-panel)
 - [Manufacture utility vehicle control panel with Polycarbonate resin](/docs/definitions/process/manufacture-utility-vehicle-control-panel-with-polycarbonate-resin)
+- [Manufacture large methane fuel tank](/docs/definitions/process/manufacture-large-methane-fuel-tank)
+- [Manufacture medium methane fuel tank](/docs/definitions/process/manufacture-medium-methane-fuel-tank)
+- [Manufacture small methane fuel tank](/docs/definitions/process/manufacture-small-methane-fuel-tank)
+- [Manufacture large methanol fuel tank](/docs/definitions/process/manufacture-large-methanol-fuel-tank)
+- [Manufacture medium methanol fuel tank](/docs/definitions/process/manufacture-medium-methanol-fuel-tank)
+- [Manufacture small methanol fuel tank](/docs/definitions/process/manufacture-small-methanol-fuel-tank)
+- [Manufacture water tank](/docs/definitions/process/manufacture-water-tank)
 - [Manufacture battery module](/docs/definitions/process/manufacture-battery-module)
 - [Manufacture EVA battery](/docs/definitions/process/manufacture-eva-battery)
 - [Make Paraffin Composites](/docs/definitions/process/make-paraffin-composites)
+- [Make pot](/docs/definitions/process/make-pot)
+- [Make basket](/docs/definitions/process/make-basket)
+- [Make crate](/docs/definitions/process/make-crate)
+- [Manufacture bag](/docs/definitions/process/manufacture-bag)
+- [Manufacture large bag](/docs/definitions/process/manufacture-large-bag)
+- [Manufacture barrel](/docs/definitions/process/manufacture-barrel)
+- [Manufacture specimen box](/docs/definitions/process/manufacture-specimen-box)
 
 
     
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 

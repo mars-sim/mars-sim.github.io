@@ -12,10 +12,10 @@ hide_summary: true
 | Attribute      | Value |
 |--------:|:------|
 |Type:|Manufacture|
-|Skill Level:|2|
-|Tech Level:|3|
+|Skill Level:|3|
+|Tech Level:|2|
 |Process Time:|100.0 millisols|
-|Tooling:|3D Printer|
+|Tooling:|Fabrication|
 |Work Level:|200.0 millisols|
 |Power Required:|1.0 kW/hr|
 
@@ -23,10 +23,12 @@ hide_summary: true
 
 | Input      | Amount |
 |--------:|:------|
-|[aluminum sheet](/docs/definitions/part/aluminum-sheet)|Part|2|
-|[glass](/docs/definitions/resource/glass)|Resource|5.0 kg|
-|[glass sheet](/docs/definitions/part/glass-sheet)|Part|1|
-|[steel sheet](/docs/definitions/part/steel-sheet)|Part|1|
+|[Aluminized mylar](/docs/definitions/resource/aluminized-mylar)|Resource|0.3 kg|
+|[Glass](/docs/definitions/resource/glass)|Resource|2.0 kg|
+|[Glass sheet](/docs/definitions/part/glass-sheet)|Part|1|
+|[Glass tube](/docs/definitions/part/glass-tube)|Part|1|
+|[aluminum sheet](/docs/definitions/part/aluminum-sheet)|Part|1|
+|[silver](/docs/definitions/resource/silver)|Resource|0.2 kg|
 
 ## Products
 
@@ -37,7 +39,7 @@ hide_summary: true
 
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 
 

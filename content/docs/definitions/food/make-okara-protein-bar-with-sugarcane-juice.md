@@ -1,6 +1,6 @@
 ---
-title: Food Recipe - Make Okara Protein Bar with Sugarcane Juice
-linkTitle: Make Okara Protein Bar with Sugarcane Juice
+title: Food Recipe - Make Okara Protein Bar with sugarcane juice
+linkTitle: Make Okara Protein Bar with sugarcane juice
 toc_hide: true
 hide_summary: true
 ---
@@ -27,7 +27,7 @@ Make protein bars using puffed quinoa/rice/wheat, honey/sugarcane juice, nuts an
 |[Peanut](/docs/definitions/resource/peanut)|Resource|1.0 kg|
 |[Quinoa](/docs/definitions/resource/quinoa)|Resource|2.0 kg|
 |[Strawberry](/docs/definitions/resource/strawberry)|Resource|0.5 kg|
-|[Sugarcane Juice](/docs/definitions/resource/sugarcane-juice)|Resource|0.5 kg|
+|[sugarcane juice](/docs/definitions/resource/sugarcane-juice)|Resource|0.5 kg|
 
 ## Outcomes
 
@@ -38,7 +38,7 @@ Make protein bars using puffed quinoa/rice/wheat, honey/sugarcane juice, nuts an
 
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 
 

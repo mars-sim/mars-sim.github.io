@@ -21,14 +21,18 @@ No Description
 
 - [Make sodium hypochlorite for bleaching and sanitation](/docs/definitions/process/make-sodium-hypochlorite-for-bleaching-and-sanitation)
 - [Make sodium hypochlorite for bleaching and sanitation (large batch)](/docs/definitions/process/make-sodium-hypochlorite-for-bleaching-and-sanitation--large-batch-)
+- [Electrolyze Hydrogen fluoride](/docs/definitions/process/electrolyze-hydrogen-fluoride)
 - [Do potassium chloride electrolysis](/docs/definitions/process/do-potassium-chloride-electrolysis)
 
 ## Used by Manufacturing Process
 
 - [Make hydrogen peroxide](/docs/definitions/process/make-hydrogen-peroxide)
-- [Make crop fertilizers with hydrogen](/docs/definitions/process/make-crop-fertilizers-with-hydrogen)
 - [Do hydrogen iron reduction](/docs/definitions/process/do-hydrogen-iron-reduction)
 - [Produce Terephthalic Acid](/docs/definitions/process/produce-terephthalic-acid)
+- [Make Nylon](/docs/definitions/process/make-nylon)
+- [Make Kevlar](/docs/definitions/process/make-kevlar)
+- [Make polarizer film](/docs/definitions/process/make-polarizer-film)
+- [Make liquid crystal](/docs/definitions/process/make-liquid-crystal)
 - [Produce bisphenol-a](/docs/definitions/process/produce-bisphenol-a)
 - [Make Silicone Elastomer](/docs/definitions/process/make-silicone-elastomer)
 
@@ -36,6 +40,6 @@ No Description
     
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 

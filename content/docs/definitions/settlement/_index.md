@@ -28,6 +28,11 @@ Blue Origin
 - [Phase 0-BO](../settlement/phase-0-bo)
 - [Phase 2-BO](../settlement/phase-2-bo)
 
+### CNES {#A-cnes}
+National Centre for Space Studies
+
+- [Phase 2-FR](../settlement/phase-2-fr)
+
 ### CNSA {#A-cnsa}
 China National Space Administration
 
@@ -44,6 +49,11 @@ Deutsches Zentrum für Luft- und Raumfahrt
 European Space Agency
 
 - [Phase 2-EU](../settlement/phase-2-eu)
+
+### HSO {#A-hso}
+Hungarian Space Research Office
+
+- [Phase 2-HU](../settlement/phase-2-hu)
 
 ### ISRA {#A-isra}
 International Space Research Alliance
@@ -71,14 +81,17 @@ Korea Aerospace Administration
 ### MS {#A-ms}
 Mars Society
 
-- [Alpha Base 2](../settlement/alpha-base-2)
-- [Hub Base](../settlement/hub-base)
+- [Alpha Base 3](../settlement/alpha-base-3)
+- [Hub Base 1](../settlement/hub-base-1)
+- [Hub Base 2](../settlement/hub-base-2)
 - [Mining Outpost](../settlement/mining-outpost)
 - [Phase 0-MS](../settlement/phase-0-ms)
 - [Phase 1-MS](../settlement/phase-1-ms)
 - [Phase 2-MS](../settlement/phase-2-ms)
 - [Phase 3-MS](../settlement/phase-3-ms)
 - [Sector Base 1](../settlement/sector-base-1)
+- [Sector Base 2](../settlement/sector-base-2)
+- [Sector Base 3](../settlement/sector-base-3)
 - [Trading Outpost](../settlement/trading-outpost)
 
 ### NASA {#A-nasa}
@@ -101,6 +114,7 @@ Roscosmos
 ### SPACEX {#A-spacex}
 Space Exploration Technologies Corporation
 
+- [Alpha Base 2](../settlement/alpha-base-2)
 - [Phase 1-SX](../settlement/phase-1-sx)
 - [Phase 3-SX](../settlement/phase-3-sx)
 
@@ -126,5 +140,5 @@ United Kingdom Space Agency
 
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 

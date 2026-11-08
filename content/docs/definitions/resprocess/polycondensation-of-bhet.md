@@ -12,13 +12,13 @@ hide_summary: true
 |--------:|:------|
 |Process Time:|200 millisols|
 |Work Time:|10 millisols|
-|Power Required:|0.05 kW/hr|
+|Power Required:| kW/hr|
 |Start On:|false|
 
 ## Inputs
 | Name      | Input Rate (kg/sol) | Minimum kg | Ambient |
 |--------:|:------|-----:|:----|
-|[Bis(2-hydroxyethyl) terephthalate](/docs/definitions/resource/bis-2-hydroxyethyl--terephthalate)|210.0|0.011|false|
+|[Bis(2-hydroxyethyl) terephthalate](/docs/definitions/resource/bis-2-hydroxyethyl--terephthalate)|210.0|0.0105|false|
 
 Ambient inputs are consumed from the environment.
 
@@ -31,7 +31,7 @@ Ambient inputs are consumed from the environment.
 Waste outputs are released into the environment and do not need to be stored.
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 
 

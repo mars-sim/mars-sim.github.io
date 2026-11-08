@@ -23,26 +23,26 @@ hide_summary: true
 
 | Input      | Amount |
 |--------:|:------|
-|[Rice Vinegar](/docs/definitions/resource/rice-vinegar)|Resource|0.0691 kg|
-|[Soybean](/docs/definitions/resource/soybean)|Resource|1.7 kg|
-|[Water](/docs/definitions/resource/water)|Resource|18.7 kg|
 |[blender](/docs/definitions/part/blender)|Part|1|
+|[rice vinegar](/docs/definitions/resource/rice-vinegar)|Resource|0.0691 kg|
+|[soybean](/docs/definitions/resource/soybean)|Resource|1.7 kg|
 |[stove](/docs/definitions/part/stove)|Part|1|
+|[water](/docs/definitions/resource/water)|Resource|18.7 kg|
 
 ## Outcomes
 
 
 | Produce      | Amount |
 |--------:|:------|
-|[Grey Water](/docs/definitions/resource/grey-water)|3.4 kg|
 |[Okara](/docs/definitions/resource/okara)|1.87 kg|
 |[Tofu](/docs/definitions/resource/tofu)|7.5 kg|
 |[blender](/docs/definitions/part/blender)|1|
+|[grey water](/docs/definitions/resource/grey-water)|3.4 kg|
 |[stove](/docs/definitions/part/stove)|1|
 
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 
 

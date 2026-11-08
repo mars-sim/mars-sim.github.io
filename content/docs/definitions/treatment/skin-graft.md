@@ -10,11 +10,12 @@ hide_summary: true
 
 | Attribute      | Value |
 |--------:|:------|
-|Medical Skill:|4|
+|Medical Skill Level:|4|
+|Medical Skill Type:|MEDICINE|
 |Facility Tech Level:|4|
 |Duration:|1000.0 millisols|
 |Self Admin:|false|
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 

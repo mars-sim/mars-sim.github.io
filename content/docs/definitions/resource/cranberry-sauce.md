@@ -23,10 +23,15 @@ Sauce or relish made from Cranberries
 ## Made by Food Process
 
 - [Make Cranberry Sauce from Cranberry](/docs/definitions/food/make-cranberry-sauce-from-cranberry)
+- [Make Cranberry Sauce from Cranberry with spirulina](/docs/definitions/food/make-cranberry-sauce-from-cranberry-with-spirulina)
 
     
+## Used by Food Process
+
+- [Make Cranberry Juice from Cranberry](/docs/definitions/food/make-cranberry-juice-from-cranberry)
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 

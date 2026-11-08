@@ -13,7 +13,7 @@ no description available.
 
 | Attribute      | Value |
 |--------:|:------|
-|Mass:|0.526 kg|
+|Mass:|0.496667 kg|
 |Type:|Electrical|
 
 ## Made by Manufacturing Process
@@ -22,7 +22,6 @@ no description available.
 
 ## Used by Manufacturing Process
 
-- [Assemble a RepairBot](/docs/definitions/process/assemble-a-repairbot)
 - [Manufacture turbine generator](/docs/definitions/process/manufacture-turbine-generator)
 - [Manufacture Gearbox](/docs/definitions/process/manufacture-gearbox)
 - [Manufacture Actuator](/docs/definitions/process/manufacture-actuator)
@@ -35,12 +34,13 @@ no description available.
 - [Make copper power cable](/docs/definitions/process/make-copper-power-cable)
 - [Make copper wire connector](/docs/definitions/process/make-copper-wire-connector)
 - [Make heating element](/docs/definitions/process/make-heating-element)
-- [Make flood light](/docs/definitions/process/make-flood-light)
+- [Make floodlight](/docs/definitions/process/make-floodlight)
 - [Manufacture transformer](/docs/definitions/process/manufacture-transformer)
+- [Assemble repairBot](/docs/definitions/process/assemble-repairbot)
 
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 
 

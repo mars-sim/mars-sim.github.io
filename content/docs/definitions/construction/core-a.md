@@ -24,10 +24,10 @@ hide_summary: true
 |[Cement](/docs/definitions/resource/cement)|Resource|108.0 kg|
 |[Concrete](/docs/definitions/resource/concrete)|Resource|82.0 kg|
 |[Electrical wire](/docs/definitions/part/electrical-wire)|Part|12|
+|[Gas tubing](/docs/definitions/part/gas-tubing)|Part|3|
 |[Gasket](/docs/definitions/part/gasket)|Part|5|
 |[Plastic bottle](/docs/definitions/part/plastic-bottle)|Part|25|
 |[Plastic pipe](/docs/definitions/part/plastic-pipe)|Part|4|
-|[Plastic tubing](/docs/definitions/part/plastic-tubing)|Part|3|
 |[Power cable](/docs/definitions/part/power-cable)|Part|2|
 |[Steel pipe](/docs/definitions/part/steel-pipe)|Part|3|
 |[Valve](/docs/definitions/part/valve)|Part|5|
@@ -37,5 +37,5 @@ hide_summary: true
 
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 

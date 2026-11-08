@@ -17,15 +17,26 @@ hide_summary: true
 |Type:|Utility|
 |Form:|Solid|
  
+## Made by Manufacturing Process
+
+- [Make Kevlar](/docs/definitions/process/make-kevlar)
 
 ## Used by Manufacturing Process
 
 - [Make Liquid Cooling Garment with Kevlar](/docs/definitions/process/make-liquid-cooling-garment-with-kevlar)
+- [Make EVA helmet with Kevlar](/docs/definitions/process/make-eva-helmet-with-kevlar)
+- [Make coverall with Kevlar](/docs/definitions/process/make-coverall-with-kevlar)
+- [Manufacture large methane fuel tank](/docs/definitions/process/manufacture-large-methane-fuel-tank)
+- [Manufacture medium methane fuel tank](/docs/definitions/process/manufacture-medium-methane-fuel-tank)
+- [Manufacture small methane fuel tank](/docs/definitions/process/manufacture-small-methane-fuel-tank)
+- [Manufacture large methanol fuel tank](/docs/definitions/process/manufacture-large-methanol-fuel-tank)
+- [Manufacture medium methanol fuel tank](/docs/definitions/process/manufacture-medium-methanol-fuel-tank)
+- [Manufacture small methanol fuel tank](/docs/definitions/process/manufacture-small-methanol-fuel-tank)
 
 
     
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 

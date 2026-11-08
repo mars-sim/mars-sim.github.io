@@ -13,7 +13,7 @@ no description available.
 
 | Attribute      | Value |
 |--------:|:------|
-|Mass:|0.1 kg|
+|Mass:|0.2 kg|
 |Type:|Electronic|
 
 ## Made by Manufacturing Process
@@ -22,14 +22,15 @@ no description available.
 
 ## Used by Manufacturing Process
 
-- [Assemble Cargo Drone](/docs/definitions/process/assemble-cargo-drone)
-- [Assemble Delivery Drone](/docs/definitions/process/assemble-delivery-drone)
 - [Manufacture carbon dioxide laser](/docs/definitions/process/manufacture-carbon-dioxide-laser)
 - [Manufacture helium neon laser](/docs/definitions/process/manufacture-helium-neon-laser)
+- [Assemble Passenger Drone](/docs/definitions/process/assemble-passenger-drone)
+- [Assemble Cargo Drone](/docs/definitions/process/assemble-cargo-drone)
+- [Assemble Delivery Drone](/docs/definitions/process/assemble-delivery-drone)
 
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 
 

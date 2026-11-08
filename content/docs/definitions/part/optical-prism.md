@@ -13,9 +13,12 @@ no description available.
 
 | Attribute      | Value |
 |--------:|:------|
-|Mass:|0.1 kg|
+|Mass:|0.3 kg|
 |Type:|Electronic|
 
+## Made by Manufacturing Process
+
+- [Manufacture optical prism](/docs/definitions/process/manufacture-optical-prism)
 
 ## Used by Manufacturing Process
 
@@ -24,7 +27,7 @@ no description available.
 
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 
 

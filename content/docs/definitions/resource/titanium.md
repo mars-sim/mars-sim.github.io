@@ -31,11 +31,17 @@ An element.
 - [Manufacture drone chassis panel with Polycarbonate resin](/docs/definitions/process/manufacture-drone-chassis-panel-with-polycarbonate-resin)
 - [Manufacture propeller](/docs/definitions/process/manufacture-propeller)
 - [Manufacture propeller with Polyester resin](/docs/definitions/process/manufacture-propeller-with-polyester-resin)
+- [Manufacture resistor](/docs/definitions/process/manufacture-resistor)
+- [Manufacture resistor with Aluminum oxide](/docs/definitions/process/manufacture-resistor-with-aluminum-oxide)
+- [Manufacture capacitor](/docs/definitions/process/manufacture-capacitor)
+- [Manufacture capacitor with Aluminum oxide](/docs/definitions/process/manufacture-capacitor-with-aluminum-oxide)
+- [Manufacture diode](/docs/definitions/process/manufacture-diode)
+- [Manufacture diode with Aluminum oxide](/docs/definitions/process/manufacture-diode-with-aluminum-oxide)
 
 
     
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 

@@ -13,7 +13,7 @@ hide_summary: true
 |--------:|:------|
 |Type:|Manufacture|
 |Skill Level:|1|
-|Tech Level:|3|
+|Tech Level:|1|
 |Process Time:|300.0 millisols|
 |Tooling:|3D Printer|
 |Work Level:|20.0 millisols|
@@ -23,7 +23,7 @@ hide_summary: true
 
 | Input      | Amount |
 |--------:|:------|
-|[Polyester Resin](/docs/definitions/resource/polyester-resin)|Resource|1.0 kg|
+|[Polyester resin](/docs/definitions/resource/polyester-resin)|Resource|1.0 kg|
 
 ## Products
 
@@ -34,7 +34,7 @@ hide_summary: true
 
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 
 

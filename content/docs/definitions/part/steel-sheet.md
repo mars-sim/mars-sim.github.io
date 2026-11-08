@@ -14,7 +14,7 @@ A density of 7.8 g/cm3. 1m x 1m x 1mm sheet of steel
 | Attribute      | Value |
 |--------:|:------|
 |Mass:|7.8 kg|
-|Type:|Metallic|
+|Type:|Construction|
 
 ## Made by Manufacturing Process
 
@@ -33,9 +33,13 @@ A density of 7.8 g/cm3. 1m x 1m x 1mm sheet of steel
 - [Manufacture 5 kW Motor](/docs/definitions/process/manufacture-5-kw-motor)
 - [Manufacture 10 kW Motor](/docs/definitions/process/manufacture-10-kw-motor)
 - [Manufacture 30 kW Motor](/docs/definitions/process/manufacture-30-kw-motor)
-- [Manufacture fuel tank](/docs/definitions/process/manufacture-fuel-tank)
+- [Manufacture large methane fuel tank](/docs/definitions/process/manufacture-large-methane-fuel-tank)
+- [Manufacture medium methane fuel tank](/docs/definitions/process/manufacture-medium-methane-fuel-tank)
+- [Manufacture small methane fuel tank](/docs/definitions/process/manufacture-small-methane-fuel-tank)
+- [Manufacture large methanol fuel tank](/docs/definitions/process/manufacture-large-methanol-fuel-tank)
+- [Manufacture medium methanol fuel tank](/docs/definitions/process/manufacture-medium-methanol-fuel-tank)
+- [Manufacture small methanol fuel tank](/docs/definitions/process/manufacture-small-methanol-fuel-tank)
 - [Manufacture gas tank](/docs/definitions/process/manufacture-gas-tank)
-- [Manufacture water tank](/docs/definitions/process/manufacture-water-tank)
 - [Make fuel pump](/docs/definitions/process/make-fuel-pump)
 - [Make oxygen pump](/docs/definitions/process/make-oxygen-pump)
 - [Make carbon dioxide pump](/docs/definitions/process/make-carbon-dioxide-pump)
@@ -44,7 +48,6 @@ A density of 7.8 g/cm3. 1m x 1m x 1mm sheet of steel
 - [Manufacture bulldozer blade](/docs/definitions/process/manufacture-bulldozer-blade)
 - [Manufacture crane boom](/docs/definitions/process/manufacture-crane-boom)
 - [Manufacture soil compactor](/docs/definitions/process/manufacture-soil-compactor)
-- [Fabricate solar parabolic mirror](/docs/definitions/process/fabricate-solar-parabolic-mirror)
 - [Manufacture bore drill pipe](/docs/definitions/process/manufacture-bore-drill-pipe)
 - [Assemble drilling rig](/docs/definitions/process/assemble-drilling-rig)
 - [Make large water pump](/docs/definitions/process/make-large-water-pump)
@@ -63,16 +66,18 @@ A density of 7.8 g/cm3. 1m x 1m x 1mm sheet of steel
 - [Manufacture transformer](/docs/definitions/process/manufacture-transformer)
 - [Manufacture electrostatic precipitator](/docs/definitions/process/manufacture-electrostatic-precipitator)
 - [Make methane fuel cell stack](/docs/definitions/process/make-methane-fuel-cell-stack)
-- [Make methanol fuel cell stack](/docs/definitions/process/make-methanol-fuel-cell-stack)
+- [Make large methanol fuel cell stack](/docs/definitions/process/make-large-methanol-fuel-cell-stack)
+- [Make medium methanol fuel cell stack](/docs/definitions/process/make-medium-methanol-fuel-cell-stack)
 - [Manufacture turbopump](/docs/definitions/process/manufacture-turbopump)
+- [Manufacture mud pump](/docs/definitions/process/manufacture-mud-pump)
 - [Manufacture plasma cutter](/docs/definitions/process/manufacture-plasma-cutter)
 - [Manufacture plasma cutter with Aluminum oxide](/docs/definitions/process/manufacture-plasma-cutter-with-aluminum-oxide)
-- [Make Power Panel](/docs/definitions/process/make-power-panel)
-- [Make Power Panel with Styrene](/docs/definitions/process/make-power-panel-with-styrene)
+- [Make Power panel](/docs/definitions/process/make-power-panel)
+- [Make Power panel with Styrene](/docs/definitions/process/make-power-panel-with-styrene)
 
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 
 

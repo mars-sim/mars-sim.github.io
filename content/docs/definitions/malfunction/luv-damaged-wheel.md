@@ -26,13 +26,13 @@ hide_summary: true
 ### Parts
 |Part|Number|Default Probability|
 |---|---|---|
+|[Gas tubing](/docs/definitions/part/gas-tubing)|2|10.0|
 |[Heat pipe](/docs/definitions/part/heat-pipe)|1|5.0|
 |[Plastic bottle](/docs/definitions/part/plastic-bottle)|1|10.0|
-|[Plastic tubing](/docs/definitions/part/plastic-tubing)|2|10.0|
 |[Steel wire](/docs/definitions/part/steel-wire)|1|20.0|
 |[Valve](/docs/definitions/part/valve)|1|10.0|
 |[Wheel small](/docs/definitions/part/wheel-small)|1|20.0|
-|[Work gloves](/docs/definitions/part/work-gloves)|1|10.0|
+|[Work glove](/docs/definitions/part/work-glove)|1|10.0|
 
 ## Impacts
 
@@ -45,5 +45,5 @@ hide_summary: true
 |---|---|
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 

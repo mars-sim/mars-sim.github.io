@@ -15,7 +15,7 @@ hide_summary: true
 |Skill Level:|2|
 |Tech Level:|3|
 |Process Time:|50.0 millisols|
-|Tooling:|Soldering|
+|Tooling:|Fabrication|
 |Work Level:|400.0 millisols|
 |Power Required:|3.0 kW/hr|
 
@@ -24,12 +24,14 @@ hide_summary: true
 | Input      | Amount |
 |--------:|:------|
 |[Aluminum](/docs/definitions/resource/aluminum)|Resource|0.1 kg|
+|[Fiberglass-epoxy composite](/docs/definitions/resource/fiberglass-epoxy-composite)|Resource|1.0 kg|
+|[Memory module](/docs/definitions/part/memory-module)|Part|4|
 |[capacitor](/docs/definitions/part/capacitor)|Part|20|
-|[copper](/docs/definitions/resource/copper)|Resource|0.2 kg|
+|[copper](/docs/definitions/resource/copper)|Resource|0.1 kg|
 |[diode](/docs/definitions/part/diode)|Part|10|
-|[iron powder](/docs/definitions/resource/iron-powder)|Resource|0.2 kg|
-|[magnesium](/docs/definitions/resource/magnesium)|Resource|0.4 kg|
-|[plastic sheet](/docs/definitions/part/plastic-sheet)|Part|1|
+|[epoxy resin](/docs/definitions/resource/epoxy-resin)|Resource|0.1 kg|
+|[iron powder](/docs/definitions/resource/iron-powder)|Resource|0.1 kg|
+|[magnesium](/docs/definitions/resource/magnesium)|Resource|0.1 kg|
 |[resistor](/docs/definitions/part/resistor)|Part|40|
 |[semiconductor wafer](/docs/definitions/part/semiconductor-wafer)|Part|1|
 
@@ -42,7 +44,7 @@ hide_summary: true
 
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 
 

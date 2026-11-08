@@ -18,10 +18,10 @@ The Cargo Drone is an unmanned aerial vehicle used for transport of cargo betwee
 |Base Speed:|40.0 kmph|
 |Crew Size:|0|
 |Cargo Capacity:|1500.0 kg|
-|Empty Mass:|171.43000000000004 kg|
+|Empty Mass:|714.03 kg|
 |Width:|1.75|
 |Length:|1.75|
-|Base Range:|3114.63 km|
+|Base Range:|10048.3 km|
 |Fuel Efficiency:|0.95|
 |Attachment Slots:|0|
 
@@ -32,10 +32,10 @@ Total storage: 1500.0 kg
 
 | Resource      | Amount |
 |--------:|:------|
-|[Methane](/docs/definitions/resource/methane)|300.0|
 |[Water](/docs/definitions/resource/water)|600.0|
 |[Oxygen](/docs/definitions/resource/oxygen)|300.0|
+|[Methane](/docs/definitions/resource/methane)|300.0|
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 

@@ -12,26 +12,26 @@ hide_summary: true
 |--------:|:------|
 |Process Time:|200 millisols|
 |Work Time:|10 millisols|
-|Power Required:|0.625 kW/hr|
+|Power Required:| kW/hr|
 |Start On:|true|
 
 ## Inputs
 | Name      | Input Rate (kg/sol) | Minimum kg | Ambient |
 |--------:|:------|-----:|:----|
-|[Water](/docs/definitions/resource/water)|360.0|0.018|false|
+|[Water](/docs/definitions/resource/water)|288.0|0.0144|false|
 
 Ambient inputs are consumed from the environment.
 
 ## Outputs
 | Name      | Output Rate (kg/sol) | Waste Output |
 |--------:|:------|-----:|:----|
-|[Oxygen](/docs/definitions/resource/oxygen)|320.0|false|
-|[Hydrogen](/docs/definitions/resource/hydrogen)|40.0|false|
+|[Oxygen](/docs/definitions/resource/oxygen)|256.0|false|
+|[Hydrogen](/docs/definitions/resource/hydrogen)|32.0|false|
 
 Waste outputs are released into the environment and do not need to be stored.
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 
 

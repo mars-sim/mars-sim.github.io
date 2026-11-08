@@ -26,7 +26,7 @@ Wheat Kernels are&#10;&#9;&#9;seeds harvested from wheat crop. The kernel is the
 
 - [Make Granola Bar with Wheat](/docs/definitions/food/make-granola-bar-with-wheat)
 - [Make Okara Protein Bar with Wheat](/docs/definitions/food/make-okara-protein-bar-with-wheat)
-- [Process Wheat into Wheat Flour](/docs/definitions/food/process-wheat-into-wheat-flour)
+- [Process Wheat into Wheat flour](/docs/definitions/food/process-wheat-into-wheat-flour)
 - [Make Veggie Patty from Veg, Tofu and Spice](/docs/definitions/food/make-veggie-patty-from-veg--tofu-and-spice)
 - [Make Veggie Patty from Veg, Tempeh and Spice](/docs/definitions/food/make-veggie-patty-from-veg--tempeh-and-spice)
 - [Make Veggie Patty from Veg, Okara and Spice](/docs/definitions/food/make-veggie-patty-from-veg--okara-and-spice)
@@ -34,6 +34,6 @@ Wheat Kernels are&#10;&#9;&#9;seeds harvested from wheat crop. The kernel is the
 
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 

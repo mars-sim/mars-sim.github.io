@@ -23,6 +23,7 @@ hide_summary: true
 
 | Input      | Amount |
 |--------:|:------|
+|[aluminum](/docs/definitions/resource/aluminum)|Resource|0.88 kg|
 |[aluminum ingot](/docs/definitions/part/aluminum-ingot)|Part|2|
 
 ## Products
@@ -30,12 +31,11 @@ hide_summary: true
 
 | Produce      | Amount |
 |--------:|:------|
-|[aluminum oxide](/docs/definitions/resource/aluminum-oxide)|1.84 kg|
-|[aluminum sheet](/docs/definitions/part/aluminum-sheet)|3|
+|[aluminum sheet](/docs/definitions/part/aluminum-sheet)|4|
 
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 
 

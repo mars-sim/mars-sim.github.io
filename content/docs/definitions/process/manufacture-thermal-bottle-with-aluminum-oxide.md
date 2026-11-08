@@ -15,7 +15,7 @@ hide_summary: true
 |Skill Level:|1|
 |Tech Level:|1|
 |Process Time:|20.0 millisols|
-|Tooling:|Metalwork|
+|Tooling:|3D Printer|
 |Work Level:|20.0 millisols|
 |Power Required:|0.2 kW/hr|
 
@@ -23,8 +23,9 @@ hide_summary: true
 
 | Input      | Amount |
 |--------:|:------|
-|[Aluminum oxide](/docs/definitions/resource/aluminum-oxide)|Resource|1.6 kg|
-|[plastic sheet](/docs/definitions/part/plastic-sheet)|Part|2|
+|[Aluminum oxide](/docs/definitions/resource/aluminum-oxide)|Resource|1.512 kg|
+|[Polypropylene](/docs/definitions/resource/polypropylene)|Resource|0.1 kg|
+|[Silicone elastomer](/docs/definitions/resource/silicone-elastomer)|Resource|0.1 kg|
 
 ## Products
 
@@ -35,7 +36,7 @@ hide_summary: true
 
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 
 

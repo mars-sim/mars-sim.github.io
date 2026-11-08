@@ -13,7 +13,7 @@ hide_summary: true
 |--------:|:------|
 |Type:|Manufacture|
 |Skill Level:|2|
-|Tech Level:|3|
+|Tech Level:|2|
 |Process Time:|100.0 millisols|
 |Tooling:|Soldering|
 |Work Level:|200.0 millisols|
@@ -23,10 +23,10 @@ hide_summary: true
 
 | Input      | Amount |
 |--------:|:------|
+|[Steel sheet](/docs/definitions/part/steel-sheet)|Part|1|
 |[aluminum wire](/docs/definitions/part/aluminum-wire)|Part|1|
 |[electrical wire](/docs/definitions/part/electrical-wire)|Part|1|
 |[iron ingot](/docs/definitions/part/iron-ingot)|Part|3|
-|[steel sheet](/docs/definitions/part/steel-sheet)|Part|1|
 |[wire connector](/docs/definitions/part/wire-connector)|Part|10|
 
 ## Products
@@ -38,7 +38,7 @@ hide_summary: true
 
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 
 

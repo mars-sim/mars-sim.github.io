@@ -25,16 +25,29 @@ An element.
 
 - [Make crop fertilizers](/docs/definitions/process/make-crop-fertilizers)
 - [Make crop fertilizers with potash lye](/docs/definitions/process/make-crop-fertilizers-with-potash-lye)
-- [Make crop fertilizers with Ammonia](/docs/definitions/process/make-crop-fertilizers-with-ammonia)
-- [Make crop fertilizers with Rhizobia](/docs/definitions/process/make-crop-fertilizers-with-rhizobia)
+- [Make crop fertilizers with Compost](/docs/definitions/process/make-crop-fertilizers-with-compost)
+- [Make crop fertilizers with Oxygen](/docs/definitions/process/make-crop-fertilizers-with-oxygen)
 - [Make crop fertilizers with Nitrospira SPP](/docs/definitions/process/make-crop-fertilizers-with-nitrospira-spp)
 - [Make crop fertilizers with Crop Waste](/docs/definitions/process/make-crop-fertilizers-with-crop-waste)
 - [Make crop fertilizers with Nitrite](/docs/definitions/process/make-crop-fertilizers-with-nitrite)
-- [Make crop fertilizers with hydrogen](/docs/definitions/process/make-crop-fertilizers-with-hydrogen)
-- [Manufacture resistors](/docs/definitions/process/manufacture-resistors)
-- [Manufacture resistors with Aluminum oxide](/docs/definitions/process/manufacture-resistors-with-aluminum-oxide)
-- [Manufacture capacitors](/docs/definitions/process/manufacture-capacitors)
-- [Manufacture capacitors with Aluminum oxide](/docs/definitions/process/manufacture-capacitors-with-aluminum-oxide)
+- [Make crop fertilizers with Carbon](/docs/definitions/process/make-crop-fertilizers-with-carbon)
+- [Make crop fertilizers with Calcium sulfate](/docs/definitions/process/make-crop-fertilizers-with-calcium-sulfate)
+- [Make crop fertilizers with Rock samples](/docs/definitions/process/make-crop-fertilizers-with-rock-samples)
+- [Make crop fertilizers with Ammonia](/docs/definitions/process/make-crop-fertilizers-with-ammonia)
+- [Make crop fertilizers with Lime](/docs/definitions/process/make-crop-fertilizers-with-lime)
+- [Make crop fertilizers with Rhizobia](/docs/definitions/process/make-crop-fertilizers-with-rhizobia)
+- [Make crop fertilizers with Chromium](/docs/definitions/process/make-crop-fertilizers-with-chromium)
+- [Make crop fertilizers with Sandstone](/docs/definitions/process/make-crop-fertilizers-with-sandstone)
+- [Make crop fertilizers with Food](/docs/definitions/process/make-crop-fertilizers-with-food)
+- [Make crop fertilizers with Manganese](/docs/definitions/process/make-crop-fertilizers-with-manganese)
+- [Manufacture resistor](/docs/definitions/process/manufacture-resistor)
+- [Manufacture resistor with Aluminum oxide](/docs/definitions/process/manufacture-resistor-with-aluminum-oxide)
+- [Manufacture capacitor](/docs/definitions/process/manufacture-capacitor)
+- [Manufacture capacitor with Aluminum oxide](/docs/definitions/process/manufacture-capacitor-with-aluminum-oxide)
+- [Manufacture diode](/docs/definitions/process/manufacture-diode)
+- [Manufacture diode with Aluminum oxide](/docs/definitions/process/manufacture-diode-with-aluminum-oxide)
+- [Manufacture power transistor](/docs/definitions/process/manufacture-power-transistor)
+- [Manufacture power transistor with Aluminum oxide](/docs/definitions/process/manufacture-power-transistor-with-aluminum-oxide)
 
 
     
@@ -44,6 +57,6 @@ An element.
 
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 

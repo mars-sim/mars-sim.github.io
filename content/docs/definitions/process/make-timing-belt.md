@@ -13,7 +13,7 @@ hide_summary: true
 |--------:|:------|
 |Type:|Manufacture|
 |Skill Level:|2|
-|Tech Level:|4|
+|Tech Level:|2|
 |Process Time:|75.0 millisols|
 |Tooling:|3D Printer|
 |Work Level:|100.0 millisols|
@@ -35,7 +35,7 @@ hide_summary: true
 
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 
 

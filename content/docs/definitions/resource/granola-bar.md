@@ -23,14 +23,15 @@ A popular snake bar made from puffed quinoa/rice/wheat, honey/sugarcane juice, d
 ## Made by Food Process
 
 - [Make Granola Bar](/docs/definitions/food/make-granola-bar)
-- [Make Granola Bar with Sugarcane Juice](/docs/definitions/food/make-granola-bar-with-sugarcane-juice)
+- [Make Granola Bar with glucose](/docs/definitions/food/make-granola-bar-with-glucose)
+- [Make Granola Bar with sugarcane juice](/docs/definitions/food/make-granola-bar-with-sugarcane-juice)
 - [Make Granola Bar with Blueberry](/docs/definitions/food/make-granola-bar-with-blueberry)
+- [Make Granola Bar with rice](/docs/definitions/food/make-granola-bar-with-rice)
 - [Make Granola Bar with Wheat](/docs/definitions/food/make-granola-bar-with-wheat)
-- [Make Granola Bar with Rice](/docs/definitions/food/make-granola-bar-with-rice)
 
     
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 

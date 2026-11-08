@@ -25,7 +25,8 @@ hide_summary: true
 |--------:|:------|
 |[blender](/docs/definitions/part/blender)|Part|1|
 |[sesame seed](/docs/definitions/resource/sesame-seed)|Resource|0.5 kg|
-|[soymilk](/docs/definitions/resource/soymilk)|Resource|4.5 kg|
+|[soybean](/docs/definitions/resource/soybean)|Resource|0.2 kg|
+|[soymilk](/docs/definitions/resource/soymilk)|Resource|4.3 kg|
 
 ## Outcomes
 
@@ -37,7 +38,7 @@ hide_summary: true
 
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 
 

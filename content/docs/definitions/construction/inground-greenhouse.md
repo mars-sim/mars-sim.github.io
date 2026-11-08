@@ -26,9 +26,9 @@ hide_summary: true
 |[Fiberglass](/docs/definitions/part/fiberglass)|Part|5|
 |[Insulation board](/docs/definitions/part/insulation-board)|Part|5|
 |[Plastic pipe](/docs/definitions/part/plastic-pipe)|Part|5|
-|[Plastic sheet](/docs/definitions/part/plastic-sheet)|Part|10|
 |[Polyester resin](/docs/definitions/resource/polyester-resin)|Resource|5.0 kg|
 |[Polyethylene](/docs/definitions/resource/polyethylene)|Resource|10.0 kg|
+|[Polyethylene UHMW board](/docs/definitions/part/polyethylene-uhmw-board)|Part|10|
 |[Styrene](/docs/definitions/resource/styrene)|Resource|1.0 kg|
 |[Valve](/docs/definitions/part/valve)|Part|5|
 |[Wire connector](/docs/definitions/part/wire-connector)|Part|5|
@@ -36,5 +36,5 @@ hide_summary: true
 
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 

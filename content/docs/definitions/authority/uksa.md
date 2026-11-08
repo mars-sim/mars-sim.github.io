@@ -13,23 +13,23 @@ United Kingdom Space Agency
 
 | Attribute      | Value |
 |--------:|:------|
-|Purpose:|Space Accessibility|
-|Objective:|Partner with public and private actors and fund cooperative projects to allow member states to launch space missions|
-|Findings:|Meet the functional criteria of the growing demand for space access and logistic|
+|Purpose:|Space Innovation|
+|Objective:|Support inventors, companies, policymakers, space agencies and scholars in accessing space-related patent information|
+|Findings:|Identify patents mapped to over relevant concepts of innovations, along with bibliographic information|
 
 ## Goals
 
-Collect and analyze member states&#39; sustainable development goals
+Effortlessly display descriptive statistics for each innovative space concept
 
-* Contribute to initiatives in enabling developing and emerging countries to grow their space sectors
-* Level the playing level and create new sponsorship for emerging players
-* Identify social factors in developing partnership
-* Develop infrastructure, facility and service as high impact and high visibility initiative 
+* Develop cutting-edge solutions for aerospace challenges, ranging from propulsion systems to spaceflight simulations
+* Match commercial and governmental sponsors to space projects with new patent database
+* Grow engagement with private sectors to accelerate the pace of space innovation
+* Develop sustainable program initiatives for economic fusion and integration
 
 ## Countries
 
 * United Kingdom
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 

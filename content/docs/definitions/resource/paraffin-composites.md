@@ -1,6 +1,6 @@
 ---
-title: Resource - Paraffin Composites
-linkTitle: Paraffin Composites
+title: Resource - Paraffin composites
+linkTitle: Paraffin composites
 toc_hide: true
 hide_summary: true
 ---
@@ -26,14 +26,12 @@ hide_summary: true
 
 - [Make Liquid Cooling Garment](/docs/definitions/process/make-liquid-cooling-garment)
 - [Make Liquid Cooling Garment with Kevlar](/docs/definitions/process/make-liquid-cooling-garment-with-kevlar)
-- [Make Liquid Cooling Garment with Soy fiber](/docs/definitions/process/make-liquid-cooling-garment-with-soy-fiber)
-- [Make Liquid Cooling Garment with Polyester fiber](/docs/definitions/process/make-liquid-cooling-garment-with-polyester-fiber)
-- [Make Liquid Cooling Garment with Fiber cloth](/docs/definitions/process/make-liquid-cooling-garment-with-fiber-cloth)
+- [Make Liquid Cooling Garment with Polyurethane](/docs/definitions/process/make-liquid-cooling-garment-with-polyurethane)
 
 
     
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 

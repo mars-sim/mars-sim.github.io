@@ -23,31 +23,32 @@ A Veggie patty imitates a burger patty and is made of&#10;&#9;&#9;&#9;fermented 
 
 | Input      | Amount |
 |--------:|:------|
-|[Garlic](/docs/definitions/resource/garlic)|Resource|0.025 kg|
-|[Quinoa](/docs/definitions/resource/quinoa)|Resource|1.75 kg|
+|[Quinoa](/docs/definitions/resource/quinoa)|Resource|1.25 kg|
+|[Quinoa](/docs/definitions/resource/quinoa)|Resource|0.5 kg|
 |[Rhizopus oligosporus](/docs/definitions/resource/rhizopus-oligosporus)|Resource|0.008 kg|
-|[Rice Vinegar](/docs/definitions/resource/rice-vinegar)|Resource|0.236 kg|
-|[Soy Sauce](/docs/definitions/resource/soy-sauce)|Resource|0.035 kg|
-|[Sugarcane Juice](/docs/definitions/resource/sugarcane-juice)|Resource|0.035 kg|
-|[Water](/docs/definitions/resource/water)|Resource|6.125 kg|
 |[autoclave](/docs/definitions/part/autoclave)|Part|1|
+|[garlic](/docs/definitions/resource/garlic)|Resource|0.025 kg|
+|[glucose](/docs/definitions/resource/glucose)|Resource|0.035 kg|
 |[green bell pepper](/docs/definitions/resource/green-bell-pepper)|Resource|0.03 kg|
 |[oven](/docs/definitions/part/oven)|Part|1|
+|[rice vinegar](/docs/definitions/resource/rice-vinegar)|Resource|0.236 kg|
+|[soy Sauce](/docs/definitions/resource/soy-sauce)|Resource|0.035 kg|
 |[spring onion](/docs/definitions/resource/spring-onion)|Resource|0.025 kg|
+|[water](/docs/definitions/resource/water)|Resource|6.125 kg|
 
 ## Outcomes
 
 
 | Produce      | Amount |
 |--------:|:------|
-|[Grey Water](/docs/definitions/resource/grey-water)|3.5 kg|
 |[Veggie Patty](/docs/definitions/resource/veggie-patty)|3.33 kg|
 |[autoclave](/docs/definitions/part/autoclave)|1|
+|[grey water](/docs/definitions/resource/grey-water)|3.5 kg|
 |[oven](/docs/definitions/part/oven)|1|
 
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 
 

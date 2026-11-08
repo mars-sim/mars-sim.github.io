@@ -17,9 +17,17 @@ hide_summary: true
 |Type:|Compound|
 |Form:|Solid|
  
+## Made by Manufacturing Process
+
+- [Draw optical fiberglass](/docs/definitions/process/draw-optical-fiberglass)
 
 ## Used by Manufacturing Process
 
+- [Convert to high purity silicon](/docs/definitions/process/convert-to-high-purity-silicon)
+- [Manufacture diode](/docs/definitions/process/manufacture-diode)
+- [Manufacture diode with Aluminum oxide](/docs/definitions/process/manufacture-diode-with-aluminum-oxide)
+- [Manufacture power transistor](/docs/definitions/process/manufacture-power-transistor)
+- [Manufacture power transistor with Aluminum oxide](/docs/definitions/process/manufacture-power-transistor-with-aluminum-oxide)
 - [Make aerogel tile](/docs/definitions/process/make-aerogel-tile)
 - [Make Silicone Elastomer](/docs/definitions/process/make-silicone-elastomer)
 
@@ -27,6 +35,6 @@ hide_summary: true
     
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 

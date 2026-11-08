@@ -12,31 +12,31 @@ hide_summary: true
 |--------:|:------|
 |Process Time:|200 millisols|
 |Work Time:|10 millisols|
-|Power Required:|0.01 kW/hr|
+|Power Required:| kW/hr|
 |Start On:|false|
 
 ## Inputs
 | Name      | Input Rate (kg/sol) | Minimum kg | Ambient |
 |--------:|:------|-----:|:----|
-|[Food waste](/docs/definitions/resource/food-waste)|4.0|0.0|false|
+|[Food waste](/docs/definitions/resource/food-waste)|4.0|2.0E-4|false|
 
 Ambient inputs are consumed from the environment.
 
 ## Outputs
 | Name      | Output Rate (kg/sol) | Waste Output |
 |--------:|:------|-----:|:----|
+|[Nitrogen](/docs/definitions/resource/nitrogen)|0.5|false|
+|[Compost](/docs/definitions/resource/compost)|0.5|false|
+|[Phosphorus](/docs/definitions/resource/phosphorus)|0.5|false|
 |[Carbon](/docs/definitions/resource/carbon)|1.0|false|
 |[Nitrate](/docs/definitions/resource/nitrate)|0.5|false|
 |[Nitrite](/docs/definitions/resource/nitrite)|0.5|false|
-|[Phosphorus](/docs/definitions/resource/phosphorus)|0.5|false|
-|[Nitrogen](/docs/definitions/resource/nitrogen)|0.5|false|
 |[Potassium](/docs/definitions/resource/potassium)|0.05|false|
-|[Compost](/docs/definitions/resource/compost)|0.5|false|
 
 Waste outputs are released into the environment and do not need to be stored.
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 
 

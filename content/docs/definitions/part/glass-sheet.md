@@ -13,12 +13,12 @@ no description available.
 
 | Attribute      | Value |
 |--------:|:------|
-|Mass:|27.56 kg|
+|Mass:|12.5 kg|
 |Type:|Utility|
 
 ## Made by Manufacturing Process
 
-- [Make sheet glass](/docs/definitions/process/make-sheet-glass)
+- [Make glass sheet](/docs/definitions/process/make-glass-sheet)
 
 ## Used by Manufacturing Process
 
@@ -27,12 +27,11 @@ no description available.
 - [Fabricate solar parabolic mirror](/docs/definitions/process/fabricate-solar-parabolic-mirror)
 - [Make light emitting diode kit](/docs/definitions/process/make-light-emitting-diode-kit)
 - [Manufacture carbon dioxide laser](/docs/definitions/process/manufacture-carbon-dioxide-laser)
-- [Manufacture optical lens](/docs/definitions/process/manufacture-optical-lens)
 - [Manufacture SLS 3D Printer](/docs/definitions/process/manufacture-sls-3d-printer)
 
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 
 

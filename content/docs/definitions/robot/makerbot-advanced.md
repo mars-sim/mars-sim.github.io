@@ -1,6 +1,6 @@
 ---
-title: Robot - MakerBot Advanced
-linkTitle: MakerBot Advanced
+title: Robot - MakerBot-Advanced
+linkTitle: MakerBot-Advanced
 toc_hide: true
 hide_summary: true
 ---
@@ -17,7 +17,7 @@ A manufacturing robot that aids resource production.
 |Type:|MakerBot|
 |Model:|Advanced|
 |Carry Capacity:|15.0 kg|
-|Mass:|100 kg|
+|Mass:|60.378 kg|
 |Height:|150 cm|
 |Power Consumption:|0.4 kWH|
 |Power Consumption (standby):|0.1 kWH|
@@ -40,5 +40,5 @@ A manufacturing robot that aids resource production.
 |Teaching|30|
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 

@@ -23,21 +23,21 @@ Derive Sugar from Sugarcane. The juice is obtained by&#10;&#9;&#9;crushing peele
 
 | Input      | Amount |
 |--------:|:------|
-|[Sugarcane](/docs/definitions/resource/sugarcane)|Resource|10.0 kg|
-|[Water](/docs/definitions/resource/water)|Resource|1.0 kg|
+|[sugarcane](/docs/definitions/resource/sugarcane)|Resource|10.0 kg|
+|[water](/docs/definitions/resource/water)|Resource|1.0 kg|
 
 ## Outcomes
 
 
 | Produce      | Amount |
 |--------:|:------|
-|[Cane Fiber](/docs/definitions/resource/cane-fiber)|1.6 kg|
-|[Sugar](/docs/definitions/resource/sugar)|1.6 kg|
-|[Sugarcane Juice](/docs/definitions/resource/sugarcane-juice)|7.3 kg|
+|[cane fiber](/docs/definitions/resource/cane-fiber)|1.6 kg|
+|[glucose](/docs/definitions/resource/glucose)|1.6 kg|
+|[sugarcane juice](/docs/definitions/resource/sugarcane-juice)|7.3 kg|
 
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 
 

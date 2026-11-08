@@ -15,37 +15,39 @@ hide_summary: true
 |--------:|:------|
 |Type:|Manufacture|
 |Skill Level:|1|
-|Tech Level:|2|
-|Process Time:|10.0 millisols|
+|Tech Level:|1|
+|Process Time:|5.0 millisols|
 |Tooling:|Chemical|
-|Work Level:|10.0 millisols|
-|Power Required:|0.1 kW/hr|
+|Work Level:|2.0 millisols|
+|Power Required:|0.01 kW/hr|
 
 ## Inputs
 
 | Input      | Amount |
 |--------:|:------|
 |[Ammonia](/docs/definitions/resource/ammonia)|Resource|0.5 kg|
-|[Compost](/docs/definitions/resource/compost)|Resource|0.5 kg|
+|[Calcium](/docs/definitions/resource/calcium)|Resource|0.02 kg|
+|[Food Waste](/docs/definitions/resource/food-waste)|Resource|1.0 kg|
+|[Magnesium](/docs/definitions/resource/magnesium)|Resource|0.02 kg|
 |[Nitrosomonas SPP](/docs/definitions/resource/nitrosomonas-spp)|Resource|0.05 kg|
-|[Phosphorus](/docs/definitions/resource/phosphorus)|Resource|0.5 kg|
+|[Phosphoric acid](/docs/definitions/resource/phosphoric-acid)|Resource|10.0 kg|
+|[Phosphorus](/docs/definitions/resource/phosphorus)|Resource|0.05 kg|
 |[Potassium](/docs/definitions/resource/potassium)|Resource|0.5 kg|
-|[calcium](/docs/definitions/resource/calcium)|Resource|0.02 kg|
-|[magnesium](/docs/definitions/resource/magnesium)|Resource|0.02 kg|
-|[methane](/docs/definitions/resource/methane)|Resource|1.0 kg|
-|[sulfur](/docs/definitions/resource/sulfur)|Resource|0.02 kg|
-|[zinc](/docs/definitions/resource/zinc)|Resource|0.02 kg|
+|[Sand](/docs/definitions/resource/sand)|Resource|0.5 kg|
+|[Soil](/docs/definitions/resource/soil)|Resource|0.59 kg|
+|[Sulfur](/docs/definitions/resource/sulfur)|Resource|0.02 kg|
+|[Zinc](/docs/definitions/resource/zinc)|Resource|0.02 kg|
 
 ## Products
 
 
 | Produce      | Amount |
 |--------:|:------|
-|[Fertilizer](/docs/definitions/resource/fertilizer)|3.0 kg|
+|[Fertilizer](/docs/definitions/resource/fertilizer)|13.27 kg|
 
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 
 

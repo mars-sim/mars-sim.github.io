@@ -1,6 +1,6 @@
 ---
-title: Resource - Silicone Elastomer
-linkTitle: Silicone Elastomer
+title: Resource - Silicone elastomer
+linkTitle: Silicone elastomer
 toc_hide: true
 hide_summary: true
 ---
@@ -23,15 +23,16 @@ hide_summary: true
 
 ## Used by Manufacturing Process
 
+- [Make gasket with Silicone elastomer](/docs/definitions/process/make-gasket-with-silicone-elastomer)
 - [Make pressure suit](/docs/definitions/process/make-pressure-suit)
 - [Make pressure suit with Polypropylene](/docs/definitions/process/make-pressure-suit-with-polypropylene)
-- [Make pressure suit with Soy fiber](/docs/definitions/process/make-pressure-suit-with-soy-fiber)
-- [Make pressure suit with Polyester fiber](/docs/definitions/process/make-pressure-suit-with-polyester-fiber)
+- [Manufacture thermal bottle](/docs/definitions/process/manufacture-thermal-bottle)
+- [Manufacture thermal bottle with Aluminum oxide](/docs/definitions/process/manufacture-thermal-bottle-with-aluminum-oxide)
 
 
     
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 

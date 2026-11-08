@@ -31,12 +31,12 @@ hide_summary: true
 
 | Produce      | Amount |
 |--------:|:------|
+|[Steel sheet](/docs/definitions/part/steel-sheet)|5|
 |[iron powder](/docs/definitions/resource/iron-powder)|1.0 kg|
-|[steel sheet](/docs/definitions/part/steel-sheet)|5|
 
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 
 

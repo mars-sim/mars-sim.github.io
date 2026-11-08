@@ -27,8 +27,8 @@ hide_summary: true
 |Part|Number|Default Probability|
 |---|---|---|
 |[Electrical wire](/docs/definitions/part/electrical-wire)|2|40.0|
+|[Gas tubing](/docs/definitions/part/gas-tubing)|2|15.0|
 |[Heat pipe](/docs/definitions/part/heat-pipe)|1|10.0|
-|[Plastic tubing](/docs/definitions/part/plastic-tubing)|2|15.0|
 |[Suit heating unit](/docs/definitions/part/suit-heating-unit)|1|5.0|
 |[Wire connector](/docs/definitions/part/wire-connector)|2|30.0|
 
@@ -44,5 +44,5 @@ hide_summary: true
 |Temperature|-0.1|
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 

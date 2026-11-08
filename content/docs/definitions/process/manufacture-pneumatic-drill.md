@@ -23,13 +23,13 @@ hide_summary: true
 
 | Input      | Amount |
 |--------:|:------|
+|[Gas tubing](/docs/definitions/part/gas-tubing)|Part|5|
+|[Steel sheet](/docs/definitions/part/steel-sheet)|Part|1|
 |[calcium](/docs/definitions/resource/calcium)|Resource|1.0 kg|
 |[electrical wire](/docs/definitions/part/electrical-wire)|Part|2|
 |[gasket](/docs/definitions/part/gasket)|Part|5|
 |[oxygen pump](/docs/definitions/part/oxygen-pump)|Part|1|
-|[plastic tubing](/docs/definitions/part/plastic-tubing)|Part|5|
 |[steel ingot](/docs/definitions/part/steel-ingot)|Part|1|
-|[steel sheet](/docs/definitions/part/steel-sheet)|Part|1|
 |[valve](/docs/definitions/part/valve)|Part|5|
 |[wire connector](/docs/definitions/part/wire-connector)|Part|2|
 
@@ -42,7 +42,7 @@ hide_summary: true
 
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 
 

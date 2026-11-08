@@ -13,7 +13,7 @@ hide_summary: true
 |--------:|:------|
 |Type:|Manufacture|
 |Skill Level:|3|
-|Tech Level:|3|
+|Tech Level:|4|
 |Process Time:|750.0 millisols|
 |Tooling:|Lifting|
 |Work Level:|750.0 millisols|
@@ -24,7 +24,10 @@ hide_summary: true
 | Input      | Amount |
 |--------:|:------|
 |[CMOS sensor](/docs/definitions/part/cmos-sensor)|Part|8|
-|[Motor 10 kW](/docs/definitions/part/motor-10-kw)|Part|4|
+|[Gas tubing](/docs/definitions/part/gas-tubing)|Part|2|
+|[Motor 5 kW](/docs/definitions/part/motor-5-kw)|Part|4|
+|[Optical lens](/docs/definitions/part/optical-lens)|Part|2|
+|[Oxygen pump](/docs/definitions/part/oxygen-pump)|Part|1|
 |[acetylene](/docs/definitions/resource/acetylene)|Resource|2.0 kg|
 |[aluminum sheet](/docs/definitions/part/aluminum-sheet)|Part|2|
 |[battery module](/docs/definitions/part/battery-module)|Part|1|
@@ -32,14 +35,12 @@ hide_summary: true
 |[drone chassis panel](/docs/definitions/part/drone-chassis-panel)|Part|2|
 |[electrical wire](/docs/definitions/part/electrical-wire)|Part|10|
 |[fuel pump](/docs/definitions/part/fuel-pump)|Part|1|
-|[fuel tank](/docs/definitions/part/fuel-tank)|Part|1|
+|[fuel tank large methane](/docs/definitions/part/fuel-tank-large-methane)|Part|1|
 |[gas tank](/docs/definitions/part/gas-tank)|Part|1|
-|[methanol fuel cell stack](/docs/definitions/part/methanol-fuel-cell-stack)|Part|1|
+|[methane fuel cell stack](/docs/definitions/part/methane-fuel-cell-stack)|Part|2|
 |[navigation circuit board](/docs/definitions/part/navigation-circuit-board)|Part|1|
 |[optical cable](/docs/definitions/part/optical-cable)|Part|2|
-|[optical lens](/docs/definitions/part/optical-lens)|Part|2|
 |[plastic pipe](/docs/definitions/part/plastic-pipe)|Part|1|
-|[plastic tubing](/docs/definitions/part/plastic-tubing)|Part|2|
 |[propeller](/docs/definitions/part/propeller)|Part|4|
 |[radio antenna](/docs/definitions/part/radio-antenna)|Part|1|
 |[vehicle frame small](/docs/definitions/part/vehicle-frame-small)|Part|1|
@@ -55,7 +56,7 @@ hide_summary: true
 
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 
 

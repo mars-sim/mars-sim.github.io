@@ -35,28 +35,28 @@ hide_summary: true
 |[Condenser coil](/docs/definitions/part/condenser-coil)|Part|1|
 |[Coolant bottle](/docs/definitions/part/coolant-bottle)|Part|18|
 |[Copper pipe](/docs/definitions/part/copper-pipe)|Part|12|
-|[Coveralls](/docs/definitions/part/coveralls)|Part|16|
+|[Coverall](/docs/definitions/part/coverall)|Part|16|
 |[Crane boom](/docs/definitions/part/crane-boom)|Part|2|
 |[Decontamination kit](/docs/definitions/part/decontamination-kit)|Part|2|
 |[Drilling rig](/docs/definitions/part/drilling-rig)|Part|1|
 |[EVA antenna](/docs/definitions/part/eva-antenna)|Part|32|
 |[EVA backpack](/docs/definitions/part/eva-backpack)|Part|8|
 |[EVA battery](/docs/definitions/part/eva-battery)|Part|16|
-|[EVA boots](/docs/definitions/part/eva-boots)|Part|16|
-|[EVA gloves](/docs/definitions/part/eva-gloves)|Part|16|
+|[EVA boot](/docs/definitions/part/eva-boot)|Part|16|
+|[EVA glove](/docs/definitions/part/eva-glove)|Part|16|
 |[EVA helmet](/docs/definitions/part/eva-helmet)|Part|16|
-|[EVA pads](/docs/definitions/part/eva-pads)|Part|16|
+|[EVA pad](/docs/definitions/part/eva-pad)|Part|16|
 |[EVA radio](/docs/definitions/part/eva-radio)|Part|20|
 |[Electrical wire](/docs/definitions/part/electrical-wire)|Part|330|
 |[Electrostatic precipitator](/docs/definitions/part/electrostatic-precipitator)|Part|5|
 |[Fiberglass](/docs/definitions/part/fiberglass)|Part|3|
 |[Fiberglass cloth](/docs/definitions/part/fiberglass-cloth)|Part|10|
 |[Fire extinguisher](/docs/definitions/part/fire-extinguisher)|Part|26|
-|[Flexible hose](/docs/definitions/part/flexible-hose)|Part|10|
+|[Flexible water hose](/docs/definitions/part/flexible-water-hose)|Part|3|
 |[Fuel pump](/docs/definitions/part/fuel-pump)|Part|2|
-|[Fuel tank](/docs/definitions/part/fuel-tank)|Part|20|
 |[Garment](/docs/definitions/part/garment)|Part|8|
 |[Gas tank](/docs/definitions/part/gas-tank)|Part|20|
+|[Gas tubing](/docs/definitions/part/gas-tubing)|Part|10|
 |[Gasket](/docs/definitions/part/gasket)|Part|94|
 |[Heat pipe](/docs/definitions/part/heat-pipe)|Part|26|
 |[Heat pump](/docs/definitions/part/heat-pump)|Part|2|
@@ -66,12 +66,14 @@ hide_summary: true
 |[Iron pipe](/docs/definitions/part/iron-pipe)|Part|12|
 |[Light emitting diode bulb](/docs/definitions/part/light-emitting-diode-bulb)|Part|50|
 |[Light emitting diode kit](/docs/definitions/part/light-emitting-diode-kit)|Part|20|
+|[Liquid tubing](/docs/definitions/part/liquid-tubing)|Part|10|
 |[Logic board](/docs/definitions/part/logic-board)|Part|25|
 |[Lubricant bottle](/docs/definitions/part/lubricant-bottle)|Part|22|
 |[Methane fuel cell](/docs/definitions/part/methane-fuel-cell)|Part|200|
 |[Methane fuel cell stack](/docs/definitions/part/methane-fuel-cell-stack)|Part|4|
 |[Methanol fuel cell](/docs/definitions/part/methanol-fuel-cell)|Part|200|
-|[Methanol fuel cell stack](/docs/definitions/part/methanol-fuel-cell-stack)|Part|4|
+|[Methanol fuel cell stack large](/docs/definitions/part/methanol-fuel-cell-stack-large)|Part|4|
+|[Methanol fuel cell stack medium](/docs/definitions/part/methanol-fuel-cell-stack-medium)|Part|4|
 |[Microcontroller](/docs/definitions/part/microcontroller)|Part|60|
 |[Microwave](/docs/definitions/part/microwave)|Part|3|
 |[Motor 10 kW](/docs/definitions/part/motor-10-kw)|Part|4|
@@ -88,9 +90,8 @@ hide_summary: true
 |[Plasma cutter](/docs/definitions/part/plasma-cutter)|Part|2|
 |[Plastic bottle](/docs/definitions/part/plastic-bottle)|Part|180|
 |[Plastic pipe](/docs/definitions/part/plastic-pipe)|Part|18|
-|[Plastic tubing](/docs/definitions/part/plastic-tubing)|Part|60|
 |[Pneumatic drill](/docs/definitions/part/pneumatic-drill)|Part|2|
-|[Polycarbonate roofing](/docs/definitions/part/polycarbonate-roofing)|Part|10|
+|[Polycarbonate panel](/docs/definitions/part/polycarbonate-panel)|Part|10|
 |[Power cable](/docs/definitions/part/power-cable)|Part|16|
 |[Power transistor](/docs/definitions/part/power-transistor)|Part|60|
 |[Pressure suit](/docs/definitions/part/pressure-suit)|Part|16|
@@ -123,24 +124,24 @@ hide_summary: true
 |[Winch](/docs/definitions/part/winch)|Part|2|
 |[Window](/docs/definitions/part/window)|Part|4|
 |[Wire connector](/docs/definitions/part/wire-connector)|Part|216|
-|[Work gloves](/docs/definitions/part/work-gloves)|Part|16|
+|[Work glove](/docs/definitions/part/work-glove)|Part|16|
 
 ## Equipment
 
 | Name | Quantity |
 |:-----|-----:|
-|thermal bottle|8|
-|barrel|80|
-|wheelbarrow|4|
-|EVA Suit|8|
-|specimen box|80|
-|bag|80|
-|large bag|80|
-|gas canister|80|
+|eva suit|8|
+
+## Robots
+
+| Robot Spec. | Quantity |
+|:-----|-----:|
+|[RepairBot-Standard](/docs/definitions/robot/repairbot-standard)|1|
+|[MakerBot-Standard](/docs/definitions/robot/makerbot-standard)|1|
 
    
 
     
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 

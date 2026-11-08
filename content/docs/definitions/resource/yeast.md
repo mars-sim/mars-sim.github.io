@@ -23,14 +23,14 @@ hide_summary: true
     
 ## Used by Food Process
 
-- [Bake White Bread from Soy Flour](/docs/definitions/food/bake-white-bread-from-soy-flour)
-- [Bake Wheat Bun from Wheat Flour](/docs/definitions/food/bake-wheat-bun-from-wheat-flour)
-- [Bake Wheat Bread from Wheat Flour](/docs/definitions/food/bake-wheat-bread-from-wheat-flour)
+- [Bake White Bread from Soy flour](/docs/definitions/food/bake-white-bread-from-soy-flour)
+- [Bake Wheat Bun from Wheat flour](/docs/definitions/food/bake-wheat-bun-from-wheat-flour)
+- [Bake Wheat Bread from Wheat flour](/docs/definitions/food/bake-wheat-bread-from-wheat-flour)
 - [Make Rice Vinegar by Fermentation](/docs/definitions/food/make-rice-vinegar-by-fermentation)
 - [Make Pizza Dough](/docs/definitions/food/make-pizza-dough)
 
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 

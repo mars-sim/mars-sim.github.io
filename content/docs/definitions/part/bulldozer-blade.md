@@ -13,7 +13,7 @@ Attachment part for LUV. A bulldozer blade (possible use for new structures).
 
 | Attribute      | Value |
 |--------:|:------|
-|Mass:|40.0 kg|
+|Mass:|25.6 kg|
 |Type:|Attachment|
 
 ## Made by Manufacturing Process
@@ -23,7 +23,7 @@ Attachment part for LUV. A bulldozer blade (possible use for new structures).
 
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 
 

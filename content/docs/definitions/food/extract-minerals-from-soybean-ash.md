@@ -23,7 +23,7 @@ Extract minerals from Soybean Ash.
 
 | Input      | Amount |
 |--------:|:------|
-|[Soybean Ash](/docs/definitions/resource/soybean-ash)|Resource|1.0 kg|
+|[soybean ash](/docs/definitions/resource/soybean-ash)|Resource|1.0 kg|
 
 ## Outcomes
 
@@ -37,7 +37,7 @@ Extract minerals from Soybean Ash.
 
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 
 

@@ -24,6 +24,7 @@ hide_summary: true
 | Input      | Amount |
 |--------:|:------|
 |[Aluminum](/docs/definitions/resource/aluminum)|Resource|0.1 kg|
+|[Steel sheet](/docs/definitions/part/steel-sheet)|Part|1|
 |[capacitor](/docs/definitions/part/capacitor)|Part|10|
 |[copper](/docs/definitions/resource/copper)|Resource|0.2 kg|
 |[diode](/docs/definitions/part/diode)|Part|10|
@@ -31,7 +32,6 @@ hide_summary: true
 |[iron powder](/docs/definitions/resource/iron-powder)|Resource|0.2 kg|
 |[magnesium](/docs/definitions/resource/magnesium)|Resource|0.2 kg|
 |[resistor](/docs/definitions/part/resistor)|Part|10|
-|[steel sheet](/docs/definitions/part/steel-sheet)|Part|1|
 
 ## Products
 
@@ -42,7 +42,7 @@ hide_summary: true
 
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 
 

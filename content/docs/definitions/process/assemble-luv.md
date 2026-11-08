@@ -13,7 +13,7 @@ hide_summary: true
 |--------:|:------|
 |Type:|Manufacture|
 |Skill Level:|3|
-|Tech Level:|3|
+|Tech Level:|4|
 |Process Time:|500.0 millisols|
 |Tooling:|Lifting|
 |Work Level:|1000.0 millisols|
@@ -23,23 +23,24 @@ hide_summary: true
 
 | Input      | Amount |
 |--------:|:------|
+|[Aerogel tile](/docs/definitions/part/aerogel-tile)|Part|20|
 |[CMOS sensor](/docs/definitions/part/cmos-sensor)|Part|4|
+|[Gas tubing](/docs/definitions/part/gas-tubing)|Part|3|
 |[Motor 10 kW](/docs/definitions/part/motor-10-kw)|Part|2|
-|[acetylene](/docs/definitions/resource/acetylene)|Resource|1.0 kg|
-|[aerogel tile](/docs/definitions/part/aerogel-tile)|Part|20|
+|[Motor 5 kW](/docs/definitions/part/motor-5-kw)|Part|2|
+|[Oxygen pump](/docs/definitions/part/oxygen-pump)|Part|1|
+|[acetylene](/docs/definitions/resource/acetylene)|Resource|1.1 kg|
 |[aluminum sheet](/docs/definitions/part/aluminum-sheet)|Part|5|
 |[battery module](/docs/definitions/part/battery-module)|Part|1|
 |[electrical wire](/docs/definitions/part/electrical-wire)|Part|10|
 |[fuel pump](/docs/definitions/part/fuel-pump)|Part|1|
-|[fuel tank](/docs/definitions/part/fuel-tank)|Part|1|
+|[fuel tank small methane](/docs/definitions/part/fuel-tank-small-methane)|Part|1|
 |[gas tank](/docs/definitions/part/gas-tank)|Part|1|
 |[lubricant bottle](/docs/definitions/part/lubricant-bottle)|Part|1|
-|[methanol fuel cell stack](/docs/definitions/part/methanol-fuel-cell-stack)|Part|2|
+|[methane fuel cell stack](/docs/definitions/part/methane-fuel-cell-stack)|Part|2|
 |[optical cable](/docs/definitions/part/optical-cable)|Part|4|
-|[oxygen pump](/docs/definitions/part/oxygen-pump)|Part|1|
 |[plastic bottle](/docs/definitions/part/plastic-bottle)|Part|1|
 |[plastic pipe](/docs/definitions/part/plastic-pipe)|Part|2|
-|[plastic tubing](/docs/definitions/part/plastic-tubing)|Part|3|
 |[polystyrene](/docs/definitions/resource/polystyrene)|Resource|5.0 kg|
 |[radio antenna](/docs/definitions/part/radio-antenna)|Part|1|
 |[utility vehicle control panel](/docs/definitions/part/utility-vehicle-control-panel)|Part|1|
@@ -58,7 +59,7 @@ hide_summary: true
 
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 
 

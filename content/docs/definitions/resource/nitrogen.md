@@ -22,11 +22,15 @@ N2 is an odorless gas
 
 - [Make Nitrites](/docs/definitions/process/make-nitrites)
 - [Make Nitrates](/docs/definitions/process/make-nitrates)
+- [Make Nylon](/docs/definitions/process/make-nylon)
+- [Make Kevlar](/docs/definitions/process/make-kevlar)
+- [Produce polyurethane](/docs/definitions/process/produce-polyurethane)
+- [Produce polyurethane with Ethylene glycol](/docs/definitions/process/produce-polyurethane-with-ethylene-glycol)
 
 
     
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 

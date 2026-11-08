@@ -13,9 +13,9 @@ hide_summary: true
 |--------:|:------|
 |Type:|Manufacture|
 |Skill Level:|3|
-|Tech Level:|2|
+|Tech Level:|4|
 |Process Time:|200.0 millisols|
-|Tooling:|Soldering|
+|Tooling:|Fabrication|
 |Work Level:|200.0 millisols|
 |Power Required:|1.0 kW/hr|
 
@@ -25,6 +25,8 @@ hide_summary: true
 |--------:|:------|
 |[Polycarbonate resin](/docs/definitions/resource/polycarbonate-resin)|Resource|5.0 kg|
 |[Polyethylene](/docs/definitions/resource/polyethylene)|Resource|3.0 kg|
+|[Screen](/docs/definitions/part/screen)|Part|2|
+|[Steering wheel](/docs/definitions/part/steering-wheel)|Part|1|
 |[communications circuit board](/docs/definitions/part/communications-circuit-board)|Part|1|
 |[electrical wire](/docs/definitions/part/electrical-wire)|Part|4|
 |[fiberglass](/docs/definitions/part/fiberglass)|Part|5|
@@ -43,7 +45,7 @@ hide_summary: true
 
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 
 

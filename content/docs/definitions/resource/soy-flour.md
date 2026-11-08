@@ -22,17 +22,17 @@ Flour made from ground Soybean.
 
 ## Made by Food Process
 
-- [Process Soybean into Soy Flour](/docs/definitions/food/process-soybean-into-soy-flour)
+- [Process Soybeans into Soy Flour](/docs/definitions/food/process-soybeans-into-soy-flour)
 
     
 ## Used by Food Process
 
-- [Bake White Bread from Soy Flour](/docs/definitions/food/bake-white-bread-from-soy-flour)
-- [Extract Soy Protein from Soy Flour](/docs/definitions/food/extract-soy-protein-from-soy-flour)
+- [Bake White Bread from Soy flour](/docs/definitions/food/bake-white-bread-from-soy-flour)
+- [Extract Soy Protein from Soy flour](/docs/definitions/food/extract-soy-protein-from-soy-flour)
 - [Make Pizza Dough](/docs/definitions/food/make-pizza-dough)
 
 
 
-{{< definition-tail version="4.0" generatedOn="2026-04-18T21:37:42.3137878" >}}
+{{< definition-tail version="4.1" generatedOn="2026-11-08T08:43:01.4265212" >}}
 
 
