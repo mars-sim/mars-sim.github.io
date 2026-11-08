@@ -13,23 +13,7 @@ Also, all ongoing missions are tabulated at the Mission tab in the `Monitor Tool
 
 ### Mission Types
 
-The 12 types of Missions are as follows : 
-
-| Type of Missions |
-| --- |
-| Areology Study Field Mission |
-| Biology Study Field Mission |
-| Building Construction Mission |
-| Building Salvage Mission |
-| Collect Ice |
-| Collect Regolith |
-| Delivery |
-| Emergency Supply Mission |
-| Exploration |
-| Mining |
-| Rescue Salvage Vehicle |
-| Trade |
-| Travel To Settlement |
+There are numeropus Mission types support. Missions can be created automatically by a Settlement or manuall by the user via the Mission Create Wizard. The types and characterisitcs of the missions can be found in [Missions]({{% relref "/docs/definitions/mission" %}}).
 
 ### Mission Phase
 
